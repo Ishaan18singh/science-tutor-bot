@@ -1,0 +1,1414 @@
+159
+	
+As it rises in the air external pressure 
+decreases and the volume of the gas 
+increases till finally it bursts when 
+external pressure is 0.3bar. What is the 
+limit at which volume of the balloon can 
+stay inflated ?               (Ans:7.567L)
+B. 	
+A syringe has a volume of 
+10.0 cm3 at pressure 1 atm. If 
+you plug the end so that no gas 
+can escape and push the plunger 
+down, what must be the final 
+volume to change the pressure 
+to 3.5 atm?   
+ 	 	
+	
+	
+	
+ (Ans:2.9 cm3)
+C. The volume of a given mass of a gas at 
+00C is 2 dm3. Calculate the new volume 
+of the gas at constant pressure when
+a. The temperature is increased by 10­0C. 
+(Ans: 2.07 dm3) 
+	
+b.The temperature is decreased by10­0C.	
+                        (Ans:1.93 dm3)
+D. A hot air balloon has a volume of 2800 
+m3 at 990 C. What is the volume if the 
+air cools to 800 C?              
+(Ans:2657 m3)
+E.	At 00C, a gas occupies 22.4 liters. How 
+nuch hot must be the gas in celsius 
+and in kelvin to reach volume of 25.0 
+literes?     	
+	
+	
+	
+    (Ans:31.7 0C/304.9 K)
+F. A 20 L container holds 0.650 mol of 
+He gas at 370C at a pressure of 628.3 
+bar. What will be new pressure inside the 
+container if the volume is reduced to 12 
+L. The temperature is increased to 177 
+0C and 1.25 mol of additional He gas 
+was added to it?	
+	
+    (Ans:4443 bar/4385 atm)
+G. Nitrogen gas is filled in a container 
+of volume 2.32 L at 320C and 4.7 atm 
+pressure. Calculate the number of moles 
+of the gas. 	
+	
+  	
+   (Ans:0.436 moles)
+H. At 25 0C and 760 mm of Hg pressure 
+a gas occupies 600 mL volume. What 
+will be its pressure at the height where 
+temperature is 10 0C and volume of the 
+gas 640 mL ?
+	
+	
+	
+	
+(Ans : 676.6 mm Hg)
+I.	 A neon-dioxygen mixture contains 70.6 g 
+dioxygen and 167.5g neon.If pressure of 
+the mixture of the gases in the cylinder 
+is 25 bar. What is the partial pressure of 
+dioxygen and neon in the mixture?
+	
+	
+(Ans:pO2= 5.25 bar, pNe=19.75 bar)
+J.	 Calculate the pressure in atm of 1.0 
+mole of helium in a 2.0 dm3 container 
+at 20.00C. 	
+	
+	
+	
+	
+     (Ans:12.02 atm)
+K.	Calculate the volume of 1 mole of a gas 
+at exactly 20 0C at a pressure of 101.35 
+kPa.       
+(Ans: 24.055 dm3)
+L.	Calculate the number of molecules of 
+methane in 0.50 m3 of the gas at a 
+pressure of 2.0×102 kPa and a temperature 
+of exactly 300 K.          
+(Ans: 2.4×1025) 
+Activity :
+Perform different activities related to 
+concepts mentioned in chapter.
+160
+Fig 11.1 Unbalanced forces
+A 
+B - Surface molecule
+B
+A - Bulk molecule
+11.1 Introduction : When a metal spoon is 
+dipped in milk and taken out, you will notice 
+that a film of milk particles cover the spoon 
+surface. If a cold water bottle  is taken out 
+from the refrigerater and kept on a table for a 
+while, water vapour is seen to condense on the 
+outer surface of the bottle, forming droplets 
+or a film. Here the milk particles or the water 
+molecules from the air get adsorbed on the 
+surface of the spoon and the bottle. Surfaces 
+of all the objects around us are exposed to the 
+atmosphere. Water molecules as well as other 
+gas molecules such as N2, O2, from the air 
+form an invisible multi molecular film on these 
+objects. This is known as the phenomenon of 
+adsorption.
+11. Adsorption and Colloids
+11.2.2 Why does adsorption occur?
+The adsorption phenomenon is caused 
+by London dispersion forces or van der Waals 
+forces. These are short range and additive. The 
+adsorption force is the sum of all interactions 
+between all the atoms. The pulling interactions 
+cause the surface of a liquid to tighten like an 
+elastic film. A measure of the elastic force at 
+the surface of a liquid is called surface tension. 
+(Refer to Chapter 10).
+The surface tension is the amount of 
+energy required to stretch or increase the 
+surface of a liquid by a unit area. There is a 
+tendency to have minimum surface tension 
+that is, decrease of free energy, which leads to 
+adsorption. Terms involved in adsorption : 
+Adsorbent : The material or substance present 
+in the bulk, on the surface of which adsorption 
+takes place is called adsorbent.
+Adsorbate : The substance getting absorbed 
+on the the adsorbent is called as adsorbate.
+11.2.3 Examples of Absorption: You know 
+that when cotton is dipped in water, cotton 
+becomes wet with water which is due to 
+absorption.
+Some more examples of adsorption :
+i. 	 Adsorption of gases like hydrogen, oxygen, 
+by finely divided metals, namely, platinum, 
+palladium, copper, nickel, etc.
+ii. Adsorption of gases like nitrogen, 
+carbondioxide, by activated charcoal.
+iii. Removal of colouring matter like an 
+organic dye, for example methylene blue. 
+When charcoal is added to methylene blue 
+solution and shaken, it becomes colourless 
+after some time, as dye molecules 
+accumulate on the surface of charcoal.
+	
+Table 11.1 shows comparison between 
+adsorption and absorption.
+11.2.4 Desorption: The process of removal 
+of an adsorbed substance from a surface on 
+which it was adsorbed is called desorption.
+11.2. Adsorption :
+11.2.1 Unblanced forces : Consider a surface 
+of liquid or solid. The molecular forces at 
+the surface of a liquid are unbalanced or 
+in unsaturation state. In solids, the ions or 
+molecules at the surface of a crystal do not 
+have their forces satisfied by the close contact 
+with other particles. 
+Because 
+of 
+the 
+unsaturation 
+solid 
+and liquid surfaces tend to attract gases or 
+dissolved substances with which they come in 
+close contact. Thus the substance accumulates 
+on the surface of solid or liquid.
+Can you tell?
+What is adsorption ?
+161
+Try this
+Table 11.1 : Comparison between Adsorption and Absorption
+Adsorption
+Absorption
+1. Adsorbed matter is concentrated only at the 
+   surface and does not penetrate through the 
+surface to the bulk of adsorbent. Adsorption is 
+a surface phenomenon.
+Absorbed matter is uniformly distributed inside 
+as well as on the surface of the bulk of substance. 
+Absorption is a bulk phenomenon.
+2. Concentration of the adsorbate is high only at 
+the surface of the adsorbent.
+Concentration of the absorbate is uniform 
+throughout the bulk of the absorbent.
+3. It is dependent on temperature and 
+    pressure.
+It is independent of temperature and 
+ pressure.
+4. It is accompanied by evolution of heat known 
+as heat of adsorption.
+It is not accompanied by evolution or absorption of 
+heat.
+5. It depends on surface area 
+It is independent of surface area.
+6.   Example: Adsorption of  a gas or liquid like 
+acetic acid by activated charcoal
+Example : Absorption of water by cotton. Absorption 
+of ink by blotting paper.
+11.2.5 Sorption: When a chalk is dipped in ink, 
+ink molecules are adsorbed at the surface of 
+chalk and the surface becomes coloured, while 
+the solvent of the ink goes deeper into the chalk 
+due to absorption. When, both adsorption and 
+absorption occur simultaneously it is known as 
+sorption.
+11.3 Types of adsorption: There are 
+mainly two types of adsorption phenomenon 
+depending on nature of forces involved.
+11.3.1 Physical Adsorption or physisorption:
+When the adsorbent such as gas molecules 
+are accumulated at the surface of a solid on 
+account of weak van der Waals forces, the 
+adsorption is termed as physical adsorption or 
+physisorption. 
+The van der Waals forces, are similar to 
+forces causing condensation of gas into liquid. 
+Thus, heat is released in physisorption. The heat 
+released during physisorption is of the same 
+order of magnitude as heat of condensation. 
+Due to weak nature of van der Waals forces, 
+physisorption is also weak in nature. The 
+adsorbed gas forms several layers of molecules 
+at high pressures. The extent of adsorption is 
+large at low temperatures. The equilibrium is 
+attained rapidly. The physisorption is readily 
+reversed by lowering of pressure of gas or by 
+raising temperature. 
+11.3.2 
+Chemical 
+Adsorption 
+or 
+Chemisorption : Chemisorption was first 
+investigated in 1916 by American Chemist, 
+Irving Langmuir (1881-1957). When the 
+gas molecules accumulate on the surface of 
+a solid or adsorbate by means of chemical 
+bonds, be it covalent or ionic, the adsorption is 
+called chemical adsorption (or chemisorption). 
+Chemisorption 
+is 
+specific 
+in 
+nature. 
+Chemisorption involving the gas-solid as the 
+adsorbate and adsorbent, is usually exothermic. 
+It means that heat is released during this process. 
+(Exception :  the adsorption of hydrogen on 
+glass is endothermic : heat is absorbed during 
+the process. This is due to dissociation of 
+hydrogen.) The heat evolved in chemisorption 
+per mole of adsorbate is nearly the same order 
+of magnitude as that accompaning chemical 
+bonding. Chemisorption involves a large 
+energy of activation and referred as activated 
+adsorption. Chemisorption increases with 
+increase in temperature in the beginning, as 
+more number of molecules can have activation 
+energy. 
+But 
+after 
+certain 
+temperature 
+chemisoption decreases with increase in 
+temperature, as the chemical bonds break.
+Sometimes 
+at 
+low 
+temperature, 
+physisorption occurs which passes into 
+chemisorption as the temperature is raised. 
+Besides, chemisorption is dependent on surface 
+area of the adsorbent (See Table 11.2).
+Dip a chalk in ink. What do you observe ?
+162
+Table 11.2 : Comparison of physisorption and chemisorption
+Physisorption
+Chemisorption
+1. The forces operating are weak van der Waals 
+forces.
+1. The forces operating are chemical nature 
+(covalent or ionic bonds).
+2. Not specific in nature. All gases adsorb on 
+all solids. For example, all gases adsorb on 
+charcoal.
+2. Highly specific and occurs only when chemical 
+bond formation  is possible between adsorbent 
+and adsorbate. For example, adsorption of 
+oxygen on tungsten, hydrogen on nickel, etc.
+3. The heat of adsorption is low and lies in the 
+range 20 - 40 kJ mol-1
+3. Higher heat of adsorption and lies in the range 
+40 - 200 kJ mol-1
+4. Occurs at low temperature and 
+   decreases with an increase of temperature.
+  
+4. Favoured at high temperature, the extent of 
+chemical adsorption is lowered at very high 
+temperature, due to bond breaking.
+ 5. For example : at low temperature N2  gas is 
+physically adsorbed on iron.
+5. For example N2 gas chemically adsorbed on 
+iron at high temperature forms a layer of iron 
+nitride, which desorbs at very high temperature.
+6. Reversible.
+6. Irreversible.
+7. Physisorbed layer may be multimolecular layer, of 
+adsorbed particles  under high pressure.
+7. Chemisorption forms monomolecular layer of 
+adsorbed particles.
+11.4 Factors affecting adsorption of gases 
+on solids : All solids adsorb gases to some 
+extent. The extent of adsorption depends upon 
+a number of factors discussed in this section.
+1. Nature of adsorbate (gas) : The amount 
+of gas adsorbed by a solid depends on the 
+nature of the gas. Gases having high critical 
+temperature liquify easily and can readily be 
+adsorbed. (Refer to chapter 10). The gases such 
+as SO2, Cl2, NH3 which are easily liquifiable 
+are adsorbed to a large extend compared to N2, 
+O2, H2 etc, which are difficult to liquify.
+Table 11.3 : Critical temperature of gases and 
+volume adsorbed
+Gas
+Critical 
+temperature/K
+Volume adsorbed/
+cm3
+N2
+126
+08
+HCl
+324
+72
+NH3
+406
+181
+Cl2
+417
+235
+SO2
+430
+380
+2. Nature of adsorbent: Substances which 
+provide large surface area for a given mass are 
+effective as adsorbents and adsorb appreciable 
+volumes of gases. Silica gel, charcoal are 
+effective adsorbents due to their porous nature.
+3. Surface area of adsorbent : Adsorption is 
+a surface phenomenon. Hence, the extent of 
+adsorption increases with increase in surface 
+area of adsorbent. Finely divided substances, 
+rough surfaces, colloidal substances are good 
+adsorbents as they provide larger surface area 
+for a given mass. 
+4. Temperature :  Adsorption is an 
+exothermic process. According to Le-
+Chatelier’s principle (Chapter 12), it is 
+favoured at low temperature. The amount of 
+gas adsorbed is, thus, inversely proportional 
+to temperature. 
+Figure 11.2 shows plots of volume of N2 
+adsorbed per unit mass of adsorbent against 
+the pressure of a gas at different temperatures. 
+As temperature increases from 193 K to 273 
+K at a constant pressure ‘P’ the amount of gas 
+adsorbed decrease.
+5. Pressure of gas : At any temperature, 
+the extent of gas adsorbed increases with an 
+increase of pressure. The extent of adsorption 
+is directly proportional to pressure of the gas. 
+At high pressures extent of adsorption becomes 
+independent of the pressure. The surface of 
+adsorbent is, then, almost fully covered by 
+adsorbed gaseous molecules.
+163
+11.5 Adsorption Isotherm : The relationship 
+between the amount of a substance adsorbed 
+per unit mass of adsorbent and the equilibrium 
+pressure (in case of gas) or concentration 
+(in case of solution) at a given constant 
+temperature is called an adsorption isotherm.
+Various adsorption isotherms are known.
+Freundlich adsorption isotherm : Freundlich 
+proposed an empirical equation for adsorption 
+of a gas on solid. 
+	
+x 
+m  = k P 1/n (n>1)  	
+   
+ (11.1) 
+           Where x  = mass of the gas adsorbed
+           m = mass of the adsorbent at presure P
+                 x 
+m  = mass of gas adsorbed per unit mass of 
+                adsorbent 
+    P = equilibrium pressure.
+k and n are constants which depend 
+on the nature of adsorbate, adsorbent and 
+temperature. 
+Graphical Representation of Freundlich 
+equation.
+Fig 11.2 Variation of adsorption with 
+temperature and pressure
+In case of solution, P in the Eq. (11.1)  is 
+replaced by the concentration and thus
+	
+x
+m  = kC1/n 	
+	
+             
+ (11.2)
+After taking logarithm of the above 
+Eq. 11.2
+log x
+m  = log k +  1
+n  log C         
+ (11.3)
+Plotting log x
+m  against log C or log P, 
+a straight line is obtained which is shown in 
+Fig.11.4. 
+The slope of the straight line gives 
+1
+n . While intercept on y-axis gives log k. The 
+factor  1
+n  ranges from 0 to 1. Equation (11.3) 
+holds good over limited range of pressures. 
+When 1
+n  → 0, 
+x
+m  → constant, the 
+adsorption,  then, is independent of pressure. 
+When  1
+n = 1,  x
+m  = kP. i.e. x
+m  α P the 
+adsorption varies directly with pressure. The 
+experimental isotherms as in Fig. 11.3 tend to 
+saturate at the high pressure. 
+Fig 11.3 Adsorption isotherm
+11.6 Applications of Adsorption : 
+The adsorption finds large number of 
+applications as illustrated here.
+i. 	
+Catalysis: Heterogeneous catalysis  : 
+The solid catalysts are used in many 
+industrial manufacturing processes. For 
+example, iron is used as the catalyst in 
+manufacturing of ammonia; platinum in 
+manufacturing of sulphuric acid, H2SO4 
+(by contanct process). In hydrogenation 
+of oils, finely divided nickel is employed 
+as catalyst.
+x/m
+P
+Fig. 11.4 : Freundlich isotherm
+y
+x
+x/m
+P
+273 K
+244 K
+195 K
+164
+ii. 	 Gas masks: It is a device which consists 
+of activated charcoal or mixture of 
+adsorbents. It is used for breathing in coal 
+mines to avoid inhaling of the poisonous 
+gases.
+iii. 	 Control of humidity : Silica and alumina 
+gels are good adsorbents of moisture. 
+iv. 	 Production of high vacuum : Lowering 
+of temperature at a given pressure, 
+increases the rate of adsorption of gases 
+on charcoal powder. By using this 
+principle, high vacuum can be attained 
+by adsorption. A vessel evacuated by 
+vacuum pump is connected to another 
+vessel 
+containing 
+coconut 
+charcoal 
+cooled by liquid air. The charcoal adsorbs 
+the remaining traces of air or moisture to 
+create a high vacuum.
+v. 	 Adsorption Indicators : The adsorption 
+is used to detect the end point of 
+precipitation titrations. Dyes such as 
+eosin, fluorescein are used as indicators. 
+For example, A solution of sodium chloride 
+containing a small amount of fluorescein 
+is titrated against silver nitrate solution.
+	
+	 NaCl + AgNO3 →  AgCl     + NaNO3
+	
+	
+	
+	
+            White ppt
+	
+When chloride ions are over, fluorescein 
+is adsorbed on white silver chloride 
+precipitate and red colour is developed. 
+Thus colour change from pale yellow to 
+reddish pink is observed at the end point.
+vi. 	 Separation of inert gases : In a mixture 
+of noble gases, different gases adsorb 
+to different extent. Due to selective 
+adsorption principle, gases can be 
+separated on coconut charcoal.
+vii. Froth floatation process : A low grade 
+sulfide ore is concentrated by separating it 
+from silica and other earthy matter using 
+pine oil as frothing agent. Hydrophobic 
+pine oil preferentially wets (adsorbs on) 
+sulfide ore which is taken up in the froth.
+viii. Chromatographic analysis : It is based 
+on selective adsorption of ions from 
+solution using powdered adsorbents such 
+as silica or alumina gel. It has several 
+industrial and analytical applications. 
+Other applications include surface area 
+determination, purification of water, etc.
+11.7 Catalysis : Catalysts are of importance in 
+chemical industry and in living organisms. A 
+large  number of the chemicals manufactured 
+in industries make use of catalysts to obtain 
+specific products, The use of catalyst lowers 
+the reaction temperature, and energy costs 
+significantly.
+A catalyst thus can be defined as a 
+substance which when added to a reacting 
+system increases the rate of a reaction 
+without itself undergoing any permanent 
+chemical change. Catalysis is of two types, 
+namely 
+homogeneous 
+an 
+heterogeneous 
+catalysis.
+11.7.1 Homogeneous Catalysis : When the 
+reactants and the catalyst are in the same 
+phase, it is said to be homogenous catalysis.
+Examples of homogeneous catalysis:
+i. 	
+Iodide ion (I ) finds use as homogeneous 
+catalyst in decomposition of aqueous 
+hydrogen peroxide (Both I  and H2O2 are 
+present in the same aqueous phase)
+ii. 	 Oxidation of sulfur dioxide to sulfur 
+trioxide with dioxygen (O2) in the 
+presence of nitirc oxide as catalyst (lead 
+chamber process). 
+	
+2 SO2 (g) + O2 (g) 
+NO g
+( )
+
+
+   2 SO3 (g)
+iii. 	 Hydrolysis of sugar is catalysed by H⊕ 
+ion furnished by sulphuric acid.
+	
+ C12H22O11 (aq) + H2O (l) 
+H2SO4
+ 
+	
+Sucrose solution
+            C6H12O6 (aq) + C6H12O6 (aq) 
+            Glucose 	
+    Fructose
+	
+All reactants and catalyst are in same 
+solution phase.
+iv. 	 Enzyme catalysis is also an important 
+type of homogeneous catalysis.
+11.7.2 Heterogeneous Catalysis : When the 
+reactant and catalyst are in different phase, it 
+is said to be heterogeneous catalysis. 
+The heterogeneous catalyst is generally 
+a solid and the reactants may either be gases 
+165
+or liquids. The solid catalyst is added to the 
+reaction mixture.  It does not dissolve in the 
+reacting system. The reaction accurs on 
+surface of solid catalyst. 
+Examples of heterogeneous catalysis:
+i. 	 Dinitrogen (N2) and dihydrogen (H2) 
+combine to form ammonia in Haber 
+process in presence of finely divided iron 
+along with K2O and Al2O3.
+	
+	
+N2 (g) + 3 H2(g) 
+Fe(s)
+K2O, Al2O3 2 NH3 (g)
+	
+Here Al2O3 and K2O are promoters 
+of the Fe catalyst. Al2O3 is added to 
+prevent the fusion of Fe particles. K2O 
+causes chemisorption of nitrogen atoms. 
+Molybdynum is also used as promoter.
+ii. 	 Hydrogenation reaction of vegetable oils 
+to produce solid fat is used in food industry. 
+The reaction is catalysed by finely divided 
+metals like Ni, Pd or Pt. Vegetable oil 
+contains one or more carbon carbon 
+double bonds (C = C) in its structure. On 
+hydrogenation a solid product (which 
+contains only carbon carbon single bonds) 
+is formed. It is called vanaspati ghee.
+Vegetable oil (l) + H2 (g) 
+Ni (s)
+	
+(C = C)	
+            Vegetable ghee(s) 
+	
+	
+	
+	
+    (C - C)
+iii. 
+Another 
+important 
+application 
+of 
+heterogenous catalysts is in automobile 
+catalytic converters. In automobile exhaust, 
+large number of air pollutants such as carbon 
+monoxide, nitric oxide, etc. are present. 
+The catalytic converter transforms the air 
+pollutants into carbon dioxide, water, nitrogen 
+and oxygen. The catalyst is poisoned by the 
+adsorption of Pb (lead). The automobiles with 
+catalytic converter require unleaded petrol.
+11.7.3 Inhibitors : Inhibitors are substances 
+those decrease rate of chemical reaction.
+Examples,
+i. 	 Chlorofom was once used as anaesthetic. 
+It forms poisonous substance, carbonyl 
+chloride by air oxidation.
+	
+4 CHCl3 (l) + 3 O2 (g) → 4 COCl2 (g) + 2 H2O (l) 
+                                                             + 2 Cl2 (g)
+	
+When 2% ethanol is added to chloroform, 
+the formation of COCl2 is suppressed. 
+Ethanol acts as an inhibitor and retards the 
+above reaction. 
+ii. Hydrogen peroxide decomposes as,
+2 H2O2 (l)  →  2 H2O (l) + O2 (g)
+The reaction is inhibited by addition of 
+dilute acid or glycerol acting as inhibitor.
+11.8 Adsorption Theory of Heterogeneous 
+catalysis: The catalytic action occurs on the 
+surface of a catalyst. The mechanism involves 
+five steps.
+i. 	
+Diffusion of reactants toward the surface 
+of the catalyst.
+ii. 	 Adsorption of reactant molecules on the 
+surface of the catalyst.
+iii. 	 Occurrence of chemical reaction on the 
+catalyst surface and formation of an 
+intermediate.
+iv. 	 Formation of products.
+v. 	 Desorption of reaction products from the 
+catalyst surface. Products leave catalyst 
+surface.
+	
+The steps involved can be shown as : 
+Diffusion  →  Adsorption → intermediate formation
+                     	
+                                     ↓
+                 Desorption    ←   Product formation 	
+Fresh reactant molecules can replace the 
+products to start the cycle again as in step (i). 
+This explains why catalyst remains unchanged 
+in mass and chemical composition at the end 
+of the reaction.
+11.8.1 Important features of solid catalysts:
+a. Catalytic activity : The activity of a catalyst 
+depends on the strength of chemisorption. If 
+large number of reactant molecules (gas or 
+liquid) are strongly adsorbed on the surface of 
+solid catalyst, the catalyst is said to be active. 
+However, the adsorption of reactant molecules 
+on the surface, that is, the bond formed between 
+adsorbate and adsorbent surface should not be 
+very strong so that they are not immobilized. 
+It has been found that d-block metals 
+such as Fe, V and Cr tend to be strongly active 
+toward O2, C2H2, C2H4, CO, H2, CO2, N2 etc; 
+Mn and Cu are unable to adsorb N2 and CO2. 
+The metals Mg and Li adsorb O2 selectively.
+166
+b. Catalytic selectivity : Some solid catalysts 
+are selective in their action. The same gaseous 
+reactants produce different products when 
+different catalysts are used.
+For example,
+i. The gaseous ethylene and O2 react to produce 
+different products with different catalysts. 
+a. C2H4 (g) + O2 (g) 
+Pd Al O
+/
+2 3
+
+
+ 2 CH3CHO (g)
+   (ethylene)	
+	
+	
+    (acetaldehyde)
+b. 2 C2H4 (g) + O2 (g)
+Ag Al O
+/
+2 3
+
+
+   2CH2
+CH2
+O
+ (g) 
+   (ethylene)	
+	
+                 (ethylene oxide)
+ii. The gaseous carbon monoxide and H2 
+produce different products by using different 
+catalysts.
+a. CO (g) + 3 H2 (g) 
+Ni
+ CH4 (g) + H2O (g)
+b. CO (g) + 2 H2 (g) 
+Cu/ZnO-Cr2O3
+ CH3OH (g)
+c. Shape selective catalysis by zeolites :
+	
+Zeolites are alumino silicates with 
+three-dimensional network of silicates. Some 
+silicon atoms in this network are replaced by 
+aluminium atoms giving Al-O-Si frame work. 
+This results in microporous structure. The 
+reactions in zeolites are dependent on the size 
+and shape of reactant or  products and also 
+on pores and cavities of zeolites. Zeolites, 
+therefore, are shape selective catalysts.
+In petroleum industry, zeolite catalyst 
+ZSM-5 converts alcohols directly to gasoline 
+(pertol) by dehydration which gives a mixture 
+of hydrocarbons.
+11.9 Colloids : A number of substances 
+we use in our day to day life are colloids. 
+For example, milk, butter, jelly, whipped 
+cream, mayonnaise. Colloid chemistry is the 
+chemistry of everyday life. Knowledge of 
+colloid chemistry is essential for understanding 
+about many useful materials like cement, 
+bricks, pottery, porcelain, glass, enamels; oils, 
+lacquers; rubber, celluloid and other plastics, 
+leather, paper, textiles, filaments, crayons, 
+inks, road construction material etc. In many 
+daily processes like cooking, washing, dyeing, 
+painting, ore floatation, water purification, 
+sewage 
+disposal, 
+smoke 
+prevention, 
+photography, pharmacy, use of colloids is 
+important.
+Colloids are  heterogeneous mixtures. The 
+component of colloid present in the largest 
+proportion is called dispersion medium and 
+the other components are called dispersed 
+phase. The particles of the dispersed phase are 
+larger than the size of a molecule and smaller 
+than particles which we can see with naked 
+eye. 
+Observe the formation of solution of salt 
+and water. Salt dissolves completely in water 
+and forms homegeneous system. On the other 
+hand ground coffee or tea leaves with milk 
+form suspension. Between the two extremes 
+of solution and suspension, we observe a large 
+group of systems called colloidal dispersions 
+or simply colloids. 
+The essential difference between a solution 
+and a colloid is particle size. Solutions contain 
+solute particles with diameter in the range 
+0.1 to 2 nm, the size of typical ion or small 
+molecule. Solutions are transparent and may 
+be coloured and do not separate on standing. 
+On the other hand, colloids such as milk, 
+fog contain particles of dispersed phase with 
+diameters in the range at 2 to 500 nm. They 
+are transluent to light and do not separate on 
+standing. 
+11.9.1 : Exaples of colloids : Some examples 
+of phenomenon observed in our daily life, 
+which are understood in terms of colloids are 
+as follows :  
+i. Blue colour of the sky : The sky appears 
+blue to us because minute dust particles along 
+with minute water droplets dispersed in air 
+scatter blue light which reaches our eyes.
+ii. Blood : It is a colloidal dispersion of plasma 
+proteins and antibodies in water. (At the same 
+time blood is also a suspension of blood cells 
+and platelets in water.)
+iii. Soils : Fertile soils are colloidal in nature 
+where humus acts as a protective colloid. Soil 
+adsorbs moisture and nourishing materials due 
+to its colloidal nature.
+167
+Table 11.4  :Types of colloids based on physical state
+Dispersed 
+phase
+Dispersion 
+medium
+Type of colloid
+Examples
+solid 
+solid 
+solid sol
+coloured glasses, gem stones, porcelain, paper
+solid 
+liquid
+sols and gels
+paints, cell fluids, gelatin, muddy water, starch 
+solution.
+solid 
+gas 
+aerosol
+smoke, dust
+liquid 
+solid
+gel
+cheese, butter, jellies
+liquid
+liquid
+ emulsion
+ milk, hair cream
+liquid 
+gas
+aerosol
+fog, mist, cloud, hair sprays, insecticide sprays.
+gas 
+solid
+solid sol
+pumice stone, foam rubber, plaster
+gas
+liquid
+foam
+froth, whipped cream, soap lather
+Table 11.5 : Distinction between Lyophilic and Lyophobic colloids
+Lyophilic colloids
+Lyophobic colloids
+1. Formed easily by direct mixing.
+Formed only by special methods.
+2. Reversible.
+Irreversible.
+3. The particles are not easily visible even under 
+ultramicroscope.
+The 
+particles 
+are 
+easily 
+detected 
+under 
+ultramicroscope.
+4. These are self stabilized.
+These are unstable and hence require traces of 
+stabilizers.
+5. Addition of large amount of electrolytes 
+causes precipitation/coagulation.
+Addition of small amount of electrolytes causes
+precipitation/ coagulation.
+6. Viscosity of dispersed phase much higher than 
+that of the dispersion medium.
+Viscosity of dispersed phase is nearly the same as 
+the dispersion medium.
+7. Surface tension of dispersed phase is lower than 
+dispersion medium.
+Surface tension of dispersed phase is nearly the same 
+as the dispersion medium.
+iv. Fog, mist and rain : Mist is caused 
+by small droplets of water dispersed in air. 
+Fog is formed whenever there is temperature 
+difference between ground and air. A large 
+portion of air containing dust particles gets 
+cooled below its dew point, the moisture from 
+the air condenses on the surface of these 
+particles which form fine droplets, which are 
+colloid particles and float in air as fog or 
+mist.
+11.9.2 Classification of  colloids : Colloids 
+are classified in three different ways.
+a. Classification of colloids based on physical 
+state : Table 11.4 illustrates the types of 
+colloids in accordance with the physical states 
+of dispersed phase and dispersion medium.
+b. Classification of colloids based on 
+interaction or affinity of phases : On the 
+basis of interaction or affinity of phases, a 
+colloidal solution is classified as lyophilic and 
+lyophobic. If water is dispersion medium, the 
+terms hydrophilic and hydrophobic are used.
+i. Lyophilic colloids: Lyo means liquid and 
+philic means loving. A colloidal solution in 
+which the particles of dispersed phase have 
+a great affinity for the dispersion medium 
+are lyophilic colloids. If the lyophilic sol is 
+evaporated, the dispersed phase separates. But 
+if it is remixed with the medium, the sol can be 
+formed again. That is why such sols are called 
+reversible sols. They are stable and difficult to 
+coagulate.
+ii. Lyophobic colloids: Colloidal solution 
+in which the particles of the dispersed phase 
+have no affinity for the dispersion medium 
+are lyophobic colloids. Phobic means fearing, 
+hence liquid hating. The common examples 
+are Ag, Au, hydroxides like Al(OH)3, Fe(OH)3, 
+metal sulfides. Once precipitated/coagulated 
+they have little tendency or no tendency to 
+revert back to colloidal state.
+168
+Table 11.5 shows comparison of lyophilic and 
+lyophobic colloids.
+c. Classification of colloids based on 
+molecular size : Colloids are classified into 
+three types in accordance with size of their 
+molecules.
+i. Multimolecular Colloids : The individual 
+particles consist of an aggregate of atoms or 
+small molecules with size less than 103 pm. 
+For examples :  Gold sol consists of particles 
+of various sizes having several gold atoms. 
+Colloidal solution in which particles are held 
+together with van der Waals force of attraction 
+is called multimolecular colloid. For Example, 
+S8 sulfur molecules.
+ii. Macromolecular colloids :  The molecules 
+of the dispersed phase are sufficiently large 
+in size (macro) to be of colloidal dimensions. 
+Examples are starch, cellulose, proteins, 
+polythene, nylon, plastics.
+iii. Associated colloids or micelles : The 
+substances behave as normal electrolytes at 
+low concentration and associated in higher 
+concentration forming a colloidal solution. 
+The associated particles are called Micelles. 
+For example, soap, detergent. Soap molecule 
+tails of soap molecules point to the centre and 
+the hydrophilic heads lie on the surface of the 
+sphere. As a result of this, soap dispersion in 
+water is stable.
+11.9.3 Preparation of Colloids : A few 
+important methods for the preparation of 
+colloids are as follows : 
+a. 
+Chemical 
+methods 
+: 
+By 
+double 
+decomposition, 
+oxidation, 
+reduction 
+or 
+hydrolysis. Molecules of water insoluble 
+products of these reaction aggregate together 
+and form sols.
+SO2 + 2H2S 
+Oxidation   3S ↓ + 2H2O
+2AuCl3 + 3HCHO + 3H2O 
+Reduction 2Au ↓ +3HCOOH 
+                                                                            + 6HCl
+FeCl3 + 3H2O 
+Hydrolysis  Fe(OH)3 ↓ + 3HCl
+	
+	
+	
+	
+    
+b. Electrical disintegration by Bredig’s Arc 
+method : This process involves vaporization 
+as well as condenstion. Colloidal sols of metals 
+such as gold, silver, platinum can be prepared 
+by this method.
+In this method, electric arc is struck 
+between electrodes of metal immersed in the 
+dispersion medium. The intense heat produced 
+vapourises the metal which then condenses to 
+form particles of colloidal sol.
+c. Peptization : During peptization a precipitate 
+is converted into colloidal sol by shaking with 
+dispersion medium in the presence of a small 
+amount of an electrolyte. The electrolyte used, 
+is known as peptizing agent. 
+Hydrophilic head
+H2O
+H2O
+H2O
+H2O
+H2O
+H2O
+Hydrophobic tail
+Fig. 11.5 : Soap micelle in water
+has a long hydrophobic hydrocarbon chain, 
+called tail, attached to hydrophilic  ionic 
+group (carboxylate), called head. In water the 
+soap molecules arrange themselves to form 
+spherical particles that are called micelles. 
+(Fig. 11.5) In each micelle the hydrophobic 
+Fig. 11.6 : Bredig’s arc method
+Ice
+Metal 
+Electrodes
+Arc
+Water
+169
+During the process, the precipitate adsorbs 
+one of the ions of the electrolyte on its surface, 
+positive or negative charge is developed on the 
+precipitate which finally breaks up into small 
+particles of colloidal size.
+11.9.4 Purification of colloidal solution : 
+Colloidal solution generally contains excessive 
+amount of electrolytes and some other soluble 
+impurities. A small quantity of an electrolyte is 
+necessary for the stability of colloidal solution. 
+A large quantity of electrolyte may result in 
+coagulation. It is also necessary to reduce 
+soluble impurities.
+“The process used for reducing the amount 
+of impurities to a requisite minimum is known 
+as purification of colloidal solution.”
+Purification of colloidal solution can be 
+carried out using dialysis by the following 
+method.
+a. General properties.
+i. Colloidal system is heterogeneous and 
+consists of two phases, dispersed phase and 
+dispersion medium.
+ii. The dispersed phase particles pass slowly 
+through parchment  paper or animal 
+membrane, but readily pass through 
+ordinary filter paper.
+iii.The particles usually are not detectable by 
+powerful microscope.
+b. Optical property:
+Tyndall effect: Tyndall observed that when 
+light passes through true solution the path of 
+light through it cannot be detected. 
+Dialysis : “It is a process of removing a 
+dissolved substance from a colloidal solution 
+by diffusion through a suitable membrane.
+The apparatus used is dialyser. A bag of 
+suitable  membrane containing the colloidal 
+solution is suspended in a vessel through 
+which fresh water is continuously flowing. The 
+molecules and ions diffuse through membrane 
+into the outer water and pure colloidal solution 
+is left behind.
+11.9.5 Properties of colloidal dispersions : 
+Various properties exhibited by colloidal 
+dispersions are described below.
+Fig 11.7 : Dialysis
+Dissolved electrolyte
+electrolyte
+Water
++
+Dialysing 
+membrane
+Water
+dispersed phase
+Fig. 11.8 :Tyndall effect
+However, if the light passes through a 
+colloidal dispersion, the particles scatter some 
+light in all directions and the path of the light 
+through colloidal dispersion becomes visible 
+to observer standing at right angles to its path.
+“The phenomenon of scattering of light 
+by colloidal particles and making path of light 
+visible through the dispersion is referred as 
+Tyndall effect”.
+“The bright cone of the light is called 
+Tyndall cone”. Tyndall effect is observed only 
+when the following conditions are satisfied.
+i. 	The diameter of the dispersed particles is 
+not much smaller than the wavelength of 
+light used.
+ii. The refractive indices of dispersed phase 
+and dispersion medium differ largely.
+Importance of Tyndall effect:
+i. 	It is useful in determining number of 
+particles in colloidal system and the particle 
+size therein. 
+170
+ii. It is used to distinguish between colloidal 
+dispersion and true solution.
+c. Colour : 
+i 	 Colour of colloidal solution depends on the 
+wavelength of light scattered by dispersed 
+particles. 
+	
+The colour of colloidal dispersion also 
+changes with the manner in which the 
+observer receives the light. For example: 
+Mixture of a few drops of milk and large 
+amount of water appears blue when 
+viewed by the scattered light and red when 
+viewed by transmitted light. (Refer to 7th 
+std science book of Balbharati.)
+ii. 	It also depends on size of colloidol particles 
+	
+For example, finest gold sol is red in colour 
+whereas with increase in size it appears 
+purple.
+d. Kinetic Property :   The colloidal or 
+microscopic particles undergo ceaseless 
+random zig-zag motion in all directions in a 
+fluid. This motion of dispersed phase particles 
+is called Brownian motion. British botanist, 
+Robert Brown, observed such motion of 
+pollen grains under a microscope. The random 
+motion was explained by Albert Einstein in 
+1905. 
+positive or negative. Some common sols with 
+the nature of charge on the particles are listed 
+in Table 11.6.
+Table 11.6 : Charge on dispersed particles
+Positively charged sols
+Negatively charged 
+sols
+1.  Hydrated metallic 
+oxides  Al2O3. xH2O,     
+            CrO3 . xH2O, 
+                 Fe2O3. xH2O.
+Metals, Cu, Ag, 
+Au Sols metallic 
+sulphides As2S3, 
+Sb2S3, Cds
+2.  Basic dye stuff, 
+methylene blue sols
+Acid dye stuff, eosin, 
+congo red sol
+3.  Haemoglobin (blood)
+Sols of starch, gum
+4.  Oxides : TiO2 sol
+Gelatin, clay, gum 
+sols
+ii. Electrophoresis : Electrophoresis set up is 
+shown in Fig. 11.10.
+Fig. 11.9 : Brownian motion
+Cause of Brownian motion : 
+i. Constant collision of particles of dispersed 
+phase with the fast moving molecules of 
+dispersion medium (fluid).
+ii. Due to this, the dispersed phase particles 
+acquire kinetic energy from the molecules of 
+the dispersion medium. This kinetic energy 
+brings forth Brownian motion.
+e. Electrical Properties :
+i. Charge on colloidal particles: Colloidal 
+particles carry an electric charge. The nature 
+of this charge is the same on all particles for 
+a given colloidal solution which can be either 
+Figure shows U tube set up in which two 
+platinum electrodes are dipped in a collodial 
+solution. When electric potential is applied 
+across two electrodes, collodial particles move 
+towards one or other electrode.
+“The movement of colloidal particles 
+under an applied electric potential is called 
+electrophoresis.” 
+Positively charged particles move towards 
+cathode while negatively charged particles 
+migrate to anode and get deposited on the 
+respective electrode.
+iii. Electroosmosis : Movement of dispersed 
+particles can be prevented by suitable means, 
+such as use of membrane. Then it is observed 
+that the dispersion medium begins to move in an 
+electric field. This is termed as electroosmosis.
+Fig. 11.10 : Electrophoresis
+Anode
+Cathode
+⊕
+Colloidal 
+solution
+Reservoir
+Stop cock
+deposited 
+particles
+171
+Applications of electrophoresis:
+i. On the basis of direction of movement of 
+the colloidal particles under the influence of 
+electric field, it is possible to know the sign of 
+charge on the particles.
+ii. It is also used to measure the rate of 
+migration of sol particles.
+iii. Mixture of colloidal paticles can be 
+separated by electrophoresis since different 
+colloidal particles in mixture migrate with 
+different rates.
+f. Coagulation: ‘The precipitation of colloids 
+by removal of  charge associated with colloidal 
+particles is called coagulation.’
+The charge on the colloidal particles is 
+due to the preferential adsorption of ions on 
+their surface. For precipitation of lyophobic 
+colloids removal of charge is required. A 
+situation with lyophilic colloids is a little 
+different. The lyophilic particles first attract 
+the molecules of dispersion medium and form 
+a layer of medium surrounding the particles, 
+which may adsorb the ions. Hence for the 
+precipitation  of lyophilic colloids, removal of 
+charge on layer of medium is necessary.
+11.9.6 Methods to effect coagulation : A 
+coagulation of the lyophobic sols can be 
+carried out in the following ways.	
+i. By electrophoresis : The colloidal particles 
+move towards oppositely charged electrodes, 
+get discharged and precipitate.
+ii. By mixing two oppositely charged sols : 
+Oppositely charged sols when mixed in almost 
+equal proportions neutralize their charges and 
+get precipitated.
+Example - Mixing of hydrated ferric oxide 
+(positive sol) and arsenious sulfide (negative 
+sol) brings them in the precipitated forms. 
+This type of coagulation is called mutual 
+coagulation.
+iii. By boiling : When a sol is boiled, the 
+adsorbed layer is disturbed as a result of 
+increased 
+collisions 
+with 
+molecules 
+in 
+dispersion medium. This reduces charge on the 
+particles and subsequently settling down as a 
+precipitate.
+iv. By persistent dialysis: On prolonged 
+dialysis, traces of the electrolyte present in 
+the sol are removed almost completely. The 
+colloids then become unstable and finally 
+precipitate.
+v. By addition of electrolytes : When excess of 
+an electroylte is added, the colloidal particles 
+are precipitated.
+Hardy-Schulze rule : Generally, the greater 
+the valence of the flocculating ion added, the 
+greater is its power to cause precipitation. 
+This is known as Hardy - Schulze rule. In the 
+coagulation of negative sol, the flocculating 
+power follows the order: Al⊕3 > Ba⊕2 > Na⊕
+Similarly, coagulation of positive sol, 
+reveal : [ Fe (CN)6 ]4  > PO4
+3  > SO4
+2  > Cl
+11.9.7 Emulsions : A colloidal system in which 
+one liquid is dispersed in another immiscible 
+liquid is called an emulsion. There are liquid-
+liquid colloidal system in which both liquids 
+are completely or partially immiscible. 
+Types of emulsions :
+    Oil in water	
+  Water in oil
+Fig. 11.11 : Emulsions
+There are two types of emulsions (Fig. 11.15).
+i. Emulsion of oil in water (o/w type) : An 
+emulsion in which dispersed phase is oil and 
+dispersion medium is water is called emulsion 
+of oil in water. For example : milk, vanishing 
+cream, paint etc. Milk consists of particles of 
+fat dispersed in water. 
+ii. Emulsion of water in oil (w/o type): An 
+emulsion in which dispersed phase is water and 
+dispersion medium is oil is called emulsion of 
+water in oil. For example, codliver oil consists 
+of particles of water dispersed in oil. Some 
+other examples of this type include butter, 
+cream, etc.
+172
+Table 11.7 describes difference between the 
+two types of emulsion. 
+Table 11.7 : Distinction between oil in water 
+and water in oil emulsions
+Oil in water
+Water in oil
+1.  Oil is the dispersed 
+phase and water 
+is the dispersion 
+medium.
+Water is dispersed phase 
+and oil is the dispersion 
+medium.
+2. If water is added, 
+it will be  miscible 
+with the emulsion.
+If oil is added, it will 
+be miscible with the 
+emulsion.
+3. 
+An 
+addition 
+of 
+small 
+amount 
+of 
+an 
+electrolyte 
+makes the emulsion 
+conducting. 
+Addition 
+of 
+small 
+amount of an electrolyte 
+has no effect on 
+conducting power.
+4. Water is continuous 
+phase.
+Oil is continuous phase.
+5.  Basic metal sulfates, 
+water          soluble 
+alkali 
+metal 
+soaps are used as 
+emulsifiers.
+Water insoluble soaps 
+such as those of Zn, 
+Al, Fe, alkaline earth 
+metals are used as 
+emulsifiers.
+Properties of Emulsion :
+1. Emulsion can be diluted with any amount of 
+the dispersion medium. On the other hand, 
+the dispersed liquid when mixed forms a 
+separate layer.
+2. The droplets in emulsions are often 
+negatively charged and can be precipitated 
+by electrolytes.
+3. Emulsions show Brownian movement and 
+Tyndall effect.
+4. The two liquids in emulsions can be separated 
+by heating, freezing or centrifuging etc.
+11.9.8 Applications of colloids : Colloids 
+find appplications in industry and in daily life. 
+Following are some examples.
+i. Electrical precipitation of smoke : Smoke 
+is colloidal solution of solid particles of 
+carbon, arsenic compound, dust etc. in air. 
+When smoke is allowed to pass through 
+chamber containing plates having charged 
+smoke particles they lose their charge and 
+get precipitated. 
+	
+The particles settle down on the floor of the 
+chamber. The precipitator is called Cottrell 
+precipitator.
+ii. Purification of drinking water: Water 
+obtained from natural sources contains 
+colloidal impurities. By addition of alum 
+to such water, colloidal impurities get 
+coagulated and settled down. This makes 
+water potable.
+iii. Medicines: Usually medicines are colloidal 
+in nature. Colloidal medicines are more 
+effective owing to large surface area to 
+volume ratio of a colloidal particle, and 
+easy assimilation.
+	
+Argyrol is a silver sol used as an eye lotion. 
+Milk of magnesia, an emulsion is used in 
+stomach disorders.
+iv. Rubber Industry: - Rubber is obtained by 
+coagulation of latex.
+v. Cleansing action of soaps and detergents
+vi. Photographic plates, films, and industrial 
+products like paints, inks, synthetic plastics, 
+rubber, graphite lubricants, cement etc. are 
+colloids.
+Activity :
+Internet my friend
+1. 	 Brownian motion 
+	
+https://myoutube.com>watch
+2. Collect information about Surface 
+Chemstry.
+3. 	 Collect information about Adsorption.
+4. 	 Collect information about Brownian 
+Motion
+Calculate surface area to volume ratio of 
+spherical particle. See how the ratio increases 
+with the raduction of radius of the particle. 
+Plot the ratio against the radius.

@@ -1,0 +1,2789 @@
+134
+1. Choose correct option.
+A.	 Which of the following is not an 
+allotrope of carbon ?
+	
+a. bucky ball	 	
+b. diamond
+	
+c. graphite	
+	
+d. emerald
+B.	
+ is inorganic graphite
+	
+a. borax	
+	
+b. diborane
+	
+c. boron nitride	
+d. colemanite
+C.	 Haber’s process is used for preparation 
+of 
+ 
+	
+a. HNO3	
+	
+b. NH3
+	
+c. NH2CONH2		
+d. NH4OH
+D.	 Thallium shows different oxidation 
+state because 
+ 
+	
+a. of inert pair effect
+	
+b. it is inner transition element
+	
+c. it is metal 
+	
+d. of its high electronegativity
+E.	 Which of the following shows most 
+prominent inert pair effect ?
+	
+a. C	
+	
+b. Si
+	
+c. Ge	 	
+d. Pb
+2. 	 Identify the group 14 element that best 
+fits each of the following description.
+A.	Non metallic element
+B.	 Form the most acidic oxide
+C.	 They prefer +2 oxidation state.
+D.	Forms strong π bonds.
+3. 	 Give reasons.
+A. Ga3⊕ salts are better reducing agent 
+while Tl3⊕ salts are better oxidising 
+agent.
+B. PbCl4 is less stable than PbCl2
+4.	 Give the formula of a compound in 
+which carbon exhibit an oxidation state 
+of 
+A.	+4  	
+B. +2	  C. -4
+5.	 Explain the trend of the following in 
+group 13 elements :
+	
+A. atomic radii	
+B. ionization enthalpy
+	
+C. electron affinity
+6.	 Answer the following
+A.	What is hybridization of Al in AlCl3?
+B.	 Name a molecule having banana bond.
+7.	 Draw the structure of the following 
+	
+A.	Orthophosphoric acid
+	
+B.	 Resonance structure of nitric acid
+8.	 Find out the difference between 
+	
+A.	Diamond and Graphite
+	
+B.	 White phosphorus and Red phosphorus
+9.	 What are silicones ? Where are they used ?
+10.	 Explain the trend in oxidation state of 
+elements from nitrogen to bismuth.
+11.	 Give the test that is used to detect borate 
+radical is qualitative analysis.
+12.	 Explain structure and bonding of 
+diborane.
+13.	 A compound is prepared from the 
+mineral colemanite by boiling it with a 
+solution of sodium carbonate. It is white 
+crystalline solid and used for inorganic 
+qualitative analysis.
+a. Name the compound produced.
+b. Write the reaction that explains its 
+formation.
+14.	 Ammonia is a good complexing agent. 
+Explain.
+15.	 State true or false. Correct the false 
+statement.
+A.	The acidic nature of oxides of group 13 
+increases down the graph.
+B.	 The tendency for cantenation is much 
+higher for C than for Si.
+16.	 Match the pairs from column A and B.
+	
+A	 	
+	
+B
+	
+BCl3	
+Angular molecule
+	
+SiO2	
+linear covalent molecule
+	
+CO2	
+Tetrahedral molecule
+	
+	
+	
+Planar trigonal molecule
+17.	 Give the reactions supporting basic 
+nature of ammonia.
+18.	 Shravani was performing inorganic 
+qualitative analysis of a salt. To an 
+aqueous solution of that salt, she added 
+silver nitrate. When a white precipitate 
+was formed. On adding ammonium 
+hydroxide to this, she obtained a clear 
+solution. Comment on her observations 
+and write the chemical reactions 
+involved. 
+Exercises
+Activity :
+Prepare models of allotropes of carbon 
+and phosphorous.
+135
+10.1 Introduction: 
+	
+We have learnt that substances exist 
+in one of the three main states of matter. The 
+three distinct physical forms of a substance are 
+Solid, Liquid, and Gas.
+10. States of Matter : Gaseous and Liquid States
+Table 10.1: Distinguishing points between Solid, Liquid and Gas
+Sr. No.
+Points
+Solid
+Liquid 
+Gas
+1
+Microscopic view
+Mean atomic/ 
+molecular 
+separation
+Mean separation ≈ 
+3-5A0
+Mean separation ≈ 
+3-10A0
+Mean separation > 
+5A0
+2
+Arrangement of 
+particles (atoms/
+molecules)
+Particles are tightly 
+held, and have regular 
+arrangement of atoms/
+molecules
+Particles are loosely 
+packed, irregular 
+arragement of particles
+Particles are more 
+loosely packed, 
+highly irregular 
+arrangement
+3
+Movement of 
+particles
+Particles cannot move 
+freely as they occupy 
+fixed positions.
+Particles can move a 
+small distance within the 
+liquid
+Particles are in 
+continuous 
+random motion.
+4
+Shape and 
+volume 
+Has definite shape and 
+volume 
+Takes the shape of 
+the container and has 
+definite volume.
+Takes the shape and 
+the volume of its 
+container.
+5
+Intermoleculer 
+space
+Very small 
+Intermolecular space
+Moderate Intermolecular 
+space 
+Large 
+Intermolecular 
+space.
+6
+Effect of a 
+small change in  
+temperature
+Volume change is 
+small
+Moderate effect on 
+volume change
+Volume change
+significantly high.
+7
+Compression or 
+Expansion 
+ Practically 
+Non- compressible
+Small Compressibility
+Compressible
+Solid
+Liquid
+Gas
+Heat
+Cool
+Heat
+Cool
+Fig. 10.1 : Different States of Water
+Can you recall?
+Water exists in the three different 
+forms solid ice, liquid water and gaseous 
+vapours. 
+Three states of matter are interconvertible 
+by exchange of Heat as given below:
+Key points of differentiation between 
+the three states can be understood as given in 
+Table 10.1.
+136
+10.2 Intermolecular Forces :  Intermolecular 
+forces are the attractive forces as well 
+as repulsive forces present between the 
+neighbouring molecules. The attractive force 
+decreases with the increase in distance between 
+the molecules. The intermolecular forces are 
+strong in solids, less strong in liquids and very 
+weak in gases. Thus, the three physical states 
+of matter can be determined as per the strength 
+of intermolecular forces. 
+The physical properties of matter such as 
+melting point, boiling point, vapor pressure, 
+viscosity, evaporation, surface tension and 
+solubility can be studied with respect to 
+the strength of attractive forces between 
+the molecules. During the melting process 
+intermolecular forces are partially overcome, 
+whereas they are overcome completely during 
+the vapourization process.
+10.2.1	 Types of Intermolecular Forces:
+The four types of intermolecular forces are-
+i. 	
+Dipole-dipole interactions
+ii. 	
+Ion-dipole interactions
+iii.	
+Dipole-Induced dipole interaction
+iv.	
+London Dispersion Forces	
+v.	
+Hydrogen bonding
+i. Dipole-dipole interactions :  Polar 
+molecules experience dipole-dipole forces due 
+to electrostatic interactions between dipoles on 
+neighboring molecules. 
+What are polar molecules or Polar covalent 
+molecules? (Refer to Chapter 5).
+Polar covalent molecule is also described 
+as “dipole” meaning that the molecule has two 
+‘poles’. The  covalent bond becomes polar due 
+to electronegativity difference between the 
+bonding atoms. Hence polarity is observed in 
+the compounds containing dissimilar atoms. 
+For example, HCl molecule (see Fig. 10.2 (a)).
+One end (pole) of the molecule has 
+partial positive charge on hydrogen atom 
+while at other end chlorine atom has partial 
+negative charge (denoted by Greek letter ‘δ’ 
+delta). As a result of polarisation, the molecule 
+possesses the dipole moment. 
+Dipole moment (µ) is the product of the 
+magnitude of the charge (Q) and the distance 
+between the centres of positive and negative 
+charge (r). It is designated by a Greek Letter 
+(µ) (mu). Its unit is debye (D).
+	 Dipole 
+moment 
+is 
+a 
+vector 
+quantity and is depicted by a small arrow 
+with tail in the positive centre and head 
+pointing 
+towards 
+the 
+negative 
+centre.
+For example, the dipole moment of HF 
+may be represented as: H-F
+The crossed arrow(
+) above the Lewis 
+structure represents an electron density shift.
+Thus polar molecules have permanent 
+dipole moments. When a polar molecule 
+encounters another polar molecule, the positive 
+end of one molecule is attracted to the negative 
+end of another polar molecule. Many such 
+molecules have dipoles and their interaction 
+is termed as dipole-dipole  interaction. These 
+forces are generally weak, with energies of the 
+order of 3-4 kJ mol-1 and are significant only 
+when molecules are in close contact.	i.e. in a 
+solid or a liquid state.
+For example C4H9Cl, (butyl chloride), 
+CH3 - O - CH3 (dimethyl ether) ICl (iodine 
+chloride B.P. 27 0C), are dipolar liquids. 
+The molecular orientations due to dipole-
+dipole interaction in ICl liquid is shown in 
+Fig. 10.2 (b).
+Fig 10.2 (a) : Polar molecule
+Unequal sharing of electrons 
+between the bonding atoms.
+More Charge density 
+towards chlorine
+µ
+Fig 10.2 (b) : Dipole-dipole interaction 
+I  Cl
+δ⊕δ
+δ⊕
+δ
+I   Cl
+δ⊕
+δ
+Cl  Iδ⊕
+δ
+Cl  Iδ⊕
+δ
+I
+Cl
+δ
+δ⊕
+H                          Cl
+137
+In brief, more polar the substance, greater 
+the strength of its dipole-dipole interactions. 
+Table 10.2 enlists several substances with 
+similar molecular masses but different dipole 
+moments. From Table 10.2, it is clear that 
+higher the dipole moment, stronger are the 
+inter molecular forces, generally leading to 
+higher boiling points.
+Table 10.2 : Effect of dipole moments on boiling 
+point (b.p.)
+Substance 
+Molar 
+Mass 
+(amu)
+Dipole 
+Moment 
+(D)
+b.p. 
+(K)
+CH3  - CH2 - CH3
+44.10
+0.1
+231
+CH3  - O - CH3 
+46.07
+1.3
+248
+CH3  - Cl
+50.49
+1.9
+249
+CH3  - CN
+41.05
+3.9
+355
+When 
+different 
+substances 
+coexist 
+in single phase, following intermolecular 
+interactions are present.
+ii. Ion-dipole interactions : An ion-dipole 
+force is the result of electrostatic interactions 
+between an ion (cation or anion) and the 
+partial charges on a polar molecule. 
+The strength of this interaction depends 
+on the charge and size of an ion. It also depends 
+on the magnitude of dipole moment and size of 
+the molecule.
+Cations are smaller in size than the 
+isoelectronic anions. The charge density on 
+cation (Na⊕) is more concentrated than anion 
+(Cl ). This makes the interaction between (Na⊕) 
+and negative end of the polar H2O molecule 
+(Fig. 10.2 (c)) stronger than the corresponding 
+interaction between (Cl ) and positive end of 
+the polar H2O molecule. 
+More the charge on cation, stronger is 
+the ion-dipole interaction. For example, Mg2⊕ 
+ion has higher charge and smaller ionic radius 
+(78 pm) than Na⊕ ion (98 pm), hence Mg2⊕ ion 
+is surrounded (hydrated) more strongly with 
+water molecules and exerts strong ion-dipole 
+interaction.
+	
+Thus the strength of interaction 
+increases with increase in charge on cation and 
+with decrease in ionic size or radius. Therefore, 
+ion-dipole forces increase in the order :
+ Na⊕ < Mg2⊕ < Al3⊕.
+iii. Dipole-Induced dipole interaction : 
+When polar molecules (like H2O, 
+NH3) and nonpolar molecules (like benzene) 
+approach each other, the polar molecules 
+induce dipole in the non-polar molecules. 
+Hence ‘Temporary dipoles’ are formed 
+by shifting of electron clouds in nonpolar 
+molecules. For example, Ammonia (NH3) 
+is polar and has permanent dipole moment 
+while Benzene (C6H6) is non polar and has 
+zero dipole moment. The force of attraction 
+developed between the polar and nonpolar 
+molecules is of the type dipole - induced dipole 
+interaction. It can be seen in Fig 10.2(d) in the 
+following manner:
+Ion-dipole 
+forces 
+are 
+particularly 
+important in aqueous solutions of ionic 
+substances such as sodium chloride (NaCl). 
+When an ionic compound, sodium chloride is 
+dissolved in water, the ions get separated and 
+surrounded by water molecules which is called 
+Hydration of sodium ions.  
+Polar 
+molecular
+Non - Polar
+ molecular
+Non - Polar molecular 
+with induced dipole
+Fig. 10.2 (d) : Dipole - induced dipole 
+interaction
+(Hydrated Na⊕ ion)
+Fig. 10.2 (c) : Na⊕ ion(cation) - H2O interaction
+o
+o
+o
+o
+o
+o
+138
+iv. London Dispersion Force : The study 
+of intermolecular forces present among 
+nonpolar molecules or the individual atoms of 
+a noble gas is very interesting. For example, 
+Benzene (C6H6) has zero dipole moment and 
+experiences no dipole-dipole forces, yet exists 
+in liquid stage. 
+In case of nonpolar molecules and inert 
+gases, only dipersion forces exist. Dispersion 
+forces are also called as London forces due 
+to an idea of momentary dipole which was 
+proposed by the German Physicist, Fritz 
+London in 1930. These forces are also called 
+as van der Waals forces. It is the weakest 
+intermolecular force that develops due to 
+interaction between two nonpolar molecules. 
+In general, all atoms and molecules experience 
+London dispersion forces, which result from 
+the motion of electrons. At any given instant of 
+time, the electron distribution in an atom may 
+be asymmetrical, giving the atom a short lived 
+dipole moment. This momentary dipole on one 
+atom can affect the electron distribution in the 
+neighbouring atoms and induce momentary 
+dipoles in them. As a result, weak attractive 
+force develops.
+For example, substances composed of 
+molecules such as O2, CO2, N2, halogens, 
+methane gas, helium and other noble gases 
+show van der Waals force of attraction.
+The strength of London forces increases 
+with increase in molecular size, molecular 
+mass and number of electrons present in an 
+atom or molecule. 
+When two nonpolar molecules approach 
+each other, attractive and repulsive forces 
+between their electrons and the nuclei will lead 
+to distortions in the size of electron cloud, a 
+property referred to as polarizability.
+Polarizability is a measure of how easily 
+an electron cloud of an atom is distorted by 
+an applied electric field. It is the property of 
+atom. The ability to form momentary dipoles 
+that means the ability of another molecule to 
+become polar by redistributing its electrons 
+is known as polarizability of the atom or 
+molecule. 	
+More the number of electrons in a 
+molecule, higher is its ability to become 
+polar. Similarly more the spread out shapes, 
+higher the dispersion forces present between 
+the molecules. London dispersion forces 
+are stronger in a long chain of atoms where 
+molecules are not compact. This can affect 
+physical property such as B.P. n-Pentane, 
+for example boils at 309.4 K, whereas 
+neo - pentane boils at 282.7 K. Here both the 
+substances have the same molecular formula, 
+C5H12, but n-pentane is longer and somewhat 
+spread out, where as neo-pentane is more 
+Fig 10.3 (a): 
+Longer, less 
+compact molecule 
+n-Pentane 
+(b.p.= 309.4K)
+Fig 10.3 (b): More compact molecule 
+neo - pentane (b.p.= 282.7K)
+spherical and compact (see Fig. 10.3). 
+v. Hydrogen Bonding : A hydrogen bond is a 
+special type of dipole-dipole attraction which 
+occurs when a hydrogen atom is bonded to a 
+strongly electronegative atom or an atom with 
+a lone pair of electrons. Hydrogen bonds are 
+generally stronger than usual dipole - dipole 
+and dispersion forces, and weaker than true 
+covalent or ionic bonds. 
+Definition : The electrostatic force of attraction 
+between positively polarised hydrogen atom 
+of one molecule and a highly electronegative 
+atom (which may be  negatively charged) of 
+other molecule is called as hydrogen bond.
+Strong 
+electronegative 
+atoms 
+that 
+form hydrogen bonds are nitrogen, oxygen, 
+and fluorine. Hydrogen bond is denoted 
+by (
+) dotted line. Hydrogen bond which 
+occurs within the same molecule represents 
+Intramolecular Hydrogen bond. 
+H	
+C	
+C	
+C	
+C	
+C	
+H
+H	
+H	
+H	
+H	
+H
+H	
+H	
+H	
+H	
+H
+H	
+C	
+H
+H	
+C	
+H
+H
+H
+H
+H
+H
+H
+H
+H
+C
+C
+C
+139
+electron pairs on oxygen atom.
+The boiling point generally increases 
+with increase in molecular mass, but the 
+hydrides of nitrogen (NH3), oxygen (H2O) and 
+fluorine (HF) have abnormally high boiling 
+points due to the presence of hydrogen bonding 
+between the molecules.
+Similarly due to presence of H- bond, 
+viscosity of liquid increases. Hydrogen bonds 
+play vital role in determining structure and 
+properties of proteins and nucleic acid present 
+in all living organisms.  In case of gases 
+intermolecular forces of attraction are very 
+weak.
+10.2.2	 Intermolecular Forces and Thermal 
+energy : Thermal energy is the origin of 
+kinetic energy of the particles of matter that 
+arises due to movement of particles (about 
+which you must have learnt in Physics). It is 
+directly proportional to the temperature; that 
+means thermal energy increases with increase 
+in temperature and vice versa.
+Three 
+states 
+of 
+matter 
+are 
+the 
+consequence  of a balance between the 
+intermolecular forces of attraction and the 
+thermal energy of the molecules.
+	 If the intermolecular forces are very 
+weak, molecules do not come together to 
+make liquid or solid unless thermal energy is 
+decreased by lowering the temperature. 
+	
+When a substance is to be converted 
+from its gaseous state to solid state, its thermal 
+energy (or temperature) has to be reduced. At 
+this stage, the intermolecular forces become 
+more important than thermal energy of the 
+particles.
+Fig. 10.5 : Liquid water contains a vast 
+three dimensional network of hydrogen 
+bonds
+Fig. 10.4 :  H-bonding in H2O (above) and 
+NH3 (below) (solid line denotes covalent bond, 
+dotted line denotes hydrogen bond)
+A hydrogen bond  present between 
+two like or unlike molecules, represents 
+Intermolecular Hydrogen bond. 
+(See Fig. 10.4 (a) and (b)).
+i. Inter molecular H-bonding
+H-bonding in H−F :
+Hδ+−Fδ-
+Hδ+−Fδ-
+Hδ+−Fδ-
+Hδ+−Fδ-
+H-bond
+ 
+ii. Intra molecular H-bonding : 
+	    H-bonding in ethylene glycol :
+ 
+CH2−Oδ-−Hδ+
+CH2−Oδ-−Hδ+
+H - bonding and boiling point : Due to the 
+presence of H-bonding in the compounds, 
+more energy is required to break the bonds. 
+Therefore, boiling point is more in case of 
+liquid molecules containing H-bond. Hydrogen 
+bonds can be quite strong with energies up to 
+40 kJ/mol. 
+Water in particular is able to form a vast 
+three dimensional network of hydrogen bonds 
+as shown in Fig. 10.5. It is because each H2O 
+molecule has two hydrogen atoms and two 
+Solid
+Liquid
+Gas
+Intermolecular Force Increases 
+ 
+Thermal energy decreases 
+A comparison of various kinds of 
+intermolecular forces discussed in this section 
+is made in Table 10.3.
+140
+Just think
+Do you know ?
+Can you tell?
+Among the three compounds H2, H2S 
+and H2Se, the first one, H2O has the smallest 
+molecular mass. But it has the highest B.P. 
+of 1000C. B.P. of H2S is -600C and of H2Se is 
+-41.25 0C. The extraordinary high B.P. of H2O 
+is due to very strong hydrogen bonding even 
+though it has the lowest molecular mass.
+Table 10.3 : Comparison of Intermolecular Forces
+Force
+Strength
+Characterstics
+Ion-dipole 
+Moderate (10 - 50 kJ/mol)
+Occurs between ions and polar solvents
+Dipole-dipole 
+Weak (3 - 4 kJ/mol)
+Occurs between polar molecules
+London dispersion
+Weak (1 - 10 kJ/mol)
+Occurs between all molecules; strength 
+depends on size, polarizability
+Hydrogen bond
+Moderate (10 - 40 kJ/mol)
+Occurs between molecules with O-H, N-H, 
+and H-F bonds
+What are the various components 
+present in the atmosphere?
+Name 
+five 
+elements 
+and 
+five 
+compounds those exist as gases at room 
+temperature.
+What is air?
+It is a mixture of various gases. Air, 
+we can not see but feel the cool breeze. The 
+composition of air by volume is around 78 
+percent N2, 21 percent O2 and 1 percent 
+other gases including CO2. The chemistry 
+of atmospheric gases is an important 
+subject of study as it involves air pollution. 
+O2 in air is essential for survival of aerobic 
+life. 
+Composition of air with respect to 
+proportion of various gases
+Nitogen 78%
+Oxygen 21%
+Carbon 
+Dioxide and 
+other gases 
+0.03%
+Inert gases 
+(mainly 
+argon) 0.97%
+Water vapor
+ 10.3 Characteristic properties of Gases :
+Under normal conditions, out of 118 
+elements from the periodic table, only a few 
+(eleven) elements exist as gases. The gaseous 
+state is characterized by the following physical 
+properties :
+1. Gases are lighter than solids and liquids i.e. 
+possess lower density.
+2. Gases do not possess a fixed volume and 
+shape. They occupy entire space available and 
+take the shape of the container.
+3. Gas molecules are widely seperated and 
+are in continuous, random motion. Therefore, 
+gases exert pressure equally in all directions 
+due to collision of gas molecules, on the walls 
+of the container.
+4. In case of gases, intermolecular forces are 
+weakest.
+5. Gases possess the property of diffusion 
+which is a spontaneous homogenous inter 
+mixing of two or more gases.
+6. Gases are highly compressible.
+Measurable properties of Gases : (Refer 
+to Chapter 1) : Some Important measurable 
+properties of the gases are given below :
+1. Mass: The mass, m, of a gas sample is 
+measure of the quantity of matter it contains. 
+It can be measured experimentally. SI unit of 
+mass of gas is kilogram (kg). 1kg = 103g.
+141
+Can you tell?
+The mass of a gas is realated to the 
+number of moles  (n) by the expression i. 
+i.	
+n
+m
+M
+=
+=
+mass in grams
+molar mass in grams
+The following expressions are also useful in 
+calculations.
+ii.	
+n
+N
+N
+N
+
+
+
+
+Number of molecules
+Avogadro Number
+A
+6 022 1023
+.
+iii.	
+n = Volume of a given gas in litres at STP
+22.414 litres at STP
+2. Volume: Volume (V) of a sample of gas is 
+the amount of space it occupies. It is expressed 
+in terms of different units like Litres (L), 
+mililitres(mL), cubic centimeter (cm3), cubic 
+meter (m3) or decimeter cube (dm3). SI Unit of 
+the volume is cubic meter (m3).
+Most commonly used unit to measure 
+the volume of the a gas is decimeter cube or 
+litre.
+1 L = 1000mL = 1000 cm3 = 1dm3
+1 m3 = 103 dm3 = 103L = 106cm3 = 106 mL
+3. Pressure: Pressure (P) is defined as force 
+per unit area.
+Pressure = 
+Force
+Area
+f
+a
+=
+Pressure of gas is measured with 
+‘manometer’ and atmospheric pressure is 
+measured by ‘barometer’. 
+SI Unit of pressure is pascal (Pa) or 
+Newton per meter square (N m-2).
+1 Pa = 1 Nm-2 = 1 kg m-1 s-2 
+1 bar = 1.00 × 105 Pa
+The bar is now replacing the standard 
+atmosphere (atm) as the most convenient unit 
+of pressure.
+1 atm = 76 cm of Hg = 760 mm of Hg = 
+760 torr as 1 torr = 1mm Hg
+1 atm = 101.325 kPa = 101325 Pa = 
+1.01325 × 105 N m-2 = 1.01325 bar.
+4. Temperature :  It is the property of an object 
+that determines direction in which energy will 
+flow when that object is in contact with other 
+object.
+In scientific measurements temperature 
+(T) is measured either on the celsius scale (0C) 
+or the Kelvin scale (K).  (Note that degree sign 
+is not used in Kelvin unit). 
+ SI Unit of Temperature of a gas is kelvin 
+(K). The celsius and kelvin scales are related 
+by the expression
+T (K) = t0 C + 273.15
+5. Density : It is the mass per unit volume.
+d = m
+V
+  
+∴ SI Unit of density is kg m-3.
+In the case of gases, relative density is 
+measured with respect to hydrogen gas and is 
+called vapour density.
+∴ Vapour density = molar mass
+2
+6. Diffusion: In case of gases, Rate of diffusion 
+of two or more gases is measured.
+ Rate       
+  of     =
+diffusion    
+Volume of a gas diffused
+time required for diffusion
+∴ SI Unit for Rate of diffusion is dm3 s-1 or 
+cm3 s-1
+10.4 Gas Laws : The behavior of gases can 
+be studied by four variables namely pressure, 
+volume,temperature and the number of moles. 
+These variables and measurable properties of 
+the gases are related with one another through 
+different gas laws. 
+	 Think  of a gas in a cylinder or a sealed 
+container. We can measure number of moles 
+(n) of gas inside, the pressure (P) of a gas, 
+the volume (V) of a gas (which is equal to the 
+volume of the container) and the temperature 
+(T) of the gas. The observed relationships 
+between P, V, n and T are summarized by 
+five gas laws: Boyle’s law, Charles’ law, Gay 
+Lussac law, Avogadro law and Dalton’s law.
+What is the unit in which car-tyre 
+pressure is measured ?
+142
+Do you know ?
+The gas laws are based on the 
+experimental observations made by the 
+scientists. Further, these gas laws have 
+played significant role in the development of 
+chemistry.
+10.4.1 Boyle’s Law: (Pressure-Volume 
+Relationship) 
+The 
+law 
+can 
+be 
+illustrated 
+diagramatically as shown in Fig. 10.6
+How does the bicycle pump work ?
+You can feel the increased pressure 
+of a gas on your palm by pushing in 
+the piston of a bicycle pump. As you 
+push, you squash the same number of 
+particles into a smaller volume. This 
+squashing means particles hit the walls 
+of the pump more often, increasing the 
+pressure.
+Volume increases 
+P = 1 atm
+P = 2 atm
+Volume decreases 
+ pressure decreses 
+ pressure increses 
+Increasing or decreasing the volume of a gas at a constant 
+temperature
+Fig. 10.6 : Schematic illustration 
+of Boyle’s Law
+Fig. 10.7 :  Schematic of the experiment 
+Boyle’s law 
+2 atm
+1 atm
+High pressure
+Low volume
+Low pressure
+High volume
+0
+100
+200cm3
+0
+100
+200cm3
+Mathematical Expression :
+Mathematically, Boyle’s law is expressed as
+	
+   P
+l
+V
+α
+  (at constant T and n)
+	
+∴ P = k1
+1
+V  .............    	(10.1) 
+(where k1 is proportionality constant)
+on rearranging, Eq. (10.1) be comes :	
+	
+∴ P V = k1 .............. 	 (10.2)
+	 It means that at constant temperature, 
+product of pressure and volume of the fixed 
+amount of a gas is constant.
+Thus, when a fixed amount of a gas at 
+constant temperature (T) occuping volume V1 
+initially at pressure (P1) undergoes expansion 
+or compression, volume of the gas changes to 
+V2 and pressure to P2. 
+According to Boyle’s law,
+P1V1 = P2V2 = constant ......(10.3)
+In 1662, Robert Boyle 
+carried out large number 
+of experiments on various 
+gases. He observed that at 
+constant temperature when 
+the pressure was increased, 
+the volume of the gas was 
+reduced and vice versa.
+Statement of Boyle’s law: For a fixed mass 
+(number of moles ‘n’) of a gas at constant 
+temperature, the pressure (P) of a gas is 
+inversely proportional to the volume (V) of gas.
+	 	
+ OR
+ At constant temperature, the pressure of 
+fixed amount (number of moles) of a gas varies 
+inversely with its volume. 
+P = 4 atm
+V = 1 L
+T = 298 K
+V = 0.50 L
+T = 298 K
+V = 0.25 L
+T = 298 K
+143
+Internet my friend
+Figure 10.7 illustrates the Boyle’s 
+law experiment when the applied pressure 
+increases from 1 atm to 2 atm and volume of 
+the gas decreases from 200 cm3 to  100 cm3.
+Graphical Representation : Figure 10.8 
+shows how the pressure-volume relationship 
+can be expressed graphically. Figure 10.8 
+(a) shows a graph of the equation PV = k 
+at a given constant temperature, known as 
+Isotherm (constant temperature plot). For a 
+given mass of a gas, the value of k varies only 
+with temperature. 
+If the product of pressure and volume 
+(PV) is plotted against pressure (P), a straight 
+line is obtained paralled to x-axis (pressure 
+axis) as in Fig  10.8 (b). 
+When the pressure (P) of the gas is 
+plotted against (1/V),  a straight line is obtained 
+passing through the origin as shown in 
+Fig. 10.8 (c), provided T and n are constant.
+However, at high pressure, deviation 
+from Boyle's law is observed in the behavior 
+of gases. 
+Boyle's law in terms of density of gas : With 
+increase in pressure, gas molecules get closer 
+and the density (d) of the gas increases. Hence, 
+at constant temperature, pressure is directly 
+proportional to the density of a fixed mass of 
+gas. Therefore, from Eq. (10.2).
+           PV = k1                                ..........(10.2)
+∴   V = 
+k
+P
+1                             ..........(10.4)
+But  d = m
+V
+              
+On Substituting V from Eq. (10.4),  
+	 	
+d
+m
+P
+=
+k
+×
+1
+
+
+
+
+
+
+	
+	
+	 ∴ d = kP,                            .......... (10.5)
+	  where k = New Constant.
+	 	
+∴ d  α P
+	 Above 
+equation 
+shows 
+that 
+at 
+constant temperature, the pressure is directly 
+proportional to the density of a fixed mass of 
+the gas.
+•	
+Watch 
+Boyle’s 
+law 
+experiment. 
+www.socratica.youtube
+•	
+Find applications of Boyle’s law.
+•	
+Try to study how Boyle’s law helps 
+in ‘scuba-diving’ i.e. Importance 
+of Boyle’s law in scuba-diving an 
+exhilarating sport.  
+b. Graph of PV vs pressure, P,  of a gas at different 
+temperatures T1, T2, T3.
+pressure (P)
+a.  Graph of pressure, P, vs volume, V, of a gas at 
+different temperatures T1, T2, T3.
+pressure (P)
+volume (V)
+PV
+c. Graph of pressure, P, of a gas vs 1/V at different 
+temperatures T1, T2, T3.
+pressure (P)
+1/ V
+Fig. 10.8 :  Boyle’s law : Graphical 
+representation
+144
+Just think
+Where Vt and  V0 are the volumes of the 
+given mass of gas at the temperatures t 0C and 
+0 0C.
+Rearranging the Eq. (10.6) gives 
+Vt = V0  
+∴Vt = V0                                           
+ (10.7) 
+At this stage, a new scale of temperature 
+was 
+introduced, 
+namely, 
+the 
+absolute 
+temperature scale. This absolute temperature 
+(T K) was defined as 
+T K = t 0C + 273.15 
+This also called thermodynamic scale 
+of temperature. The units of this absolute 
+temperature scale is called (K) in the honour 
+of Lord Kelvin who determined the accurate 
+value of absolute zero as -273.15 0C in 1854. 
+The Eq. (10.7)  is now rewritten by replacing the 
+celcius temperatures by absolute temperaturs 
+as follows  :
+Vt = V0  ,                                          
+ (10.8) 
+where Tt = t + 273.15 and T0 = 273.15
+The Eq. (10.8) on rearrangement takes 
+the following form :
+Vt
+Tt
+  = V0
+T0
+From this, a general equation can be 
+written as follows :
+V1
+T1
+  = V2
+T2
+ 	
+ (10.9)
+∴V
+T   = constant = k2 
+∴ V = k2T	
+ (10.10)
+The Eq. (10.10) is the mathematical 
+expression of Charles law, which is stated as 
+follows :
+‘At constant pressure, the volume of a 
+fixed mass of a gas is directly proportional to 
+its temperature in kelvin.’
+The law can be illustrated diagramatically 
+as shown in Fig. 10.9.
+1. Why does bicycle tyre burst during 
+summer?
+2. Why do the hot air balloons fly high?
+10.4.2	 Charles’ law : 
+(Temperature -Volume Relationship)
+Problem: 10.1 : The volume occupied by 
+a given mass of a gas at 298 K is 25 
+mL at 1 atmosphere pressure. Calculate 
+the volume of the gas if pressure is 
+increased to 1.25 atmosphere at constant 
+temperature.
+Given	 : P1 = 1 atm, V1 = 25 mL 
+	
+  P2 = 1.25 atm, V2 = ?
+Solution :
+According to Boyle’s law, 
+     P1V1 = P2V2
+	
+Substituting the values of P1V1 and 
+P2 in the above expression we get
+V
+P V
+P
+2
+1
+1
+2
+1 25
+1 25
+=
+= ×
+.
+	
+	
+    = 20 ml
+Volume occupied by the gas is 20 mL
+J. Charles (1746-1823) and Gay Lussac 
+(1778-1850) 
+worked 
+independently 
+on 
+influence of temperature on volume of a gas. 
+Their experiments showed that for a given 
+mass of a gas at constant pressure its volume 
+increases with an increase in temperature. It 
+was found that for an increase of every degree 
+of temperature, volume of the gas increases 
+by 
+1 
+273.15 of its original volume at 0 0C. This 
+observation is expressed mathematically as 
+follows :
+Vt =  V0 + 
+t 
+273.15 V0 	
+           
+ (10.6)
+Tt
+T0
+ t + 273.15
+273.15
+1+
+ t 
+273.15
+145
+Remember
+Just think
+Absolute zero temperature and Charles law 
+According to Charles law, Eq. (10.10), the 
+graph of volume of a gas (at given constant 
+pressure, say P1) plotted versus its temperature 
+in celsius, is a straight line with a positive slope. 
+(See Fig. 10.10). On extending the line to zero 
+volume, the line intercepts the temperature 
+axis at -273.15 0C. At any other value of 
+pressure, say P2, a different straight line for 
+the volume temperature plot is obtained, but 
+we get the same zero - volume temperature 
+intercept at - 273.15 0C. The straight line of the 
+volume versus temperature graph at constant 
+pressure is called isobar. Zero volume for a 
+gas sample is a hypothetical state. In practice 
+all the gases get liquified at a temperature 
+higher than - 273.15 0C. This temperature is 
+the lowest temperature that can be imagined 
+but practically cannot be attained. It is the 
+absolute zero temperature on the kelvin scale 
+(0 K).
+Isobars: A graph of volume (V) vs absolute 
+temperature (T) at a constant pressure is 
+known as Isobar. 
+Fig. 10.9 :  At constant pressure, volume 
+changes with temperature
+1 atm
+1 atm
+at constant 
+pressure
+Heat
+2 liters
+300 Kelvin
+4 liters
+600 Kelvin
+On the kelvin scale, water freezes at 
+at nearly 273 K and boils at about 373 K. 
+(Note that we write kelvin temperatures in 
+K without a 0(degree) sign)
+Fig. 10.10 : Graph of volume against 
+temperature
+Temperature (0C)
+0 K 	
+273.15 K
+P1
+P2
+- 273.15 0C
+0 0C
+1. 	 List out various real life examples 
+of Charles law.
+2. 	 Refer and watch Charles law 
+experiments.
+Problem 10.2 : At 300 K a certain 
+mass of a gas ocupies 1 × 10-4 
+dm3 volume. Calculate its volume 
+at  450 K and at the same pressure.
+Given : T1 = 300 K, 
+V1 = 1 × 10-4 dm3, T2 = 450 K, 
+V2 = ?
+Solution : According to Charles’ 
+law, at constant pressure.
+V
+T
+V
+T
+1
+1
+2
+2
+=
+    
+∴
+=
+×
+V
+V
+T
+T
+2
+1
+2
+1
+	
+	
+	
+    
+=
+× ×
+−
+450 1 10
+300
+4
+∴ V2 = 1.5 × 10-4 dm3
+In short, Charles’ law explains that at 
+constant pressure, gases expand on heating 
+and contract on cooling. Thus hot air is less 
+dense than cold air.
+10.4.3 
+Gay-Lussac’s 
+Law: 
+(Pressure-
+Temperature Relationship) :
+ It relates the pressure and absolute 
+temperature of a fixed mass of a gas at 
+constant volume.
+Statement: At constant volume, pressure 
+(P) of a fixed amount of a gas is directly 
+proportional to its absolute temperature (T).
+Mathematical Expression:
+Mathematically, the law can be expressed as :
+    P α T
+∴ P = k3T                                      ..........(10.11)
+146
+Can you recall?
+Use your brain power
+Remember
+∴P
+T  =  constant   (at constant V and m)
+Graphical Representation : When a graph 
+is plotted between pressure (P) in atm and 
+Temperature (T) in kelvin, a straight line is 
+obtained as shown in Fig. 10.11. It is known 
+as isochore. With the help of this law, one 
+can unterstand relation between pressure and 
+temperature in day to day life.
+V = k4n                                  
+ (10.12)
+or  V 
+n  = constant (at constant temperature 
+                      and pressure) 
+Avogadro Law can be well represented 
+from Fig. 10.12 as follows :  
+Fig. 10.11 : Pressure Vs Temperature 
+graph of a gas
+Why the pressure in the automobile 
+tyres changes during hot summer or 
+winter season?
+1 mole of a gas contains 
+Avogadro number of molecules = 
+6.022 × 1023.
+Fig. 10.12 : Avogadro Law
+Volume of each gas is 22.414Lmol-1
+6.022 x 1023
+molecules of 
+CH4
+6.022 x 1023
+molecules 
+of Cl2
+6.022 x 1023
+molecules 
+of O2
+6.022 x 1023
+atoms of Ne
+chlorine gas at 
+00C and 1atm 
+pressure
+oxygen gas at 
+00C and 1atm 
+pressure
+neon gas at 
+00C and 1atm 
+pressure
+methane gas 
+at 00C and 
+1atm pressure
+What are STP conditions? 
+STP means Standard Temperature 
+and Pressure. 
+IUPAC has set STP as 
+standard Pressure = 1 bar = 10­5 Pa 
+standard temperature = 273.15 K = 00C
+Under 
+these 
+STP 
+conditions 
+molar 
+volume of an ideal gas or mixture of 
+two or more gases  = 22.71 L mol-1
+The old STP conditions are also in use, 
+where
+standard pressure = 1 atm = 1.013 bar
+standard temperature = 273.15 K = 00C
+Under the old STP conditions molar 
+volume of an ideal gas or mixture of 
+two or more gases  = 22.414 L mol-1
+10.4.4	 Avogadro Law: (Volume-Amount 
+Relationship) : 
+In 1811 Italian scientist Amedeo 
+Avogadro combined Dalton's atomic theory 
+with Gay Lussac's Law of combining volumes 
+(Chapter 1) to put forth what is known as 
+Avogadro law. It states that equal volumes 
+of all gases at the same temperature and 
+pressure contain equal number of molecules. 
+This means that at a fixed temperature and 
+pressure, the volume of a gas depends upon 
+the number of molecules of the gas, that is, the 
+amount of the gas.
+Avogadro 
+law 
+can 
+be 
+expressed 
+mathematically as : V∝ n  (where 'n' is the 
+number of moles of the gas in volume 'V')
+On converting the proportionality into 
+equation we get 
+As the volume of a gas is directly 
+proportional to number of moles, one mole of 
+any gas at STP occupies 22.414 Lmol-1 volume. 
+This volume is known as molar volume.
+Relation between molar mass and density (d) 
+of a gas : We have learnt how to find number 
+of moles of a gas. (Refer to Chapter 1.)
+147
+We know,
+	
+	
+n = 
+m
+M  ,  
+where m = mass of a gas, 
+      M = molar mass of a gas.
+Substituting in equation  (10.12) we get,
+	
+       V = k4 x 
+m
+M  
+	
+  ∴ M = k4 m
+V
+                     ..... (10.13)
+         But  m
+V
+ = d
+substituting this in Eq. (10.13) we get
+	
+M = k4d                              ...... (10.14)
+Where d = density of a gas.
+  	
+M = Molar mass   
+            m = mass of gas
+      ∴ d α M
+From Eq. (10.14), we can conclude that 
+the density of a gas is directly proportional to 
+its molar volume. 
+10.5  Ideal Gas Equation : A gas that 
+follows strictly all the three laws; Boyle's 
+law, Charles' law and Avogadro law is  an 
+ideal gas. Practically an ideal gas does not 
+exist. Real gases show ideal behaviour under 
+certain specific condition, when intermolecular 
+interactions are practically absent. Yet these 
+three gas laws and the ideal gas equation 
+obtained by treating them mathematically are 
+found to be very valuable in Chemistry.
+10.5.1	 Derivation of Ideal Gas Equation :
+The three gas laws, namely, Boyle’s law, 
+Charles law and Avogadro law, are combined 
+mathematically to obtained what is called 
+ideal gas equation. 
+Let us write the propotionalities of the 
+three gas laws : 
+1. At constant T and n, V α 
+1
+P  
+    (Boyle’s law)
+2. At constant P and n, V α T  
+    (Charles’ law)
+3. At constant P and T, V α n 
+    (Avogadro law)
+Combining all the above three mathematical 
+propornalities we get,
+	 	
+	
+  V α 
+nT
+P  
+Converting this proportionality into 
+an equation by introducing a constant of 
+proportionality we get, 
+∴V =  R nT
+P
+
+
+
+  
+On rearraninging above equation, we 
+obtain,
+	 ∴PV = nRT     .............   (10.15)
+This equation is known as the Ideal Gas 
+Equation. In the ideal gas equation, if three 
+variables are known, fourth can be calculated. 
+It describes the state of an ideal gas, therefore, 
+it is also called as equation of state. Here  R 
+is called Gas constant, The value of  R is the 
+same for all the gases. Therefore it is called 
+Universal gas constant. 
+10.5.2 Values of ‘R’ in different Units : 
+The value of R depends upon the units 
+used to express P, V and T. Hence we recall 
+STP conditions for determining values of ‘R’.
+i. R in SI Unit (in Joules) : 	 Value of R can 
+be calculated by using the SI units of P,V 
+and T. Pressure P is measured in N m-2  or Pa, 
+volume V in meter cube (m3) and Temperature 
+T in kelvin (K),
+	
+     R = PV
+nT  
+	
+∴ R = 105Pa x 22.71 x 10-3 m3
+1 mol x 273.15 K
+ 
+	
+∴ R = 8.314 Pa m3 K-1 mol-1
+then R = 8.314 JK-1 mol-1
+ii. R in litre atmosphere : If pressure (P) is 
+expressed in atmosphere (atm) and volume 
+in litre (L) or decimeter cube (dm3) and 
+Temperature in kelvin (K), (that is, old STP 
+conditions),  then value of  R is :  
+	
+     R = 1atm x 22.414 L
+1 mol x 273.15 K  
+	 ∴ R = 0.08206 L atm K-1 mol -1
+	 	
+	
+        OR
+                 R = 0.08206 dm3 atm K-1mol-1
+148
+Problem 10.3 : A sample of N2 gas 
+was placed in a flexible 9.0 L container 
+at 300K at a pressure of 1.5 atm. The 
+gas was compressed to a volume of 
+3.0L and heat was added until the 
+temperature reached 600K. What is the 
+new pressure inside the container?
+Given Data : V1 = 9 L V2 = 3L
+	
+	
+P1 = 1.5 atm	T2 = 600K
+	
+	
+T1 = 300 k	 P2 = ? 
+Solution : According to combined gas 
+law equation,
+PV
+T
+= PV
+T
+1
+1
+1
+2
+2
+2
+ 		
+
+
+
+
+1 5 9
+300
+3
+600
+2
+.
+P
+∴ P2 = 9 atm
+Problem 10.4 : Find the temperature 
+in 0C at which volume and pressure of 
+1 mol of nitrogen gas becomes 10 dm3 
+and 2.46 atmosphere respectively.
+Given : P = 2.46 atm, V = 10 dm3,
+n = 1mol, R = 0.0821 dm3-atmk-1mol-1
+T = ?
+Solution : Ideal gas equation is
+	
+PV = nRT
+	
+∴ T = PV
+nR  = 2 46 10
+1 0 0821
+.
+.
+×
+×
+ 
+T = 299.63K	  
+Temp. in 0C = 299.63 - 273.15
+            = 26.48 0C
+Note : Often Pressure (P) is measured in atmosphere (atm). The conversion between 
+the units is done by noting that 1 atm = 1.013 × 105 Nm-2 or  1 atm = 101.3 kPa
+Table 10.4 Unit of R
+Pressere (P)
+Volume (V)
+Number of moles (n)
+Temperture (T)
+Gas consant (R)
+Pa (pascals)
+m3
+mol
+K
+8.314 J K-1 mol-1
+atm
+dm3
+mol
+K
+0.0821 atm dm3 K-1 mol-1
+atm
+L
+mol
+K
+0.0821 L atm K-1 mol-1
+iii. R in calories:
+We know, 1 calorie = 4.184 Joules
+
+
+
+
+R
+8 314
+4 184
+1 987
+2
+.
+.
+.
+ cal K-1 mol-1
+While using ideal gas equation one 
+should use consistent units. The most common 
+units are shown in Table 10.4. 
+10.5.3 Expression for Molar mass :
+Ideal gas equation can be used to 
+determine the Molar mass (M) of a compound. 
+Rearranging the equation (10.15)
+	 	
+n = PV
+T
+R
+ ..............   (10.16)
+But for a known mass of a gas ‘m’, the 
+number of moles, 
+n = 
+m
+M   
+On substituting this in equation (10.16) 
+we get
+   
+m
+M  = PV
+T
+R
+∴M = m T
+PV
+R
+                          ....... (10.17)
+10.5.4 Combined Gas  law :
+The ideal gas equation is written as 
+	 PV = nRT                            ...... (10.15)
+On rearranging Eq. (10.15) we get
+	 
+
+PV
+T
+nR   = constant
+∴ PV
+T
+= PV
+T
+1
+1
+1
+2
+2
+2
+                        ...... (10.18)
+The ideal gas equation used in this form 
+is called combined gas law. We have to assume 
+a gas under two different sets of conditions 
+where pressure, volume and temperatures are 
+written for one state as P1, V1, T1 and the other 
+state as P2, V2, T2, respectively.
+10.5.4	 Relation between density, molar 
+mass and pressure :
+Ideal gas equation can be expressed in 
+terms of density as follows :
+	
+	
+PV = nRT                   ....... (10.5)
+On rearranging it gives
+	
+	
+n
+V = P
+T
+R
+ 
+149
+Just think
+But we know n = 
+m
+M  
+On substituting value of ‘n’, rearranged 
+equation becomes- 
+∴m
+MV = P
+T
+R
+               (at constant temperature)
+	
+
+
+d
+M
+P
+T
+R  	
+	
+       ....... (10.19) 
+where m
+V
+ = d = density of a gas
+On rearranging equation (10.19) we get 
+expression to calculate molar mass of a gas in 
+terms of its density. 
+	 	
+M
+dRT
+P
+=
+               .......(10.20)
+From equation (10.19) Boyle’s law can 
+be stated in terms of density as : at constant 
+temperature, pressure of a given mass of gas 
+is directly proportional to its density.
+10.5.6  Dalton’s law of Partial Pressure :
+John Dalton not only put forth the atomic 
+theory, but also made several contributions 
+to understanding of the behaviour of gases. 
+He formulated the law of partial pressure in 
+1801. This law is applicable for those gases 
+which do not react chemically on mixing. The 
+pressure exerted by an individual gas in a 
+mixture of two or more gases is called partial 
+pressure.  It is also the pressure that each gas 
+would exert if it were present alone. Daltons 
+law of partial pressure is stated as : 
+The total pressure of a mixture of two 
+or more non reactive gases is the sum of the 
+partial pressures of the individual gases in 
+the mixture.
+Mathematically, Dalton’s law may be 
+expressed as, 
+PTotal = P1 + P2 + P3 + .... (at constant V and T)
+Where PTotal is the total pressure of the 
+mixture and P1 , P2, P3, ........... are the partial 
+pressures of the individual gases 1, 2, 3, ..... in 
+the mixture.
+Partial pressure and mol fraction : We know 
+that the pressure of a pure gas is given by the 
+ideal gas equation  
+P = nRT
+V
+    .... (10.21)  (V and T are constant) 
+∴ P ∝ n.
+Consequently, the pressure of an 
+individual gas in a mixture of gases is 
+proportional to its amount in that mixture. 
+This implies that the total pressure (PT) of 
+a mixture of gases at constant volume (V) 
+and Temperature (T) is equal to the sum of 
+the pressure that individual gas exerts in 
+the mixture. This is Dalton’s law of partial 
+pressures. It is shown in Fig. 10.13.
+Fig. 10.13 : Schematic illustration of Dalton’s 
+law of partial pressures
++
+P1
+P2
+PT = P1 + P2
+ The partial pressures of individual gases 
+can be written in terms of ideal gas equation 
+as follows :
+     P1 = n1 RT 
+V
+,      P2 = n2 RT 
+V
+, 
+             P3 = n3 RT 
+V
+ , ... and so on  .... (10.21) 
+∴ PTotal = n1 RT 
+V
+ + n2 RT 
+V
+ + 
+	
+	
+	
+	
+n3 RT 
+V
+ ......
+Do all pure gases obey all the gas 
+laws? Do the mixtures of gases obey the 
+gas laws ? Yes, the gas laws are also 
+applicable to the mixtures of gases. As 
+we have learnt in section 10.5.3 that 
+the measurable properties of mixture of 
+the gases such as pressure, temperature, 
+volume and amount of gaseous mixture 
+are all related by an ideal gas law.
+150
+Just think
+            =  RT 
+V
+ (n1+ n2 + n3...) =  RT 
+V
+ nTotal  
+                                                      ........ (10.22) 
+Mole fraction of any individual gas in the 
+mixture is given by the equation
+      X1 = 
+n1
+n1+ n2 + n3... = 
+n1
+nTotal     .. (10.23)
+From Eq. (10.21) and Eq. (10.23) we get
+      n1  = P1       RT 
+V
+          .... (10.24)   
+ and 
+      nTotal  = PTotal      RT 
+V
+               .... (10.25)
+By combining equation Eq. (10.24) and 
+Eq. (10.25) we get   
+ 
+n1
+nTotal  = X1 = 
+P1 
+RT 
+V
+PTotal 
+RT 
+V
+  = P1
+PTotal
+  
+                                                      ........ (10.26) 
+Therefore it follows that 
+                     P1 = X1.PTotal                               ...... (10.27) 
+Similarly, 
+                P2 = X2.PTotal, P3 = X3.PTotal and so on. 
+Thus partial pressure of a gas is 
+obtained by multiplying the total pressure 
+of mixture by mole fraction of that gas.
+Where is the Dalton's law applicable? 
+The most important gas mixture 
+is of course the air around us. Dalton 
+law is useful for the study of various 
+phenomena in air including air pollution.
+ Problem 10.5 : A mixture of 28g N2, 8 
+g He and 40 g Ne has 20 bar pressure. 
+What is the partial pressure of each of 
+these gases ?
+Solution : Partial pressure mole fraction 
+x total pressure
+Step 1 : Determine the number of moles 
+(n) of each gas from its mass (m) and 
+molar mass (M), using the formula 
+n = m
+M  
+nN2 = 
+28 g
+28 g mol-1 = 1 mol
+nHe = 
+8 g
+4 gmol-1  = 2 mol
+nNe = 
+40g
+28 g mol-1 = 2 mol
+Step 2 : Determine the mole fraction 
+of each gas using the formula
+xN2=  
+n
+nTotal
+xN2= 
+nN2
+nN2+ nHe + nNe = 
+1 mol
+(1 + 2 + 2) mol
+                           = 1
+5
+xHe =  nHe
+nTotal
+ =  2 mol
+5 mol  = 2
+5
+Similarly XNe = 2
+5
+Step 3 : Calculate the partial pressure
+PN2 = X × PTotal = 1
+5  × 20 bar 
+                           = 4 bar
+PHe = XHe × PTotal =  2
+5  × 20 bar 
+                           = 8 bar
+PNe = XNe × PTotal =  2
+5  × 20 bar 
+                           = 8 bar
+Aqueous Tension :A vapor is a gas in 
+contact with a liquid of the same substance. 
+For example, the ‘gas’ above the surface of 
+liquid water is described as water vapour. The 
+pressure of the water vapour is known as its 
+vapour pressure.
+Suppose the liquid water is placed into a 
+container and air above is pumped away and 
+the container is sealed. Then the liquid water 
+evaporates and only water vapour remains 
+in the above space. After sealing, the vapour 
+pressure increases initially, then slows down 
+as some water molecules condense back to 
+form liquid water. After a few minutes, the 
+vapour pressure reaches a maximum called 
+the saturated vapour pressure. (We will learn 
+more about in section 10.9.2) The pressure 
+exerted by saturated water vapour is called 
+Aqueous Tension (Paq).
+151
+When a gas is collected over water in 
+a closed container, it gets mixed with the 
+saturated water vapour in that space. The 
+measured pressure, therefore, corresponds to 
+the pressure of the mixture of that gas and the 
+saturated water vapour in that space.
+Pressure of pure and dry gas can be 
+calculated by using the aqueous tension. It is 
+obtained by subtracting the aqueous tention 
+from total pressure of moist gas.
+	 ∴PDry gas=  PTotal - Paq
+i.e. PDry gas = PTotal - Aqueous Tension
+Table 10.5 : Aqueous Tension of Water (Vapour 
+Pressure) as a function of Temperature
+Temp. 
+(K)
+Pressure 
+(bar) 
+Temp.
+(K)
+Pressure 
+(bar)
+273.15
+0.0060
+295.15
+0.0260
+283.15
+0.0121
+297.15
+0.0295
+288.15
+0.0168
+299.15
+0.0331
+291.15
+0.0204
+301.15
+0.0372
+293.15
+0.0230
+303.15
+0.0418
+The above table reflects that Aqueous 
+Tension increases with increase in temperature.
+10.6 Kinetic Molecular Theory of Gases :
+The kinetic molecular theory of gases 
+is a theoretical model put forth to explain the 
+behavior of gases. 
+Assumptions of kinetic molecular 
+theory of gases :
+1. 	Gases consist of tiny particles (molecules 
+or atoms).
+2. On an average, gas molecules remain far 
+apart from each other. Therefore the actual 
+volume of the gas particles is negligible as 
+compared to the volume of the container. 
+(That is why the gases are highly 
+compressible).
+3. The attractive forces between the gas 
+molecules are negligible at ordinary 
+temperature and pressure. (As a result gas 
+expands to occupy entire volume of the 
+container).
+4. Gas molecules are in constant random 
+motion and move in all possible directions 
+in straight lines. They collide with each 
+other and with the walls of the container.
+5. Pressure of the gas is due to the collision of 
+gas particles with the walls of container.
+6. The collisions of the gas molecules are 
+perfectly elastic in nature, which means 
+that the total energy of the gaseous particle 
+remains unchanged after collision.
+7. The different molecules of a gas move 
+with different velocities at any instant and 
+hence have different kinetic energies. But 
+average kinetic energy of the gas molecules 
+is directly proportional to the absolute 
+temperature. 
+	
+Average K.E. ∝ T
+10.7 Deviation from Ideal behaviour : An 
+ideal gas is the one that exactly follows the 
+ideal gas equation. On rearranging the ideal 
+gas equation, n = PV/RT. If we use 1 mole of 
+any gas then the ratio PV/RT is predicted to 
+have numerical value of 1 at all pressures. If a 
+gas does not obey the ideal gas law, the ratio 
+will be either greater than 1 or less than 1, such 
+a gas is said to be a Real Gas.
+A. Ideal Gas:
+1. A gas that obeys all the gas laws over the 
+entire range of temperature and pressure. 
+2. There are no ineractive forces between the 
+molecules.
+3. The molecular volume is negligibly small 
+compared to the volume occupied by the 
+gas. These are point particles.
+B. Real Gas :	
+1. Real gas does not obey Boyle’s law and 
+Charles' law under all the conditions of 
+temperature and pressure.  
+A deviation from the ideal behaviour 
+is observed a high pressure and low 
+temperature It is due to two reasons. 
+(1) The intermolecular attractive forces are not 
+negligible in real gases. These do not allow the 
+molecules to collide the container wall with 
+full impact. This results in decrease in the 
+pressure. 
+(2) At high pressure, the molecular are very 
+close to each other. The short range repulsive 
+forces start operating and the molecules 
+behave as small but hard spherical particles. 
+The volume of the molecule is not 
+negligible. Therefore,x less volume is available 
+for molecular motion.
+152
+At very low temperature, the molecular 
+motion becomes slow and the molecules are 
+attracted to each other due to the attractive 
+force. Hence, here again the  behaviour of the 
+real gas deviates from the ideal gas behaviour.
+ Deviation with respect to pressure can be 
+studied by plotting pressure (P) vs volume (V) 
+curve at a given temperature. (See Fig. 10.14 
+and Table 10.6).
+At very high pressure, the measured 
+volume is more than theoretically calculated 
+volume assuming ideal behaviour. But at low 
+pressure, measured and calculated volumes 
+approach each other. 
+Table 10.6 : Difference between Ideal Gas and Real Gas
+Ideal gas
+Real Gas
+1. Strictly obeys Boyle’s and Charles’ law. 
+ PV
+nRT  = 1
+1. Shows deviation from Boyle’s and Charles’ law at 
+high pressure and temperature. i.e. obeys Boyle’s 
+law and Charles’ law at low pressure and high 
+temperature.
+PV
+nRT   
+≠
+ 1
+2. Molecules are perfectly elastic.
+2. Molecules are not perfectly elastic.
+3. No attraction or repulsion between the gas 
+molecules i.e. collision without loss of kinetic 
+energy (K.E.)
+3. Intermoleculer attraction is present, hence collision 
+takes place with loss of kinetic energy.
+4. Actual volume of the gas molecules is 
+   negligible as compared to total volume of the 
+gas.
+4. Actual volume of individual gas
+   molecule is significant at high 
+   pressure and low temperature. 
+5. Can not liquify even at low temperature but 
+continues to obey Charles’ law and finally 
+occupies zero volume at -2730C.
+5. Undergo liquefaction at low temperature when 
+cooled and compressed.
+6. Such a gas does not exist.
+6. Gases that exist in nature like H2,  O2, CO2  N2, He, etc.
+Compressibility Factor (Z) : Real Gases 
+show ideal behavior when pressure approaches 
+zero. Deviation from ideal behaviour can be 
+measured in terms of compressibility factor Z 
+which is the ratio of product PV and nRT.
+Z
+PV
+n T
+=
+R
+Figure 10.15 shows the graph of Z vs P. 
+It is a straight line parallel to x - axis (pressure 
+axis) where Z = 1.
+For ideal gas Z = 1 at all the value of 
+temperature and pressure. The significance 
+of Z is better understood from the following 
+derivation. we can write two equation (10.28) 
+and (10.29) for real and ideal gas respectively.
+           Z = PVreal
+nRT                        ......... (10.28)
+  and   1 = PVideal
+nRT                        ......... (10.29)
+∴  P
+nRT  =    
+Substituing the value of 
+P
+nRT  in 
+Eq. (10.28),  we get 
+Z =   Vreal
+Videal
+                         ......... (10.30)
+Fig. 10.14 : Plot of pressure Vs volume for 
+real and ideal Gas
+Ideal gas
+Volume
+Pressure
+0
+Real gas
+I
+Videal
+153
+Fig. 10.15 : Graph of compressibility factor 
+Z versus pressure for some gases
+The 
+Eq.(10.30) 
+implies 
+that 
+the 
+compressibility factor is the ratio of actual 
+molar volume of a gas to its molar volume 
+if it behaved ideally, at that temperature and 
+pressure.
+A positive deviation in Z, (Z > 1), 
+means that the volume of a molecule cannot 
+be neglected and the gas is difficult to compress. 
+At lower pressure, the gases have Z = 1 or Z 
+< 1. Under this conditon the molecular volume 
+is negligible and the gases are compressible. 
+Here, the gases show ideal behaviour.
+10.7 Liquefaction of gases and critical 
+constant : Most gases behave like ideal gases 
+at high temperature. For example, the PV curve 
+of CO2 gas at 500C is like the ideal Boyle’s 
+law curve. As the temperature is lowered the 
+PV curve shows a deviation from the ideal 
+Boyle’s law curve. At a particular value of low 
+temperature the gas gets liquified at certain 
+increased value of pressure. For example, CO2 
+gas liquifies at 30.98 0C and 73 atmosphere 
+pressure (See Fig. 10.16). 
+This is the highest temperature at which 
+liquid CO2 can exist. Above this temperature, 
+howsoever large  the pressure may be, liquid 
+CO2  cannot form. Other gases also show 
+similar behaviour. 
+The 
+temperature 
+above 
+which 
+a 
+substance cannot be liquified by increasing 
+pressure is called its critical temperature 
+(Tc).
+ Above the critical temperature a substance 
+exists only as gas. The molar volume at 
+critical temperature is called the critical 
+volume (Vc). and the pressure at the critical 
+temperature is calles the critical pressure 
+(Pc) of that substance. The Table 10.7 gives 
+the values of these three critical constants for 
+some common gases.
+Table 10.7 : Critical constants for common 
+Gases
+Substance 
+Tc / K
+Pc/ bar
+Vc/dm3mol-1
+H2
+33.2
+12.97
+0.0650
+He
+5.3
+2.29
+0.0577
+N2
+126.0
+33.9
+0.0900
+O2
+154.3
+50.4
+0.0744
+CO2
+304.10
+73.9
+0.0956
+H2O
+647.1
+220.6
+0.0450
+NH3
+405.5
+113.0
+0.0723
+From the Table 10.7 it is seen that the gases 
+that we come across in everyday life, namely, 
+N2 and O2 , have Tc values much below 0 0C 
+and their Pc values are high. Consequently, 
+liquefaction of O2 and N2 (and air) requires 
+compression and cooling.
+Fig. 10.16 :  Liquefaction of CO2 : Isotherms at 
+various temperature
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+Z-PV/nRT
+P/bar
+ideal gas
+N2
+H2O2CH4
+CO2
+0
+200	 400	 600	 800	 1000
+154
+Remember
+Problem 10.5 : Water has Tc = 647.1 K and 
+Pc = 220.6 bar. What do these values imply 
+about the state of water under ordinary 
+conditions?
+Solution : The Tc and Pc values of water are 
+very high compared to the room temperature 
+and 
+common 
+atmosheric 
+pressure. 
+Consequently water exists in liquid state 
+under ordinary condition of temperature and 
+pressure.
+Problem 10.6
+CO2 has Tc = 38.980C and Pc = 73 atm. How 
+many phases of CO2 coexist at (i) 50 0C and 
+73 atm, (ii) 20 0C and 50  atm.
+Solution:
+(i) 50 0C and 73 atm represent a condition 
+for CO2 above its Tc. Therefore, under this 
+condition CO2 exists only as single phase.
+(ii) 200 C and 50 atm represent a condition 
+for CO2 below its Tc. Therefore, under this 
+condition two phases of CO2, namely, liquid 
+and gas can coexist
+	
+When a liquid, which is exposed 
+to atmosphere, is heated, its vapour 
+pressure increases. Eventually it becomes 
+equal to the atmospheric pressure. At this 
+temperature the vaporisation takes place 
+throughout the bulk of the liquid, and the 
+vapour formed escapes freely, into the 
+surroundings. We call this boiling point of 
+the liquid. The boiling temperature (boiling 
+point) depends upon  the pressure to which 
+the surface of the liquid is exposed. If the 
+pressure is 1 atm, the boiling temperature 
+is called normal boiling point. If the 
+pressure is 1 bar, the boiling temperature is 
+called stadard boiling point.
+For water: normal b.p. = 100 0C, standard 
+b.p. = 99.6 0C
+Problem 10.7 : In which of the following 
+cases water will have the highest and the 
+lowest boiling point ? 
+Water is boiled 
+a. in an open vessel,
+b. in a pressure cooker, 
+c. in a evacuated vessel.	
+Solution : Higher the pressure to which a 
+liquid is exposed, higher will be its boiling 
+point. The pressure to which water is exposed 
+is maximum in the pressure cooker and 
+minimum in the evacuated vessel. Therefore 
+b.p. of water is highest in (b) and lowest in (c).
+Internet my friend
+1. https://chem.libretexts.org>bookshelves. 
+   Gas laws : overview
+2. Collect information about State of Mater 
+10.8 Liquid state : 	 Liquid 
+state 
+is 
+the 
+intermediate state between solid state and 
+gaseous state. Molecules of liquid are held 
+together by moderately strong intermolecular 
+forces and can move about within the 
+boundary of the liquid. As a result, liquid 
+posseses properties such as fluidity, definite 
+volume and ability to take shape of the 
+bottom of the container in which it is placed. 
+Different liquids are characterized by their 
+quantitative properties such as density, boiling 
+point, freezing point, vapour pressure, surface 
+tension and viscosity. We will look at some of 
+these propeties in the following sections.
+ The Tc value of CO2 nearly equals the 
+room temperature, however, its Pc value is 
+very high. Therefore CO2 exists as gas under 
+ordinary condition.
+Study of PV curves of various gases 
+at different temperatures reveals that under 
+certain conditions the substance changes 
+completely from gaseous to liquid state or 
+liquid to gaseous state, without having the 
+coexistence of two states. In other words, there 
+is a continuity between the gaseous and liquid 
+state. This continuity is recognized by using 
+the term Fluid for either gas or liquid. Under 
+these conditions liquid is just a very dense gas. 
+Liquid and gas can be distingushed from each 
+other only when the fluid is at a temperature 
+below Tc.
+155
+Just think
+Fig. 10.17 : Vapour pressure of a liquid
+Closed 
+vessel
+Vapours
+Vapours 
+Pressure
+Mercury 
+manometer 
+Beaker 
+Containing 
+liquid
+What makes 
+the oil rise 
+through the wick 
+in an oil lamp ?
+10.8.1 : Vapour Pressure : Molecules of 
+liquid have a tendency to escape from its 
+surface to form vapour about it. This called 
+evaporation. When a liquid is placed in a 
+closed container.It undergoes evaporation and 
+vapours formed undergo condensation. At 
+equilibrium, the rate of evaporation and rate of 
+condensation are equal. The pressure exerted 
+by the vapour in equilibrium with the liquid 
+is known as saturated vapour pressure  or 
+simply vapour pressure. 
+The vapour pressure of water is also 
+called Aqueous Tension. (Refer to Table 10.5) 
+Schematically vapour pressure is explained in 
+Fig. 10.17.
+Factors affecting vapour pressure :
+a. Nature of liquid : Liquids having relatively 
+weak intermolecular forces possess high 
+vapour pressure. These are called valatile 
+liquids. For example, petrol evaporates quickly 
+than motor oil.
+b. Temperature : When the liquid is gradually 
+heated, its temperature rises and its vapour 
+pressure increases.
+Unit : Vapour pressure is measured by means 
+of a manometer. The most common unit for 
+vapour pressure is torr. 1 torr = 1 mm Hg. 
+For example, water has a vapour pressure of 
+apporximately 20 torr at room temperature. 
+(Refer to section 10.5.6 and Table 10.5)
+10.8.2 Surface Tension : Many phenomena 
+such capillary rise of liquids, spherical shapes 
+of liquid drops are due to the property of liquids 
+called surface tension. Surface of a liquid 
+acts as a stretched membrane. The particles 
+in the bulk of liquid are uniformly attracted 
+in all directions and the net force acting on 
+the molecules present inside the bulk is zero. 
+But the molecules at the surface experience a 
+net attractive force towards the interior of the 
+liquid, or the forces acting on the molecules 
+on the surface are imbalanced (see Fig.10.18). 
+Therefore, liquids have a tendency to minimize 
+their surface area.
+Fig. 10.18 : Imbalance of forces 
+at the surface of a liquid
+(imbalanced 
+force)
+(balanced force)
+Surface 
+tension 
+is 
+a 
+temperature 
+dependent property. When attractive forces are 
+large, surface tension is large. Surface tension 
+decreases as the temperature increases. With 
+increase in temperature, kinetic energy of 
+molecules increases. So intermolecular forces 
+of attraction decrease, and thereby surface 
+tension decreases.
+The force acting per unit length 
+perpendicular to the line drawn on the 
+surface of liquid is called surface tension.
+Unit : Surface tension is measured in SI Unit, 
+Nm-1, denoted by Greek letter “γ’’ (Gamma)
+Application of surface tension : 
+i. Cleaning action of soap and detergent 
+is due to the lowering of interfacial tension 
+between water and oily substances. Due 
+to lower surface tension, the soap solution 
+penetrates into the fibre, surrounds the oily 
+substance and washes it away.
+Molecule at 
+the surface 
+Molecule in 
+the bulk 
+156
+ii. Efficacy of toothpastes, mouth washes 
+and nasal drops is partly due to presence of 
+substances having lower surface tension. This 
+increases the efficiency of their penetrating 
+action.
+10.8.3 Viscosity : As noted earlier, liquids 
+(fluids) have a tendency to flow. Viscosity 
+measures the magnitude of internal friction in 
+a liquid or fluid to flow as measured by the 
+force per unit area resisting uniform flow, 
+different layers of a liquid flow with different 
+velocity. This called laminar flow.   Here, the 
+layers of molecules in the immediate contact 
+of the fixed surface remains stationary. The 
+subsequent layers slip over one another. Strong 
+intermolecular forces obstruct the layers from 
+slipping over one another, resulting in a friction 
+between the layers.
+Viscosity is the force of friction between the 
+successive layers of a flowing liquid. It is also 
+the resistance to the flow of a liquid. 
+When a liquid flows through a tube, the central 
+layer has the highest velocity, whereas the 
+layer along the inner wall in the tube remains 
+stationary. This is a result of the viscosity of 
+a liquid (see Fig. 10.19). Hence, a velocity 
+gradient exists across the cross-section of the 
+pipe/tube.
+Unit : Viscosity is expressed in terms of 
+coefficient of viscosity, ‘η’ (Eta). It is defined 
+as the degree to which a fluid resists flow under 
+an applied force, measured by the tangential 
+frictional force per unit area per unit velocity 
+gradient when the flow is laminar.
+SI unit of viscosity coefficient is N s m-2 
+(newton second per square meter). In CGS 
+system the unit (η) is measured in poise.
+      1 poise = 1 gm cm-1s-1 = 10-1 kg m-1s-1
+Illustration of viscosity : 
+i. 	 Lubricating oils are viscous liquids.
+Gradation of lubricating oils is done on 
+the basis of viscosity. A good quality 
+Lubricating oil does not change its viscosity 
+with increase or decrease in temeperature.
+ii.  Increase blood viscosity than the normal 
+value is taken as an indication of cardio 
+vascular disease.
+iii. Glass panes of old buildings are found to 
+become thicker with time near the bottom. 
+This is one evidence which indicates that 
+glass is not a solid but a supercooled 
+viscous liquid.
+Fig. 10.19 : Laminar flow of a liquid (fluid)
+through a tube/pipe
+V - dV
+V
+V - dV
+Centre 
+of tube
+Viscosity is a temperature dependent property. 
+                 Viscosity α  
+1
+Temperature
+Viscosity also depends on molecular 
+size and shape. Larger molecules have more 
+viscosity and spherical molecules offer the 
+least resistance to flow and therefore are less 
+viscous. Greater the viscosity, slower is the 
+liquid flow.
+Internet my friend
+https://www.britannica.com/science/
+viscosity.
+157
+1. Select and write the most appropriate 
+alternatives from the given choices.
+A. The unit of viscosity is 
+	
+	 a. dynes	
+	
+b. newton
+	
+	 c. gram	
+	
+d. poise
+B.	Which of the following is true for 2 moles 
+of an ideal gas ?
+	
+a. PV = nRT	
+	
+b. PV = RT
+	
+c. PV = 2RT	
+	
+d. PV = T
+C.	Intermolecular forces in liquid are -
+	
+a. greater than gases
+	
+b. less than solids
+	
+c. both a and b
+	
+d. greater than solids
+D.	Interactive forces are .......... in ideal gas.
+	
+a. nil	
+	
+b. small
+	
+c. large	 	
+d. same as that of real 	
+	 	
+	
+    gases
+E.	At constant temperature the pressure of 
+22.4 dm3 volume of an ideal gas was 
+increased from 105 kPa to 210 kPa, New 
+volume could be-
+	
+a. 44.8 dm3	
+b. 11.2dm3
+	
+c. 22.4 dm3	
+d. 5.6dm3
+2. 	Answer in one sentence.
+A.	 Name the term used for mixing of 
+different gases by random molecular 
+motion and ferquent collision.
+B.	 The pressure that each individual gas 
+would exert if it were alone in the 
+container, what do we call it as ?
+C.	 When a gas is heated the particles move 
+more quickly. What is the change in 
+volume of a heated gas if the pressure 
+is kept constant ?
+D.	 A bubble of methane gas rises from 
+the bottom of the North sea. What will 
+happen to the size of the bubble as it 
+rises to the surface ?
+E.	 Convert the following temperatures 
+from degree celcius to kelvin.
+	
+a. -15° C	
+	
+b. 25° C
+	
+c. -197° C	
+	
+d. 273° C
+F. 	 Convert the following pressure values 
+into Pascals.
+	
+a. 10 atmosphere	
+c 107000 Nm-2
+	
+b. 1 kPa.	
+	
+d. 1 atmosphere
+G.	 Convert : 	
+	
+a. Exactly 1.5 atm to pascals
+	
+b. 89 kPa to newton per square metre 	
+	
+(Nm-2)
+	
+c. 101.325 kPa to bar
+	
+d. -100° C to kelvin
+	
+e. 0.124 torr to standard atmosphere
+H.	 If density of a gas is measured at 
+constant temperature and pressure then 
+which of the following statement is 
+correct ?
+a. 	Density is directly proportional to 
+molar mass of the gas.
+b.	Greater the density greater is the 
+molar mass of the gas.
+c.	If density, temperature and pressure 
+is given ideal gas equation can be 
+used to find molar mass.
+d. 	All the above statements are correct.
+I.	
+Observe the following conversions.
+a. 
+  +  
+ 
+ 
+	
+	    H2	   +    Cl2      
+	
+2HCl
+b. 
+  +  
+ 
+ 
+	
+	 2H2	
+ +    Cl2      
+       2HCl+H2
+	
+Which of the above reactions is 
+in accordance with the priciple of 
+stoichiometry ?
+J.	
+Hot air balloons float in air because 
+of the low density of the air inside the 
+balloon. Explain this with the help of 
+an appropriate gas law.
+Exercises
+158
+3.	 Answer the following questions.
+A.	Identify the gas laws from the following 
+diagrams.
+	
+Diagrams	 	
+            Gas laws
+	
+a.	
+	
+	
+	
+	
+	
+	
+b.	
+	
+	
+	
+	
+	
+	
+c.	
+	
+	
+	
+B.	Consider a sample of a gas in a cylinder 
+with a movable piston.
+	
+Show digramatically the changes in the 
+position of piston, if - 
+	
+a. Pressure is increased from 1.0 bar to 
+ 	
+2.0 bar at constant temperature.
+b. Temperature is decreased from 300 K to 150 
+K at constant pressure
+c. Temperature is decreased from 400 K to 
+300 K and pressure is decreased from 
+4 bar to 3 bar.
+D.	List the characteristic physical properties of 
+the gases.
+E.	Define the terms:	 a. Polarizability
+	
+	
+	
+	
+b. Hydrogen bond
+	
+	
+	
+	
+c. Aqueous tension
+	
+	
+	
+	
+d. Dipole moment
+F.	 Would it be easier to drink water with a 
+straw on the top of the Mount Everest or at 
+the base ? Explain.
+G.	Identify type of the intermolecular forces in 
+the following compounds.  
+	
+a. CH3 - OH	
+b. CH2 
+ CH2
+	
+c. CHCl3	
+	
+d. CH2Cl2
+37.2 L
+H.	Name the types of intermolecular forces 
+present in  Ar,  Cl2,  CCl4 and  HNO3
+I.	 Match the pairs of the following :
+	
+   ‘A’	
+  	
+	
+    ‘B’
+a. Boyle’s law		
+i.  at constant pressure	
+	
+                            and volume	
+b.  Charles’ law	
+ii.  at constant 
+ 	                                         temperature
+	
+                                 iii. at constant pressure
+J. 	Write the statement for :
+	
+ (a) Boyle’s law  (b) Charles’ law
+K.	Differentiate between Real gas and Ideal 
+gas.
+4.	 Answer the following questions
+A.	State and write mathematical expression 
+for Dalton’s law of partial pressure and 
+explain it with suitable example.
+B.	Derive an Ideal gas equation. Mention the 
+terms involved in it. Also write how it is 
+utilised to obtain combined gas law.
+C.	With the help of graph answer the 
+following -
+1 bar
+1 bar
+n = 1 mol n = 1.5 mol
+1 atm
+1 atm
+T = 200 K T = 600 K
+1/V 
+P
+1 atm 0.5 atm
+T constant
+T constant
+	
+At constant temperature, 
+a.	Graph shows relation between pressure 
+and volume. Represent the relation 
+mathematically. 
+b. Identify the law.
+c. Write the statement of law.
+D.	Write Postulates of kinetic theory of gases.
+E.	Write a short note on -
+	
+a. Vapour pressure.
+	
+b. Surface tension
+	
+c. Viscosity.
+5.	 Solve the following 
+A. A balloon is inflated with helium gas at 
+room temperature of 250C and at 1 bar 
+pressure when its initial volume is 2.27L 
+and allowed to rise in air. 
+24.8 L
+Gas
+Movable piston

@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-dotenv
+pymupdf
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai
+google-generativeai
+anthropic
+groq
+sympy
+pint
+numpy
+python-multipart

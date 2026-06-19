@@ -1,0 +1,1572 @@
+109
+C.	 The lanthanides are placed in the 
+periodic table at
+	
+	 a. left hand side
+	
+	 b. right hand side
+	
+	 c. middle
+	
+	 d. bottom
+D.	If 
+the 
+valence 
+shell 
+electronic 
+configuration is ns2np5, the element will 
+belong to 
+	
+	 a. alkali metals
+	
+	 b. halogens
+	
+	 c. alkaline earth metals
+	
+	 d. actinides
+E.	 In which group of elements of the modern 
+periodic table are  halogen placed ?
+	
+	 a. 17	 	
+b. 6
+	
+	 c. 4	
+	
+d. 2
+F.	 Which of the atomic number represent 
+the s-block elements ?
+	
+	 a. 7, 15
+	
+	 b. 3, 12
+	
+	 c. 6, 14
+	
+	 d. 9, 17
+G.	Which of the following pairs is NOT 
+isoelectronic ?
+	
+	 a. Na⊕ and Na
+	
+	 b. Mg2⊕ and Ne
+	
+	 c. Al3⊕ and B3⊕
+	
+	 d. P3  and N3
+H. 	Which of the following pair of elements 
+has similar properties ?
+	
+	 a. 13, 31
+	
+	 b. 11, 20
+	
+	 c. 12, 10
+	
+	 d. 21, 33 
+5. Answer the following questions
+A.	The electronic configuration of some 
+elements are given below:
+	
+a. 1s2	
+b. 1s2 2s2 2p6
+	
+In which group and period of the 
+periodic table they are placed ?
+B.	 For each of the following pairs, indicate 
+which of the two species is of large size :
+	
+a. Fe2+ or Fe3+  	 b. Mg2+ or Ca2+
+C.	 Select the smaller ion form each of the 
+following pairs:
+	
+a. K+ , Li+ 	
+b. N3-, F-  
+D.	With the help of diagram answer the 
+questions given below:	
+Li
+Be
+O
+S
+a. Which atom should have smaller 
+ionization enthalpy, oxygen or sulfur?
+b. The lithium forms +1 ions while 
+berylium forms +2 ions ?	
+E.	 Define : 	a. Ionic radius
+	
+	 	
+b. Electronegativity
+F.	 Compare chemical properties of metals 
+and non metals.
+G.	What are the valence electrons ? For 
+s-block and p-block elements show that 
+number of valence electrons is equal to 
+its group number.
+H.	Define ionization enthalpy. Name the 
+factors on which ionisation enthalpy 
+depends? How does it vary down the 
+group and across a period?
+I.	 How the atomic size vary in a group and 
+across a period? Explain with suitable 
+example.
+J.	 Give reasons. 
+a.	Alkali metals have low ionization 
+enthalpies.
+b.	Inert gases have exceptionally high 
+ionization enthalpies.
+c. Fluorine has less electron affinity than 
+chlorine.
+d. Noble gases possess relatively large 
+atomic size.
+K. 	Consider the oxides Li2O, CO2, B2O3.
+a.	Which oxide would you expect to be 
+the most basic? 
+b. Which oxide would be the most acidic?
+c. Give the formula of an amphoteric 
+oxide.
+Activity :
+Prepare a wall mounting chart of the 
+modern periodic table.
+110
+We have seen in chapter 7 that the element 
+of group 1 and group 2 belong to the s-block of 
+the modern periodic table.
+8. Elements of Groups 1 and Group 2
+Electronic configuration of hydrogen is 
+1s1 which is similar to ns1 which is the outer 
+electronic configuration of alkali metals 
+belonging to the group 1. But 1s1 also resembles 
+the outer electronic configuration of group 
+17 elements, which is ns2np5. By adding one 
+electron to H we get electronic configuration 
+of the inert gas He which is 1s2 and by 
+adding one electron to ns2np5 we get ns2np6 
+which is the outer electronic configuration 
+of the remaining inert gases. Some chemical 
+properties of hydrogen are similar to those of 
+alkali metals while some resemble halogens. 
+The uniqueness of hydrogen is that H⊕ formed 
+by loss of the electron from hydrogen atom 
+does not exist freely. It is always associated 
+with other molecules. For example:
+H⊕ + H2O 
+ H3O⊕
+This is because H⊕ is nothing else but 
+a proton. Hydrogen is, therefore, placed 
+separately above the group 1. It may be noted, 
+here, that metastable metallic hydrogen was 
+discovered at Harvard university, USA, in 
+January 2017.
+8.1.3 Isotopes of Hydrogen : If different 
+atoms of the same element have different 
+mass numbers they are called isotopes of each 
+other. (Refer to chapter 4). Hydrogen has three 
+isotopes with mass numbers 1, 2 and 3. They 
+all contain one proton and one electron but 
+different number of neutrons in the nucleus. 
+(see figure 8.1 and table 8.1)
+Figure 8.1 Isotopes of hydrogen
+Can you tell?
+Can you recall?
+1. Which is the first element in the 
+periodic table ?
+2. What are isotopes ?
+3.	 Write the formulae of the compounds 
+of hydrogen formed with sodium and 
+chlorine.
+Hydrogen is the first element in the 
+periodic table. Hydrogen appears at the top of 
+group 1 of the alkali metals. But it differs from 
+alkali metals in a number of respects and, 
+therefore, is studied separately. 
+8.1 Hydrogen : Hydrogen has the simplest 
+atomic structure of all the elements. A hydrogen 
+atom consists of a nucleus of charge +1 and 
+one extranuclear electron. Hydrogen has a 
+little tendency to lose this electron however 
+can pair with the other electron easily forming 
+a covalent bond. It exists in diatomic form 
+as H2 molecule; therefore it is often called 
+dihydrogen.
+8.1.1 Occurrence  : In the free state hydrogen 
+exists as dihydrogen gas. Hydrogen is most 
+abundant element in the universe; it makes 70 
+% of the total mass of the universe. Hydrogen 
+is also the principal element in the solar 
+system. On the earth, hydrogen is the tenth 
+most abundant element on mass basis and the 
+third most abundant element on atom basis.
+8.1.2 Position of hydrogen in the periodic 
+table : Position of hydrogen in the periodic 
+table has been a subject of discussion.
+In which group should hydrogen be 
+placed ? In group 1 or group 17 ? Why ?
+p
+p n
+n
+n
+p
+Hydrogen
+Deuterium
+Tritium
+H
+1
+1
+H
+2
+1
+H
+3
+1
+111
+Table 8.1 : Characteristics of isotopes of hydrogen
+Name of the 
+Isotope
+Symbol
+Atomic 
+number Z
+Atomic 
+mass 
+number A
+Neutron 
+number  N
+Abundance
+ Stability
+Hydrogen 
+H or H
+1
+1
+or  H-1
+1
+1
+0
+99.98 %
+Stable
+Deuterium
+D or H
+2
+1
+  or H-2
+1
+2
+1
+0.015 %
+Stable
+Tritium
+T or H
+3
+1
+  or H-3
+1
+3
+2
+Trace
+Ratio 
+active
+8.1.4 Preparation of dihydrogen
+Hydrogen can be prepared using many 
+methods.
+A. Laboratory methods
+i. Dihydrogen is prepared in laboratory by the 
+action of dilute hydrochloric acid on zinc 
+granules.
+	
+Zn(s) + 2HCl(aq) → ZnCl2(aq) + H2(g)
+ii. Dihydrogen can be prepared by the action 
+of aqueous solution of sodium hydroxide on 
+zinc.
+	
+Zn(s) + 2NaOH(aq) → Na2ZnO2(aq) + 
+H2(g)
+B. Industrial methods
+i. By electrolysis of pure water: Pure water is 
+a poor conductor of electricity. Therefore a 
+dilute aqueous solution of acid or alkali is 
+used to prepare dihydrogen by electrolysis. 
+For example, electrolysis of dilute aqueous 
+solution of sulphuric acid yields two volumes 
+of hydrogen at cathode and one volume of 
+oxygen at anode.
+2H2O (l) 
+electrolysis
+trace of acid or akali 2H2↑ + O2↑
+	 Pure dihydrogen (> 99.5% purity) gas is 
+obtained by electrolysis of warm solution of 
+barium hydroxide between nickel electrodes.
+ii. From carbon or hydrocarbon: Three 
+stages are involved in this industrial process 
+of preparation of dihydrogen.
+Stage 1 : Reaction of steam on hydrocarbon 
+or coke (C) at 1270 K temperature in presence 
+of nickel catalyst, gives water-gas, which is a 
+mixture of carbon monoxide and hydrogen. 
+CH4(g) + H2O(g)   1270 K
+Ni
+ CO(g) + 3H2(g)
+            	
+	
+	
+}
+water-gas
+	
+	
+	
+As water-gas is used for synthesis of CH3OH 
+and a number of hydrocarbons, it is also called 
+‘syngas’. Production of syngas is also the first 
+stage of gasification of coal.
+C(s) + H2O (g) 
+1270 K
+  CO(g) + H2(g).
+Sawdust, scrapwood, etc. can also be used in 
+place of carbon. 
+Stage 2 : Water-gas shift reaction: The carbon 
+monoxide in the watergas is transformed 
+into carbondioxide by reacting with steam in 
+presence of iron chromate as  catalyst. This is 
+called water-gas shift reaction. 
+CO(g) + H2O(g) 
+673 K
+iron chromate 
+catalyst
+ CO2(g) + H2(g) 
+Stage 3 : Carbon dioxide  is removed by 
+scrubbing with sodium arsenite solution.
+Today major industrial production of 
+dihydrogen is from petrochemicals (∼ 77 %), 
+about 18 % from coal, about 4 % by electrolytic 
+methods and about 1 % by other methods.
+8.1.5 Properties of dihydrogen
+A. Physical properties : Dihydrogen is 
+colourless, tasteless and odourless gas. It burns 
+with a pale blue flame. It is a nonpolar water 
+insoluble gas, lighter than air.
+Do you know ?
+Tritium 
+3
+1 H  
+is 
+a 
+radioactive 
+nuclide with half life period 12.4 years 
+and emits low energy β  particles.
+112
+Just think
+B. Chemical properties : 
+i. Reaction with metals : Dihydrogen 
+combines with all the reactive metals such as 
+alkali metals, calcium, strontium and barium 
+at high tempereture, to form metal hydrides. 
+For example :
+	
+2Na(s) + H2(g) 
+ 2NaH(s)
+(In this respect dihydrogen is similar to 
+halogens which also react with metals and 
+form metal halides.)
+In the above chemical reaction 
+which element does undergo oxidation 
+and which does undergo reduction ?
+Problem 8.1 : Justify the placement of 
+hydrogen in the group of alkali metals 
+with the help of reaction with halogens.
+Solution :
+Hydrogen on reaction with halogen (X2) 
+gives compounds with general formula 
+HX. For example : H2 + Cl2 
+ 2HCl
+similarly alkali metals (M) on reaction 
+with halogens (X2) give compounds with 
+general formula MX.
+For examples : 2Na + Cl2 
+ 2NaCl
+Thus, H2 and alkali metal are monovalent 
+elements 
+more 
+electropositive 
+than 
+halogens. This similarily justifies the 
+place of hydrogen in the group 1. 
+CuO(s) + H2(g) 
+ Cu(s) + H2O(l)
+ Fe3O4 (s) + 4 H2(g) 
+ 3Fe(s) + 4H2O(l)
+Pd2⊕(aq) + H2 (g) 
+ Pd(s) + 2H⊕(aq)
+b. Hydrogenation of unsaturated organic 
+compound
+The hydrogenation of unsaturated organic 
+compounds such as oil using nickel caralyst 
+gives saturated organic compounds such as 
+solid fat (vanaspati Ghee).
+   
+     C = C    
+(Vegetable oil)
++ H2 
+Ni
+ 
+   
+     CH - C H   
+(Saturated fat)
+7.1.6 Uses of dihydrogen
+i. 	 Largest use of dihydrogen is in production 
+of ammonia. 
+ii. 	 Dihydrogen is used in formation of 
+vanaspati ghee by catalytic hydrogenation 
+of oils.
+iii. 	Liquid dihydrogen is used as a rocket fuel.
+iv.	 Dihydrogen is used in preparation of 
+important 
+organic 
+compounds 
+like 
+methanol in bulk quantity.
+2H2(g) + CO(g) Cobalt catalyst CH3OH(l)
+v. Dihydrogen is used for preparation of 
+hydrogen chloride (HCl) and metal 
+hydrides.
+Do you know ?
+ii. Reaction with dioxygen: Dihydrogen reacts 
+with dioxygen in the presence of catalyst or by 
+heating to form water. This reaction is highly 
+exothermic.
+2H2(g) + O2(g) 
+catalyst
+or heating  2H2O(l) ; 
+                                           ∆H = -235 kJ mol-1
+iii. Reaction with halogens: Dihydrogen 
+inflames with fluorine even at -2500 C in 
+dark, whereas it requires catalyst to react with 
+iodine. The vigour of reaction of dihydrogen 
+decreases with increasing atomic number of 
+halogen.
+H2 (g) + X2(g) → 2HX(g)
+(In this respect dihydrogen resembles alkali 
+metals which also react with halogens to form 
+halides.)
+iv. Reducing nature of dihydrogen : 
+a. Dihydrogen reduces oxides and ions of 
+metals those are less reactive than iron, to the 
+corresponding metals at moderate temperature. 
+For example : 
+The bond dissociation energy of 
+H-H bond  is high, which is 436 kJ mol-1. 
+Therefore reactions of dihydrogen take place 
+at high temperature and /or in the epresence 
+of catalyst.
+113
+8.2 Alkali metals and alkaline earth metals
+8.2.1 Introduction : The elements of the groups 
+1 and 2 are placed on the left in the periodic 
+table. Here the last electron enters into ‘ns’ 
+subshell. Thus they belong to the s-block of the 
+periodic table. Group 1 of the periodic table 
+consists of the elements: hydrogen, lithium, 
+sodium, potassium, rubidium, caesium and 
+francium. These elements except hydrogen 
+are collectively called alkali metals. We have 
+already looked at hydrogen in the section 8.1. 
+Two elements of Group 1, namely, sodium 
+and potassium are the sixth and seventh most 
+abundant elements in earth crust but francium 
+does not occur appreciably in nature because 
+it is radioactive and has short half-life period. 
+Group 2 of the periodic table consists of 
+elements : beryllium, magnesium, calcium, 
+strontium, barium and radium. These 
+elements are collectively called alkaline earth 
+metals because they occur as minerals in 
+rocks. The elements magnesium and calcium 
+are found abundantly in earth crust but 
+radium is not easy to find. Radium is one of 
+the first two radioactive elements discovered 
+by Madame Curie. 
+8.2.2 Electronic configuration of elements of 
+group 1 and group 2
+The general outer electronic configuration 
+of the group 1 elements is ns1 and that of the 
+group 2 elements is ns2. The loosely held 
+s-electrons in valence shell of these elements 
+can be easily removed to form metal ions. 
+Hence these elements are never found in free 
+state in nature. Tables 8.2 and 8.3 show the 
+electronic configurations of the elements of 
+group 1 and group 2 elements, respectively.
+Table 8.2 : Electronic configuration of group 1 elements
+Name
+Symbol
+Atomic 
+number
+Condensed electronic 
+configuration 
+ Electronic Configuration.
+Hydrogen
+H
+1
+1s1
+1s1
+Lithium
+Li
+3
+[He] 2s1
+1s2 2s1
+Sodium
+Na
+11
+[Ne] 3s1
+1s2 2s2 2p6 3s1
+Potassium
+K
+19
+[Ar] 4s1
+1s2 2s2 2p6 3s2 3p6 4s1
+Rubidium
+Rb
+37
+[Kr] 5s1
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1
+Caesium
+Cs
+55
+[Xe] 6s1
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2  4d10 
+5p6 6s1
+Francium
+Fr 
+87
+[Rn]7s1
+1s2 2s2 2p6 3s2 3p6 4s23d10 4p6 5s2 4d10 
+5p6 6s2  4f14 5d10 6p6 7s1
+Table 8.3 : Electronic configuration of group 2 elements
+Name
+Symbol
+Atomic 
+number
+Condense electronic 
+configuration 
+ Electronic Configuration.
+Beryllium
+Be
+4
+[He] 2s2
+1s2 2s2
+Magnesium
+Mg
+12
+[Ne] 3s2
+1s2 2s2 2p6 3s2
+Calcium
+Ca
+20
+[Ar] 4s2
+1s2 2s2 2p6 3s2 3p6 4s2
+Strontium
+St
+38
+[Kr] 5s2
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2
+Barium
+Ba
+56
+[Xe] 6s2
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 
+4d10 5p6 6s2
+Radium
+Ra
+88
+[Rn] 7s2
+1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2    4d10 
+5p6 6s2 4f14 5d10 6p6 7s2
+Can you recall?
+1. What is the name of the family of 
+reactive metals having valancy one? 
+2. What is the name of the family of 
+reactive metals having valancy two?
+114
+8.2.3 Trends in atomic and physical properties 
+of elements of group 1 and group 2
+All the alkali metals are silvery white 
+and soft. Due to their large atomic size these 
+elements have low density. They are the most 
+electropositive elements. The alkaline earth 
+are metals also in general silvery white lustrous 
+and soft, but harder than the alkali metals. They 
+are also strongly electropositive in nature. 
+But comparatively less electropositive than 
+the alkali metals. Some atomic and physical 
+properties of the alkali metals and the alkaline 
+earth metals are listed in the tables 8.4 and 8.5 
+respectively.
+Table 8.4 : Physical properties of group 1 elements (except hydrogen)
+Symbol
+Atomic 
+radius 
+(pm)
+Ionic 
+radius
+(pm)
+Density 
+(g/cm-3)
+Ionization 
+enthalpy
+ (kJ mol-1)
+Electro-
+negativity
+Melting 
+point (K)
+Abundance 
+in the 
+lithosphere
+Standard 
+reduction 
+potential
+Eo (V)
+Li
+152
+76
+0.54
+520
+1.0
+454
+18 ppm
+-3.04
+Na
+186
+102
+0.97
+496
+0.9
+371
+2.27 %
+-2.714
+K
+227
+138
+0.86
+419
+0.8
+336
+1.84 %
+-2.925
+Rb
+248
+152
+1.53
+403
+0.8
+312
+78.12 ppm
+-2.930
+Cs
+265
+167
+1.90
+376
+0.7
+302
+2.6 ppm
+-2.927
+Fr
+-
+(180)
+-
+∼375
+-
+-
+-10-18 ppm
+-
+ Table 8.5 : Physical properties of group 2 elements
+Symbol
+Atomic 
+radius 
+(pm)
+Ionic 
+radius 
+(pm)
+Density 
+(g/cm-3)
+Ionization 
+enthalpy
+( kJ mol-1)
+Electro-
+negativity
+Melting 
+point 
+(K)
+Abundance 
+in the 
+lithosphere
+Standard 
+reduction 
+potntial 
+E0 (V)
+1st
+2nd
+Be
+111
+31
+1.84
+899
+1757
+1.5
+1560
+2 ppm
+-1.97
+Mg
+160
+72
+1.74
+737
+1450
+1.2
+924
+2.76 %
+-2.36
+Ca
+197
+100
+1.55
+590
+1145
+1.0
+1124
+4.6 %
+-2.84
+Sr
+215
+118
+2.63
+549
+1064
+1.0
+1062
+384 ppm
+-2.89
+Ba
+222
+135
+3.59
+503
+965
+0.9
+1002
+390 ppm
+-2.92
+Ra
+-
+148
+(5.5)
+509
+979
+-
+973
+10-6 ppm
+-2.92
+Unipositive ions of all the elements of 
+group 1 have inert gas configuration. Thus 
+they have no unpaired electron and their 
+compounds are diamagnetic and colourless. 
+The divalent ions of group 2 elements also 
+have inert gas configuration with no unpaired 
+electron, and therefore their compounds are 
+also diamagnetic and colourless. Lithium and 
+beryllium differ from the rest of the elements 
+of the groups 1 and 2, respectively because of 
+their extremely small size and comparatively 
+high electronegativity.
+The physical properties of group 1 and 
+group 2 elements show reasonable regularity 
+in the periodic trends. Thus the atomic and 
+ionic radii and densities increase down 
+both the groups. Ionization enthalpies and 
+electronegativities decrease down both the 
+groups. The elements of both these groups, in 
+general, have high negative values of standard 
+reduction potentials.
+8.2.4 Chemical properties of elements of 
+group 1 and group 2
+The alkali metals and alkaline earth 
+metals are very reactive in nature. As a result of 
+this they are always found in combined state. 
+Their reactivity is due to their low ionization 
+ehthalpy values in general. The reactivity 
+of these metals increases with increasing 
+atomic radius and corresponding lowering of 
+lonization enthalpy down the groups 1 and 2 
+can be noticed.
+115
+Do you know ?
+Problem 8.2:
+Sodium forms ionic compounds having 
+formulae NaCl, NaH and Na2CO3. Explain
+Solution: Let us rewrite the formulae 
+of the compounds of sodium showing 
+charges on the concerned cation and 
+basic anion.
+Na⊕Cl  ,  Na⊕H ,  2Na⊕ CO3
+2   
+It is seen that in all these compounds 
+Na carries one positive charge. The Na⊕ 
+is formed from Na atom by losing one 
+electron. Na → Na⊕+ e
+This happens because the electronic 
+configuration of Na is [Ne]3s1. There is 
+only one electron in the valence shell of 
+Na. It can easily be lost as the ionization 
+enthalpy is low. And Na⊕ ion so formed 
+is stable as it has stable electronic 
+configuration of the inert gas Ne.
+Problem 8.3 : Explain the observed 
+values 496 kJ/mol and 737 kJ/mol of the 
+first ionization enthalpies of Na and Mg, 
+respectively.
+Solution : The electronic configuration 
+of Na is [Ne]3s1 and that of Mg is 
+[Ne]3s2. During the first iouization only 
+one electron is removed from a neutral 
+atom.
+Na 1st ionisation
+ Na⊕ + e
+Mg 1st ionisation
+ Mg⊕ + e
+The resulting Na is isoelectronic with Ne, 
+and therefore, is stable. Thats why Na 
+has low value of 1st ionization enthalpy. 
+However, to form the unipositive Mg⊕ 
+ion energy is required to unpair these 
+electrons in the valency shell and also 
+remove one electron to form the ion 
+having electronic configuration [Ne] 3s1. 
+It is not as stable as Na since it does not 
+correspond to any inert gas. Therefore the 
+first ionization enthalpy of Mg is higher 
+than that of Na.
+Problem 8.4:
+What is the oxidation state of Na in 
+Na2O2?
+Solution: 
+The 
+peroxide 
+species 
+is 
+represented as O2
+2−. Any compound is 
+electrically neutral. Therefore oxidation 
+state of each Na is (+2/2 = +1) in 
+Na2O2.
+Problem 8.5 :
+The atomic radii of Na, K and Mg 
+are 186, 227 and 160 pm, respectively. 
+Explain the differences.
+Solution : Na and K both belong to the 
+group 1. K has larger valence shell than 
+Na. Therefore the atomic radius of K 
+is larger than that of Na. Na and Mg 
+belong to the same period. Therefore both 
+have the same valence shell. But the 
+nuclear charge of Mg is larger than that 
+of Na. Therefore, the valence electrons of 
+Mg are held more tightly and its atomic 
+radius is smaller than that of Na.
+•	
+The reaction of Na and K with oxygen 
+is highly exothermic and these metals 
+catch fire when exposed to air. 
+The elements of group 1 and group 2 both 
+being s-block elements, show similarily in 
+their chemical properties. The differences are 
+due to variation in the atomic radii, ionization 
+enthalpies and valencies.
+i. Reaction with oxygen/air
+Group 1 - All the elements of group 1 rapidly 
+lose their luster in air due to formation of a 
+layer of oxide, on peroxide and in some cases 
+superoxide by reaction with oxygen in air. 
+2Li + O2  
+   2LiO
+	
+	
+(Lithium oxide)
+2Na + O2  
+   Na2O2
+	
+	
+(Sodium peroxide)
+    K + O2  
+    KO2	
+                                    (Potassium superoxide)
+116
+•	
+Potassium superoxide has ability to 
+absorb carbon dioxide and give  out 
+oxygen at the same time:	
+	
+4KO2 + 2CO2 → 2K2CO3 + 3O2↑
+•	
+This property of KO2 has been made 
+use of in breathing equipment used 
+for mountaineers and in submarines 
+and space.
+The oxides of group 1 metals are strongly 
+basic in nature. They dissolve in water 
+forming aqueous solutions of strong alkali. 
+For example 
+2LiO(s) + H2O(l) → 2LiOH(aq) 
+Group 2 : These metals are protected from 
+air oxidation by an oxide film formed on their 
+surface.
+All the elements of group 2 burn when ignited 
+in air forming MO type oxides. The product is 
+a mixture of oxide and nitride.
+2Mg + O2 → 2MgO
+3Mg + N2 → Mg3N2 
+Further heating of the oxide in air results in 
+formation of peroxide.
+ii. Reaction with water
+Group 1 : Lithium, sodium and potassium all 
+float on water due to hydrogen bubbles released 
+on reaction with water. Lithium reacts slowly 
+but sodium and potassium react vigrously 
+with water. Due to highly exothermic reaction 
+sodium and potassium catch fire when put in 
+water.
+2Na + 2H2O → 2Na OH + H2↑
+Group 2 : The elements of group 2 react 
+with water to form metal hydroxide and 
+hydrogen. Beryllium does not react with 
+water. Magnesium decomposes hot water, 
+other elements react with cold water forming 
+metal hydroxide M(OH)2 and hydrogen gas.
+Ca + 2H2O → Ca(OH)2↓ + H2↑
+iii. Reaction with Hydrogen
+Group 1 : Alkali metals react with hydrogen 
+at high tempereture to form the corresponding 
+metal hydrides.
+2M + H2 
+673 K
+ 2M+ H-
+Group 2 : All the metals of group 2, except 
+beryllium, when heated with hydrogen form 
+MH2 type hydrides.
+M + H2  
+ MH2
+Problem 
+8.6 
+: 
+NaCl 
+is 
+an 
+ionic 
+compound but LiCl has some covalent 
+character, explain.
+Solution: Li⊕ ion has very small size, 
+therefore the charge density on Li⊕ is 
+high. Therefore it has high tendency 
+to distort the electron cloud around the 
+negatively charged large chloride ion. 
+This results in partial covalent character 
+of the LiCl bond. Na⊕ ion cannot distort 
+the electron cloud of Cl  due to the 
+bigger size of Na⊕ compared to Li⊕.
+iv. Reaction with Halogens
+Group 1 : All the alkali metals react vigorously 
+with halogens to produce their ionic halide 
+salts. 
+2M + X2 
+ 2M+ X-
+Group 2: All the alkaline earth metals 
+combine with halogens at high temperature to 
+form halides. 
+M + X2 
+ MX2
+v. Reducing nature
+Group 1 : The reducing power of an 
+element is measured in terms of standard 
+electrode potential (E0) corresponding to the 
+transformation M⊕(aq) + e  → M (s). All the 
+alkali metals have high negative values of 
+E0 indicative of their strong reducing nature, 
+lithium is the most powerful and sodium is the 
+least powerful in the group. (see Table 8.4)
+Group 2 : All the alkaline earth metals have 
+high negative values of standard reduction 
+potential (E0). (see Table 8.5), and are strong 
+reducing agents. However their reducing power 
+is less than those of alkali metals.
+vi Solution in liquid ammonia
+Group 1 : The alkali metals are soluble in 
+liquid ammonia giving deep blue coloured 
+solutions which show electrical conductivity.
+M + (x + y)NH3 → [M(NH3)x]⊕ + [e(NH3)y]
+117
+The ammoniated electron is responsible 
+for the deep blue colour of these solutions. 
+These solutions are paramagnetic and on 
+standing liberate hydrogen slowly, resulting  in 
+formation of the metal amide. The blue colour 
+changes to bronze and the solution becomes 
+diamagnetic.
+M⊕(am) + e  (am) + NH3 (l) →  MNH2(am)   
+                                                             + H2(g)  
+(Here (am) denotes solution in ammonia.)
+Group 2 : Similar to alkali metals the alkaline 
+earth metals are also soluble in liquid ammonia 
+which give deep blue black coloured solutions. 
+M + (x + 2y) NH3 →[M(NH3)x]2⊕+ 2[e(NH3)y]
+8.2.5 Diagonal Relationship : It is expected 
+that elements belonging to the same group 
+exhibit similarity and gradation in their 
+properties. The first alkali metal lithium and 
+the first alkaline earth metal beryllium do not 
+fulfil this expectation. Thus, lithium shows 
+many differences when compared with the 
+remaining alkali metals and resembles with 
+magnesium, the second alkaline earth metal. 
+Likewise beryllium shows many differences 
+with remaining alkaline earth metals and 
+shows similarity with aluminium, the second 
+element of the next main group (group 13). 
+The relative placement of these elements with 
+similar properties in the periodic table appears 
+to be across a diagonal (see. Table 8.6) and is 
+called diagonal relationship.
+Table 8.6 : Diagonal relationship
+Main Group 
+ Period
+1
+2
+13
+2
+Li
+Be
+B
+3
+Na
+Mg
+Al
+The table 8.7 shows some properties of 
+lithium and magnesium which elucidate their 
+diagonal relationship.
+Table 8.7 : Ressemblence between Li and Mg
+Criterion
+ Element
+Products of 
+reaction with air        
+M air
+?
+Products of thermal 
+decomposition of carbonate 
+M2CO3/MCO3  ∆
+?
+Property of 
+chloride
+Formula of 
+crystalline 
+chloride
+Li
+Li2O + Li3N
+Li2O + CO2
+deliquescent
+LiCl.2H2O
+Mg
+MgO + Mg3 N2
+MgO + CO2
+deliquescent
+MgCl2.8H2O
+Group 1 
+(except Li)
+M2O/M2O2/MO
+No reaction
+Not            
+deliquescent
+MCl
+Group 2
+MO + M3N2
+MO + CO2
+deliquescent
+MCl2.xH2O
+In table 8.8 some properties of Be and Al are shown which indicate the diagonal relationship
+Table 8.8 : Resemblence between Be and Al
+Criterion 
+Element
+Properties of chloride
+Properties of oxide 
+Acidic/Basic/Amphoteric
+Nature of bonding
+Whether Lewis 
+acid
+Solubility 
+in organic 
+solvent
+Be
+Covalent 
+chain structure with 
+Cl bridges
+        Cl          Cl
+   Be         Be         Be
+         Cl          Cl
+BeCl2 is strong 
+Lewis acid
+Soluble
+  Amphoteric 
+BeO+2HCl 
+ BeCl2+H2 
+BeO+2NaOH 
+ Na2BeO2+H2O
+118
+Al
+Covalent 
+dimer with Cl 
+bridges
+ Cl          Cl          Cl
+        Al          Al
+ Cl          Cl          Cl
+AlCl3 is strong 
+Lewis acid
+Soluble
+Amphoteric
+Al2O3 + 6HCl 
+ 2AlCl3+3H2O
+Al2O3+2NaOH 
+                 
+                           2NaAlO2+H2O
+Group 2
+Ionic
+Not 
+Lewis acid
+Insoluble
+Basic
+MO+HCl → MCl2 + H2
+MO + NaOH→ No reaction
+Group 13
+Covalent 
+Lewis acid
+Soluble
+Amphoteric
+The diagonal relationship between the 
+elemental pairs belonging to different groups 
+and periods is due to the similarity in some of 
+their atomic properties. Thus atomic  and ionic 
+radii of Li and Mg are very similar. (see the 
+table 8.4). In the case of Be and Al the charge 
+to radius ratio of their ions is very similar. (Be 
+: 2
+31
+ and Al : 
+3
+53.55
+)
+8.2.6 Uses of elements of group 1 and group 2
+Group 1
+i.	
+Lithium metal is used in long-life batteries 
+used in digital watches, calculators and 
+computers.
+ii. 	 Liquid sodium has been used for heat 
+transfer in nuclear power station.
+iii. 	 Potassium chloride is used as a fertilzer.
+iv. 	 Potassium is used in manufacturing 
+potassium superoxide (KO2) for oxygen 
+generation. It is good absorbent of carbon 
+dioxide.
+v. 	 Caesium is used in photoelectric cells.
+Group 2
+i. 	
+Beryllium is used as a moderator in 
+nuclear reactors.
+ii. 	 Alloy of magnesium and aluminium is 
+widely used as structural material and in 
+aircrafts.
+iii. 	 Calcium ions are important ingredient in 
+biological system, essential for healthy 
+growth of bones and teeth.
+iv. 	 Barium sulphate is used in medicine as 
+barium meal for intestinal x-ray.
+v.	
+ Radium is used in radiotherapy for cancer 
+treatment.
+8.2.7. Biological importance of elements of 
+group 1 and group 2
+Group 1 
+i. 	
+Sodium ion is present as the largest 
+supply in all extracellular fluids. These 
+fluids provide medium for transportting 
+nutrients to the cells.
+ii. 	 The concentration of sodium ion in 
+extracellular fluids regulates the flow of 
+water across the membrane.
+iii. 	 Sodium 
+ions 
+participate 
+in 
+the 
+transmission of nerve signals.
+iv. 	 Potassium ions are the most abundant 
+ions within cells. These are required for 
+maximum efficiency in the synthesis of 
+proteins and also in oxidation of glucose.
+Group 2
+i. 	
+Mg2⊕ ions 
+are 
+important 
+part 
+of 
+chlorophyll in green plants.
+ii. 	 Mg2⊕ ions play an important role in the 
+breakge of glucose and fat molecules, in 
+synthesis of proteins with enzymes, and 
+in regulation of  chlolesterol level.
+iii. 	 Ca2⊕ ions are important for bones and 
+teeth in the form of apatite [Ca3(PO4)2] 
+iv. 	 Ca2⊕ ions play important role in blood 
+clotting.
+v. 	 Ca2⊕ ions are required for contraction and 
+stretching of muscles.
+vi. 	 Ca2⊕ ions are also required to maintain 
+the regular beating of heart.
+119
+Do you know ?
+8.3 Some important compounds of elements 
+of s-block
+In this section we consider five important 
+compounds of s-block elements with reference 
+to their prepartion, properties and uses.
+8.3.1. Sodium Carbonate (washing soda) 
+Na2CO3. 10H2O
+Prepartion: 
+Sodium 
+Carbonate 
+is 
+commercially prepared by Solvay process. 
+In the first stage of process CO2 is passed 
+into a concentrated solution of NaCl which 
+is saturated with NH3. Crystals of sodium 
+bicarbonate separate as a result of the 
+following reactions. 
+Reactions in the first stage:
+2 NH3(aq) + H2O + CO2 (g) 
+ (NH4)2 CO3(aq)
+(NH4)2CO3(aq) + H2O + CO2(aq) 
+ 
+                                                 2 NH4HCO3(aq)
+NH4HCO3(aq) + NaCl(aq) 
+ NH4Cl(aq) 
+                                                   + NaHCO3(s)
+Sodium bicarbonate has low solubility, 
+and therefore its crystals precipitate out 
+which are formed as a result of the double 
+decomposition reaction between ammonium 
+bicarbonate and sodium chloride. 
+In the second stage the separated crystals 
+of sodium bicarbonate are heated to obtain 
+sodium carbonate.
+2 NaHCO3(s) 
+∆
+  Na2CO3(s) + H2O(g) 
+	
+	
+	
+	
+               + CO2(g)
+In this process the recovery of ammonia is 
+done by treating the solution of NH4Cl obtained 
+with slaked lime, Ca(OH)2. The byproduct of 
+this reaction is calcium chloride.
+2 NH4Cl(aq) + Ca(OH)2(s) 
+ 2 NH3(g) 
+                                         + CaCl2(aq) + H2O(l)
+Problem 8.7 : Magnesium strip slowly 
+tarnishes on keeping in air but metallic 
+calcium is readily attacked by air. Explain.
+Solution: Mg and Ca belong to group 2, 
+but periods 2 and 3, respectively. During the 
+reaction with air the metallic Mg and Ca 
+lose their valence electrons. The tendency 
+to lose valence electron is the metallic 
+character, which increases down the group. 
+Thus, calcium has higher metallic character, 
+greater tendency to lose valence electron and 
+lower ionization enthalpy than magnesium. 
+Therefore Mg reacts slowly with air, 
+forming a thin film of oxide, resulting into 
+tarnishing, whereas Ca reacts readily at 
+room temperature with oxygen and nitrogen 
+in the air.
+Potassium carbonate can not be 
+prepared by Solvay process because 
+potassium hydrogen carbonate is highly 
+water soluble and cannot be precipitated 
+by reaction with potassium choride.
+Properties : Sodium carborate (washing soda) 
+is a white crystalline solid having the formula 
+Na2CO3, 10H2O. It is highly soluble in water. 
+On heating the decahyadrate loses water 
+molecules to form monohydrate. On heating 
+above 373 K temperature monohydrate further 
+loses water and changes into white anhydrous 
+powder called soda-ash.
+Na2CO3.10H2O(s) 373 K   Na2CO3.H2O(s) +     
+                                                           9H2O(g)
+Na2CO3.H2O(s) > 373 K   Na2CO3(s)+H2O(g)
+Aqueous solution of sodium carbonate is 
+alkaline because of its hydrolysis by the 
+following reaction:
+Na2CO3 + H2O  →  NaHCO3 + NaOH
+Uses
+i. The alkaline properties of sodium carbonate 
+are responsible for emulsifying effect on 
+grease and dirt. It is used as cleaning material.
+ii. It is used to make hard water soft (as a water 
+softener), as it precipitates out the soluble 
+calcium and magnesium salts in hard water as 
+carbonates. For example : Ca(HCO3)2(aq) + 
+Na2CO3(aq) → CaCO3(s)  
+                                                + 2NaHCO3(aq)
+iii. It is used for commercial production of 
+soap and caustic soda.
+iv. It is an important laboratory reagent.
+120
+8.3.2 Sodium hydroxide (caustic soda) 
+NaOH
+Preparation 
+: 
+Sodium 
+hydroxide 
+is 
+commercially obtained by the electrolysis of 
+saturated aqueous solution of sodium chloride. 
+Brine solution is subjected to electrolysis 
+in Castner-Kellner cell. Mercury is used as 
+cathode and carbon rod as anode. Metallic 
+sodium liberated at the cathode forms sodium 
+amalgam. Chlorine gas is evolved at the 
+anode.
+Cathode reaction: Na⊕+e  Hg
+ Na-amalgam 
+Anode reaction:   Cl  
+  1/2 Cl2 + e
+Sodium hydroxide is obtained by treating 
+sodium amalgam with water, when hydrogen 
+gas is liberated.
+2Na - Hg + 2H2O 
+ 2NaOH + 2Hg + H2
+Properties : Sodium hydroxide is a white 
+deliquescent solid, having melting point 591 K. 
+It is highly water soluble and gives a strongly 
+alkaline solution. The surface of the solution 
+absorbs atmospheric CO2 to form Na2CO3.
+Uses  
+i. Sodium hydroxide is used in purification of 
+bauxite (the aluminium ore).
+ii. It is used in commercial production of soap, 
+paper, artificial silk and many chemicals.
+iii. It is used for mercerising cotton fabrics.
+iv. It is used in petroleum refining.
+v. It is an important laboratory reagent.
+8.3.3 Calcium Carbonate (CaCO3)
+Calcium carbonate is found in nature as chalk, 
+lime stone, marble.
+Preparation 
+i. When carbon dioxide is bubbled through 
+solution of calcium hydroxide (slaked lime) 
+water insoluble solid calcium carbonate is 
+formed.
+Ca(OH)2(aq) + CO2(g) 
+ CaCO3(s) + H2O(l)
+Excess 
+carbon 
+dioxide 
+transforms 
+the 
+precipitate of CaCO3 into water soluble calcium 
+bicarbonate and therefore has to be avoided.
+ii. When solution of calcium chloride is added 
+to a solution of sodium carbonate, calcium 
+carbonate is formed as precipitate.
+CaCl2(aq)+Na2CO3(aq) 
+CaCO3(s)+ 2NaCl(aq)
+Properties
+Calcium carbonate is soft, light, white powder. 
+It is practically water insoluble. On heating to 
+1200 K calcium carbonate decomposes into 
+calcium oxide and carbon dioxide.
+CaCO3(s)   1200 K    CaO(s) + CO2↑
+It reacts with dilute acids to give the 
+corresponding calcium salt and carbon 
+dioxide.
+CaCO3 + 2HCl → CaCl2 + CO2 ↑+ H2O
+CaCO3 + H2SO4 → CaSO4 + CO2↑+ H2O
+Uses:
+i. 	 Calcium carbonate in the form of marble 
+is used as building material.
+ii. Calcium carbonate is used in the 
+manufacture of quicklime (CaO) which is 
+the major ingredient of cement.
+iii. A mixture of CaCO3 and MgCO3 is used as 
+flux in the extraction of metals from ores.
+iv. It is required for the manufacture of high 
+quality paper.
+v. 	 It is an important ingredient in toothpaste, 
+chewing gum, dietary suppliments of 
+calcium and filler in cosmetics.
+8.3.4 Hydrogen peroxide (H2O2) : Hydrogen 
+peroxide is a low cost, clean and mild oxidising 
+agent. A 30% aqueous solution hydrogen 
+peroxide is commercially available.
+Preparation : 
+i. Hydrated barium peroxide is treated with 
+ice cold dilute sulfuric acid. The precipitate of 
+barium sulphate formed is filtered off to get 
+hydrogen peroxide solution.  
+BaO2.8H2O(s) + H2SO4(aq) 
+low temp
+273 K
+  BaSO4↓ 
+	
+	
+	
+    + H2O2(aq) + 8H2O(l)
+ii. Small quantity of sodium peroxide is added 
+to ice-cold solution of dilute sulfuric acid 
+with strirring gives hydrogen peroxide (Merck 
+process).
+Na2O2 (aq) + H2SO4 (aq) 
+273 K   H2O2 (aq)     
+                                                   + Na2SO4 (aq)
+iii. A 50 % solution of sulfuric acid is 
+subjected to an electrolytic oxidation to form 
+peroxydisulfuric acid at anode.
+2HSO4
+    Electrolysis    H2S2O8 + 2e
+121
+Hydrolysis of the peroxydisulfuric acid yields 
+hydrogen peroxide.
+HO-SO2-O-O-SO2-OH + 2H2O → 2H2SO4 
+                                                                                                             + H2O2
+This method can be extended to laboratory 
+preparation of D2O2
+iv. Industrially hydrogen peroxide is prepared 
+by air-oxidation of 2-ethylanthraquinol.
+The 
+2-ethylanthraquinol 
+is 
+regenerated 
+by 
+catalytic 
+hydrogenation 
+of 
+2-ethylanthraquinone. 
+2-ethylanthraquinol 
+O2
+air
+  H2O2 
+                             + 2 - ethylanthraquinone 
+ 
+ 
+OH
+OH
+O
+O
++  H2O2
+C2H5
+O2
+air
+H2/Pd/∆
+C2H5
+Properties 
+i. 	
+Pure H2O2 is a very pale blue coloured 
+liquid, having b.p. 272.4 K.
+ii. 	 H2O2 is miscible in water and forms a 
+hydrate (H2O2. H2O)
+iii. 	 Strength of aqueous solution of H2O2 
+is expressed in ‘volume’ units. The 
+commercially 
+marketed 
+30% 
+(by 
+mass) solution of H2O2 has volume 
+strength of 100 volume. It means 
+that 1 mL of 30% solution of H2O2 will 
+give 100 mL oxygen at STP.
+iv. 	 H2O2 acts as a mild oxidising as well as 
+reducing agent.  
+	
+a. Oxidising action of H2O2 in acidic 
+medium 
+2Fe2⊕(aq) + 2H⊕(aq) + H2O2(aq) → 2Fe3⊕(aq)  
+                                                   + 2H2O(l)
+	
+b. Reducing action of H2O2 in acidic 
+medium 
+2 MnO4 + 6H⊕ +5H2O2 → 2Mn2⊕ + 8H2O
+                                                                 + 5O2
+Uses 
+i. Hydrogen peroxide is used as mouthwash, 
+germicide, mild antiseptic, preservative for 
+milk and wine and bleaching agent for soft 
+materials due to its mild oxidising property.
+ii. Hydrogen peroxide, due to its reducing 
+property, is used as an antichlor to remove 
+excess chlorine from fabrics which have been 
+bleached by chlorine.
+iii.  Now a days it is also used in environmental 
+chemistry for pollution control, restoration of 
+aerobic condition to sewage water.
+Promblem 8.8 : Calculate % (by mass) of 
+a H2O2 solution which is 45.4 volume.
+Solution: 45.4 Volume H2O2 solution 
+means 1L of this solution will give 45.4 L 
+O2 at STP  
+	
+	
+2 H2O2    →     2 H2O + O2
+  	
+	
+ (2×34) g         22.7 L at STP
+Thus, 22.7 L O2 at STP is produced by 68 
+g H2O2
+∴45.4 L O2 at STP is produced by 68 45 4
+22 7
+×
+.
+.
+ 
+= 136 g H2O2
+  ∴Strength this H2O2 solution = 136 g/L
+ = 136 g H2O2
+1000 g water =13.6% (by mass)
+8.3.5 Lithium aluminium hydride (LiAlH4)
+Lithium aluminium hydride is commonly 
+abbreviated as LAH. It has chemical formula 
+LiAlH4.
+Prepartion : Lithium hydride is treated with 
+aluminium chloride to give lithium aluminium 
+hydride
+4LiH + AlCl3 → LiAlH4 + 3LiCl
+Properties: Lithium aluminium hydride is a 
+colourless solid. It reacts violently with water 
+and even atmospheric moisture.  
+Uses
+(i) LAH is a source of hydride and therefore 
+used as reducing agent in organic synthesis.
+ O
+ C
+ R
+OR'
+LiAlH4
+dry ether
+ R
+OH + R' - OH
+ O
+ C
+ R
+OH
+LiAlH4
+dry ether
+ R
+OH
++ H2O
+(ii) LAH is useful to prepare PH3(phosphine)
+4 PCl3 + 3LiAlH4 → 4 PH3 + AlCl3 + Li Cl

@@ -1,0 +1,2358 @@
+34
+1. Choose the correct option 
+A.	 Which of the following methods can be 
+used to seperate two compounds with 
+different solubilities in the same solvent?
+	
+a. Fractional crystallization
+	
+b. Crystallization
+	
+c. Distillation
+	
+d. Solvent extraction
+B.	 Which of the following techniques is 
+used for seperation of glycerol from soap 
+in soap industry ?
+	
+a. Distillation under reduced pressure
+	
+b. Fractional distillation
+	
+c. Filtration
+	
+d. Crystallization
+C.	 Which technique is widely used in 
+industry to seperate components of 
+mixture and also to purify them ?
+	
+a. Steam distillation
+	
+b. Chromatography
+	
+c. Solvent extraction
+	
+d. Filtration
+D.	 A mixture of acetone and benzene can be 
+seperated by the following method :
+	
+a. Simple distillation
+	
+b. Fractional distillation
+	
+c. Distillation under reduced pressure
+	
+d. Sublimation
+E.	 Colourless components on chromatogram 
+can not be observed by the following :
+	
+a. Using UV light
+	
+b. Using iodine chamber
+	
+c. Using the spraying reagent
+	
+d. Using infrared light
+2. Answer the following 
+A. Which of the following techniques is 
+used for purification of solid organic 
+compounds?
+	
+a. Crystallisation b. Distillation
+B.	 What do you understand by the terms 
+	
+a. residue b. filtrate.
+C.	 Why is a condenser used in distillation 
+process?
+D.	 Why 
+is 
+paper 
+moistened 
+before 
+filtration?
+E.	 What is the stationary phase in Paper 
+Chromatography?
+F.	 What will happen if the upper outlet of 
+the condenser is connected to the  tap 
+instead of the lower outlet?
+G.	 Give names of  two materials used as 
+stationary phase in chromatography.
+H.	 Which properties of solvents are useful 
+for solvent extraction?
+I.	 Why should spotting of mixture be done 
+above the level of mobile phase ?
+J. Define : a. Stationary phase b. Saturated 
+solution
+K. What is the difference between simple 
+distillation and fractional distillation?
+L.	 Define  a. Solvent extraction  b. 
+Distillation. 
+M. List the properties of solvents which 
+make them suitable for crystallization.
+N.	 Name 
+the 
+different 
+types 
+of 
+Chromatography 
+and 
+explain 
+the 
+principles underlying them. 
+O. 	Why do we see bands separating in 
+column chromatography? 
+P.	 How do you visualize colourless 
+compounds after separation in TLC and 
+Paper Chromatography? 
+Q.	 Compare 
+TLC 
+and 
+Paper 
+Chromatography techniques.
+3. Label the diagram and explain the process 
+in your words.
+Exercises
+Activity :
+Use any one analytical technique in 
+labroratory and discuss it in groups.
+35
+	
+4. Structure of Atom
+4.1 Subatomic particles : Dalton’s atomic 
+theory was able to explain the laws of 
+chemical combination successfully. However, 
+it failed to explain some properties of matter. 
+For example, it could not explain why 
+substances like glass or ebonite when rubbed 
+with silk or fur, generate electricity. Discovery 
+of subatomic particles in late nineteenth and 
+early twentieth century set a blow to Dalton’s 
+atomic model of hard sphere. Three important 
+subatomic particles, namely, proton, electron 
+and neutron which are of concern to Chemistry 
+were discovered. Proton and neutron are 
+present in the atomic nucleus and together are 
+called nucleons. Electrons are present in the 
+extranuclear part of an atom.The properties of 
+electron, proton and neutron are summarised 
+in Table 4.1
+Table 4.1 : Properties of subatomic particles
+Name 
+Symbol
+Absolute 
+charge/C
+Relative 
+charge
+Symbol 
+for 
+charge
+Mass/kg
+Mass/u
+Approxinate
+mass/u
+Electron 
+e-
+-1.6022×10-19
+- 1
+- e 
+9.10938×10-31
+0.00054
+0 u
+Proton
+p
++1.6022×10-19
++ 1
++ e
+1.6726×10-27
+1.00727
+1 u
+Neutron
+n
+0
+0
+1.67493×10-27
+1.00867
+1 u
+Fig. 4.1 : Cothode ray tube experiment
+4.1.1 Discovery of electron : In the year 1897, 
+J. J. Thomson investigated the cathode rays 
+and found that the cathode rays are a stream 
+of very small, negatively charged particles 
+which are  1837 times lighter than a hydrogen 
+atom and are present in all atoms. Later these 
+particles were named as electrons.
+4.1.2 Discovery of proton : In the year 1911, 
+Ernest Rutherford found in the experiment of 
+scattering of α-particles by thin gold foil (see 
+Fig. 4.2) that a few α-particles bounce back. 
+From this he inferred the presence of massive 
+and positively charged nucleus inside the atom. 
+Following the discovery of nucleus in an atom, 
+Rutherford found (1919) that fast moving α- 
+particles transmuted nitrogen into oxygen with 
+simultaneous liberation of hydrogen. 
+14
+7 N  + 
+4
+2 α 
+ 
+17
+8 O + 
+1
+1 H
+He further showed that other elements 
+could also be transmuted, but hydrogen was 
+always emitted. 
+Can you recall?
+• What is the smallest unit of matter ?
+•	What 
+is 
+the 
+difference 
+between 
+molecules of an element and those of 
+a compound ?
+•	Does an atom have any internal 
+structure or is it indivisible ? 
+•	Which 
+particle 
+was 
+identified 
+by 
+J. J. Thomson in the cathode ray tube 
+experiment ?
+•	Which part of an atom was discovered 
+by 
+Ernest 
+Rutherford 
+from 
+the 
+experiment of scattering of α-particles 
+by gold foil ?
+36
+Problem 4.1: Find out the number of 
+protons, electrons and neutrons in the 
+nuclide 18
+40Ar
+Solution : In case of the nuclide 
+18
+40Ar ,
+A = 40 and Z = 18
+Number of protons = number of 
+electrons = Z = 18 and number of 
+neutrons N 	 = A - Z
+	
+	
+= 40 - 18 = 22
+On this basis Rutherford proposed that 
+the hydrogen nucleus must be contained inside 
+nuclei of all the elements. Hence, the hydrogen 
+nucleus was renamed as proton.
+Atomic number (Z) = Number of protons 
+= Number of electrons
+As can be seen from Table 4.1, mass of an 
+electron is negligibly small compared to that of 
+the nucleons. As a result the mass of an atom 
+can be considered to be concentrated in its 
+nucleus. The approximate mass of one proton 
+or one neutron is 1u. Therefore approximate 
+atomic mass in daltons is numerically equal to 
+the number of nucleons in the atom. The number 
+of neutrons in the nucleus is designated by the 
+symbol N; and the total number of protons and 
+neutrons, that is nucleons, in an atom is called 
+its atomic mass number (A). 
+Mass number (A) = Proton number (Z) 	
+	
+  + Neutron Number (N)  
+Therefore   A = Z + N,	   N = A - Z
+The composition of any atom is represented 
+by element symbol (X) with the atomic mass 
+number (A) as superscript on left and atomic 
+number (Z) as subscript on left :
+Z
+AX
+The atom or nucleus having a unique 
+composition as specified by Z
+AX  is called a 
+nuclide.
+Fig. 4.3 : Discovery of neutron
+Fig. 4.2 : Rutherford’s scattering experiment
+4.1.3 Discovery of neutron : Existence of an 
+electrically neutral and massive particle in the 
+nucleus was predicted by Ernest Rutherford 
+in 1920 to account for the disparity in atomic 
+number and atomic mass of an element. In 
+the year 1932, James Chadwick measured 
+velocity of protons knocked out from paraffin 
+by an unidentified radiation from beryllium 
+(see Fig. 4.3). From that he determined the 
+mass of the particles of the unidentified neutral 
+radiation which came out to be almost the same 
+as that of a proton. He named this particle as 
+‘neutron’ which was predicted by Rutherford 
+earlier.
+4.2 Atomic number and atomic mass number 
+The number of protons in the nucleus is 
+chemical identity of an element. This number 
+is called atomic number (Z) of the element 
+The positive charge on the nucleus is due to 
+the protons present in it (+Ze). Atom being 
+electrically neutral, it contains the same 
+number of extranuclear electrons in it as its 
+atomic number. Therefore the total electronic 
+charge on an atom is -Ze. Thus in any atom,
+4.3 Isotopes, isobars and isotones : 
+Similarities in composition of nuclides results 
+in three types of relationships.	
+i. Isotopes : Some elements exist as single 
+natural nuclide. For example 9
+19F.
+ However, many elements exist naturally 
+as mixture of two or more types of atoms or 
+nuclides. These individual nuclides are called 
+isotopes of that element. 
+37
+Problem 4.2 : The two natural isotopes 
+of chlorine, viz. 35Cl
+ 17
+ 
+and 37Cl
+ 17
+ 
+exist in 
+relative abundance of 3:1. Find out the 
+average atomic mass of chlorine.
+Solution: From the relative abundance 
+3:1, it is understood that out of 4 
+chlorine atoms, 3 atoms have mass 35 
+and 1 has mass 37. 
+Therefore, the average atomic mass of 
+chlorine 
+ = 3×35 + 1×37
+4
+ = 35.5
+Problem 4.3 : Three elements Q, R and T have mass number 40. Their atoms 
+contain 22, 21 and 20 neutrons, respectively. Represent their atomic composition with 
+appropriate symbol.
+Solution : A = Z + N   ∴ Z = A - N
+For the given three elements A = 40. Values of their atomic numbers Z, are obtained 
+from the given values of neutron numbers, N, using the above expression. 
+for Q : Z = A - N = 40 - 22 = 18
+for R : Z = A - N = 40 - 21 = 19
+ for T : Z = A - N = 40 - 20 = 20
+∴ The atomic composition of the three elements is written as follows :
+	
+	
+18
+40Q ,	 19
+40R ,	 20
+40T
+All the isotopes of an element have 
+the same number of protons but different 
+number of neutrons in their nuclei. As the 
+proton number is the atomic number, all the 
+isotopes of an element have the same position 
+in the modern periodic table and exhibit similar 
+chemical properties.  All the natural isotopes of 
+an element coexist and have a definite natural 
+abundance. Table 4.2 shows various features 
+of the three common isotopes of carbon.
+ii. Isobars : The atoms of different elements 
+having the same mass number but different 
+atomic numbers are called isobars. Isobars 
+are different elements. They have different 
+chemical properties and occupy different 
+positions in modern periodic table. Table 4.3 
+shows an illustration of isobars.
+Table 4.2 : Isotopes of carbon 
+Symbol
+Atomic number
+Z
+Atomic mass  
+number  A
+Neutron 
+number 
+ N = A - Z
+% 
+Abundance
+Stability
+12C
+  6  
+or C-12
+6
+12
+6
+98.9 %
+Stable
+13C 
+  6  or C-13
+6
+13
+7
+1.1 %
+Stable
+14C
+  6  or C-14
+6
+14
+8
+< 0.00017 %
+Radioactive
+Table 4.3 : Isobars
+Isobars
+Atomic number Z
+Mass number A
+Number of protons Z
+Number of neutrons N
+6
+14C
+6
+14
+6
+8
+7
+14 N
+7
+14
+7
+7
+38
+iii. Isotones : The atoms of different elements 
+having same number of neutrons in their 
+nuclei are called isotones. Table 4.4 shows 
+examples of isotones.
+Table 4.4 : Isotones
+Isotones
+Atomic 
+number Z
+ Mass 
+number A
+Number 
+of 
+Neutrons 
+N = A - Z
+11
+5 B
+5
+11
+6
+12 
+6 C
+6
+12
+6
+We will consider some more aspects of 
+nuclides in the Chapter 13.
+4.4 Drawbacks of Rutherford atomic model
+i. Let us now go back to the point of time when 
+Rutherford put forth his nuclear model of atom. 
+It is akin to a miniature of the solar system, 
+the nucleus playing the role of the massive sun 
+and the electrons are lighter planets. Electrons 
+in this model could not be stationary as the 
+electrostatic force of attraction exerted would 
+pull them towards itself, and this would form a 
+miniature version of Thomson’s atomic model. 
+However, the electrons revolving about the 
+nucleus, as described by Rutherford, also pose 
+a problem. Electrons in the Rutherford model 
+are negatively charged particles in orbital 
+motion. Such orbital motion is an acceleraled 
+motion accompanied by a continuous change 
+in the velocity of electron as noticed from the 
+continuously changing direction. According 
+to the electromagnetic theory of Maxwell, 
+accelerated charged particles would emit 
+electromagnetic radiation. An electron in an 
+orbit would emit radiation, equivalent energy 
+possessed by the radiation associated with the 
+electronic motion. The orbit would, therefore, 
+shrink continuously. Thus, an electron 
+orbiting about the nucleus would follow a 
+spiral path to the nucleus. It can be seen that 
+the Rutherford atomic model has an intrinsic 
+instability of atom. However, real atoms are 
+stable.
+ii. The second serious drawback of the 
+Rutherford model is that it does not describe 
+the distribution of electrons around the 
+nucleus and their energies. The drawbacks 
+of the Rutherford model were overcome in the 
+Bohr atomic model.
+4.5 Developments leading to the Bohr’s 
+atomic model : At the time when different 
+models of atomic structure were being put 
+forth, some results obtained from the studies 
+of interactions of radiation with matter 
+required to be correlated to atomic structure. 
+Niels Bohr utilized these results to get over 
+the drawbacks of Rutherford atomic model. 
+These results were : (1) wave particle duality 
+of electromagnatic radiation and (2) line 
+emission spectra of hydrogen.
+4.5.1 
+Wave 
+ 
+particle 
+duality 
+of 
+electromagnetic radiation : A dilemma was 
+posed by electromagnetic radiation in the world 
+of science. Phenomena such as diffraction 
+and interference of light could be explained 
+by treating light as electromagnetic wave. On 
+the other hand, the black-body radiation or 
+photoelectric effect could not be explained by 
+wave nature of light, and could be accounted 
+for by considering particle nature of light. 
+The only way to resolve the dilemma was to 
+accept that light has dual behaviour. When 
+light interacts with matter it behaves as a 
+stream of particles called photons, when light 
+propagates, it behaves as an electromagnetic 
+wave.
+Fig 4.4 : Electromagnetic wave
+wavelength λ
+crest
+Amplitude
+Direction of propagation
+trough
+39
+a. Characteristics of electromagnetic wave 
+Figure 
+4.4 
+shows 
+a 
+schematic 
+representation of an electromagnetic wave. 
+Various parameters used to describe the 
+different types of electromagnetic radiation 
+are wavelength, frequency, wavenumber, 
+amplitude, and velocity.
+i. Wavelength (λ) : The distance between 
+two consecutive crests or troughs is called 
+wavelength. It is represented by the symbol λ 
+which is a greek letter (lambda). The SI unit 
+for wavelngth is metre (m).
+ii. Frequency (ν) : The number of waves that 
+pass a given point in one second is called 
+frequency. It is represented by the greek letter 
+nu, (ν). The SI unit of frequency is Hertz  (Hz 
+or s-1).
+iii. Wavenumber (ν)  : Wavenumber is 
+the number of wavelengths per unit length. 
+Wavenumber is represented by the symbol 
+(nu bar) (ν) . The commonly used unit for 
+wavenumber is reciprocal centimeter (cm-1), 
+while the SI unit is m-1. Wavenumber is related 
+to the wavelength by an expression ν  = 1
+λ
+  
+iv. Amplitude (A): Amplitude of a wave is 
+the height of the crest. Square of the amplitude 
+denotes the intensity of the radiation. 
+Different regions of electromagnetic 
+radiation have different values of frequency or 
+wavelengths. Thus the radiofrequency region 
+is around 106 Hz, microwave region is around 
+1010 Hz, infrared region is around 1013 Hz, 
+ultraviolet region is around 1016 Hz.
+In vacuum, the speed of all the types of 
+electromagnetic radiation is the same, which 
+is 3.0 × 108 m s-1 (2.997925 × 108 m s-1 to be 
+accurate). This is called speed of light, and is 
+denoted by the symbol ‘c’. 
+The 
+parameters 
+wavelength 
+(λ), 
+frequency (ν ) and the speed of light (c) are 
+related by the expression :  c = ν λ
+b. 
+Particle 
+nature 
+of 
+electromagnetic 
+radiation : In the year 1900, Max Plank put 
+forth his quantum theory to explain black- body 
+radiation. According to this theory, the energy 
+of electromagnetic radiation depends upon the 
+frequency and not the amplitude. Plank gave 
+the name ‘quantum’ to the smallest quantity 
+of energy that can be emitted or absorbed in the 
+form of electromagnetic radiation. The energy 
+(E) of one quantum of radiation is proportional 
+to its frequency (ν) and given by
+	
+	
+E = hν                            
+ (4.1)
+The proportionality constant ‘h’ is called 
+Plank’s Constant. Later its value was found 
+out to be 6.626 × 10-34 J s.
+In the year 1905, Albert Einstein 
+explained the photoelectric effect using 
+Plank’s quantum theory. In doing so he 
+considered electromagnetic radiation as a 
+stream of photons of energy hν . A photon 
+has zero rest mass.
+4.5.2 Line emission spectrum of hydrogen :  
+When a substance is irradiated with light 
+it absorbs energy. Atoms, molecules or ions, 
+which have absorbed radiation are said to be 
+‘excited’. Heating can also result in an excited 
+state. When an excited species gives away the 
+absorbed energy in the form of radiation, the 
+process is called emission of radiation. The 
+recorded spectrum of this emitted radiation is 
+called ‘emission spectrum’.
+Problem 
+4.4 
+: 
+Visible 
+light 
+has 
+wavelengths ranging from 400 nm 
+(violet) to 750 nm (red). Express these 
+wavelengths in terms of frequency 
+(Hz). 
+(1 nm = 10-9 m)
+Solution :	
+   c = νλ  	∴ ν = 
+c
+λ
+∴ frequency of violet light =
+3 10
+400 10
+8
+1
+9
+
+
+
+
+m s
+m  = 7.50 × 1014 Hz
+and frequency of red light 	
+=
+ 
+3×108 m s-1
+750 × 10-9 m  = 4.00 × 1014 Hz
+40
+Do you know ?
+Problem 4.5 : Parameters of blue and 
+red light are 400 nm and 750 nm 
+respectively. Which of the two is of 
+higher energy ?
+Solution : 400 nm and 750 nm are 
+the wave lengths of blue and red 
+light, respectively.  Energy of radiation 
+is given by the expression E = hν 
+and ν , the frequency, of radiation 
+is related to the wavelength by the 
+expression.	
+	
+	
+ν = 
+c
+λ
+Therefore, shorter the wavelength, 
+λ, larger the frequency, ν, and higher 
+the energy, E. Thus, blue light which 
+has shorter λ (400 nm) than red light 
+(750 nm) has higher energy.
+In the year 1885 Balmer expressed the 
+wavenumbers of the emission lines in the 
+visible region of electromagnetic radiation by 
+the formula
+ν  = 109677	
+1
+22
+1
+n2
+[
+[
+ cm-1 
+,
+               
+ (4.2)
+where n = 3,4,5.......
+The lines described by this formula are 
+called Balmer series. J. Rydberg found that all 
+the five series of lines could be described by 
+the following general expression. 
+ν  =109677 1
+n1
+2
+[
+[
+1
+n2
+2  cm-1 
+,                           
+ 
+ (4.3)
+where 	
+n1 = 1,2,3 .....................
+n2 = [n1+1], [n1+2], [n1+3],.........
+The value 109,677 cm-1 is called Rydberg 
+constant for hydrogen ‘RH’. Table 4.5 shows 
+the distinctive features of these five series.
+Table 4.5 : Series of emission spectral lines for 
+hydrogen 
+Series 
+n1
+n2
+Spectral 
+region
+Lyman
+1
+2,3,.....
+Ultraviolet
+Balmer
+2
+3,4,.....
+Visible
+Paschen
+3
+4,5,.....
+Infrared
+Bracket
+4
+5,6,.....
+Infrared
+Pfund
+5
+6,7,.....
+Infrared
+4.6 Bohr’s model for hydrogen atom : Niels 
+Bohr (1913) put forth his postulates about the 
+atomic model for hydrogen. While doing so he 
+used the quantum theory, wave particle duality 
+of electromagnetic radiation and the emission 
+line spectra of hydrogen.
+4.6.1 Postulates of Bohr atomic theory
+Bohr’s model of hydrogen atom is based 
+on the following postulates.
+1. The electron in the hydrogen atom can move 
+around the nucleus in one of the many possible 
+circular paths of fixed radius and energy. 
+These paths are called orbits, stationary states 
+or allowed energy states. These orbits are 
+arranged concentrically around the nucleus in 
+an increasing order of energy.
+Of all the elements, hydrogen has the 
+simplest emission spectrum.
+When electric discharge is passed 
+through gaseous hydrogen, it emits radiation. 
+Hydrogen emission spectrum was studied by 
+five scientists in late nineteenth century. They 
+recorded the hydrogen emission spectra in 
+different regions of electromagnetic radiation. 
+The spectra were not continuous and comprised 
+of a series of lines corressponding to different 
+frequencies (see Fig. 4.5)
+Fluorescent tube, sodium vapor lamp, 
+neon sign, halogen lamp are all examples of 
+atomic emission.
+Fig. 4.5 : Emission line spectrum of hydrogen
+Paschen series 
+(infra red)
+0 	
+0.5 	
+1.0 	
+1.5 	
+2.0 	
+2.5 	
+3.0 	
+3.5
+Lyman series 
+(ultra-violet)
+Balmer series 
+(partly visible)
+Lines get closer and closer together 
+and eventually reach the series limit 
+41
+2. The energy of an electron in the orbit does 
+not change with time. However, the electron 
+will move from a lower stationary state to a 
+higher stationary state if and when the required 
+amount of energy is absorbed by the electron. 
+Energy is emitted when electron moves from 
+a higher stationary state to a lower one. 
+The energy change does not take place in a 
+continuous manner. 
+4.6.2 Results of Bohr’s theory : Bohr’s theory 
+is used to derive the energies of orbits, that is, 
+the stationary states, in hydrogen atom. The 
+results of Bohr’s theory for hydrogen atom are 
+summarized here.
+a. The stationary states for electron are 
+numbered n = 1, 2, 3....... .These integers are 
+known as principal quantum numbers.
+b. The radii of the stationary states are
+	
+rn = n2a0 ,
+where ao = 52.9 pm (picometer). Thus, the 
+radius of the first stationary state, called the 
+Bohr radius is 52.9 pm.
+c. The most important property associated 
+with the electron is the energy of its stationary 
+state. It is given by the expression. 
+E1 = -RH (1/n2), where n = 1, 2, 3,          
+ (4.6)
+RH is the Rydberg constant for hydrogen and 
+its value in joules is 2.18 × 10-18 J
+The lowest energy state is called the ground 
+state. Energy of the ground 1/12 state is  	
+E1 = -2.18 × 10-18 1/12 = -2.18 ×10-18 J
+Energy of the stationary state corresponding to 
+n = 2 is  
+E2 = -2.18 × 10-18 (1/(2)2) = -0.545 × 10-18 J
+Angular Momentum :
+Angular momentum is a product of 
+moment of inertia (I) and angular 
+velocity (ω) omega
+Angular momentum = I × ω ; but
+I = m r2 and ω =  v/r
+∴ Angular momentum = mr2 × v/r = 
+mvr
+m
+r
+v
+ω
+3. The frequency of radiation absorbed or 
+emitted when transition occurs between two 
+stationary states that differ in energy by ∆E is 
+given by the following expression 
+	
+ν = E
+h
+E
+E
+h
+
+
+2
+1  
+ (4.4)
+	
+Where E1 and E2 are the energies of 
+the lower and higher allowed energy states 
+respectively. This expression is commonly 
+known as Bohr’s frequency rule.
+4. The angular momentum of an electron in a 
+given stationary state can be expressed as 
+mvr = n × h
+2π   where n = 1, 2, 3	
+ (4.5)
+	
+Thus, an electron can move only in 
+those orbits for which its angular momentum 
+is integral multiple of h/2π. Thus only certain 
+fixed orbits are allowed here.
+What does the negative sign of electron 
+energy convey ? 
+A free electron at rest is an electron 
+that is at infinity from the nucleus and does 
+not experience any electrostatic force of 
+attraction towards the nucleus and therefore, 
+it is assigned the energy value of zero. 
+The negative sign means that the 
+energy of the electron in the atom is lower 
+than the energy of a free electron at rest. 
+Mathematically this corresponds to setting 
+‘n’ equal to infinity in the equation so that 
+E∞= 0. As the electron gets close to the 
+nucleus,‘n’ decreases En becomes large in 
+absolute value and more and more negative. 
+Thus stationary states with smaller values 
+of ‘n’ have large and negative energy. The 
+negative sign corresponds to attractive force 
+between the electron and nucleus.
+Just think
+42
+Do you know ?
+Problem 4.6 :
+How many electrons are present in 
+2
+1 H, 2He and He⊕ ? Which of these are 
+hydrogen like specis?
+Solution :	
+Hydrogen-like species 
+contain only one electron. 
+2
+1 H number of protons = 1 
+= number of electrons
+2He : number of protons = 2 
+= number of electrons
+He⊕ : (number of electron in He)-1 
+= (number of electron in He⊕)
+= (2 - 1) = 1
+Thus  
+2
+1 H and He⊕ are hydrogen-like 
+species.
+4.6.3 Explanation of the line spectrum 
+of hydrogen using Bohr theory : The 
+line emission spectrum (Fig. 4.5) obtained 
+from atomic hydrogen can be explained 
+qnantitatively using Bohr theory. According 
+to second postulate of Bohr theory, radiation 
+is emitted when electron moves from an outer 
+orbit of higher principal quantum number 
+(ni) to an inner orbit of lower principal 
+quantum number (nf). The energy difference 
+(∆E) between the initial and final orbit of 
+the electronic transition corresponds to the 
+energy of the emitted radiation. From the third 
+postulate of Bohr theory ∆E can be expressed 
+as 
+∆E = Ei - Ef  	
+	
+	
+ (4.9)
+According to the results derived from 
+Bohr theory the energy E of an orbit is related 
+to its principal quantum number ‘n’ by the Eq. 
+(4.6).
+  
+	
+E = -RH 
+1
+2
+n
+
+
+
+ 	
+	
+ 
+ (4.6)
+Combinig these two Eq. (4.9) and Eq. (4.6) we 
+get:
+∆E = 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+R
+n
+R
+n
+R
+n
+n
+H
+H
+f
+H
+f
+i
+i
+2
+2
+2
+2
+1
+1
+Problem 4.7 :
+Calculate 
+the 
+radius 
+and 
+energy 
+associated with the first orbit of He⊕.
+Solution : He⊕ is a hydrogen-like 
+species having the nuclear charge 
+Z = 2 and for the first orbit n = 1 
+radius of first orbit of He⊕ 
+r1 = 52.9(n2)
+Z
+ = 52.9 × 12
+2
+Energy of first orbit of He⊕ 
+En = − 2.18 x 10-18 
+Z
+n
+2
+2
+
+
+
+
+
+ J
+   = − 2.18 x 10-18 
+2
+1
+2
+2
+
+
+
+
+   = − 8.72 × 10-18 J
+The Bohr’s theory is applicable to 
+hydrogen atom and hydrogen-like species 
+which contain  only one extranuclear 
+electron.
+d. Bohr theory can be applied to hydrogen like 
+species. For example He⊕, Li2⊕, Be3⊕ and so 
+on. Energies of the stationary states associated 
+with these species are given by : 
+En = - 2.18 × 10-18 Z
+n
+2
+2
+
+
+
+  J 	
+	
+ (4.7)
+and radii by the expression
+	
+r
+n
+Z
+  n = 52 9
+2
+. (
+) pm ,	              
+ (4.8)
+where Z is the atomic number. From the 
+above expression it can be seen that the energy 
+decreases (becomes more negative) and radius 
+becomes smaller as the value of Z increases.
+e. Velocities of electrons can also be calculated 
+from the Bohr  theory. Qualitatively it is found 
+that the magnitude of velocity of an electron 
+increases with increase of Z and decreases 
+with increase in the principal quantum number 
+n.
+43
+Substituting the value of RH in joules we get
+∆E = 2.18 × 10-18  
+1
+1
+2
+2
+n
+n
+f
+i
+
+
+
+
+
+
+
+
+
+ J 	
+(4.10)
+This expression can be rewritten in terms 
+of wavenumber of the emitted radiation in the 
+following steps.
+We know: (∆E) J = (h) J s ×  Hz  ... (4.1)
+and by definition 
+ cm-1   
+ 
+
+ H
+c
+z
+cm s 1
+                                               
+ (4.11) 
+combining these Eq. (4.10), Eq. (4.1) and Eq. 
+(4.11) we get 
+∴ (ν) cm-1 = (∆E)
+(h) J s  x 
+1
+(c) cms-1
+= 
+2.18 x 10-18
+6.626 x 10-34 x 3 x 1010
+1
+nf
+2
+1
+ni
+2
+[
+[
+cm-1
+∴ (ν) cm-1=109677 
+1
+nf
+2
+1
+ni
+2
+[
+[
+cm-1
+This appears like the Rydberg Eq. (4.3), where 
+nf = n1 and ni = n2.
+In other words, Bohr theory successfully 
+accounts for the empirical Rydberg equation 
+for the line emission spectrum of hydrogen. In 
+the Rydberg equation ‘n1’ and ‘nf’ are integers. 
+Bohr’s theory assigns physical meaning 
+to them as principal quantum numbers 
+corresponding to the concentric orbits. The 
+integers in Rydberg equation, stand for the 
+final orbit, nf of electronic transition and n1 for 
+the initial orbit.
+The emission lines comprising the 
+five series  thus, are result of electronic 
+transitions from the excited hydrogen atoms. 
+The Lyman series is the result of moving of 
+electron excited to higher orbits of n2= ni  = 2, 
+3, 4,.....etc. to lower orbits of n1 = nf = 1; the 
+Balmer series results from electron from n2 = 
+ni = 3, 4,........ to the lower orbit of n1= nf = 2, 
+so on and so forth. The electronic transitions 
+giving rise to different emmission line series of 
+atomic hydrogen are shown in Fig. 4.6.
+Problem 4.8 :  
+What is the wavelength of the photon 
+emitted during the transition from the 
+orbit of n = 5 to that of n = 2 in 
+hydrogen atom?
+Solution: The wavenumber of transition 
+is given by Rydberg expression 
+(ν) = 109677 
+1
+1
+1
+2
+2
+2
+n
+n
+
+
+
+
+ cm-1  
+Here n1 = 2 and n2 = 5 
+∴ (ν) = 109677 
+1
+2
+1
+5
+2
+2
+
+
+
+
+  
+= 109677 
+1
+4
+1
+25
+
+
+
+
+    
+= 109677 × 21
+100  = 23032.17 cm-1
+λ = 
+1
+23032.17
+λ = 1
+ν  = 4.34 × 10-5 cm 
+wavelength of photon 
+λ = 4.34 × 10-5 cm 
+= 4.34 × 10-5 × 107 nm = 434 nm	
+Pfund series
+Fig. 4.6 : Electronic transition in the 
+hydrogen spectrum
+Paschen series 
+Lyman series 
+Balmer series
+Wavelength
+Bracket series
+Ionisation enthalpy of 
+hydrogen 1312 kJmol-1
+4.6.4 Limitations of Bohr model
+1. Bohr’s atomic model failed to account for 
+finer details of the hydrogen atom spectrum 
+observed in sophisticated spectroscop 
+experiments.
+2. Bohr model was unable to explain the 
+spectrum of atoms other than hydrogen .
+3. 	Bohr theory could not explain the splitting 
+of spectral lines in the presence of a 
+magnetic field (Zeeman effect) or electric 
+field (Stark effect).
+44
+Internet my friend
+4. Bohr theory failed to explain the ability 
+of atoms to form molecules by chemical 
+bonds. 
+It was, therefore, thought that a better 
+theory was needed to explain salient features 
+of atomic structure.
+4.6.5 Reasons for failure of the Bohr model
+With the limitations of Bohr model 
+for hydrogen atom becoming transparent, 
+attempts were made to develop a better and 
+general model for atom. This was possible 
+because two important  developments took 
+place after the Bohr model was postulated. 
+These development were : 
+1. de Broglie’s proposal of dual behaviour of 
+matter, and 
+2. Heisenberg uncertainty principle.
+	
+In Bohr model an electron is regarded 
+as a charged particle moving in well defined 
+circular orbits about the nucleus. In contrast to 
+this de Broglie proposed in 1924 that matter 
+should exhibit a dual behaviour, that is,both 
+particle and wave like properties. This means 
+that electron should have momentum, p, a 
+property of particle as well as wavelength, 
+λ, a property of wave. He gave the following 
+relation between λ and p of a material particle.
+       
+
+h
+m
+h
+p
+v
+De Broglie’s prediction was confirmed by 
+diffraction experiments (a wave property).
+of its determination is low. In that case the 
+uncertainty of determination of the other 
+property is very high. 
+Mathematically Heisenberg uncertainty 
+principle is expressed as: 
+∆x × ∆px ≥  
+h 
+4π
+∆x × ∆(mvx) ≥  
+h 
+4π
+∆x × ∆vx  ≥  
+h 
+4π
+Here ∆x is the uncertainty in position and 
+∆px (or ∆vx) is the uncertainty in momentum. A 
+further implication of the uncertainty principle 
+is that for an electron having certain energy 
+one can only determine its probability at a 
+particular point x around the nucleus. Bohr’s 
+model describes concentric orbits as well 
+defined paths of the electron rotating about 
+the nucleus and calculate energy of electron 
+occupying these orbits. Bohr model assumes 
+that both position and momentum, of the 
+electron in hydrogen atom are known exactly 
+at the same time, which is ruled out by the 
+Heiesenberg uncertainty principle. Hence no 
+attempt was made to extend the Bohr model 
+to other atoms. A different approach to atomic 
+model which would account for particle 
+duality of matter and  would be consistent with 
+Heisenberg uncertainty principle was required. 
+This became possible with the development of 
+quantum mechanics.
+4.7 Quantum mechanical model of atom :
+A new branch of science, called quantum 
+machanics, was developed in 1926 by Werner 
+Heisenberg and Erwin Schrodinger based 
+on uncertainty principle and wave motion, 
+respectively. Quantum mechanics based on 
+the ideas of wave motion will be discussed 
+here. Schrodinger developed the fundamental 
+equation of quantum mechanics which 
+incorporates wave particle duality of matter. 
+The Schordinger equation or wave equation 
+is written as
+∧Hψ  = Eψ	
+	
+	
+           
+ (4.12) 
+Collect information about Structure 
+of Atom.
+In the year 1927 Werner Heisenberg 
+stated the uncertainty principle : “It is 
+impossible to determine simultaneously, 
+the exact position and exact momentum (or 
+velocity) of an electron. In other words the 
+position and momentum of an electron can not 
+be determined with the same certainty. If the 
+certainty of determination of one property of 
+the two is high, it means that the uncertainty 
+45
+Here ∧H is a mathematical operator called 
+Hamiltonian, ψ (psi) is the wave function 
+and E the total energy of the system. Solving 
+Schrodinger equation is beyond the scope of this 
+book. It may, however, be noted that solution of 
+Schrodinger equation gives E and ψ .
+4.7.1 
+Schrodinger 
+equation 
+: 
+When 
+Schrodinger equation is solved for hydrogen 
+atom, the possible values of energy (E) that the 
+electron may have along with the corresponding 
+wave function (ψ) are obtained. As a natural 
+consequence of solving this equation, a set of 
+three quantum numbers characteristic of the 
+quantized energy levels and the corresponding 
+wave functions are obtained. These are : 
+Principal quantum number (n), azimuthal 
+quantum number (l) and magnetic quantum 
+number (ml).
+The solution of Schrodinger wave 
+equation led to three quantum numbers and 
+successfully predicted features of hydrogen 
+atom emission spectrum. Splitting of spectral 
+lines in multi-electron atomic emission spectra 
+could not be explained through such model. 
+These were explained by George Uhlenbeck 
+and Samuel Goudsmit (1925) who proposed 
+the presence of the fourth quantum number 
+called electron spin quantum number, ms.
+Wave function, ψ, as such does not have 
+any physical meaning. The probability of 
+finding an electron at a point within an atom 
+is proportional to ψ 2 in the neighbourhood 
+of that point (within a tiny volume element) 
+around it. 
+4.7.2 Atomic orbitals and quantum numbers
+Many wave functions are possible for 
+an electron, and therefore, many  atomic 
+orbitals are present in an atom. Thus the wave 
+functions or atomic orbitals form the basis of 
+the quantum mechanical electronic structure 
+of an atom. Various orbitals in an atom differ 
+in size, shape and orientation with respect to 
+the nucleus depending upon the value of ψ 2. 
+Each orbital is designated by three quantum 
+numbers labelled as n, l and ml, and each 
+electron being assigned with four quantum 
+numbers, viz, n, l, ml and ms.
+The principal quantum number ‘n’ is 
+a positive integer with values of n being 1, 2, 
+3, 4, .............. It identifies the shell. Atomic 
+orbitals, having the same value ‘n’ belong to 
+the same shell. With increase of ‘n’, the number 
+of allowed orbitals in that shell increases and 
+is given by ‘n2’. A set of orbitals with given 
+value of ‘n’ constitutes a single shell. Shells 
+are represented by symbols K, L, M, N,......... 
+so on, (see Table 4.6). 
+Table 4.6 : Allowed orbitals in he first four 
+shells  
+Principal 
+quantum 
+number
+n
+Shell 
+symbol
+Allowed 
+number of 
+orbitals 
+n2
+Size of 
+shell
+1
+K
+1
+increases
+2
+L
+4
+3
+M
+9
+4
+N
+16
+With an increase of ‘n’, the distance from 
+the nucleus and size of the shell increases and 
+also the energy increases (becoming lesser and 
+lesser negative). In hydrogen-like species the 
+energy of orbital depends only on the value 
+of ‘n’. In the case of multi-electron atoms the 
+energy of orbital depends on two quantum 
+numbers ‘n’ and ‘l’ as well.
+The azimuthal quantum number, l, is 
+also called subsidiary quantum mumber. 
+Atomic orbitals with the same value of ‘n’ 
+but different values of ‘l’ constitute a subshell 
+belonging to the shell for the given ‘n’. The 
+number of subshells in a shell is equal to ‘n’. 
+Thus, the third shell contains three subshells 
+(with three different values of ‘l’), the second 
+shell contains two subshells and the first shell 
+contains only one subshell. The values of ‘l’ 
+range from 0 to (n - 1). Thus, the K shell (with 
+n = 1) contains only one subshell having l = 0. 
+The subshells or sub-levels having ‘l’ equal to 
+0, 1, 2, 3, ..... are represented by the symbols s, 
+p, d, f,............., respectively.
+46
+The magnetic orbital quantum number, 
+ml , gives information about the relative spatial 
+orientation of the orbitals in a given subshell. 
+For any subshell (defined by ‘l’ value) 
+(2l + 1) values of ml are possible which range 
+through : 
+ml = - l, - ( l - 1 ),- ( l - 2 )..........,0,.....( l - 2 ), 
+( l - 1 ), l.
+Thus for the subshell ‘s’ with l = 0, the 
+only allowed value of ml = 0. In other words, 
+‘s’ subshells has only one orbital in it. For the 
+subshell ‘p’ having l = 1, the allowed values of 
+ml are -1, 0, +1. Thus ‘p’ subshell contain three 
+orbitals having distinct orientations, and so on. 
+The sum of orbitals in a constituent 
+subshells gives the total number of orbitals in 
+a concerned shell and is given by n2 (see Table 
+4.7) 
+Electron spin quantum number, ms, 
+specifies the spin state of the electron in an 
+orbital. An electron spins around its axis. 
+This imparts spin angular momentum, to the 
+electron.
+The two orientations which the spin 
+angular momentum of an electron can take 
+up give rise to the spin states which can be 
+distinguished from each other by the spin 
+quantum number, ms, which can be either + 1/2 
+or -1/2. The two spin states are represented by 
+two arrows, ↑ (pointing up) and ↓ (pointing 
+down) and thus have opposite spins. “An 
+orbital can accomodate maximum two 
+electrons and they must have opposite 
+spins.” 
+This is known as Pauli exclusion 
+principle which will be dealt with in section 
+4.7.5
+4.7.3 Shapes of atomic orbitals : The 
+probability of finding an electron at a given 
+point in an atom is proportional to square of 
+the wave function ψ2 at that point. According 
+to Max Born ψ2 at a point in an atom is the 
+probability density of electron at that point.
+Figure 4.7 (a)  shows the probability 
+density diagrams of 1s and 2s atomic orbitals. 
+These diagrams appear like a cloud. The 
+electron cloud of 2s orbital shows one  node, 
+which is a region with nearly zero probability 
+density and displays the change of sign for its 
+corresponding wavefunction.
+Fig. 4.7 :  (a) Shapes of 1s and 2s orbitals
+Table 4.7 : Distribution of orbitals in shells and subshells
+Shell
+Principal 
+quantum 
+number  n
+Total orbitals 
+in the shell n2
+Total number 
+of subshells in 
+a shell n
+Azimuthal 
+quantum 
+number l
+Number of 
+orbitals in the 
+subshell 2l +1 
+Sum of orbitals 
+in all the 
+subshells
+K
+n = 1
+12 = 1
+1
+l = 0
+2 × 0 + 1 = 1
+1
+L
+n = 2
+22 = 4
+2
+l = 0
+l = 1
+2 × 0 + 1 = 1
+2 × 1 + 1 = 3
+1 + 3 = 4
+M
+n = 3
+32 = 9
+3
+l = 0
+l = 1
+l = 2
+2 × 0 + 1 = 1
+2 ×1 + 1 = 3
+2 × 2 + 1 = 5
+1 + 3 + 5 = 9
+(a) Probability density plots
+1 s
+2 s
+47
+The Table 4.8 shows orbitals in the first four shells with the three quantum numbers for each 
+orbital.
+Table 4.8 : Orbital distribution in the first four shells
+Symbol 
+of Shell
+Value of 
+Principal 
+quantum 
+umber  (n )
+Number of 
+subshells    
+Value of 
+Azimuthal 
+Quantum 
+number   
+  l  
+Symbol of 
+subshell
+Total Number 
+of orbitals in 
+the subshell    
+= 2l +1 
+Values of the magnetic 
+quantum number ml 
+for the subshell
+K
+n = 1
+1
+l = 0
+1s
+2 × 0 + 1 = 1
+ml = 0
+L
+n = 2
+2
+l = 0
+2s
+2 × 0 + 1 = 1
+ml  = 0
+l = 1
+2p
+2 × 1 + 1 = 3
+ml = - 1
+ml  = 0
+ml  = + 1
+M
+n = 3
+3
+l = 0
+3s
+2 × 0 + 1 = 1
+ml  = 0
+l = 1
+3p
+2 × 1 + 1 = 3
+ml  =  -1
+ml  = 0
+ml  = + 1
+l = 2
+3d
+2 × 2 + 1 = 5
+ml = - 2
+ml  = - 1
+ml  = 0
+ml  = + 1
+ml  = + 2
+N
+n = 4 
+4
+l = 0
+4s
+2 × 0 + 1 = 1
+ml  = 0
+l = 1
+4p
+2 × 1 + 1 = 3
+ml = - 1
+ml  = 0
+ml  = +1
+l = 2
+4d
+2 × 2 + 1 = 5
+ml  = - 2
+ml  = - 1
+ml  = 0
+ml = +1
+ml  = +2
+l = 3
+4f
+2 × 3 + 1 = 7
+ml  = - 3
+ml  = - 2
+ml = -1
+ml  = 0
+ml = +1
+ml = +2
+ml  = + 3
+Problem 4.9 How many orbitals make the N shell? What is the subshell wise 
+distribution of orbitals in the N shell?
+Solution: For N shell principal quantum number n = 4 ∴ Total number of orbitals in 
+N shell = n2 = 42 = 16 The total number of subshells in N shell = n = 4. The four 
+subshells with their azimuthal quantum numbers and the constituent orbital number 
+are as shown below
+Azimuthal quantum number l
+Symbol of subshell
+number of orbitals 2l + 1
+l  = 0
+s
+(2 × 0) + 1 = 1
+l  = 1
+p
+(2 × 1) + 1 = 3
+l  = 2
+d
+(2 × 2) + 1 = 5
+l  = 3
+f
+(2 × 3) + 1 = 7
+48
+Do you know ?
+Figure 4.7 (b) shows the boundary surface 
+diagram of atomic orbitals 1s and 2s, which are 
+spherical in shape. Here, a boundary surface 
+is drawn in space for an orbital such that the 
+value of probability density  ψ 2 is constant 
+and encloses a region where the probability of 
+finding electron is typically more than 90%. 
+Such a boundary surface diagram is a good 
+representation of shape of an orbital. 
+Problem 4.10 : An atom has two electrons 
+in its 4s orbital. Write the values of the 
+four quantum numbers for each of them.
+Solution: For the 4s orbital 4 stands for 
+the principal quantum number n; s stands 
+for the subshell s having the value of 
+azimuthal quantum number l = 0. In the 
+‘s’ subshell there is only one orbital and 
+has magnetic quantum number ml = 0. The 
+two electrons in this orbital have opposite 
+spins. Thus the four quantum numbers of 
+two electrons in 4s orbital are : 
+n
+l
+ml
+ms
+electron 1
+4
+0
+0
++ 1/2
+electron 2
+4
+0
+0
+- 1/2
+Fig 4.7  (b) : Shapes of 1s and 2s orbitals
+The value of  ψ2 at any finite distance from 
+the nucleus is never zero. Therefore a boundary 
+surface enclosing 100% probability density 
+(which occurs only at the infinity) cannot be 
+drawn.
+The s orbitals are spherical in shape. Their 
+size increases with increase of n. It means that 
+the electron is located farther away from the 
+nucleus as the principal quantum number n 
+increases.
+Figure 4.8 displays the boundary surface 
+diagram with the nucleus being at the origin, 
+for the three 2p orbitals  (n = 2 and  l =1).  It 
+can be seen that each p orbital has two lobes on 
+the two sides of a nodal plane passing through 
+the nucleus. (A nodal plane has ψ2 very close 
+to zero) 
+The size and energy of the dumbell 
+shaped three 2p orbitals are the same. Their 
+orientations in space are, however, different. 
+The lobes of the three 2p orbitals are along the 
+x, y and z axes. Accordingly the corresponding 
+orbitals are designated as 2px, 2py and 2pz. The 
+size and energy of the orbitals in p subshell 
+increase with the increase of principal quantum 
+number. 
+There are five orbitals associated with d 
+subshell. Designated by dxy, dyz, dxz, dx2-y2. and 
+dz2. The shapes of the five 3d  orbitals are 
+shown in Figure 4.9. In spite of difference in 
+their shapes, the five d orbitals are equivalent 
+in energy. The shapes of 4d, 5d, 6d...... orbitals 
+are similar to those of 3d orbitals, but their 
+respective size and energies are large or they 
+are said to be more diffused.
+Fig. 4.8 : Shapes of 2p orbitals
+Fig. 4.9 : Shapes of 3d orbitals
+(d)
+(e)
+z
+dxy
+dxz
+dyz
+dx2-y2
+dz2
+z
+z
+z
+x
+y
+y
+y
+y
+y
+x
+x
+x
+x
+z
+(a)
+(b)
+(c)
+49
+4.7.4 Energies of orbitals : The energy of an 
+electron in the hydrogen atom or hydrogen-
+like species is determined by the principal 
+quantum number alone. This is because the 
+only interaction in these species is attraction 
+between the electron and nucleus. An 
+increasing order of energies of orbitals in the 
+hydrogen atom is given by 
+1s < 2s = 2p < 3s = 3p = 3d < 4s = 4p = 4d = 
+4f < ..........
+Of course the shapes of the concerned s, p, 
+d, f orbitals are different, as described earlier. 
+The orbitals with the same energy and the 
+corresponding wave functions being different 
+are called degenerate orbitals. 
+Thus, in hydrogen atom 2s amd 2p are 
+degenerate orbitals. In multi-electron atoms 
+there is mutual repulsion among the electrons. 
+The energy of an electron in a multi-electron 
+atom, therefore, depends both on the principal 
+quantum number, n, and the azimuthal 
+quantum number, l. The lower the sum (n 
++ l) for an orbital, the lower is its energy. If 
+two orbitals have the same (n + l) values then 
+orbital with the lower value of n is of lower 
+energy. This is called the (n + l) rule.
+From the (n + l) rule the increasing order 
+of energy of orbitals in multi-electron atoms 
+can be written as:  1s < 2s < 2p < 3s < 3p < 4s 
+< 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 
+7s............ (See Table 4.9) 
+In a multi-electron atom, electrons occupy 
+different orbitals. The lowest total electronic 
+energy corresponds to the most stable, that is, 
+the ground state of an atom. The orbital wise 
+distribution of electrons in the ground state can 
+be understood from what is called the aufbau 
+principle.
+4.7.5 Aufbau principle : ‘Aufbau’ is a German 
+word meaning ‘building up’. The building up 
+of orbital means filling up of orbitals with 
+electrons in the ground state of an atom. The 
+aufbau principle is based on, (i)  Increasing 
+order of energies of orbitals, (ii)  Pauli’s 
+exclusion principle, and (iii) Hund’s rule of 
+maximum multiplicity. 
+Table 4.9 : Dependance of orbital energy on (n + l) value
+Orbital Energy
+Principal quantum 
+number n 
+Azimuthal 
+quantum number l 
+(n + l )
+1s
+ n  = 1
+l = 0
+1 + 0 = 1
+2s
+n  = 2
+l = 0
+2 + 0 = 2
+2p
+n  = 2
+l = 1
+2 + 1 = 3    n  = 2 (lower)
+3s
+n  = 3
+l = 0
+3 + 0 = 3    n  = 3 (higher)
+3p
+n  = 3
+l = 1
+3 + 1 = 4    n  = 3 (lower)
+4s
+n  = 4
+l = 0
+4 + 0 = 4    n  = 4 (higher)
+3d
+n  = 3
+l = 2
+3 + 2 = 5    n  = 3 (lower)
+4p
+n  = 4
+l = 1
+4 + 1 = 5    n  = 4 (higher)
+  
+increases
+}
+} 
+}
+Fig. 4.10 :  Increasing order of orbital energy
+50
+i.  The increasing order of energies of orbitals 
+  As seen in section 4.7.4, the increasing 
+order of energies of obitals is decided by the 
+(n + l) value. Electrons in the ground state 
+atom are filled in the orbitals in an increasing 
+order of energy. Fig 4.10 shows a useful 
+method to remember this increasing order of 
+orbital energy.
+ii. Pauli exclusion principle : The capacity of 
+an orbital to accommodate electrons is decided 
+by Pauli exclusion principle. Wolfgang Pauli 
+(1926) recognized that “No two electrons in an 
+atom can have the same set of four quantum 
+numbers.” Another way to state this Pauli 
+exclusion principle is: “Only two electrons 
+can occpy the same orbital and they must 
+have opposite spins.” Pauli exclusion principle 
+implies that for an electron belonging to the 
+same orbital,  the spin quantum number ‘ms’ 
+must be different since the other three quantum 
+numbers n, l and ml are the same. There are 
+only two values that ‘ms’ can which are +1/2 
+and -1/2. An orbital thus can accommodate 
+only two electrons with opposite spins, so that 
+the fourth quantum number is different for two 
+occupying electrons. These two electrons with 
+opposite spins  occupying the same orbital are 
+called an electron pair.
+This principle is illustrated with helium 
+atom He (Z = 2). Its electronic configuration is 
+1s2  as 
+. And two electrons are in 1s orbital. 
+The two non - identical combinations of the 
+four quantum numbers of both electrons in 
+helium are given in Table 4.10.
+Table 4.10
+Electron 
+Quantum number
+Set of values 
+of four 
+quantum 
+numbers
+n
+l
+ml
+ms
+1st electron
+1
+0
+0
++1/2
+(1, 0, 0, +1/2)
+2nd electron
+1
+0
+0
+-1/2
+(1, 0, 0, -1/2)
+It implies that two electrons in the same 
+atom have always different set of quantum 
+numbers that means, the set of (n, l, ml) is the 
+same and the ms, is different.	
+Since an orbital can accommodate up 
+to two electrons only, the capacity of a shell 
+with the principal quantum number n, to 
+accommolate electrons is given by 2n2.
+iii. Hund’s rule of maximum multiplicity : 
+Filling of electrons in the orbitals belonging 
+to the same subshell (orbitals of equal energy 
+or degenerate orbitals) follows the Hund’s 
+rule of maximum multiplicity. As per this 
+rule “Pairing of electrons in the orbitals 
+belonging to the same subshell does not 
+occur unless each orbital belonging to that 
+subshell has got one electron each.”
+	
+Consider, for example, filling of p 
+subshell. The p subshell has three degenerate 
+orbitals. Here pairing of electrons starts when 
+the fourth electron enters the p subshell. The 
+electronic configuration of four electrons 
+occupying p-orbital then will be 
+ 
+and not as 
+. It is observed that 
+half-filled and fully filled set of degenerate 
+orbitals has extra stability.
+4.7.6 Electronic configuration of atoms and 
+its representation : Electronic configuration 
+of an atom is the distribution of its electrons 
+in orbitals. The electronic configuration can 
+be written by applying the aufbau principle. 
+There are two methods of representing 
+electronic configuration: 
+(i) Orbital notation:  nsanpbndc..........
+(ii) Orbital diagram: 
+	
+In the orbital notation method, a 
+shells is represented by the principal quantum 
+number followed by respective symbol of a 
+subshell and number of electrons occupying 
+that subshell being written as super script 
+on right side of the symbol. In the orbital 
+diagram method each orbital in a subshell 
+is represented by a box and the electron 
+represented by an arrow (↑ for up spin and ↓ 
+for low spin) placed in the respective boxes. 
+In this second method all the four quantum 
+numbers of electron are accounted for. 
+Electronic configuration of a few elements is 
+illustrated in Table 4.11.
+51
+Table 4.11 : Representation of electronic 
+configuration
+Element 
+symbol
+Orbital 
+notation
+Orbital diagram
+1H
+1s1
+1s
+2He
+1s2
+1s
+3Li
+1s22s1
+2s
+1s
+4Be
+1s22s2
+2s
+1s
+9F
+1s22s22p5
+2s
+1s
+2p
+Condensed orbital notation of electronic 
+configuration : The orbital notation of 
+electronic configuration of an element with 
+high atomic number comprises a long train 
+of symbols of orbitals with an increasing 
+order of energy. It can be condensed by 
+dividing it into two parts. Electronic 
+configuration of the preceding inert gas is 
+a part of the electronic configuration of any 
+element. In the condensed orbital notation 
+it is implied by writing symbol of that inert 
+gas in a square bracket. It is core part of the 
+electronic configuration of that element. The 
+outer configuration is specific to a particular 
+element and written immediately after the 
+bracket. For example, the orbital notation of 
+potassium, K (Z = 19) is , 1s22s22p63s23p64s1’ 
+Its core part is the electronic configuration 
+of the preceding inert gas argon  ‘Ar : 
+1s22s22p63s23p6, while ‘4s1’ is an outer part. 
+Therefore the condensed orbital notation of 
+electronic configuration of potassium is ‘K 
+: [Ar] 4s1.’ Table 4.12 displays detailed and 
+condensed orbital notations of electronic 
+configuration of various elements with atomic 
+numbers from 1 to 30.
+Electronic configurations of Cu and Cr
+Chromium : Atomic number of chromium 
+is 24. Expected electronic configuration is 
+1s22s22p63s23p64s23d4; In that case 3d is not 
+half-filled. Hence, it has less stability. 
+Interelectronic repulsion makes one 4s 
+electron enter into one of empty 3d orbitals, 
+thereby both 4s and 3d orbitals become 
+half-filled so that chromium atom acquires 
+extra stability. Its electronic configuration is 
+1s22s22p63s23p64s13d5.
+Copper : Atomic number of copper is 29. 
+The expected electronic configuration is 
+1s22s22p63s23p64s23d9. Here 3d orbital is neither 
+half-filled nor fully filled. Due to interelectronic 
+repulsions forces one 4s electron to enter into 
+3d which makes it completely filled with 4s 
+being half-filled. Hence copper atom accquires 
+extra stability. Now electronic configuration of 
+Cu is 1s22s22p63s23p64s13d10.
+Isoelectronic species : Atoms and ions 
+having the same number of electrons are 
+isoelectronic. The electronic configuration of 
+the isoelectronic species is the same. Consider 
+K⊕ formed by removal of one electron from K 
+atom. 
+Which has 19 electrons (Z = 19). Therefore 
+K⊕ has 18 electrons 
+	Number of 
+electrons
+19
+18
+K (Z = 19)   →  K⊕  +  e
+		
+	
+Species such as Ar, Ca2⊕ containing 18 
+electrons are isoelectronic with K⊕ .
+Electronic configuration of all these species 
+with 18 electrons is 1s22s22p63s23p6.
+Internet my friend
+Visit following link, download the information and make a presentation.  
+www.thoughtco.com/definition.
+52
+Table 4.12 Electronic configuration of the first thirty elments
+Atomic 
+Number
+Element
+K
+(n = 1) 
+L
+(n = 2) 
+M
+(n = 3) 
+N  
+(n = 4) 
+Condensed notation 
+of eletronic 
+configuration
+1
+Hydrogen 
+1s1
+1s1
+2
+Helium
+1s2
+1s2
+3
+Lithilum
+1s2
+2s1
+[He] 2s1
+4
+Beryllium
+1s2
+2s2
+[He]2s2
+5
+Boron
+1s2
+2s22p1
+[He] 2s22p1
+6
+Carbon
+1s2
+2s22p2
+[He] 2s22p2
+7
+Nitrogen
+1s2
+2s22p3
+[He] 2s22p3
+8
+Oxygen
+1s2
+2s22p4
+[He] 2s22p4
+9
+Fluorine
+1s2
+2s22p5
+[He] 2s22p5
+10
+Neon
+1s2
+2s22p6
+[He] 2s22p6
+11
+Sodium
+1s2
+2s22p6
+3s1
+[Ne]3s1
+12
+Magnesium
+1s2
+2s22p6
+3s2
+[Ne]3s2
+13
+Aluminium
+1s2
+2s22p6
+3s2 3p1
+[Ne]3s23p1
+14
+Silicon
+1s2
+2s22p6
+3s2 3p2
+[Ne]3s23p2
+15
+Phospho­
+rous
+1s2
+2s22p6
+3s2 3p3
+[Ne]3s23p3
+16
+Sulfur
+1s2
+2s22p6
+3s2 3p4
+[Ne]3s23p4
+17
+Chlorine
+1s2
+2s22p6
+3s2 3p5
+[Ne]3s23p5
+18
+Argon
+1s2
+2s22p6
+3s2 3p6
+[Ne]3s23p6
+19
+Potassium
+1s2
+2s22p6
+3s2 3p6
+4s1
+[Ar] 4s1
+20
+Calcium
+1s2
+2s22p6
+3s2 3p6
+4s2
+[Ar] 4s2
+21
+Scandium
+1s2
+2s22p6
+3s2 3p63d1
+4s2
+[Ar] 4s23d1
+22
+Titanium
+1s2
+2s22p6
+3s2 3p63d2
+4s2
+[Ar]4s23d2
+23
+Vanadium
+1s2
+2s22p6
+3s2 3p63d3
+4s2
+[Ar] 4s23d3
+24
+Chromium
+1s2
+2s22p6
+3s2 3p63d5
+4s1
+[Ar] 4s23d5
+25
+Manganese
+1s2
+2s22p6
+3s2 3p63d5
+4s2
+[Ar] 4s23d5
+26
+Iron
+1s2
+2s22p6
+3s2 3p63d6
+4s2
+[Ar]4s23d6
+27
+Cobalt
+1s2
+2s22p6
+3s2 3p63d7
+4s2
+[Ar] 4s23d7
+28
+Nickel
+1s2
+2s22p6
+3s2 3p63d8
+4s2
+[Ar] 4s23d8
+29
+Copper
+1s2
+2s22p6
+3s2 3p63d10
+4s1
+[Ar] 4s13d10
+30
+Zinc
+1s2
+2s22p6
+3s2 3p63d10
+4s2
+[Ar] 4s23d10
+53
+Problem 4.11 : Write electronic configuration of 18Ar and 19K using orbital notation and orbital  
+diagram method.
+Solution : From the atomic numbers it is unterstood that 18 electron are to be filled in Ar atom and 
+19 electrons are to be filled in K atom. These are to be filled in the orbitals according to the  aufbau 
+principle. The electronic configuration of these atoms can be represented as.
+Orbital notation
+Orbital diagram
+18Ar
+1s22s22p6 3s23p6
+2s
+1s
+2p
+   3s
+3p
+19K
+1s22s22p6 3s23p64s1
+2s
+1s
+2p
+  3s
+3p
+  4s
+Problem 4.12
+Find out one dinegative anion and  one unipositive cation which are isoelectronic with Ne 
+atom. Write their electronic configuration using orbital notations and orbital digram method.
+Solution:
+	
+Ne has Z = 10. Therefore Ne and its isoelectronic species contain 10 electrons each. 
+The dinegative anionic species isoelectronic with Ne is obtained by adding two electrons to 
+the atom with Z = 8. This is O2 . The unipositive cationic species isoelectronic with Ne is 
+obtained by removing one electron from an atom of  Z = 11. It is Na⊕. These species and their 
+electronic configuration are shown below :	
+Number of electron
+Orbital Notation 
+Orbital diagram
+Ne
+10
+1s22s22p6
+1s     2s          2p
+ O + 2e   
+           O2
+10
+Na - e    
+     Na⊕
+10
+Exercises
+1. 	Choose correct option. 
+A. 	The energy difference between the 
+shells goes on ........... when moved 
+away from the nucleus.
+	a. Increasing	 	
+b. decreasing
+	c. equalizing 	 	
+d. static
+B. 	The value of Plank’s constant is -
+	
+a. 6.626 × 10-34Js        b. 6.023 × 10-24Js
+	
+c. 1.667 × 10-28Js        d. 6.626 × 10-28Js
+C. 	p-orbitals are....... in shape.
+	
+a. spherical	
+	
+b. dumb bell
+	
+c. double dumbell	
+d. diagonal
+D.  “No two electrons in the same atoms 
+can have identical set of four quantum 
+numbers”. This statement is known as -
+	
+a. Pauli’s exclusion principle
+	
+b. Hund’s rule
+	
+c. Aufbau rule
+	
+d. Heisenberg uncertainty principle
+E. 	 Principal Quantum number describes-
+	
+a. shape of orbital	
+	
+b. size of the orbital
+	
+c. spin of electron	
+	
+d. orientation of in the orbital	electron 
+	
+    cloud
+2.	 Make the pairs:
+	
+	
+     ‘A’ 	
+       ‘B’
+	
+a. Neutrons	
+i. six electrons
+	
+b. p-orbital	
+ii.-1.6×10-19 C	
+	
+c. charge on electron	 iii.  Ultraviolet  
+	
+	
+	      region
+	
+d. Lyman series	
+iv. Chadwick

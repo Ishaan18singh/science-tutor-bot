@@ -1,0 +1,1776 @@
+189
+1. Choose the correct option
+A.	 The equlilibrium , H2O(1) 
+  H⊕(aq) + 
+OH(aq) is
+	
+a. dynamic	
+ 	
+b. static	
+	
+c. physical	
+	
+d. mechanical
+B.	 For the equlibrium, A 
+ 2B + Heat, 
+the number of ‘A’ molecules increases if 
+	
+a. volume is increased	
+	
+b. temperature is increased
+	
+c. catalyst is added
+	
+d. concerntration of B is decreased
+C.	 For the equilibrium Cl2 (g) + 2NO(g) 
+ 2NOCl(g) the concerntration of 
+NOCl will increase if the equlibrium is 
+disturbed by 
+	
+a. adding Cl2	
+b. removing NO
+	
+c. adding NOCl	c. removal of Cl2
+D.	 The relation between Kc and Kp for the 
+reaction A (g) + B (g) 
+ 2C (g) + D 
+(g) is
+	
+a. Kc = Ykp	
+b. Kp = Kc2
+	
+c. Kc = 1
+Kp	
+d. Kp/Kc = 1
+E.	 When volume of the equilibrium reaction 
+C (g) + H2O (g) 
+ CO (g) + H2 (g) 
+is increased at constant temperature the 
+equilibrium will
+	
+a. shift from left to right
+	
+b. shift from right to left
+	
+c. be unaltered
+	
+d. can not be predicted
+2. Answer the following 
+A.	 State Law of Mass action.
+B.	 Write an expression for equilibrium 
+constant with respect to concerntration.
+C.	 Derive mathematically value of kP for 
+for A(g) + B(g) 
+ C(g) + D(g)
+D.	 Write expressions of Kc for following 
+chemical reactions
+	
+i. 2SO2(g) + O2(g) 
+  2SO3(g)
+	
+ii. N2O4(g) 
+ 2NO2(g) 
+E.	 Mention 
+various 
+applications 
+of 
+equilibrium constant.
+F. How does the change of pressure affect 
+the value of equilibrium constant ?
+J.	 Differentiate irreversible and reversible 
+reaction.
+K.	 Write 
+suitable 
+conditions 
+of 
+concentration, temperature and pressure 
+used during manufacture of ammonia by 
+Haber process.
+L.	 Relate the terms reversible reactions and 
+dynamic equilibrium.
+M.	For the equilibrium. 
+	
+BaSO4(s) 
+  Ba2⊕(aq) + SO4 
+2 (aq)
+	
+state the effect of
+	
+a. Addition of Ba2⊕ ion.
+	
+b. Removal of SO4
+2  ion
+	
+c. Addition of BaSO4(s)
+	
+    on the equilibrium.
+3. Explain :
+A.	 Dynamic nature of chemical equilibrium 
+with suitable example.
+B.	 Relation between Kc and Kp.
+C.	 State and explain Le Chatelier’s principle 
+with reference to
+	
+1. change in temperature
+	
+2. change in concerntration.
+D.  	a. Reversible reaction
+	
+b. Rate of reaction
+E.	 What is the effect of adding chloride on 
+the position of the equilibrium ?
+	
+AgCl(s) 
+  Ag⊕ (aq) + Cl (aq)
+Exercises
+Activity :
+Prepare  concept maps of chemical 
+equilibrium.
+190
+Do you know ?
+13.1  Introduction:  Nuclear chemistry is a 
+branch of physical chemistry : It is the study 
+of reactions involving changes in atomic 
+nuclei.  This branch started with the discovery 
+of natural radioactivity by a physicist Antoine 
+Henri Becquerel (1852-1908). Most of the 20th 
+century research has been directed towards 
+understanding of the forces holding the 
+nucleus together. To understand the changes 
+occuring on the earth,  Geologists explore 
+nuclear reactions. Astronomers study nuclear 
+reactions taking place in stars.  In biology and 
+medicine,  the interactions of radiation emitted 
+from nuclear reactions with the living system 
+are important.
+Examples of nuclear reactions are  : 
+radioactive decay, artificial transmutation, 
+nuclear fission and nuclear fusion.
+We briefly discuss these in this chapter. 
+We have studied the structure of atom in 
+Chapter 4. 
+13.1.1 Similarity between the solar system 
+and structure of atom: Our solar system is 
+made up of the Sun and planets. The Sun is at 
+the centre of solar system and planets moving 
+around it under the force of gravity. Analogous 
+to this in atomic systems, the forces which 
+hold nucleus and extranuclear electrons are 
+attractive electrostatic. 
+As studied in Chapter 4,  the atom consists 
+of tiny central core called nucleus consisting 
+of protons and neutrons and surrounding 
+region of space being occupied by fast moving 
+electrons.
+The radius of nucleus is of the order of 
+10-15 m whereas that of the outer sphere is of 
+the order of 10-10 m. The size of outer sphere, 
+is 105 times larger than the nucleus. There is a 
+large space vacant outside the nucleus. 
+Composition of an atom is denoted as 
+A
+Z X 
+where X is the symbol of the element. Z equals 
+number of protons and is called atomic number 
+of the element.  (Refer to chapter 4, section 4.2)
+13. Nuclear chemistry and radioactivity
+'A' is the mass  number or the sum of 
+number of protons and neutrons in an atom. N 
+is the number of neutrons in an atom.
+A =Z + N
+The number of neutrons can be obtained 
+by subtracting the atomic number, Z, from the 
+mass number A. 
+The atomic number, appearing as a 
+subscript to the left of the elemental  symbol, 
+gives the number of protons in the nucleus. The 
+mass number written as a superscript to the 
+left of element symbol, gives the total number 
+of nucleons that is the sum of protons (p) and 
+neutrons (n). The most common isotope of 
+carbon, for example, has 12 nucleons : 6 
+protons and 6 neutrons,
+Mass number (A)
+6 protons
+6 neutrons
+12 nucleons
+Carbon 12
+Atomic number (Z)
+12
+6 C  
+As you know, atoms with identical atomic 
+numbers but different mass numbers are called 
+isotopes. The nucleus of a specific isotope is 
+called nuclide. 
+	
+The charge on the nucleus is +Ze and 
+that of outer sphere is −Ze,  ('e' is the magnitude 
+of electronic charge). The atom as a whole 
+is, thus, electrically neutral. The mass of an 
+electron is negligible (1/1837th  of the mass of 
+proton)  in comparison to pronton or neutron. 
+The entire mass of atom is concentrated in its 
+nucleus.  The density of nucleus is considerably 
+higher, typically 105 times the density of 
+ordinary matter.
+	
+The radius of nucleus is given by 
+R = Ro A1/3 where Ro is constant, common to 
+How small is the nucleus in comparison to 
+the rest of atom ?
+If the atom were of the size of football 
+stadium, the nucleus at the centre spot 
+would be the size of a pea.
+191
+all nuclei and its value is 1.33 x 10-15 m. The 
+volume of nucleus,  V ∝ R3  and hence,  V ∝ A. 
+13.2 Classification of nuclides 
+13.2.1 Classification on the basis of number 
+of nucleons : On the basis of the number of 
+neutrons and protons constituting the nucleus, 
+the nuclides (which refer to atomic nucleus 
+without relation to the outer sphere) are 
+classified as
+i. Isotopes : These are nuclides which the 
+same number of protons but different number 
+of neutrons For example,  
+22
+11 Na ,  
+23
+11 Na , 
+24
+11 Na. 
+The number of neutrons in each being 11, 12 
+and 13, respectively.
+ii. Isobars : These are nuclides which have 
+the same mass number and different number 
+of protons and neutrons. For example, 
+14
+6 C, 
+the number of neutrons in each are 8 and 7, 
+respectively. Likewise 
+3
+1 H and 3
+2 He, or
+14
+6 C and 
+14
+7 N are the pairs of isobars (Table 13.1).
+Table 13.1 : Isobars
+Isobars of A = 3 
+3
+1 H (N = 2), 
+3
+2 He (N = 1) 
+Isobars of A = 14
+14
+6 C  (N = 8),  
+14
+7 N (N = 7)
+Isobars of A = 24
+24
+11 Na  (N = 32),
+24
+12 Mg(N=12)
+iii. Mirror nuclei : These are isobars in which 
+the number of protons and neutrons differ by 1 
+and are interchanged. Examples: 
+3
+1 H and
+3
+2 He, 
+13
+6 C  and 
+13
+7 N 
+iv. Isotones : Isotones are nuclides having the 
+same number of neutrons but different number 
+of protons and hence, different mass numbers. 
+For example, carbon, nitrogen, sodium, 
+magnesium.
+13
+6 C  and 
+14
+7 N , 
+23
+11 Na and 
+24
+12 Mg
+v. Nuclear isomers  : The nuclides with the 
+same number of protons (Z) and neutrons (N) 
+or the same mass number (A) which differ in 
+energy states are called nuclear isomers. For 
+example, 60mCo and 60Co. An isomer of higher 
+energy is said to be in the meta stable state. It is 
+indicated by writing m after the mass number. 
+13.2.2 Classification on the basis of nuclear 
+stability
+i. Stable nuclides :  The number of electrons 
+and the location of electrons may change in 
+outer sphere but the number of protons and 
+neutrons the nucleus is unchanged.
+ii. Unstable or radioactive nuclides : These 
+nuclides undergo spontaneous change in 
+their compposition of radiation forming  new 
+nuclides.
+13.3 Nuclear stability : Why are some nuclei 
+stable while others are radioactive and undergo 
+spontaneous change? To answer this question 
+we need to know the factors governing stability 
+of the nucleus.
+13.3.1 Even-odd nature of proton number 
+(Z) and neutrons (N)
+Table 13.2 : Distribution of naturally occurring 
+nuclides.
+Number of 
+protons Z
+Number of 
+neutrons N
+Number of 
+such nuclides
+Even
+Even
+165
+Even
+Odd
+55
+Odd
+Even
+50
+Odd
+Odd
+04
+The distribution of naturally occuring nuclides 
+in accordance with even/odd values of N and 
+Z  is useful to understand stability of nuclides.
+a. The nuclides with the even Z and even N 
+constitute 85% of earth crust. It indicates that 
+nuclides with even Z and even N are stable. 
+They tend to form proton-proton and neutron-
+neutron pairs and impart stability to the 
+nucleus. 
+b. The number of stable nuclides with either Z 
+or N odd is about one third of those in which 
+both are even. This suggests that these nuclides 
+are less stable than those having even number 
+of protons and neutrons. In these nuclides one 
+nucleon has no partner. Further the nuclides 
+with odd Z or odd N are nearly the same. This 
+indicates that protons and neutrons behave 
+similarly in the respect of stability.  
+c. The stable naturally occureing nuclides 
+with odd Z and odd N are only four. The small 
+number is indicative of instability; which can 
+be attributed to the presence of two unpaired 
+192
+nucleons. This also indicates the separate 
+pairing of neutrons and protons (The nucleon 
+pairing does not take place between proton and 
+neutron). Only 2% of the earth's crust consists 
+of such nuclides.
+13.3.2 Neutron to Proton ratio (N/Z) :
+i. Figure 13.1 shows a plot of the neutron 
+number (N) as a function of proton number (Z) 
+in stable nuclides. A large number of elements 
+have several stable isotopes. Hence, the curve 
+appears as a belt or zone called Stability zone. 
+All the stable nuclides fall within this zone. 
+The nuclides which form outside such belt are 
+radioactive. The straight line below the belt 
+represents the ratio N/Z to be unity. 
+ii. As may be noticed for nuclei lighter than 
+40
+20 Ca, one observes the straight line (N=Z) 
+passing through the belt. The lighter nuclides 
+are therefore stable when their N/Z is nearly 1.
+of protons render large coulombic repulsions. 
+With increased number of neutrons the protons 
+within the nuclei get more separated, which 
+renders them stable.
+13.3.3 Magic numbers : The nuclei with 2, 
+8, 20, 28, 50, 82 and 126 neutrons or protons 
+are particularly stable and abundant in nature. 
+These are magic numbers. Lead (
+208
+82 Pb ) has two 
+magic numbers, 82 protons and 126 neutrons. 
+13.3.4 Nuclear Potential : Within the nucleus, 
+all protons are positively charged. What are 
+the consequences of the Coulomb repulsions 
+between these protons? 
+     The distance between two protons present in 
+the nucleus is typically 10-15 m. Obviously, the 
+repulsion between them has to be large. If the 
+coulomb repulsion had been the only force in 
+operation the nucleus would not exist. However 
+the nucleus does exist. This indicates that there 
+are nuclear forces of attraction between all 
+the nucleons holding them together within the 
+nucleus. These are attractions between proton-
+proton, neutron-neutron and proton-neutron. 
+These attractive forces are independent of the 
+charge on nucleons. Hence p-p, n-n and p-n 
+attractions are equal. These attractive forces 
+operate over short range within the nucleus.  
+The p-p, n-n and p-n attractions 
+constitute what is called the nuclear potential 
+which is responsible for the nuclear stability.
+13.3.5 Nuclear binding energy and mass 
+defect : Binding energy of a nucleus gives a 
+measure of how strongly nucleons are held 
+together within the nucleus.
+The energy required for holding the 
+nucleons together within the nucleus of an 
+atom is called as the nuclear binding energy. 
+It is defined as the energy required to break the 
+nucleus into its constituents. Here the binding 
+of electrons to the nucleus has been neglected.
+Atoms are composed of protons, neutrons 
+and electrons. The actual mass of atom is 
+observed to be less than sum of the masses of 
+its constituents.  
+Fig. 13.1 : Neutron to Proton (N/Z) ratio
+iii. The N/Z ratio for the stable nuclides heavier 
+than calcium gives a curved appearance to 
+the belt with gradually increase of N/Z (> 1). 
+The heavier nuclides therefore, need more 
+number of neutrons (than protons) to attain 
+stability. What is the reason for this? The 
+heavier nuclides with the increasing number 
+Stable nuclei
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Z Protons
+N Neutrons
+230
+210
+190
+170
+150
+130
+110
+90
+70
+50
+30
+10
+N = Z
+Naturally occuring radioisotopes
+Artificially produced  radioisotopes
+193
+Protons and neutrons are held in a nucleus 
+together. During the formation of nucleus, a 
+certain mass is lost. This is known as mass 
+defect, Δm. An energy equivalent to the 
+mass lost is released during the formation of 
+nucleus. This is  called the nuclear binding 
+energy.   
+In general, the exact mass of a nucleus 
+is slightly less than sum of the exact masses 
+of the constituent nucleons. The difference is 
+called mass defect, (Δm). 
+Δm = Calculated mass – Observed mass.
+     The conversion of mass into energy 
+is etablished through Einstein's equation, 
+E = mc2. where m is the mass of matter 
+converted into energy E and c velocity of light.
+Units of nuclear masses and energy : The 
+nuclear mass is usually expressed in unified 
+mass unit (u) which is exactly 1/12th of the 
+mass of 12C atom. Thus, 1u = 1/12th  mass of 
+C-12 atom = 1.66 x 10-27 kg.
+The energy released (in Joules) in the 
+conversion of 1 u mass into energy is given by 
+the expression :
+E = mc2 = (1.66 x 10-27kg) x (3 x 108m s-1)2
+Expression for nuclear binding energy :
+  Consider a nuclide 
+A
+Z X   that contains Z 
+protons and (A - Z) neutrons. Suppose the 
+observed mass of the nuclide is m. The mass 
+of proton is mp and that of neutron is mn. 
+Calculated mass = (A-Z) mn + Z mp + Z me     …
+(13.1)
+Δm = [(A-Z) mn+ Z mp + Z me] - m
+       = [(A-Z) mn+ Z (mp+me)] - m
+= [(A-Z) mn + Z mH] - m	
+	
+ …(13.2)
+where (mp + me) = mH = mass of H atom.
+Thus (Δm) = [ZmH + (A-Z) mn] - m
+Where Z is atomic number, A is the mass 
+number, (A-Z) is neutron number, mH and mn 
+are masses of hydregen atom and neutron, 
+respectively, and m is the mass of nuclide. 
+The mass defect, Δm is related to binding 
+energy of nucleus by Einstein’s equation
+ΔE=Δm x c2
+where, ΔE is the binding energy, Δm is the mass 
+deffect. Nuclear energy is usually expressed in 
+million electron volt (MeV), where
+1 MeV = 1.602 x 10-13 J
+When mass equal to in is converted into energy 
+it is 931.4 MeV.
+The total binding energy is then given by 
+B.E. =∆m (u) x 931.4 (MeV per u)
+B.E.= 931.4(ZmH + (A-Z) mn) - m   … (13.3)
+Total binding energy of nucleus containing 
+A number of nucleons is denoted as B.E.  The 
+binding energy per nucleon is then given by,
+−B  =B.E. / A 	 	
+	
+	
+… (13.4)
+Binding energy per nucleon and nuclear 
+stability : Mean binding energy per nucleon 
+for the most stable isotopes as a function of 
+mass number is shown in Fig. 13.2. This plot 
+leads to the following inferences.
+(i) Light nuclides (A < 30)
+The peaks with A values in multiples of 4. For 
+example, 
+4
+2 He, 
+12
+6 C,  
+16
+8 O  are more stable.
+(ii) Medium mass nuclides : (30 < A < 90)
+−B  increases typically from 8 MeV for A=16 to 
+nearly 8.3 MeV for A between 28 and 32 and 
+it remains nearly constant 8.5 MeV. Beyond 
+this  it shows a broad maximum. The nuclides 
+falling on the maximum are most stable as 
+they possess high −B  values. Accordingly 56Fe 
+with −B  value of 8.79 MeV  is the most stable 
+nuclide.
+(iii)  Heavy nuclides (A > 90)
+    −B   decreases from maximum 8.79 MeV 
+to 7.7 MeV for A ≅ 210, 209Bi is the heaviest 
+stable nuclide. Beyond this all nuclides are 
+radioactive (α- emitters).
+Fig. 13.2 : Binding energy per nucleon
+fusion
+fission
+194
+13.5 Radioactive decay : The probability of 
+decay of a radioelement does not depend on 
+state of chemical combination, temperature, 
+pressure, presence of catalyst or even the age 
+of nucleus.
+13.5.1 Rate of  decay : Rate of decay of a 
+radioelement denotes number of nuclei of 
+its atoms which decay in unit time. It is also 
+called activity of radioelement.
+If dN is the number of nuclei that decay within 
+time interval dt, then rate of decay at any time 
+t is given by
+rate of decay (activity) = - dN
+dt
+Why is minus sign required ? The number 
+of nuclei decreases with time. So dN is a 
+negative quantity. However the rate of decay 
+is a positive quantity. The negative sign is 
+introduced in the rate expression to make the 
+rate positive. The rate of decay is expressed as 
+disintegrations per second (dps).
+13.5.2 Rate law : The rate of decay of a 
+radioelement at any instant is propontional to 
+the number of nuclei (atoms) present at that 
+instant. Thus,
+- dN
+dt  ∝ N, or - dN
+dt  =λN 	
+           
+ (13.5)
+∴ λ = - dN
+dt   x 1
+N  
+where - dN
+dt  being the rate of decay at any 
+time t. N is the number of nuclei present at time 
+t, λ the decay constant. That is the fraction of 
+nuclei decaying in unit time.
+13.5.3 Expression for decay constant :
+Rearranging the Eq. (13.5)
+ dN
+N  = - λ dt
+Integrating, 
+∫ dN
+N  = - ∫ λ dt
+On performing the integration, we get 
+lnN = - λt + C		
+	
+          
+ (13.6)
+where C is the constant of integration whose 
+value is obtained as follows :
+Problem : 13.1 : Calculate the mean binding 
+energy per nucleon for the formation of 
+16
+8 O  
+nucleus. The mass of oxygen atom is 15.994 
+u. The  masses of H atom and neutron are 
+1.0078 u and 1.0087 u, respectively.
+Solution : 
+i. The mass defect, ∆m = ZmH + (A - Z) mn 
+- m
+mH = 1.0078 u, mn = 1.0087u and m = 15.994 
+u , Z = 8, A = 16
+∆m = 8 x 1.0078u + 8 x 1.0087u - 15.994 u 
+= 0.137144 u
+ii. Total binding energy, B.E. (MeV) = ∆m 
+(amu) x 931.4
+Hence, B.E. = 0.137144 x 931.4 = 127.73 
+MeV
+iii. Binding energy per nucleon, B = BE
+A
+Hence, B = 127.73MeV
+16
+ 
+= 7.98 MeV/nucleon
+Calculate the binding energy per nucleon 
+for the formaton of 
+4
+2He  nucleus ? Mass 
+4
+2 He atom = 4.0026 u.
+13.4 Radioactivity : You know that some 
+elements such as uranium and radium are 
+radioctive elements. An element is radioactive 
+if the nuclei of its atoms are unstable. The 
+phenomenon in which the  nuclei spontaneously 
+emit a nuclear particle and gamma radiation 
+transforming to a different nuclide is called 
+radioactivity. The elements which undergo 
+nuclear changes are radioactive elements The 
+radioactivity is the phenomenon related to the 
+nucleus.
+The radiations emitted by radioactive 
+elements are : alpha (α), beta (β) and gamma 
+(ϒ) radiations. Earlier you have studied the 
+properties of α, β and ϒ rays.
+Try this
+Prepare a chart of comparative properties 
+of the above three types of radiations.
+195
+Let N0 be the number of nuclei present at 
+some arbitrary zero time. At time t, the number 
+of nuclei is N. So at t = 0, N = N0. Substituting 
+in Eq. (13.6),  
+ln N0 = C.
+with this value of C, Eq. (13.6) becomes
+ln N = - λt + ln N0
+or λt = ln N0 - ln N = ln N0
+N              
+  (13.7)
+Hence, λ = 1
+t  ln N0
+N                         
+ (13.8)
+Converting natural logarithm (ln) to logarithm 
+to the base 10, the eqn (13.8) becomes
+λ = 2.303
+t
+ log10 N0
+N                            
+ (13.9)
+The Eq. (13.7) can be expressed as ln 
+N
+N0
+ = - λt. Taking antilog of both sides, we get
+ N
+N0
+ = e-λt or N = N0e-λt                               
+  (13.10)
+The Eq. (13.9) and Eq. (13.10) give the decay 
+constant.
+13.5.4 Half life of radioelement (t1/2) : The 
+half life of a radioelement is the time needed 
+for a given number of its nuclei (atoms) to 
+decay exactly to half of its initial value. Each 
+radio isotope has its own half life denoted by 
+t1/2 and expressed in seconds, minutes, hours, 
+days or years. At any time t, number of nuclei 
+= N.
+ At t = 0, N = N0. Hence at t = t1/2, 
+N = N0/2 substitution of these values of N and t 
+in Eq. (13.9) gives 
+λ = 2.303
+t1/2
+ log10 
+N0
+N0/2  
+= 2.303
+t1/2
+ log10  2 = 2.303
+t1/2
+ x 0.3010 = 0.693
+t1/2
+ 
+Hence, λ = 0.693
+t1/2
+ or t1/2 =  0.693
+λ
+13.5.5 Graphical representation of decay
+i. From Eq. (13.9)  
+log10 N =   - λ
+2.303 t + log10 N0
+A plot of log10 N versus t gives a straight 
+line. However, N ∝ 
+dN
+dt
+. Hence, instead 
+of  log10 N versus t, log10 
+dN
+dt
+  which is 
+log10  (activity) is plotted versus. The graph is 
+a straight line as shown in Fig. (13.3).
+slope = -  
+λ
+2.303
+log 
+activity
+Time
+Fig. 13.3 : Plot of log10 activity Vs time
+ii. Rate of radioactive decay at any instant 
+is proportional to number of atoms of the 
+radioactive element present at that instant. It 
+is evident that as decay progresses, the number 
+of radioactiv atoms decrease with time and 
+so does the rate of decay. A plot of a rate or 
+activity versus t is shown in Fig 13.4.
+Fig. 13.4 : Plot of activity versus time
+Time
+Activity
+Fig. 13.4  shows a decrease in the rate 
+of decay, that is, decrease in number of 
+radioactive atoms with time. 
+0
+0
+500
+800
+700
+600
+500
+400
+300
+200
+100
+1000
+1500
+196
+Problem : 13.2
+41Ar decays initially at a rate of 575 Bq. The 
+rate falls to 358 dps after 75 minutes. What 
+is the half life of 41Ar ?
+Solution :
+λ = 2.303
+t
+ log10 
+N0
+N
+where  
+dN0
+dt    = 575 dps  
+ 
+dN
+dt   = 358 dps and  t = 75 min.
+Hence,  λ = 2.303
+75 min log10  
+575 dps
+358 dps  
+= 6.32 x 10-3 min-1
+t1/2  =   0.693
+λ
+ = = 
+0.693
+6.32 x 10-3 min-1  
+= 109.7 min
+Problem : 13.3
+The half life of 32P is 14.26 d. What 
+percentage of 32P sample will remain after 
+40 d?
+Solution :
+t1/2  =   0.693
+t1/2
+ =  0.693
+14.26 d   = 0.0486 d-1
+Now, λ = 2.303
+t
+ log10  
+N0
+N
+N0 = 100, N = ?, t = 40 d
+Hence, log10 N0
+N    =  
+λt
+2.303  
+= 0.0486 d-1 x 40 d
+2.303
+ = 0.8441
+Taking antilog of both sides we get 
+ N0
+N    =  antilog (0.8441) = 6.984
+ 100
+N    = 6.984 or N =  100
+6.984   = 14.32
+% 32P that remains after 40 d = 14.32 %
+Problem : 13.4
+The half life of 34Cl is 1.53 s. How long 
+does it take for 99.9 % of sample of 34Cl to 
+decay?
+Solution :
+λ  =   0.693
+t1/2
+ =  0.693
+1.53s   = 0.453 s-1
+Now, λ = 2.303
+t
+ log10  
+N0
+N
+ 
+N0 = 100, N = 100 - 99.9 = 0.1, t = ?
+Hence, 0.453 s-1  =  2.303
+t
+ log10  
+100
+0.1  
+or t =   2.303
+0.453 s-1  x log10(1000)
+=   2.303
+0.453 s-1  x 3  = 15.25 s
+Problem : 13.5
+The half life of 209P0 is 102 y. How much of 
+1 mg sample of polonium decays in 62 y?
+Solution :
+λ  =   0.693
+t1/2
+ =  0.693
+102 y   = 6.794 x 10-3 y-1
+ λ = 2.303
+t
+ log10 
+N0
+N
+    
+Hence, log10  
+N0
+N
+ =   
+λt
+2.303
+or,  log10  
+N0
+N
+ 
+=  6.794 x 10-3 y-1 x 62 y
+2.303
+  = 0.1829
+It then follows that
+N0
+N  = antilog (0.1829) = 1.524
+N = 
+N0
+1.524 =  
+1 mg
+1.524 = 0.656 mg
+N the amount that remains after 62 y. 
+Hence, the amount decayed in 
+62 y = 1 mg - 0.656 mg  = 0.344 mg
+197
+13.5.6 Units of radioactivity : Rate of 
+radioactive decay is expressed in dps. The unit 
+for the radioactivity is curie (Ci).
+1 Ci = 3.7 x 1010 dps (disintegrations per second)
+Another unit of radioactivity is Becquerel (Bq) 
+1 Bq = 1 dps. Thus, 1Ci = 3.7 x 1010 dps = 3.7 
+x 1010 Bq
+13.6 Modes of decay : Radioelements decay 
+by 3 ways, namely, α- decay, β- decay and γ- 
+emission.  
+13.6.1 Alpha decay : The emission of ∝- 
+particle from the nuclei is called ∝- decay. You 
+have learnt that the charge of an ∝- particle 
+is +2 and its mass is 4 u.  It is identical with 
+helium nucleus and hence an ∝- particle is 
+also designated as 
+4
+2 He.
+In the ∝- decay process, the parent nucleus 
+A
+zX emits an α- particle and produces daughter 
+nucleus Y. The parent nucleus thus loses two 
+protons (charge +2) and two neutrons. The total 
+mass lost is 4 u. The daughter nucleus will, 
+therefore, have mass 4 units less and charge 2 
+units less than its parent. The ∝- decay process 
+is, then, written as a general equation : 
+ 
+A
+zX 	
+  
+A-4
+z -2Y  +  
+4
+2He
+parent	
+	
+Daughter 	 emitted particle
+For example,
+Radium 226 decays to form Radium 222 :
+ 
+226
+88Ra	
+  
+222
+86Rn	+  
+4
+2He
+parent	
+	
+Daughter 	 emitted particle
+Uranium 238 decays to give Thorium 234 : 
+ 
+238
+92 U 	
+  
+234
+90Th	+  
+4
+2He
+parent	
+	
+Daughter 	 emitted particle
+Note that in ∝- decay, the daughter nucleus 
+formed belongs to an element that occupies 
+two places to the left of the periodic table.
+13.6.2 β- decay : β  - decay : The emission of 
+negatively charged stream of β  particles from 
+the nucleus is called β  - decay. You know that 
+β  - particles are electrons with a charge and 
+mass of an electron, mass being negligible as 
+compared to the nuclei. A nucleus decays by 
+emitting a high speed electron called a beta 
+particle (β). A new daughter nucleus is formed 
+with the same mass number as the original 
+parent nucleus but an atomic number that is 
+one unit greater.
+ 
+A
+z X	
+  
+A
+z +1Y  +  
+0
+-1 e
+parent	
+	
+Daughter 	 emitted particle
+Note that the mass number A does not change, 
+the atomic number changes. Examples of beta 
+decay :
+Neptunium 238 decays to form plutonium 238: 
+238
+93Np	
+  
+238
+94 Pu	+  
+0
+-1 e
+parent	
+	
+Daughter 	 emitted particle
+Plutonium 241 decays to form americium 241:
+241
+94 Pu	
+  
+241
+95Am +  
+0
+-1 e
+parent	
+	
+Daughter 	 emitted particle
+13.6.3 γ - decay : γ-Radiation is almost always 
+accompanied with α and  β  decay processes. 
+In α and  β  decay process, the daughter 
+nucleus formed is in energetically excited 
+state. Ground state product are formed with 
+emission of γ - rays.
+For example,  
+238
+92 U 	
+  
+234
+90Th +  
+4
+2He + γ
+ 
+238
+92 U  emits α-particles of two different 
+energies, 4.147 MeV (23%) and 4.195 MeV 
+(77%). When α- particles of energy 4.147 
+MeV are emitted, 234Th is left in an excited 
+state which de-excites to the ground state with 
+emission of γ- ray photons energy 0.048 MeV.
+13.7 Nuclear reactions : We have so far 
+discussed 
+natural 
+(spontaneous) 
+nuclear 
+rections through α and β- decay processes. Now 
+we consider the non-spontaneous (man-made) 
+nuclear reactions or nuclear transmutations.
+13.7.1 
+Transmutation 
+: 
+The 
+nuclear 
+transmutation is transformation of a stable 
+nucleus into another nucleus be it stable or 
+unstable. The nuclear transmutation where 
+the product nucleus is radioactive is called 
+artificial radioactivity.
+Table 13.3 : Comparison of chemical reactions 
+and nuclear reactions
+Chemical Reactions
+Nuclear Reactions
+1. Rearrangement of 
+atoms by breaking and 
+forming of chemical 
+bonds.
+1. Elements or isotopes 
+of one elements are 
+converted into another 
+element in a nuclear 
+reaction.
+2. Different isotopes of 
+an element have same 
+behaviour.
+2. Isotopes of an 
+element behave 
+differently.
+198
+3. Only outer shell 
+electrons take part in 
+the chemical reaction.
+3. In addition to 
+electrons, protons, 
+neutrons, other 
+elementary particles 
+may be involved.
+4. The chemical 
+reaction is 
+accompanied by 
+relatively small 
+amounts of energy. e.g. 
+chemical combustion 
+of 1.0 g methane 
+releases only 56 kJ 
+energy.
+4. The nuclear reaction 
+is accompanied by a 
+large amount of energy 
+change. e.g. The 
+nuclear transformation 
+of 1 g of   
+Uranium - 235 releases 
+8.2 x 107 kJ
+5. The rates of reaction 
+is influenced by the 
+temperature, pressure, 
+concentration and 
+catalyst.
+5. The rate of 
+nuclear reactions 
+are unaffected by 
+temperature, pressure 
+and catalyst.
+13.7.2 Induced or artificial radioactivity :
+It is type of nuclear transmutation in which 
+the stable nucleus is converted into radioactive 
+nucleus. 
+The 
+product 
+nucleus 
+decays 
+spontaneously with emission of radiation and 
+particles. For example, the stable element 10B, 
+when bombarded with α- particles, transforms 
+into 13N which spontaneously emits positrons.
+10
+5 B  + 
+4
+2He 	
+ 
+13
+7 N  + 
+1
+0n ,
+ 
+13
+7 N  
+	
+ 
+13
+6 C  + 
+0
+1e
+stable	
+Radioactive  	
+(spontaneous emission of positron)
+For example, 235U nucleus captures neutrons 
+and splits into two lighter fragments.
+235
+92U  + 
+1
+0n
+ 
+142
+56Ba  + 
+91
+36Kr  + 3 
+1
+0n +Energy
+Each fission may lead to different 
+products. The mass of the fission products is 
+less than the parent nucleus. A large amount 
+of energy corresponding to the mass loss is 
+released in each fission. When one Uranium 
+235 nucleus undergoes fission, three neutrons 
+are emitted, which subsequently disintegrate 
+three more Uranium nuclei and thereby 
+produce nine neutrons. Such a chain continues 
+by itself. In a very short time enormous amount 
+of energy is liberated, which can be utilized for 
+destructive (dangerous explosives) or peaceful 
+purposes (nuclear reactor - Power Plant).
+There is no unique way for fission of 235U 
+that produces Ba and Kr, and 400 ways for 
+fission of  235U leding to 800 fission products 
+are known. Many of these are radioactive 
+which undergo spontaneous disintegrations 
+giving rise to new elements in the periodic 
+table.
+Interestingly each fission emits 2 to 3 
+neutrons (on an average 2.5 neutrons). Can 
+you imagine what will happen due to neutron 
+emission? Obviously these neutrons emitted in 
+fission cause more fission of the uranium nuclei 
+which yield more neutrons. These neutrons 
+again bring forth fission producing further 
+neutrons. The process continues indefinitely 
+leading to chain reaction  which continues even 
+after the removal of  bombarding neutrons.
+Energy released per fission is ~ 200 MeV.
+Do you know ?
+The chain reaction in fission of 235U 
+becomes self sustaining. What is the critical 
+mass of 235U ? 
+The chain reaction occurs so rapidly 
+that nuclear explosion results. This is what 
+happens in atom bomb.
+13.7.5 Nuclear fusion : Energy received by 
+earth from the Sun is the result of nuclear 
+fusion. In the process, the lighter nuclei 
+combine (fuse) together and form a heavy 
+nucleus which is accompanied by an enormous 
+amount of energy. Representative fusion 
+reactions occuring in the Sun and stars are 
+13.7.3 Nuclear fission : Nuclear fission is 
+splitting of the heavy nucleus of an atom into 
+two nearly equal fragments accompanied by 
+release of the large amount of energy. When 
+a uranium nucleus absorbs neutron, it breaks 
+and releases energy (Heat), more neutrons, 
+and other radiation.
+Try this
+24Mg and 
+27Al, both undergo (α,n) 
+reactions and the products are radioactive. 
+These emit β  particles having positive charge 
+(called positrons). Write balanced nulcear 
+reactions in both.
+199
+i. 
+1
+1H + 
+1
+1H  
+	  
+2
+1H + 
+0
+-1e
+ii. 
+1
+1H + 
+2
+1H  
+	  
+3
+2 He
+iii. 
+3
+2He + 
+3
+2He  
+4
+2He + 2
+1
+1H  
+iv. 
+3
+2He + 
+1
+1H   
+4
+2He + 
+0
+1e
+Nuclear fusion has certain advantages 
+over nuclear fission. Fusion produces relatively 
+more energy per given mass of fuel.  
+The only difficulty with fusion is it 
+requires extremely high temperature typically 
+108 K.  
+13.8  Applications of Radio isotopes
+13.8.1 Radiocarbon dating : The technique 
+is used to find the age of historic and 
+archaelogical organic samples such as old 
+wood samples and animal or human fossils.
+i. Radioactive 14C is formed in the upper 
+atmosphere by bombarment of neutrons from 
+cosmic rays on 14N.
+ 
+14
+7 N + 
+1
+0n  
+	
+ 
+14
+6C + 
+1
+1H
+ii. 14C combines with atmospheric oxygen to 
+form 14CO2 which mixes with ordinary 12CO2. 
+iii. Carbon di oxide is absorbed by plants 
+during photosynthesis.  Animals eat plants. 
+Hence, 14C becomes a part of plant and animal 
+bodies.
+Problem : 13.6
+How many α and β- particles are emitted 
+in the following ?
+237
+93Np  
+ 
+209
+83 Bi
+Solution : The emission of one α - particle 
+decreases the mass number by 4 whereas 
+the emission of β- particles has no effect 
+on mass number.
+Net decrease in mass number = 237 - 209 = 
+28. This decrease is only due to α- particles. 
+Hence number of α- particles emitted 
+= 28
+4
+ = 7
+Now the emission of one  α-particle 
+decreases the atomic number by 2 and β- 
+particle emission increases by 1.
+The net decrease in atomic number = 93 - 
+83 = 10
+The emission of 7 α-particles causes 
+decrease in atomic number by 14. However 
+the actual decrease is only 10. It means 
+atomic number increses by 4. This increase 
+is due to emission of β-particles. Thus, 4 
+β- particles are emitted.
+Problem : 13.7
+Estimate the energy released in the fusion 
+reaction 
+2
+1H +  
+3
+2He  
+ 
+4
+2He  + 
+1
+1H
+Given atomic masses : 2H = 2.041 u
+3He = 3.0160 u, 4He = 4.0026 u, 1H = 
+1.0078 u
+Solution :
+Mass defect ∆m = (mass of 2H + mass of 
+3He) - (mass of 4He + mass of 1H)
+= 2.0141 u + 3.0160 u - 4.0026 u - 1.0078 
+u = 0.0197 u.
+E = ∆m (u) x 931.4 = 0.197 u x 931.4 = 
+18.35 MeV.
+Problem : 13.8
+Half life of 209Po is 102 y. How many α- 
+particles are emitted in 1s from 2 mg sample 
+of Po?
+Solution :
+Activity = number of α (or β) particles 
+emitted 
+= 
+dN
+dt  = λN
+λ = 0.693
+t1/2
+ =  
+0.693
+(102 x 365 x 24 x 3600)s
+= 2.154 x 10-10 s-1.
+N = 
+2 x 10-3 x 6.022 x 1023
+209
+= 5.763 x 1018 atoms of nuclei
+= 
+dN
+dt  = λN 
+= 2.154 x 10-10s-1 x 5.763 x 1012 atoms 
+= 1241 particles s-1.
+200
+Do you know ?
+iv. As long as plant is alive, the ratio 14C/12C 
+remains constant.  When the plant dies, 
+photosynthesis occurs no more and the ratio 
+14C/12C decreases with the decay of 14C (half 
+life 5730 years).
+ 
+14
+6 C
+	
+ 
+14
+7 N + 
+0
+-1e
+The nuclear fission is an alternative 
+enegy source. Traditionally, the steam comes 
+from boilers fuelled by oil, gas, or coal. These 
+sources are depleting. The increasing costs 
+of petroleum suggest we need to depend on 
+the nuclear fission energy for electricity.
+Nuclear Reactor : Nuclear reactor is a device 
+for using atomic energy in controlled manner 
+for peaceful purposes. During nuclear fission 
+energy is released. The released energy can 
+be utilized to generate electricity in a nuclear 
+reactor.
+In a nuclear reactor, U235 or P239, a 
+fissionable material is stacked with heavy 
+water (D2O Deuterium oxide) or graphite 
+called moderator. The neutrons produced in 
+the fission pass through the moderator and 
+lose a part of their energy. Subsequently the 
+slow neutrons are captured which initiate new 
+fission. 
+Fig. 13.4 (b) : Schematic diagram of nuclear 
+power plant
+Fig. 13.4 (a) : simplified nuclear reactor
+The oldest rock found so far in Northern 
+Canada is 3.96 billion years old.
+You have learnt in Std. 9th, medical, 
+industrial and agricultural applications 
+of radioisotopes. Write at least two 
+applications each.
+Activity :
+v. The activity (N) of given wood sample 
+and that of fresh sample of live plant (N0) is 
+measured. N0 denotes, the activity of the given 
+sample at the time of death.
+vi. The age of the given wood sample, rather 
+the period over which it has remained dead 
+can be determined. 
+t =  2.303
+λ
+log10  
+N0
+N
+ 
+where λ =  0.693
+5730 y= 1.21 x 10-4  y-1.
+13.8.2 Electrical energy from Nuclear fission
+Do you know what is the Nuclear Power ?
+It is simply the electricity made from fission of 
+uranium and plutonium.
+Why should we care about the Nuclear power?
+a. It offers huge environmental benefits in 
+producing electricity.
+b. It releases zero carbon dioxide.
+c. It releases zero sulfur and nitrogen oxides. 
+These are atmospheric pollutants which 
+pollute the air. Thus it is a clean energy.
+We are intersted in Nuclear power because :
+Fission of 1 gram of uranium-235 produces 
+about 24,000 kW/h of energy.
+This is the same as burning 3 tons of 
+coal or 12 barrels of oil, or nearly 5000 m3 of 
+natural gas.
+Coding 
+tower
+High pressure steam
+Uranium rods
+Source to start 
+reaction
+Water
+H2O
+Radiation 
+shield
+Neutron
+100º F
+80º F
+Condenser 
+(steam from 
+turbine is 
+condensed by 
+river water)
+Steam 
+generator
+Pump
+Steam
+Control 
+rod
+Nuclear 
+reactor
+Urenium 
+fuel
+Liquid water under 
+high pressure
+(carries heat to steam generator)
+201
+Do you know ?
+Bhabha 
+Atomic 
+Research 
+Centre 
+(BARC) Mumbai has set up irradiation plants 
+for preservation of agricultural produce such 
+as mangoes, onion and potatoes at Vashi 
+(Navi Mumbai) and Lasalgaon (Nashik).
+Internet my friend
+1. 	 Isotopic tracer technique : www.iaea.
+org>topics>radiotracers
+2. 	 Collect information about Nuclear 
+Reactions.
+Table 13.4 (a) : Diagnostic Radioisotopes
+Isotope
+Half-life
+Emitted particles
+Uses
+(i) 
+Cr
+51
+24
+Chromium-51
+28 days
+gamma
+spleen imaging
+(ii) 
+Fe
+59
+26
+Iron-59
+45 days
+beta, gamma
+bone marrow 
+function
+Table 13.4 (b) : Therapeutic Radioisotopes
+Isotope
+Half-life
+Emitted particles
+Uses
+(i) 
+P
+35
+15
+phosphours-32
+14 days
+beta
+treatment of 
+leukemia
+(ii) 
+Co
+60
+27
+cobalt-60
+5.3 years
+beta, gamma
+external radiation 
+source for cancer 
+treatment
+(iii) 
+I
+131
+53
+iodine-131
+8 days
+beta, gamma
+treatment of thyroid 
+cancer
+(iv) 
+Ra
+226
+88
+radium- 226
+1620 years
+beta, gamma
+implanted in tumours
+Cadmium rods are inserted in the moderator 
+and they have ability to absorb neutrons. The 
+rate of chain reaction thus is controlled. The 
+energy released in such reaction appears as 
+heat and removed by circulating a liquid 
+(coolant). The coolant which has absorbed 
+excess of heat from the reactor is passed 
+over a heat exchanger for producing steam, 
+which is then passed through the turbines to 
+produce electricity. Thus, the atomic energy 
+produced with the use of fission reaction can 
+be controlled in the nuclear reactor explored 
+for peaceful purposes such as conversion 
+into electrical energy generating power for 
+civilian purposes, ships, submarines etc.
+13.8.3 Applications in medicine :
+Hospitals and larger medical clinics 
+typically have a Department of Nuclear 
+Medicine.
+Several radioisotopes are used for the 
+treatment of fatal diseases like Cancer.
+Table shows medical uses in two different 
+categories, namely diagnostic and therapeutic. 
+For diagnostic purpose, short-lived isotopes 
+are used to limit the exposure time to radiation, 
+while therapeutic radioisotopes are used to 
+destroy abnormal, usually Cancerous cells.
+13.8.4 Other applications of radioisotopes :
+Radioisotopes 
+find 
+a 
+variety 
+of 
+applications in the diverse areas Agricultural 
+products those are preserved by irradiating 
+with gamma rays from Cobalt - 60 or Caesium 
+- 137. 
+Another 
+application 
+is 
+radio-tracer 
+technique wherein one or more atoms of 
+a chemical compound are replaced by a 
+radionuclide to trace the path followed by 
+that chemical in the system under study by 
+radioactivity measurement.
+202
+G.	Explain with example α - decay.
+H.	Energy produced in nuclear fusion is 
+much larger than that produced in nuclear 
+fission. Why is it difficult to use fusion to 
+produce energy ? 
+I.	 How does N/Z ratio affect the nuclear 
+stability ? Explain with a suitable 
+diagram.
+J.	 You are given a very old sample of wood. 
+How will you determine its age ?
+3. Answer the following question 
+A.	Give example of mirror nuclei.
+B.	Balance the nuclear reaction:
+	
+Xe
+118
+54
+ 
+ ? + 	
+I
+118
+54
+C.	Name the most stable nluclide known. 
+Write two factors responsible for its 
+stability.
+D.	Write relation between decay constant of 
+a radioelement and its half life.
+E.	What is the difference between an α - 
+particle and helium atom ?
+F.	Write one point that differentiates nuclear 
+reations from chemical reactions.
+G.	Write pairs of isotones and one pair of 
+mirror nuclei from the following :
+	
+B
+10
+5
+, 
+C
+12
+6
+, 
+Al
+27
+13
+, 
+C
+11
+6
+, 
+S:
+28
+14
+H.	Derive the relationship between half life 
+and decay constant of a radioelement.
+I.	 Represent graphically log10 (activity / 
+dps) versus t/s. What is its slope ?
+J.	 Write two units of radioactivity. How are 
+they interrelated ?
+K.	Half life of 24Na is 900 minutes. What is 
+its decay constant? 
+L.	Decay constant of 197Hg is 0.017 h-1. 
+What is its half life ?
+M.The total binding energy of 58Ni is 508 
+MeV. What is its binding energy per 
+nucleon ?
+N.	Atomic mass of 
+S
+32
+16
+ is 31.97 u. If masses 
+of neutron and H atom are 1.0087 u and 
+1.0078 u respectively. What is the mass 
+defect ? 
+1. Choose correct option.
+A. Identify nuclear fusion reaction
+	
+a.   
+1
+1H  +  
+1
+1H  
+   
+2
+1H +  
+0
+1 e
+	
+b.
+2
+1H  +  
+1
+1H  
+   
+3
+2He
+	
+c.   
+3
+1H  +  
+1
+1H  
+   
+3
+1H +  
+1
+1p
+B. The missing particle from the nuclear 
+reaction is 
+	
+27
+13Al  +  
+4
+2He  
+   ? +  
+1
+0n
+	
+a. 
+30
+15P  b.  
+32
+16S   c.  
+14
+10Ne  d. 14Si
+C. 
+60
+27CO decays with half-life of 5.27 years to 
+produce 
+60
+28Ni . What is the decay constant 
+for such radioactive disintegration ?
+	
+a. 0.132 y-1 b. 0.138 c. 29.6 y d. 13.8%
+D.	The radioactive isotope used in the 
+treatment of Leukemia is 
+	
+a. 60Co 	 	
+b. 226Ra 	
+	
+c. 32P 	
+	
+d. 226I
+E. The process by which nuclei having low 
+masses are united to form nuclei with 
+large masses is 
+	
+a. chemical reaction
+	
+b. nuclear fission 
+	
+c. nuclear fusion
+	
+d. chain reaction
+2. Explain
+A.	On the basis of even-odd of protons and 
+neutrons, what type of nuclides are most 
+stable ? 
+B.	Explain in brief, nuclear fission.
+C.	The nuclides with odd number of both 
+protons and neutrons are the least stable. 
+Why ? 
+D.	Referring the stabilty belt of stable 
+nuclides, which nuclides are -β and +β 
+emitters ? Why ? 
+E.	Explain 
+with 
+an 
+example 
+each 
+nuclear transmutation and artifiacial 
+radioactivity. What is the difference 
+between them ?
+F.	What is binding energy per nucleon ? 
+Explain with the help of diagram how 
+binding energy per nucleon affects 
+nuclear stability ? 
+Exercises

@@ -1,0 +1,1596 @@
+173
+1.	 Choose the correct option.  
+A. The size of colloidal particles lies 
+between-
+	
+a. 10-10 m and 10-9 m	
+	
+b. 10-9 m and 10-6 m
+	
+	c. 10-6 m and 10-4 m	
+	
+d. 10-5 m and 10-2m
+B. Gum in water is an example of
+	
+	a. true solution	
+b. suspension
+	
+	c. lyophilic sol	
+d. lyophobic sol
+C.	 In Haber process of production of 
+ammonia K2O is used as
+	
+	a. catalyst	
+b. inhibitor
+	
+	c. promotor	
+d. adsorbate
+D. Fruit Jam is an example of-
+	
+	a. sol	
+b. gel
+	
+	c. emulsion	
+d. true solution
+2.	 Answer in one sentence :
+A.	Name type of adsorption in which 
+vander Waals focres are present.
+B. Name type of adsorption in which 
+compound is formed.
+C. Write an equation for Freundlich 
+adsorption isotherm.
+3.	 Answer the following questions:
+A. Define the terms:
+	
+a.  Inhibition
+	
+b. Electrophoresis
+	
+c. Catalysis.
+B. Define adsorption. Why students can 
+read black board written by chalks?
+C. Write characteristics of adsorption.
+D. Distinguish between Lyophobic and 
+Lyophilic sols.
+E. Identify dispersed phase and dispersion 
+medium in the following colloidal 
+dispersions.
+	
+a. milk	
+	
+b. blood
+	
+c. printing ink		
+d. fog
+F. Write notes on : 
+	
+a. Tyndall effect
+	
+b. Brownian motion
+	
+c. Types of emulsion
+	
+d. Hardy-Schulze rule
+G. Explain Electrophoresis in brief with 
+the help of diagram. What are its 
+applications ?
+H. Explain why finely divided substance 
+is more effective as adsorbent?
+I. What is the adsorption Isotherm?
+J. Aqueous solution of raw sugar, when 
+passed over beds of animal charcoal, 
+becomes colourless. Explain.
+K. What happens when a beam of light 
+is passed through a colloidal sol?
+L. Mention factors affecting adsorption 
+of gas on solids.
+M. Give four uses of adsorption.
+N. Explain Bredig's arc method.
+O.	Explain the term emulsions and types 
+of emulsions.
+4.	 Explain the following :
+A.	A finely divided substance is more 
+effective as adsorbent.
+B.	Freundlich adsorption isotherm, with 
+the help of a graph.
+5.	 Distinguish between the following :
+A.	Adsorption and absorption. Give one 
+example.
+B.	Physisorption 
+and 
+chemisorption. 
+Give one example.
+6.	 Adsorption is surface phenomenon. 
+Explain.
+7.	 Explain how the adsorption of gas on 
+solid varies with
+	
+a.	 nature of adsorbate and  adsorbent
+	
+b.	 surface area of adsorbent
+8.	 Explain two applications of adsorption.
+9.	 Explain micelle formation in soap 
+solution. 
+10.	 Draw labelled diagrams of the following :
+	
+a.	 Tyndall effect
+	
+b.	 Dialysis
+	
+c.	 Bredig's arc method
+	
+d.	 Soap micelle
+Exercises
+Collect  the information about methods to 
+study surface chemistry.
+Activity :
+174
+Can you recall?
+12. Chemical Equilibrium
+12.1 Introduction : You have learnt earlier 
+that changes can be physical or chemical and 
+reversible or irreversible. All the changes listed 
+above are irreversible physical changes. You 
+have also learnt earlier that chemical changes 
+can be represented by chemical reactions when 
+the exact chemical composition of  reactants 
+and products is known. In this chapter we are 
+going to look at reversible chemical reactions.
+12.1.1 Reversible reaction
+In the above activity, the change in colour 
+of the solution is caused by the chemical 
+reaction which reverses its direction with 
+change of temperature.
+Co(H2O)6
+2⊕(aq) + 4Cl (aq) 
+Heat
+Cool
+(Pink)
+                                CoCl4
+2 (aq)+6H2O(l)
+	
+   	
+                        (Blue)
+What are the types of the following 
+changes? Natural waterfall, spreading 
+of smoke from burning inscence stick, 
+diffusion of fragrance of flowers. Can the 
+above changes take place in the opposite 
+direction ?
+Can you tell?
+What does violet colour of the solution 
+in above indicate ?
+Try this
+Dissolve 4 g cobalt chloride in 40 ml 
+water. It forms a redish pink solution. Add 
+60 ml concentrated HC1 to this. It will turn 
+violet. Take 5 ml of this solution in a test 
+tube and place it in a beaker containing 
+ice water mixture. The colour of solution 
+will become pink. Place the same test tube 
+in a beaker containing water at 900 C. The 
+colour of the solution turns blue. 
+Test tube in cold water
+Heat
+Cool
+Test tube in hot water
+The reaction in the above activity is an 
+example of a reversible reaction. There are 
+many chemical reactions which appear to 
+proceed in a single direction. For example:
+C(s)+O2(g)  
+∆
+ CO2 (g)
+2KClO3 (s) 
+∆
+ 2KCl (s) + 3O2(g)
+These are called irreversible reactions. They 
+proceed only in single direction until one of 
+the reactants is exhausted. Their direction is 
+indicated by an arrow (
+) pointing towards 
+the products in the chemical equation. On the 
+contrary, reversible reactions proceed in both 
+directions. The direction from reactants to 
+products is the forward reaction, whereas the 
+opposite reaction from products to reactants 
+is called the reverse or backward reaction. 
+A reversible reaction is denoted by drawing 
+two arrows, such that one arrow points in 
+the forward direction and other in the reverse 
+direction (
+  or 
+ ). These two arrows are 
+also referred to as double arrow.
+For example :
+H2(g) + I2(g) 
+ 2 HI (g)
+CH3COOH (aq) + H2O (l)  
+ CH3COO  (aq) 
+	
+	
+	
+	
+	
+   + H3O⊕
+Consider an example of decomposition of 
+calcium carbonate. Calcium carbonate when 
+heated strongly, decomposes to form calcium 
+oxide and carbon dioxide. Let us consider 
+what happens if this reaction is carried out in 
+a closed container/system or open container/
+system.
+Co(H2O)6
+2⊕
+CoCl4
+2
+175
+Do you know ?
+Reactions are chemically represented as 
+follows 
+General representation :
+CaCO3 (s)
+heat
+CaO(s)+  CO2 (g)
+represents the irreversible reaction in an open 
+container. On the other hand the reversible 
+reaction in closed container is represented as 
+CaCO3  (s)  
+forward
+backward
+  CaO(s) + CO2(g) 
+If we perform the above reaction at high 
+temperature in a closed system, we find that 
+after certain time, we have some calcium 
+carbonate present along with calcium oxide 
+and carbon dioxide. If we continue the 
+experiment over a longer period of time at the 
+same temperature, we find the concentrations 
+of calcium carbonate, calcium oxide and 
+carbon dioxide are unchanged. The reaction 
+thus appears to have stopped and we say the 
+system has attained the equilibrium. Actually, 
+the reaction does not stop but proceeds in both 
+the directions with equal rates. In other words 
+calcium carbonate decomposes to give calcium 
+oxide and carbon dioxide at a particular rate. 
+Exactly at the same rate the calcium oxide and 
+carbon dioxide recombine and form calcium 
+carbonate.
+Such reactions which do not go to 
+completion and occur in both the directions 
+simultaneously are reversible reactions. 
+A  reversible reaction may be represented in 
+general terms as :
+     A + B  	
+forward
+backward
+  	 C + D
+     reactants	
+                            products
+The double arrow indicates that the 
+reaction is reversible.
+Consider the reaction of decomposition 
+of calcium carbonate occuring in an open 
+system or container. It is seen that during 
+decomposition of calcium carbonate in an 
+open vessel, carbon dioxide can escape away. 
+Hence calcium carbonate cannot be obtained 
+back.
+Such a reaction is irreversible reaction 
+which occurs only in one direction, namely, 
+from reactants to products.
+Calcium oxide is also known as 
+quicklime or lime. When heated strongly 
+it glows bright white. In old times this was 
+used in theatre lighting, which gave rise to 
+the phrase 'in the limelight'.
+12.2 Equilibrium in physical processes 
+(a) Liquid - Vapour equilibrium 
+Let us now look at a reversible physical 
+process of evaporation of liquid water into 
+water vapour in a closed vessel (see Fig. 12.1).
+Initially there is practically no vapour in 
+the vessel. When a liquid evaporates in a closed 
+container, the liquid molecules escape from the 
+liquid surface into vapour phase building up 
+vapour pressure. They also condense back into 
+liquid state because the container is closed. In 
+the beginning the rate of evaporation is high 
+and the rate of condensation is low. But with 
+time, as more and more vapour is formed, the 
+rate of evaporation goes down and the rate 
+Internet my friend
+Find out the information :
+1.	 Equilibrium existing in the formation 
+oxyhaemoglobin in human body.
+2.	 Refrigeration system in equilibrium.
+Fig. 12.1 : Water in a closed flask
+Remember
+In a closed system, there is no 
+exchange of matter with the surroundings 
+but exchange of heat can occur. In an open 
+system, exchange of  both matter and heat 
+occurs with the surroundings. An isolated 
+system does not exchange heat nor matter 
+with surroundings.
+176
+Try this
+Try this
+of condensation increases. Eventually the 
+two rates become equal. This gives rise to a 
+constant vapour pressure. This state is known 
+as an ‘equilibrium state’. In this state, the 
+number of molecules leaving the liquid surface 
+equals the number of molecules returning to 
+the liquid from the vapour state. Across the 
+interface, there is a lot of activity between 
+the liquid and the vapour. This state, when 
+the rate of evaporation is equal to the rate of 
+condensation is called equilibrium state. It 
+may be represented as :
+	
+H2O(l)	  
+  H2O (vapour)
+At equilibrium, the pressure exerted by the 
+gaseous water molecules at a given temperature 
+remains constant, known as the equilibrium 
+vapour pressure of water (or saturated vapour 
+pressure of water or aqueous tension). The 
+saturated vapour pressure increases with 
+increase of temperature. In the case of water, 
+the saturated vapour pressure is 1.013 bar 
+(1atm) at 100 0C. Therefore, water boils at 
+100 0C when exposed to 1 atm pressure. For any 
+pure liquid at 1 atm pressure the temperature 
+at which its saturated vapour pressure equals 
+to atmospheric pressure is called the normal 
+boiling point of  that liquid. The boiling point of 
+water is 100° C at 1.013 bar pressure, whereas 
+the boiling point of ethyl alcohol is 78 0C.
+(b) Solid - liquid equilibrium
+Consider a mixture of ice and water in 
+a perfectly insulated thermos flask at 273 K. 
+This is an isolated system. It is an example of 
+solid-liquid equilibrium. Ice and water are at 
+constant temperature. They remain in what is 
+called solid-liquid equilibrium.
+(c) Solid - vapour equilibrium :
+The intensity of violet colour becomes 
+stable after certain time.
+What do you see in the flask (see Fig. 12.2)?
+Fig. 12.2 Solid iodine in equilibrium 
+with its vapour
+We see both, that is, solid iodine and 
+iodine vapour in the closed vessel. It means 
+solid iodine sublimes to give iodine vapour 
+and the iodine vapour condenses to form 
+solid iodine. The stable intensity of the colour 
+indicates a state of equilibrium between solid 
+and vapour iodine. We can write the same as 
+follows:
+I2 (s)  
+sublimation
+condensation
+  I2(g)
+Other examples showing this kind of 
+equilibrium are :
+1. Camphor (s)  
+ Camphor (g)
+2. Ammonium chloride (s) 
+ 
+                                     Ammonium chloride (g).
+1. Place some iodine crystals in a closed vessel. 
+    Observe the change in colour intensity in it.
+After some time the vessel gets filled up 
+with violet coloured vapour.
+i. 	 Dissolve a given amount of sugar in 
+minimum amount of water at room 
+temperature
+ii. Increase the temperature and dissolve more 
+amount of sugar in the same amout of water 
+to make a thick sugar syrup solution.
+iii. Cool the syrup to the room temperature.
+Note the observation : Sugar crystals separate 
+out.
+In a saturated solution there exists dynamic 
+equilibrium between the solute molecules in 
+the solid state and in dissolved state.
+Sugar (aq) 
+ Sugar (s)
+The rate of dissolution of sugar 
+                = The rate of crystallization of sugar 
+177
+Remember
+12.3 Equilibrium in chemical process  :
+If a reaction takes place in a closed 
+system so that the products and reactants 
+cannot escape, we often find that reaction does 
+not give a 100 % yield of products. Instead 
+some reactants remain after the concentrations 
+stop changing. When there is no further 
+change in concentration of reactant and 
+product, we say that the reaction has 
+attained equilibrium, with the rates of 
+forward and reverse reactions being equal. 
+Chemical equilibrium at a given temperature 
+is characterized by constancy of measurable 
+properties such as pressure, concentration, 
+density etc. Chemical equilibrium can be 
+approached from either side.
+products and the products react to give back 
+reactants.
+As soon as the forward reaction produces 
+any NO2, the  reverse reaction begins and 
+NO2 starts  combining back to form NO2. At 
+equilibrium, the concentrations of N2O4 and 
+NO2 remain unchanged and do not vary with 
+time, because the rate of formation of N2O4 is 
+equal to the rate of formation of NO2 as shown 
+in Fig. 12.4. b.
+II. Consider the following dissociation reaction 
+2HI(g) 	  
+  H2(g)  +   I2(g)
+(Colourless gas)	                        (Violet coloured gas)
+The reaction is carried out in a closed vessel 
+starting with hydrogen iodide. The following 
+observations are noted :
+1. At first, there is an increase in the itensity of 
+violet colour.
+2. After certain time the increase in the intensity 
+of violet colour stops.
+3. When contents in the closed vessel are 
+analysed at this stage, it is observed 
+that reaction mixture contains hydrogen 
+iodide, hydrogen and iodine with their 
+concentrations remaining constant over 
+time.
+The rate of decomposition of HI becomes 
+equal to the rate of combination of H2 and I2. 
+At equilibrium, no net change is observed and 
+both reactions continue to occur. 
+Let us now see what happens if we start 
+with hydrogen and iodine vapour in a closed 
+container at a certain temperature.
+H2(g) + I2(g) 
+ 2HI(g)
+1.  At first, the violet colour if I2 is deep.
+2. The intensity of violet colour starts 
+decreasing.
+3. After certain time the decrease in the 
+intensity of colour stops. 
+4. Analysis of the reaction mixture at this stage 
+shows that it contains HI, H2 and I2 with 
+their concentrains remaining constant over 
+time. In other words, the same equilibrium 
+can be attained by starting from any side.
+Observe and Discuss
+I. Colourless N2O4 taken in a closed flask is 
+converted to NO2 (a reddish brown gas) (See 
+Fig. 12.3)
+N2O4(g)  
+ 	
+2NO2(g) 
+ colourless	
+	
+reddish brown
+Figure 12.3 : N2O4 conversion to NO2
+A saturated solution is the solution when 
+additional solute can not be dissolved in it 
+at the given temperature. The concentration 
+of solute in a saturated solution depends on 
+temperature. 
+The 
+colour 
+becomes 
+light 
+brown 
+indicating the presence of NO2 in the mixture. 
+The formation of NO2 from N2O4 is reversible. 
+In such reaction the reactants react to form the 
+178
+12.4).
+12.4.1 Rate of chemical reaction : As any 
+reaction proceeds the  concentration of  the 
+reactants decreases and the  concentration of 
+the products increases. The rate of  reaction 
+thus can be determined by measuring the 
+extent to which the concentration of  a reactant 
+decreases in the given time interval, or  extent to 
+which the concentration of a product increases 
+in the given time interval. Mathematically, the 
+rate of reaction is expressed as:
+Rate  =  -  d[Reactant]
+dT
+  =  d[Product]
+dT
+ 
+Where d[reactant] and d[product] are the small 
+change in concentration during the small time 
+interval dT.
+12.4.2 Law of mass action : The law of mass 
+action states that the rate  of  a chemical 
+reaction at each instant is proportional to 
+the product of concentration terms of all 
+the reactants. In case the balanced chemical 
+equation shows more molecules of reactants, 
+the concentration is raised to a power equal 
+to the number of molecules of that reactant. A 
+rate equation can be written for a reaction by 
+applying the law of mass action as follows :
+Consider a reaction A+B 
+ C
+Here A and B are the reactants and C is 
+the product.  The concentrations of chemical 
+species are expressed in mol L-1 and denoted 
+by putting the formula in square brackets. By 
+applying the law of mass action to this reaction 
+we write a proportionality expression as :
+Rate  α [A] [B]
+This 
+proportionality 
+expression 
+is 
+transformed into an equation by introducing a 
+proportionality constant, k, as follows:
+Rate = k [A] [B]                                    ….(12.1)
+The Eq. (12.1) is called the rate equation 
+and the proportionality constant, k, is called 
+the rate constant of the reaction.
+Remember
+For any reversible reaction in a closed 
+system the rate of forward reaction is high 
+in the beginning, while the rate of reverse 
+reaction is very slow. As the forward 
+reaction proceeds and  products accumulate, 
+rate of forward reaction slows down while 
+rate of reverse reaction increases. Finally 
+the rates become equal and equilibrium is 
+established.
+12.4 Law of mass action and equilibrium 
+constant : The chemical equilibrium is 
+mathematically described in terms of what 
+is called the equilibrium constant (KC). 
+We noted earlier that an equilibrium state 
+is attained when the rate of the forward and 
+reverse reactions become equal (refer Fig. 
+Fig. 12.4 (a) : Graph of forward and reverse 
+reaction rates versus time for conversion of 
+N2O4 to NO2
+Time 
+Time 
+Concentration
+Rate
+Equilibium 
+achieved
+Equilibium 
+achieved 
+(rates are equal)
+NO2
+N2O4
+kf[N2O4]
+kf[NO2]2
+0 
+0 
+Fig. 12.4 (b) : Changes in reaction rates during 
+a reversible reaction attaining a chemical 
+equilibrium. (Forward rate represented by 
+upper curve in blue and reverse reaction rate 
+lower curve in yellow)
+179
+Remember
+12.4.3 Equilibrium constant  : Consider 
+a 
+hypothetical 
+reversible 
+reaction 
+A+B 
+ C+D. As we have noted earlier, 
+two reactions, namely forward and reverse 
+reactions occur simultaneously in a reversible 
+chemical reaction. We, therefore, write rate 
+equations for the forward and reverse reactions:
+Rate forward   α  [A][B]
+∴ Rate forward  =  kf  [A] [B]                 
+ (12.2)
+Rate reverse   α  [C] [D]
+∴ Rate reverse =  kr [C] [D]                    
+ (12.3)
+At equilibrium, the rates of forward and 
+reverse reactions are equal. Thus,
+Rate forward  =  Rate reverse 
+∴ kf [A] [B] = kr [C] [D]
+∴ kf
+kr
+ = KC=  [C][D]
+[A][B]                             
+ (12.4) 
+KC is called the equilibrium constant. 
+The equilibrium constant depends on 
+the form of the balanced chemical equation. 
+Consider reversible reaction :
+aA + bB 
+  cC + dD
+The equilibrium constant KC = [C]c[D]d
+[A]a[B]b 
+ (12.5) 
+If the equilibrium is written as 
+cC + dD  
+ aA + bB,
+K1
+C = [A]a[B]b
+[C]c[D]d = 1
+KC
+  
+Thus equilibrium constant of the reverse 
+chemical reaction is K1
+C, is the reciprocal of 
+the equilibrium constant KC of the forward 
+reaction.
+Let us consider the equilibrium that occurs 
+in the Haber process for synthesis of ammonia:
+N2(g) + 3H2(g)  
+ 2NH3(g)
+coefficient of NH3  
+coefficient of H2 
+KC = [NH3]2 
+[N2][H2]3  
+and for the equilibrium reaction written as
+2NH3(g)  
+ N2(g) + 3H2(g),
+K1
+C = [N2][H2]3
+[NH3]2 
+12.4.3 Equilibrium constant with respect 
+to partial pressure (KP) : For reactions 
+involving gases, it is convenient to express 
+the equilibrium constant in terms of partial 
+pressure.
+\ For the reaction,
+aA(g) + bB(g) 
+  cC(g) + dD(g),
+the equilibrium constant can be expressed 
+using partial pressures (Kp) as given by
+KP = (P ) (P )
+(P ) (P )
+C
+c
+D
+d
+A
+c
+B
+d                               
+  (12.6)
+where PA, PB, PC and PD are equilibrium partial 
+pressures of A, B, C and D, respectively.
+Problem 12.1 : Write the rate equation for 
+the following reaction:
+i. C+O2
+ CO2
+ii. 2KClO3 
+ 2KCl + 3O2
+Solution : the rate equation is written by 
+applying the law of mass action.
+i. The reactants are C and O2
+Rate   α   [C] [O2]
+∴Rate = k [C] [O2]
+ii. The reactant is KClO3 and its 2 molecules 
+appear in the balanced equation.
+∴ Rate   α [KClO3]2
+∴ Rate = k [KClO3]2
+At equilibrium the ratio of product 
+multiplicative term denoting the ratio of 
+concentraton of products to that of the reactants 
+is unchanged and equals KC. The value of KC 
+depends upon the temperature. It is interesting 
+to note that though the concentration ratio 
+remains unchanged, both the forward as well 
+as reverse reactions do proceed at equilibrium, 
+but at the same rate. Therefore the chemical 
+equilibrium is a dynamic equilibrium.
+180
+12.4.4 Relationship between partial pressure 
+and concentration :
+For  a mixture of ideal gases, the partial 
+pressure of each component is directly 
+proportional to its concentration at constant 
+temperature.
+For component A,
+PAV = nART 
+n
+V
+A  is molar concentration of A in mol dm-3
+PA = n
+V
+A  x  RT,          where  n
+V
+A  = [A]
+∴ PA = [A]RT  
+Similarly for components B, C and D the 
+partial pressures are
+PB = [B]RT
+PC = [C]RT
+PD = [D]RT
+12.4.5 Relationship between KP and KC
+Consider a general reversible reaction: 
+aA(g) + bB(g)  
+  cC(g) + dD(g)
+Now substituting expressions for PA, PB, 
+PC, PD in Eq. (12.6)
+KP = [PC]c [PD]d
+[PA]a[PB]b  = [C]c (RT)c [D]d (RT)d
+[A]a (RT)a [B]b(RT)b
+KP = [C]C [D]d (RT)c +d
+[A]a [B]b(RT)a +b
+\ KP = [C]c [D]d 
+[A]a [B]b  x (RT)(c+d)-(a+b)
+\ KP = [C]C [D]d 
+[A]a [B]b  x (RT)Dn  
+But  KC = [C]c[D]d
+[A]a[B]b   from equation (12.5)
+\ KP = KC (RT)Dn ,                                             
+ (12.7)
+where Dn = (number of moles of gaseous 
+products) - (number of moles of gaseous 
+reactants) in balanced chemical equation.
+R = 8.314 L Pa m3  K-1mol-1
+While calculating the value of Kp, 
+pressure should be expressed in bar, because 
+standard pressure is 1 bar. 
+[ 1 pascal (Pa) = 1 Nm-2 and 1 bar = 105 Pa]
+Problem  12.2 : 
+N2(g) + 3H2(g)  
+ 2NH3(g)
+Write expression for KP in terms of Kc.
+Solution : KP = 
+(P
+)
+(P )(P )
+NH
+2
+N
+H
+3
+3
+2
+2
+\ KP =
+[NH3(g)]2[RT]2
+[N2(g)]RT.[H2(g)] 3 [RT]3
+\ KP = 
+[NH3(g)]2
+[N2(g)][H2(g)]3  x  
+[RT]2
+[RT] [RT]3
+\ KP = KC x RT(2 - 4)
+\ KP = KC x RT-2
+Problem 12.3 : Write an expression for 
+KP and relate it to Kc for the following 
+reversible reaction. 
+H2(g) + I2(g)   
+  2HI(g), 
+Solution : KP =  (P )
+(P )(P )
+HI
+2
+H
+I
+2
+2
+\ KP =
+[HI(g)]2[RT]2
+[H2(g)]RT.[I2(g)]RT
+\ KP = 
+[HI(g)]2
+[H2(g)][I2(g)]
+ x  
+[RT]2
+[RT] [RT]
+\ KP = KC x RT2 - (1+1)
+\ KP = KC
+12.5 
+Homogeneous 
+and 
+Heterogenous 
+equilibria
+12.5.1 
+Homogeneous 
+reactions 
+and 
+Heterogeneous reactions : In a homogeneous 
+reaction all the reactants are in the same 
+phase. For example is a homogeneous gas 
+phase reaction.
+Can you recall?
+Ideal gas equation with significance 
+of each term involved in it (refer to Chapter 
+10, section 10.5.5).
+PV = nRT, where P is pressure in pascal 
+n is number of moles of gas
+V is volume in dm3 or L
+R is molar gas constant in Pa m3 K-1 mol-1
+T is absolute temperature
+181
+2HI  (g) 
+ H2 (g) + I2 (g)
+  Reversible reaction involving reactants and 
+products those are in different phases is called 
+heterogeneous reaction.
+NH3 (g) +  Cl2 (g) 
+  NH4Cl (s)
+At any given temperature density of liquid is 
+constant irrespective of the amount of liquid, 
+and, therefore, the term in the denominator is 
+constant. [C2H5OH(l)] = constant.
+Therefore, the modified equilibrium constant 
+for evaporation of ethanol will be 
+K1
+C = KC x constant = [C2H5OH(g)] 
+For the equilibrium of sublimation of iodine 
+I2(s) 
+ I2(g) the modified equilibrium 
+constant K1
+C = [I2(g)].
+Concentrations of pure solids do not change 
+and thus expressions for equilibria including 
+solids are simplified.
+Remember
+While writing an equilibrium constant 
+expression for heterogeneous reactions use 
+only the concentrations of gases (g) and 
+dissolved substances (aq).
+Equilibria 
+involving 
+homogeneous 
+or heterogeneous reactions are called 
+homogeneous and heterogeneous equilibria 
+respectively.
+12.5.2 
+Equilibrium 
+constant 
+for 
+heterogeneous equilibria : As stated earlier, 
+equilibrium having more than one phase 
+is called heterogeneous equilibrium. For 
+example, if ethanol is placed in a conical flask, 
+liquid - vapour equilibrium is established.
+C2H5OH(l) 
+ C2H5OH(g)
+For a given temperature
+KC = [C H OH(g)]
+[C H OH( )]
+2
+5
+2
+5
+l
+12.5.3 Units of equilibrium constant
+The unit of equilibrium constant depends upon the expression of KC  which is different for different 
+equilibria. Therefore, the unit of KC is also different. 
+To calculate units of equilibrium constant
+Equilibrium Reaction (I)
+Equilibrium Reaction (II)
+H2 (g) + I2 (g) 
+ 2HI (g)
+                     KC = 
+[HI(g)]2
+[H2(g)] [I2(g)]           ..... (I)
+Unit of KC = 
+[mol dm-3]2
+[mol dm-3] [mol dm-3]
+= [mol dm-3]2
+[mol dm-3]2
+As all the units cancel out For (I), KC has no 
+units
+N2 (g) + 3H2 (g) 
+ 2NH3(g)
+               KC = 
+[NH3(g)]2
+[N2(g)] [H2(g)]3                 ..... (II)
+Unit of KC = 
+[mol dm-3]2
+[mol dm-3] [mol dm-3] 3
+= [mol dm-3]2
+[mol dm-3]4
+= [mol dm-3]-2
+= mol-2 dm6
+Hint : To calculate units of KC find out the 
+difference between the number of moles in 
+the numerator and the number of moles in the 
+denominator in the expression for equilibrium 
+constant.
+The unit of Kc is (mol dm-3)Dn.
+With reference to expression (II) above,
+difference between number of moles = 
+ Dn = 2- (1+3) 
+\ Dn = 2 - 4 
+\ Dn = - 2
+182
+\ unit of KC = (mol dm-3)Dn
+\ unit of KC = (mol dm-3)-2
+\ unit of KC = mol-2dm6
+Similarly with reference to expression (I) \ unit 
+of KC = (mol dm-3) Dn = (mol dm-3)0
+∴ KC has no unit.
+The ratio is called reaction quotient, QC, 
+when the concentrations are not necessarily 
+equilibrium concentrations.
+QC = [C] [D]
+[A] [B]
+c
+d
+a
+b , 
+The reaction quotient has same form 
+as that of equilibrium constant, but involves 
+concentrations 
+that 
+are 
+not 
+necessarily 
+equilibrium concentrations. Comparison of 
+QC and KC is very useful to decide whether 
+the forward or the reverse reaction should 
+occur to establish the equilibrium. It is shown 
+diagramatically in Fig. 12.4.
+Fig. 12.4 : Predicting direction of reaction
+If QC < KC, the reaction will proceed from 
+left to right, in forward direction, generating 
+more product to attain the equilibrium.
+If QC = KC the reaction is at equilibrium 
+and hence no net reaction occurs.
+If QC > KC, the reaction will proceed from 
+right to left, requiring more reactants to attain 
+equilibrium.
+A comparison of QC with KC indicates the 
+direction in which net reaction proceeds as the 
+system tends to attain the equilibrium.
+Note : The prediction of the direction of the 
+reaction on the basis of QC and KC values 
+makes no comment on the time required for 
+attaining the equilibrium.
+12.7.2 : To know the extent of reaction : 
+Let us recall an expression for equilibrium 
+constant KC. (See Fig. 12.5). It indicates that 
+the magnitude of KC is 
+i. directly proportional to the equilibrium 
+concentrations of the product.
+ii. inversely proportional to the equilibrium 
+concentrations of the reactants.
+Movement 
+toward 
+equilibrium
+Movement 
+toward 
+equilibrium
+QC
+Reactants 
+ Products
+Reactants 
+ Products
+Reactants andProducts 
+are at equilibrium.
+QC
+QC
+KC
+KC
+KC
+Problem 12.4 : Write the equilibrium 
+constant expression for the decomposition 
+of baking soda. Deduce the unit of KC from 
+the above expression.
+Solution :
+2NaHCO3 (s) 
+ Na2CO3 (s) + CO2 (g) 
+                                                      +  H2O (g)
+KC = [Na2CO3 (s)][CO2 (g)][H2O (g)]
+[NaHCO3 (s)]2
+\KC = [CO2 (g)][H2O (g)]
+\Unit of KC = (mol dm-3)2 = mol2 dm-6
+12.6 Characteristics of equilibrium constant 
+1.	The value of equilibrium constant is 
+independent of initial concentrations of 
+either the reactants or products.
+2.	Equilibrium 
+constant 
+is 
+temperature 
+dependent. Hence KC, KP change with 
+change in temperature. 
+3.	Equilibrium constant has a characteristic 
+value for a particular reversible reaction 
+represented by a balanced equation at the 
+given temperature.
+4.	Higher value of KC or KP means more product 
+is formed and the equilibrium point is more 
+towards right hand side and vice versa.
+12.7 Application of equilibrium constant
+Some applications of equilibrium constant are 
+discussed below.
+12.7.1 Prediction of the direction of the 
+reaction  : For the reversible reaction, 
+aA + bB 
+ cC + dD, 
+the equilibrium constant  is 
+KC = [C] [D]
+[A] [B]
+c
+d
+a
+b , 
+where all concentrations are equilibrium 
+concentrations. 
+183
+Consider, for example, the following two reversible reactions : 
+2H2(g) + O2(g) 
+ 2H2O(g)
+2H2O(g) 
+ 2H2(g) + O2(g)
+Equilibrium constant values
+KC = 
+[H2O(g)]2
+[H2(g)]2[O2 (g)]
+KC = 2.4 x 1047 At 500 K
+KC = 
+[H2(g)]2[O2 (g)]
+[H2O(g)]2
+KC = 1
+KC  =  
+1
+2.4 x 1047
+KC = 4.1 x 10-48 = 0.41 x 10-47 at 500 K
+1. Value of KC is very high (KC > 103).
+1. Value of KC is very low (KC < 10-3).
+2. At equilibrium there is a high proportion of 
+products compared to reactants.
+2. At equilibrium, only a small fraction of the 
+reactants are converted into products.
+3. Forward reaction is favoured.
+3. Reverse reaction is favoured.
+4. Reaction is in favour of products and nearly 
+goes to completion.
+4. Reaction is in favour of reactants.
+KC >>>1. Reaction proceeds almost totally 
+towards products.
+KC <<< 1. Rection hardly proceeds towards the 
+products.
+The equilibrium constant is 4.0 at a certain 
+temperature.
+Fig 12.5 : Extent of reaction
+Can you tell?
+Comment on the extent to which the 
+forward reaction will proceed, from the 
+magnitude of the equilibrium constant for 
+the following reactions :
+1. H2(g) + I2(g) 
+  2HI(g), KC = 20 at 
+                                                              550 K
+2. H2(g) + Cl2(g) 
+  2HCl(g), KC = 1018 
+                                                        at 550 K
+12.7.3 
+To 
+calculate 
+equilibrium 
+concentrations : The equilibrium constant 
+can be used to calculate the composition of an 
+equilibrium mixture.
+Consider an equilibrium reaction, 
+CH3COOH(aq) + C2H5OH(aq) 
+  
+(ethanolic acid)    (ethanol)
+CH3COOC2H5 (aq) + H2O(aq)
+(ethyl ethanoate)
+Use your brain power
+The value of KC for the dissociation reaction 
+H2(g) 
+  2H(g) is 1.2 x 10-42 at 500 K
+Does the equilibrium mixture contain mainly 
+hydrogen molecules or hydrogen atoms ?
+The larger the value of the equilibrium constant 
+KC, the farther the reaction proceeds to the right 
+before reaching the equilibrium state : 
+Appreciable concentration of 
+both reactants and procducts are 
+present at equilibrium. 
+Very 
+large
+KC
+10 -3
+10 3
+1
+Very 
+small
+Reaction proceeds  
+nearly to completion 
+Reaction proceeds  
+hardly at all
+Internet my friend
+Collect information about 
+Chemical Equilibrium.
+If we start with 2.0 mol of ethanoic 
+acid and 2.0 mol of ethanol in 'V' litres. Let 
+us find out the composition of equilibrium 
+mixture. Consider x mol of ethyl ethanoate at 
+equilibrium.
+184
+Problem 12.5 : Equal concentrations of 
+hydrogen and iodine are mixed together in 
+a closed container at 700 K and allowed to 
+come to equilibrium. If the concentraion of 
+HI at equilibrium is 0.85 mol dm-3, what are 
+the equilibrium concentrations of H2 and I2 
+if KC = 54 at this temperature ?
+Solution : Balanced chemical reaction : 
+H2(g) + I2(g) 
+ 2HI(g)
+\ Kc = 
+[HI(g)]2
+[H2(g)][I2 (g)] 
+on substituting the values 
+\ 54 = (0.85)2
+[H2(g)]2  
+as initial concentrations of H2(g) and I2 (g) 
+are equal.
+(Refer to the balanced chemical equation : 
+1  mole of  H2 reacts with 1 mole of I2)
+Equilibrium concentration of I2 (g) = 
+Equilibrium concentration of H2 (g)
+\ 54 = (0.85)2
+[H2(g)]2 ,  
+\ [H2(g)] = 0.12 mol dm-3
+Equilibrium concentrations of H2 and I2 are 
+equal to 0.12 mol dm-3.
+                                                                     CH3COOH  +  C2H5OH 
+  CH3COOC2H5  +  H2O
+Initial (No. of moles)
+2.0
+2.0
+0
+0
+At equilibrium (No. of moles)
+(2.0 -x) 
+(2.0 -x)
+x
+x
+Equilibrium concentrations
+(2.0 -x)
+V
+(2.0 -x)
+V
+x
+V
+x
+V
+Equilibrium constant 
+KC = [CH3COOC2H5][H2O]
+[CH3COOH][C2H5OH]
+\ 4.0 = 
+x
+V  
+x
+ 
+x
+V
+(2.0 -x)
+V
+ 
+x(2.0 -x)
+V
+ 
+substituting 
+the 
+value 
+of 
+equilibrium 
+concentration
+\ 4.0 =  
+x2
+(2.0 -x)2
+\ 
+4  = 
+x
+2.0 -x
+\ 2 = 
+x
+2.0 -x
+\ 4 - 2x = x
+\ x = 4
+3
+\ x = 1.33
+\ (2.0 - x) = 0.67
+Therefore, equilibrium concentrations are 
+0.67 mol of ethanoic acid, 0.67 mol of ethanol 
+and 1.33 mol of ethyl ethanoate in V litres.
+12.7.4 Link between chemical equilibrium 
+and chemical kinetics :
+We have deduced in section 12.4.3 
+KC = kf
+kr
+                          	
+	
+  
+ (12.7)
+Where kf and kr are velocity or rate constants of 
+the forward and reverse reactions respectively. 
+This equation can be used to determine the 
+composition of the reaction mixture
+kf  > kr
+kf ≈ kr
+\ KC is very large.
+kf and kr have 
+comparable values 
+\ KC is nearly one.
+ \Reaction 
+goes almost to 
+completion.
+Reaction never goes 
+to completion.
+\If  kf is much  
+larger than KC, the 
+reaction may be 
+irreversible (Reverse 
+reaction is too slow 
+to be detected).
+Comparable 
+concentrations 
+of reactants and 
+products are present 
+at equilibrium.
+185
+Remember
+12.8 Le Chaterlier's principle and factors 
+altering the composition at equilibrium :
+We have learnt that a reaction attains a state 
+of equilibrium under a certain set of conditions 
+(temperature, pressure, concentration and 
+catalyst).
+In general, if we add more reactant, the 
+system will react to remove it. If we remove 
+a product, the system will react to replenish 
+it. Under these changed conditions, new 
+equilibrium will be established with different 
+composition from the earlier equilibrium 
+mixture. 
+The 
+principal 
+goal 
+of 
+chemical 
+synthesis is to achieve maximum conversion 
+of reactants to products with minimum 
+expenditure of energy. To achieve this goal, 
+the reaction conditions must be adjusted.
+The qualitative effect of various factors 
+on the composition of equilibrium mixture are 
+Problem 12.6 : The equilibrium constant 
+KC for the reaction of hydrogen with iodine 
+is 54.0 at 700 K.
+H2(g) + I2(g) 
+kf
+kr
+ 2HI(g) 
+KC =  54.0 at 700 K
+a. If  kf is the rate constant for the formation 
+of HI and kr is the rate constant for the 
+decomposition of HI, deduce whether kf is 
+larger or smaller than kr.
+Solution :As KC = kf
+kr
+ = 54.0, 
+kf is greater than kr by a factor of 54.0
+b. If the value of kr at 700 K is 1.16 x 10-3, 
+what is the kf  ?
+Kf = KC x kr = 54.0 x (1.16 x 10-3) 
+	
+= 62.64 x 10-3
+described through the Le Chatelier's principle.
+If a stress is applied to a reaction mixture 
+at equilibrium, reaction occurs in the direction 
+which relieves the stress. Stress means any 
+change in concentration, pressure, volume 
+or temperature which disturbs the original 
+equilibrium. The direction that the reaction 
+takes is the one that reduces the stress. For 
+example, if concentration of the reactants is 
+increased, reaction goes in a direction that 
+tends to decrease the concentration, that is, in 
+the direction of forward reaction.
+Le Chatelier's Principle : 
+It states that, when a system at equilibrium 
+is subjected to a change in any of the factors 
+determining the equilibrium conditions, system 
+will respond in such a way as to minimize the 
+effect of change.
+12.8.1 Factors affecting equilibrium :
+(a) Change of  concentration
+Consider reversible reaction representing 
+production of ammonia (NH3)
+N2(g) + 3H2(g) 
+ 2NH3(g) + Heat
+The reaction proceeds with decrease in number 
+of moles (∆n = -2) and the forward reaction is 
+exothermic. Iron ( containing a small quantity 
+of molybdenum) is the catalyst.
+ 
+At equilibrium QC = KC = [NH3]2 
+[N2][H2]3 
+  (I)
+Stage I : system at equilibrium
+Stage II : Equilibrium disturbed by making 
+QC < KC by adding H2.
+Due to addition of extra hydrogen, system is 
+no longer at equilibrium.
+The system regains its equilibrium in stage III.
+Stage III : Added hydrogen is to be used up 
+and converted to more NH3. Hence forward 
+reaction is favoured.
+Stage IV : New state of equilibrium is 
+established.
+According to Le-Chatelier's principle, 
+the effect of addition of H2 (or N2 or both) is 
+reduced by shifting the equilibrium from left to 
+right so that the added N2 or H2 is consumed. 
+The equilibrium refers to the relative 
+amounts of reactants and products and 
+thus a shift in equilibrium in a particular 
+direction will imply the reaction in that 
+direction will be favoured.
+186
+Remember
+The forward reaction occurs to a large 
+extent than the reverse reaction until the new 
+equilibrium is established. This results in 
+increased yield of NH3.
+In this reversible reaction, the forward 
+reaction takes place with increase in the 
+number of molecules, whereas reverse reaction 
+takes place with decrease in the number of 
+molecules.
+2. Consider the reaction,
+H2(g) + I2(g) 
+  2HI(g)
+As there is the same number of molecules 
+of gas on both sides, change of pressure has 
+no effect on the equilibrium. Here, there is no 
+change in value of KC during any change in 
+pressure of the equilibrium reaction mixture.
+In general, if the concentration of one 
+of the species in equilibrium mixture is 
+increased, the position of equilibrium shifts 
+in the opposite direction so as to reduce the 
+concentration of this species. However, the 
+equilibrium constant remains unchanged.
+(b) Effect of  Pressure
+You know that : Ideal gas equation is 
+PV = nRT, 
+On rearranging we get,
+P = RT n
+V
+∴P∝ n
+V , where the ratio  n
+V  is an expression 
+for the concentration of the gas in mol dm-3
+1. An equilibrium mixture of dinitrogen 
+tetroxide (colourless gas) and nitrogen dioxide 
+(brown gas) is set up in a sealed flask at a 
+particular temperature (refer to Fig. 12.3). 
+N2O4(g) 
+  2NO2(g)
+The effect of change of pressure on this gaseous 
+equilibrium can be followed by observing the 
+change in its colour intensity. See Table 12.1.
+Table 12.1 : Change in colour intensity
+Change in 
+pressure
+Change 
+in colour 
+intensity
+Shift in 
+equilibrium 
+position
+1. Decrease 
+in pressure
+The colour 
+deepens
+To the right, 
+the side 
+with more 
+molecules
+2. Increase in 
+pressure
+The colour 
+lightens 
+to almost 
+colourless
+To the left, 
+the side 
+with fewer 
+molecules
+Remember
+A reaction in which decrease in volume 
+takes place, reaction will be favoured by 
+increasing pressure and the reaction with 
+increase in volume will be favoured with 
+lowering 
+pressure, 
+temperature 
+being 
+constant.
+Remember
+ In a reversible reaction, the reverse 
+reaction has an energy change that is equal 
+and opposite to that of the forward reaction.
+(c) Effect of Temperature :
+Consider the equilibrium reaction,
+PCl5(g) 
+ PCl3(g) + Cl2(g) + 92.5 kJ
+The forward reaction is exothermic. 
+The reverse reaction is endothermic. An 
+endothermic 
+reaction 
+consumes 
+heat. 
+Therefore, increase in temperature results in 
+shifting the equilibrium in the reverse direction 
+to use up the added heat (heat energy converted 
+to chemical energy).
+Now let us study the effect of change of 
+temperature on the equilibrium constant.
+1. Consider the equilibrium reaction : 
+CO(g) + 2H2(g) 
+  CH3OH(g) + Heat
+                                     ∆H = -90 kJ mol-1
+187
+Do you know ?
+Remember
+Equilibrium constant KC for the reaction, is 
+given in Table 12.2.
+KC =  
+[CH3OH (g)]
+[CO (g)][H2 (g)]2
+Table 12.2
+Temperature (K)
+KC
+298
+1.7 x  1017
+500
+1.1 x 1011
+1000
+2.1 x 106
+The forward reaction is exothermic. 
+According to Le Chatelier's principle an 
+increase in temperature shifts the position 
+of equilibrium to the left. Therefore, the 
+concentration 
+of 
+[CH3OH(g)] 
+decreases 
+and the concentration of CO(g) and H2(g) 
+increases.  KC = [CH3OH(g)]
+[CO(g)][H2(g)]2 
+Therefore, the value of KC decreases as the 
+temperature is increased.
+(d) Effect of Catalyst :
+Rate of a chemical reaction,  increases 
+with the use of catalyst. 
+Consider an esterification reaction :
+CH3COOH(l) + C2H5OH(l) 
+                   
+(ethanoic acid)   (ethanol)
+                       CH3COOC2H5(l) + H2O(l)
+                       (ethyl ethanoate)   (water)
+If the above reaction is carried out 
+without catalyst, it would take many days to 
+reach equilibrium. However, the addition of 
+hydrogen ions (H+) as catalyst reduces the 
+time only to a few hours.
+A catalyst does not appear in the balanced 
+chemical equation and in the equilibrium 
+constant expression.
+Let us summarize effects of all four 
+factors on the position of equilibrium and 
+value of KC.
+Effect of
+Position of 
+equilibrium
+Value of KC
+Concentration
+Changes
+No change
+Pressure
+Changes 
+if reaction 
+involves 
+change in 
+number 
+of gas 
+molecules
+No change
+Temperature
+Changes
+Changes
+Catalyst
+No change
+No change
+Catalyst lowers activation energy for 
+the forward and reverse reactions by exactly 
+the same amount.
+In all the cases of change in 
+concentration, pressure, temperature and 
+presence of catalyst, once the equilibrium 
+has been re-established after the change, 
+the value of KC will be unaltered
+A catalyst does not affect equilibrium 
+constant and equilibrium composition of a 
+reaction mixture.
+Fig. 12.6  The Haber process
+Making ammonia The Haber process
+12.9 Industrial Application :
+The Haber process : (Industrial preparation 
+of ammonia)
+Industrial processes can be made efficient 
+and profitable by applying ideas of rate of 
+reaction and equilibrium.
+N2 + 3H2 
+  2 NH3
+liquid ammonia
+hydrogen from 
+natural gas
+nitrogen 
+from the air
+unreacted 
+gases 
+recycled
+nitrogen and hydrogen
+1:3 by volume
+450º C
+200atm
+Iron catalyst
+gases are cooled 
+and ammonia turns 
+to liquid
+188
+The Haber process is the process of 
+synthesis of ammonia gas by reacting together 
+hydrogen gas and nitrogen gas in a particular 
+stoichiometric ratio by volumes and at selected 
+optimum temperature. 
+N2(g) + 3H2(g) 
+  2NH3(g) + Heat
+The reaction proceeds with a decrease 
+in number of moles (∆n= -2) and the forward 
+reaction is exothermic. Iron (containing a small 
+quantity of molybdenum) is used as catalyst.
+We studied earlier in section 12.8.1 a. how 
+the change in concentration of the reactants 
+affects the yield of ammonia. Now let us 
+consider the effect of temperature and pressure 
+on the synthesis of ammonia. 
+a. Effect of temperature : The formation 
+of ammonia is exothermic reaction. Hence, 
+lowering of temperature will shift the 
+equilibrium to right. At low temperature 
+however, the rate of reaction is small and 
+longer time would be required to attain the 
+equilibrium. At high temperatures, the reaction 
+occurs rapidly with appreciable decomposition 
+of ammonia. Hence, the optimum temperature 
+has to be used. The optimum temperature is 
+about 773 K.
+b. Effect of pressure : The forward reaction 
+is favoured with high pressure as it proceeds 
+with decrease in number of moles. At high 
+pressure, the catalyst becomes inefficient. 
+Therefore optimum pressure needs to be used. 
+The optimum pressure is about 250 atm. 
+1. If NH3 is added to the equilibrium system of Haber process, in which direction will the 
+eqilibrium shift to consume added NH3 so as to reduce the effect of stress?
+2. In this process, out of the reverse and forward reaction, which reaction will occur to a 
+greater extent due to this stress ?
+3. What will be the effect of this stress on the yield of NH3 ?
+Can you tell?
+Internet my friend
+1. Collect information about Haber Process and Chemical Equilibrium.
+2. Youtube.Freesciencelessons The Haber Process.

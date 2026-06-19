@@ -1,0 +1,3246 @@
+203
+O.	Write the fusion reactions occuring in the 
+Sun and stars.
+P.	How many α and β - particles are emitted 
+in the trasmutation 
+	
+Th
+232
+90
+ 
+ 
+Pb
+208
+82
+ ?
+Q.	A produces B by ∝- emission. If B is in 
+the group 16 of periodic table, what is the 
+group of A ? 
+R. 	 Find the number of α and β- particles 
+emitted in the process
+	
+222
+86Rn  
+ 
+214
+84 Po
+4. Solve the problems
+A.	 Half life of 18F is 110 minutes. What 
+fraction of 18F sample decays in 20 
+minutes ?	
+	
+	
+(Ans. : 0.118)
+B.	 Half life of 
+35S is 87.8 d. What 
+percentage of 35S sample remains after 
+180 d ? 	 	
+	
+	
+(Ans. : 24.2%)
+C.	 Half life 67Ga is 78 h. How long will it 
+take to decay 12% of sample of Ga ?
+	
+(Ans.14.44)
+D.	 0.5 g Sample of 201Tl decays to 0.0788 g 
+in 8 days. What is its half life ? 
+(Ans.3.0 d)
+E.	65% of 111In  sample decays in 4.2 d. 
+What is its half life ?	
+	
+(Ans. : 2.77 d)
+F.	Calculate 
+the 
+binding 
+energy 
+per 
+nucleon of  
+Kr
+84
+36
+ whose atomic 
+mass is 83.913 u. (Mass of neutron is 
+1.0087 u and that of H atom is 
+1.0078 u).	
+	
+(Ans.: 8.7 MeV)
+G.	Calculate the energy in Mev released in 
+the nuclear reaction 
+	
+  
+Ir
+174
+77
+ 
+ 
+Re  +   He
+170
+75
+4
+2
+ 
+	
+Atomic masses : Ir = 173.97 u, 
+	
+	Re = 169.96 u	and	
+	
+ He = 4.0026 u		
+(Ans.6.89 MeV)
+H.	A 3/4 of the original amount of 
+radioisotope decays in 60 minutes. What 
+is its half life ?	 	
+	
+	
+(Ans.: 30 min)
+I.	 How many - particles are emitted 
+by 0.1 g of 226Ra in one year? 
+	
+(Ans. : 1.154 × 1017)
+J.	 A sample of 32P initially shows activity 
+of one Curie. After 303 days the activity 
+falls to 1.5 × 104 dps. What is the half life 
+of 32P ?	 	
+(Ans.14.27 d)
+K. Half life of radon is 3.82 d. By what time 
+would 99.9 % of radon will be decayed.
+(Ans.38.05 d)
+L.	It has been found that the Sun’s mass loss 
+is 4.34 × 109 kg per second. How much 
+energy per second would be radiated into 
+space by the Sun ?
+	
+	
+(Ans.: 3.9 × 1023  kJ/s)
+M.	 A sample of old wood shows 
+7.0 dps/g. If the fresh sample of tree 
+shows 16.0 dps/g, How old is the given 
+sample of wood ? Half life of 14C 
+5730 y.	 	
+	
+	
+(Ans. 6833 g)
+Activity :
+1. Discuss five applications of radioactivity 
+for peaceful purpose.	
+2.	Organize a trip ot Bhabha Atomic 
+Reasearch Centre, Mumbai to learn 
+about nuclear reactor. This will have to 
+be organized through your college.
+204
+Try this
+Try this
+Can you recall?
+14. Basic Principles of Organic Chemistry
+14.1 Introduction : Of all the elements, only 
+carbon is able to form an immense array of 
+compounds, ranging from methane having 
+one carbon atom to deoxyribonucleic acid 
+(DNA) with billions of carbon atoms. Crude 
+oil is a complex mixture of compounds called 
+hydrocarbons. The pharmaceutical industry is 
+one of the most important chemical industries 
+that provides us medicines which are organic 
+compounds. We need to study the organic 
+compounds for they are interesting in their own 
+right and their functions are greatly important 
+to life.
+•	
+Which is the essential element in all 
+organic compounds ?
+•	
+What is the unique property of carbon 
+that makes organic chemistry a 
+separate branch of chemsitry?
+•	
+Which classes of organic compounds 
+are often used in our daily diet ?
+Find out the structures of glucose, 
+vanillin, camphor and paracetamol using 
+internet. Mark the carbon atoms present 
+in them. Assign the hybridization state 
+to each of the carbon and oxygen atom. 
+Identify sigma (σ) and pi (π) bonds in these 
+molecules.
+•	
+Draw the structural formula of ethane.
+•	
+Draw electron-dot structure of propane.
+atoms denoted with their symbols and all 
+covalent bonds therein represented by a dash 
+joining mutually bonded atoms. For example, 
+structural formula of CH4 is :
+	
+	
+  
+ C
+H
+H
+H
+H
+In the electron dot structures of molecules, 
+the valence electrons of all the atoms are 
+shown as dots around them. Two dots drawn in 
+between two atoms indicate one covalent bond 
+between them. For example, the electron dot 
+structure of methane is as shown here
+	
+	
+ 
+ C H
+H
+H
+H
+Electron dot structures are called Lewis 
+structures and the dash formula represents 
+simplified Lewis formula. Chemists have 
+developed some more ways to represent organic 
+molecules fulfilling specific requirements.
+14.2.1 Condensed formula : The complete 
+structural formula can be further simplified 
+with hiding of some or all the covalent bonds 
+and indicating the number of identical groups 
+attached to an  atom by a subscript. The 
+resulting formula of a compound is known as 
+condensed formula. For example : condensed 
+formula of ethane can be written as CH3 - CH3 
+or CH3CH3.
+14.2.2 Bond line formula or zig-zag formula 
+In this representation of a molecule 
+symbols of carbon and hydrogen atoms are not 
+written. The lines representing carbon-carbon 
+bonds are drawn in a zig-zag manner and the 
+terminals of the zig-zag line represent methyl 
+groups. The intersection of lines denotes a 
+carbon atom bonded to appropriate number 
+of hydrogen which satisfy the tetravalency 
+of carbon atoms. For example : propane is 
+represented by the zig-zag formula 
+ . 
+However the heteroatoms or hydrogen atoms 
+bonded to heteroatoms are written clearly. For 
+example : The bond line formula of C2H5OH 
+is 
+OH.
+14.2 Structural Representation of organic 
+molecules
+In the previous standards you learnt how 
+to write structural formulae and electron dot 
+structure of hydrocarbons. Structural formula 
+of a molecule shows all the constituent 
+205
+Try this
+Table 14.1 : Representation of structural formula
+Dash formula
+Condensed formula A
+Condensed formula B
+Bond line or zig-zag  formula
+1. 
+H - C - C - C - C - H
+H
+H
+H
+H
+H
+H
+H
+H
+CH3(CH2)2CH3
+CH3- CH2
+ - CH2- CH3
+2. 
+3. 
+CH3(CH2)2CHO
+4. 
+CH3CH2CH(CH3)OH
+5. N ≡ C - C - C ≡ N
+H
+OH
+14.2.3 Drawing the molecules in three 
+dimensions : Most organic molecules have 
+three dimensional shapes. Four different 
+methods are used to represent three dimensional 
+molecules on plane paper.
+I. Wedge formula : The three dimensionl 
+(3-D) view of a molecule can be represented on 
+plane paper by representing the single bonds 
+using solid wedge (
+), dashed wedges 
+(
+) and normal line (−). A solid wedge is 
+used to represent a bond projecting up from 
+the paper towards the reader. A dashed wedge 
+is used to represent a bond going backward, 
+below the paper away from the reader. Normal 
+lines depict bonds in the plane of the paper. 
+See Fig. 14.1 (for convenience solid and 
+dashed wedge can be replaced by solid/bold 
+and dashed lines.)
+be drawn by visualizing the molecule with its 
+main carbon chain vertical. Each carbon on 
+the vertical chain is represented by a cross. 
+The convention is that the horizontal lines of 
+the cross represent bonds projecting up from 
+the carbon and the vertical lines represent the 
+bonds going below the carbon. Figure 14.2 
+illustrates the conventions of Fischer projection 
+formula. 
+Fig 14.2 : Fischer projection (cross) formula
+H
+H
+C
+OH 
+OH 
+≡
+COOH
+COOH
+CH3
+CH3
+Fischer projection/
+cross formula
+Wedge formula
+H
+H
+H
+H
+C
+C
+OH 
+OH 
+OH 
+OH 
+≡
+COOH
+COOH
+CH3
+CH3
+Fischer projection/
+cross formula
+Wedge formula
+Fischer projection formula is more commonly 
+used in carbohydrate chemistry
+III Newman projection formula : In this 
+method projection of a three dimensional 
+molecule on the plane of the paper is drawn by 
+visualizing the molecule by looking through a 
+  Complete the Table 14.1
+Fig. 14.1 : Wedge formula
+Bonds in the 
+plane of paper
+Bond going below 
+the paper
+Bond projecting 
+above the paper
+II. Fischer projection formula or cross 
+formula : In this representation  a three 
+dimensional molecule is projected on plane 
+of paper. A Fischer projection formula can 
+206
+Draw 
+two 
+Newman 
+projection 
+formulae and two sawhorse formulae for 
+the propane molecule.
+Try this
+C-C single bond. In such case the C-C is not 
+visible. A convention is followed to represent 
+the front carbon by a point and the rear carbon 
+by a circle around it. The remaining three 
+bonds at each of these two carbons are drawn 
+like spokes of a wheel. Conventionally three 
+bonds at the front carbon are shown to radiate 
+from the centre of the circle (which is the front 
+carbon) and three bonds at the rear carbon are 
+shown to radiate from the circumference of the 
+circle. Figure 14.3 shows two representations 
+of ethane (CH3-CH3) molecule by this method. 
+Fig 14.3 :  Newman projection formula of  
+ethane
+(I)
+(II)
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+IV. Sawhorse or andiron or perspective 
+formula : In this representation a C-C single 
+bond is represented by a long slanting line. 
+The lower end of the line represents the front 
+carbn and the upper end the rear carbon. The 
+remaining three bonds at the two carbons are 
+shown to radiate from the respective carbons. 
+(As the central C-C bond is drawn rather 
+elongated the bonds radiating from the front 
+and rear carbons do not intermingle.) Figure 
+14.4 shows two sawhorse (i.e. andiron or 
+pesrpective) formulae for ethane.
+Fig. 14.4 : Sawhorse formula of ethane
+H
+H
+H
+H
+H
+H
+H
+H
+H H
+H
+H
+(I)
+(II)
+14.3 Classification of organic compounds :
+With so many different molecules to study, 
+it is important to find ways of relating different 
+structures of molecules to their chemical 
+properties. This provides basis for classifying 
+organic compounds. Organic compounds are 
+broadly classified in two ways, on the basis of 
+(i) carbon skeleton and (ii) functional group.
+Do you know ?
+Molecular models (Fig 14.5) are used for 
+an easier visualisation of three dimensional 
+shapes of organic molecules.  Three types 
+of molecular models are common.
+i. Frame work model : It emphasizes the 
+skeletal pattern of bonds ignoring size of 
+atoms.
+ii. Ball and stick model : In this model a 
+ball represents an atom and stick a bond.
+iii. Space filling model : It emphasizes 
+on relative size of each atom. Bonds are 
+not shown. It conveys volume occupied by 
+each atom in the molecule. 
+Now a days computer graphics can be 
+used for molecular modeling.
+Fig. 14.5 Molecular models
+(b) Ball and stick model
+(c) Space filling model
+(a) Framework model
+207
+Try this
+14.3.1 Classification based on carbon 
+skeleton
+H
+N
+Cyclohexene
+(a)
+(b)
+(c)
+(e)
+(d)
+Piperidine
+Cyclopentane
+Benzene
+Pyrrole
+N
+H
+i. Observe the compounds (a) to (e)
+ii. Identify the compounds those contain a 
+ring of carbon atoms only.
+iii. Identify the compounds in which ring 
+contains at least one atom other than 
+carbon.
+Fig 14.6 : Tree of classification of organic compounds
+Organic compounds
+Acyclic/Aliphatic (open chain)
+Cyclic (closed chain)
+Homocyclic (carbocyclic)
+Alicyclic
+Heterocyclic Aromatic
+Benzenoid aromatic
+Aromatic
+Heterocyclic 
+Non - Aromatic
+ Non-benzenoid aromatic
+Heterocyclic
+The carbon atoms bonded to each 
+other lie in the core of an organic molecule 
+and are described as the carbon skeleton 
+of the molecule. It is the carbon skeleton of 
+a molecule that decides its shape and size. 
+A variety of carbon skeleton are found in 
+different organic compounds and accordingly 
+they are classified into various types as shown 
+in Fig. 14.6
+Acyclic or open chain compounds : These 
+are also known as aliphatic compounds. 
+Molecules of these compounds have chains of 
+carbon atoms. These may be straight chains 
+formed by carbon atoms bonded to one or 
+two other carbons or branched chains having 
+at least one carbon bonded to three or four 
+other carbons. Table 14.2 shows examples of 
+acyclic compounds.
+Table 14.2 : Acyclic/Aliphatic compounds
+CH3- CH2 - CH3
+     CH3- CH2 - CH2 - OH
+propane
+  n - propyl alcohol
+straight chain
+Branched chain
+isobutane
+CH3- CH - CH3
+CH3
+Cyclic compounds : These are compounds in 
+which molecules are formed by joining atoms 
+to form ring like structures.
+The compounds in which the ring is made 
+of only carbon atoms are known as homocyclic 
+or carbocyclic compounds. Carbon is an 
+essential atom in any organic molecule. One 
+or more hydrogen atoms are present in most 
+of the organic molecules. All the other atoms 
+that are found in organic molecules are called 
+heteroatoms. The cyclic compounds in which 
+the ring includes one or more heteroatoms 
+(oxygen, nitrogen, sulphur etc.) are known as 
+heterocyclic compounds.
+Alicyclic compounds : These are cyclic 
+compounds exhibiting properties similar to 
+those of aliphatic compounds. For example : 
+Cyclobutane, cyclohexene. See Fig. 14.7.
+Try this
+Construct a model of propane (C3H8) 
+molecule. Which atoms are on the surface 
+of the molecule ? Which atoms lie in the 
+core of the molecule ?
+208
+Can you tell?
+Aromatic 
+compounds 
+: 
+Aromatic 
+compounds have special stability. Aromatic 
+compounds containing benzene ring are 
+known as benzenoid aromatics while those 
+not containing benzene ring are called non-
+benzenoid aromatics. For example : benzene, 
+tropone. See Fig. 14.7
+Naphthalene
+Phenol
+(b)  Benzenoid Aromatic 
+      compounds
+(c) Non benzenoid 
+Aromatic compounds
+Tropone
+OH
+Fig. 14.7 : Carbocyclic compounds
+Cyclobutane
+Cyclohexene
+(a) Alicyclic compound
+Figure 14.8 illustrates some heterocyclic 
+compounds
+O
+N
+H
+O
+Tetrahydrofuran
+(THF)
+Piperidine
+4H - Pyran
+Heterocyclic non-aromatic compounds
+O
+S
+N
+H
+N
+Furan
+Thiophene
+Heterocyclic aromatic compounds
+Pyridine
+Pyrrole
+Fig. 14.8 : Heterocyclic compounds
+14.3.2 Classification based on functional 
+group : 
+Consider the following reaction : 
+2CH3 - CH2 - CH2 - OH + 2Na 
+ 
+                     2CH3 - CH2 - CH2 - ONa + H2
+Compare the structure of the substrate propanol 
+with that of the product sodium propoxide. 
+Which part of the substrate, the carbon skeleton 
+or the OH group has undergone a change during 
+the reaction ?
+A part of an organic molecule which 
+undergoes change as a result of a reaction 
+is called functional group. In the above 
+illustration, OH is the functional group present 
+in propanol. Inspection of structures of various 
+organic compounds tells us that there are a large 
+variety of functional groups present in them. 
+The second method of classification of organic 
+compounds is based on the nature of functional 
+group present. The resulting individual class 
+is called a family named after the constituent 
+functional group. For example: family of 
+alcohols, family of halogen derivatives. 
+Table 14.3 shows some common functional 
+groups with their names, bond structures and 
+examples.
+Homologous series : A family of functional 
+group, in turn, comprises different homologous 
+series. A series of compounds of the same 
+family in which each member has the same 
+type of carbon skeleton and functional group, 
+and differs from the next member by a constant 
+difference of one methylene group (− CH2 −) in 
+its molecular and structural formula is called 
+as homologous series. An individual member 
+of a homologous series is called homologue. 
+All the members, or homologues of such series 
+are represented by the same general formula.
+The members of a particular homologous 
+series possess similar chemical properties those 
+very gradually in their physical properties 
+namely, melting  point, boiling point, density, 
+solubility, etc. Table 14.4 illustrates this with 
+the help of homologous series of straight chain 
+aldehydes having general formula CnH2nO .
+Do you know ?
+•	 Aliphatic compounds are named so 
+because of their attraction towards fats.
+•	 Aromatic compounds are named so 
+because some of these compounds 
+discovered in early 19th century 
+possessed aroma.
+209
+Table 14.3 : Functional groups in organic compounds 
+Sr. No.
+Name of the family/
+functional group
+structure of the 
+functional group
+Example
+1.
+Halide
+− X
+CH3Br methyl bromide
+2.
+Cyanide (or Nitrile)
+− C≡ N
+CH3CN methyl cyanide (or acetonitrile)
+3.
+Isocyanide
+− N⊕≡ C
+CH3NC methyl isocyanide
+4.
+Nitro compound/group
+− N− O
+O
+⊕
+CH3NO2 
+Nitromethane
+5.
+Alcohol
+− OH
+CH3OH methyl alcohol
+6.
+Phenol
+Ar −  OH
+C6H5OH  Phenol
+7.
+Primary amine
+− NH2
+CH3NH2 methyl amine
+8.
+Secondary amine
+− NH −
+CH3 − NH − CH3 Dimethyl amine
+9.
+Tertiary amine
+− N−
+−
+(CH3)3N 
+Trimethyl amine
+10.
+Ether
+− C − O − C −
+−
+−
+−
+−
+CH3 − O − CH3 
+Dimethyl ether
+11.
+Aldehyde
+− C− H
+O
+CH3CHO 
+Acetaldehyde
+12.
+Ketone
+− C−
+O
+CH3 − CO − CH3 
+Acetone
+13.
+Carboxylic acid
+− C− OH
+O
+CH3 − COOH 
+Acetic acid
+14.
+Ester
+− C− O −
+O
+ 
+CH3 − COOC2H5 
+Ethyl acetate
+15.
+Amide
+− C− NH2
+O
+CH3 − CONH2 
+Acetamide
+16.
+Secondary amide
+− C− NH−
+O
+CH3 − CO − NH − CH3 
+N-methyl acetamide
+17.
+Tertiary amide
+− C− N −
+O
+−
+CH3 − CO − N(CH3)2 
+N, N - dimethyl acetamide
+18.
+Acid anhydride
+− C − O − C −
+O
+O
+CH3 − CO − O − CO − CH3 
+Acetic anhydride
+19.
+Acyl chloride
+− C− Cl
+O
+CH3 − COCl 
+Acetyl chloride
+20.
+Sulphonic acid
+− S − O − H
+O
+O
+C6H5SO3H 
+Benzene sulphonic acid
+21.
+Alkene/Olfin 
+ 
+C =C
+CH2 = CH2 
+Ethylene
+22.
+Alkyne
+ − C ≡ C −
+CH ≡ CH              Acetylene
+23.
+Alkane 
+No functional group
+CH3 - CH3        Ethane
+210
+Problem 14.1 : Alkanes constitute a 
+homologous series of straight chain saturated 
+hydrocarbons. Write down the structural 
+formulae of the first five homologues of 
+this series. Write their molecular formulae 
+and deduce the general formula of such 
+homologous series.
+Solution :
+The first five homologues are generated by 
+adding one  - CH2 - at a time, starting with 
+the first homologue CH4.
+CH4  
+add - CH2 -
+        CH3 - CH3             
+add - CH2 -
+   
+1st homologue         2nd homologue
+                                                                        CH3 - CH2 - CH3
+	
+                                           3rd homologue
+  
+add - CH2 -
+     CH3 - CH2 - CH2 - CH3        
+add - CH2 -
+  
+                                4th homologue
+                    CH3 - CH2 - CH2 - CH2 - CH3
+	
+                             5th homologue
+By counting carbon and hydrogen atoms in 
+the five homologues we get their molecular 
+formulae as CH4, C2H6, C3H8, C4H10 
+and C5H12. Comparing these molecular 
+formulae, the following general formula is 
+deduced : Cn H2n+2 .
+Problem 14.2 : Write down structural 
+formulae of (a) the third higher and (b) the 
+second lower homologue of CH3CH2COOH.
+Solution :
+a. structural formula of the third higher 
+homologue is obtained by adding three − 
+CH2 − units to the carbon chain of given 
+structure.
+CH3 - CH2- COOH     
+add three
+− CH2 − units      
+                          CH3 - CH2- CH2-CH2- CH2- COOH
+	
+	
+third higher homologoue
+b. structural formula of the second lower 
+homologue is obtained by removing two 
+− CH2 − units from the carbon chain of the 
+given structure.
+CH3 − CH2 − COOH 
+ H −  COOH
+remove
+− CH2 − units
+two
+14.4 Nomenclature of organic compounds
+14.4.1 Common/trivial names
+As organic chemistry developed, attempts 
+were made to devise a name for every organic 
+compound. These old names are now reffered 
+to as common / trivial names. Common name 
+of a compound usually has some history 
+behind and usually accepted on account of its 
+long usage. Though a systematic method of 
+nomenclature was developed later, common 
+names are still useful and in many cases can 
+not be avoided, particularly for commonly 
+used commercial organic compounds. Stem 
+names of certain common organic compounds 
+are given in Table 14.5.
+Remember
+The saturated (sp3) carbons in a molecule 
+are labelled as primary, secondary, tertiary 
+and quaternary in accordance with the 
+number of other carbons bonded to it by 
+single bonds.
+•	
+Primary carbon (10) is bonded to only 
+one other carbon. For example: both 
+the carbons in ethane CH3-CH3.
+•	
+Secondary carbon (20) is bonded 
+to two other carbons. For example: 
+the 
+middle 
+carbon 
+in 
+propane 
+CH3-CH2-CH3
+•	
+Tertiary Carbon (30) is bonded to 
+three other carbons. For example: 
+the middle carbon in isobutane 
+CH3CH(CH3)2.
+•	
+Quaternary Carbon (40) in bonded to 
+four other carbons. For example: the 
+middle carbon in neo-pentane C(CH3)4
+211
+Table 14.4 : Homologous series of straight chain aldehydes
+Name
+Number of carbons
+Molecular 
+formula CnH2nO
+Condensed structural 
+formula
+Boiling 
+point
+Formaldehyde
+n = 1
+CH2O
+H − C − H
+O
+- 210C
+Acetaldehyde
+n = 2
+C2H4O
+CH3 − C − H
+O
+   210C
+Propionaldehyde
+n = 3
+C3H6O
+CH3 − CH2 − C − H
+O
+   48 0C
+Butyraldehyde
+n = 4
+C4H8O
+CH3 − (CH2)2 − C − H
+O
+   750C
+Valeraldehyde
+n = 5
+C5H10O
+CH3 − (CH2)3 − C − H
+O
+  1030C
+Table 14.5 : Trivial names of some organic 
+compounds
+Structural formula
+Common Name/
+Trivial Name
+CH3 - CH2 - CH2 - CH3
+n - Butane
+CH3 - CH - CH3
+CH3
+Isobutane
+C6H5NH2
+Aniline
+CH3 - CH - COOH
+OH
+Lactic acid
+CHCl3
+Chloroform
+CH ≡ CH
+Acetylene
+C2H5 - O - C2H5
+Diethyl ether
+CH3COOH
+Acetic acid
+H - C -H
+O
+Formaldehyde
+CH3 - CH - COOH
+NH2
+Glycine
+CH2 - CH - CH2
+OH
+OH
+OH
+Glycerol
+14.4.2 IUPAC Nomenclature : With the rapidly 
+growing number of organic compounds with 
+increasingly complicated structures it becomes 
+difficult to name them. Some confusion 
+can be created when the same compound 
+is named differently. In due course of time 
+International Union of Pure and Applied 
+Chemistry (IUPAC) was founded (1919) 
+and a systematic method of nomenclature 
+for organic compounds was developed under 
+its banner. This system of nomenclature is 
+accepted and widely used all over the world 
+today. This system gives the unique name to 
+each organic compound.
+To arrive at the IUPAC name of 
+an organic compound, its structure is 
+considered to be made of three main parts : 
+parent hydrocarbon, branches and functional 
+groups. The IUPAC names of a compound 
+are obtained by modifying the name of its 
+parent hydrocarbon further incorporating 
+names of the branches and functional 
+groups as prefix and suffix. For doing this, 
+certain rules were formulated by IUPAC. 
+We consider the IUPAC rules for naming 
+saturated and unsaturated hydrocarbons, 
+simple monocyclic hydrocarbons, simple 
+mono and polyfunctional compounds and 
+substituted benzenes in the following.
+14.4.3 IUPAC names of straight chain 
+alkanes : The homologous series of straight 
+chain alkanes forms the parent hydrocarbon 
+part of the IUPAC names of aliphatic 
+compounds. The IUPAC name of a straight 
+chain alkane is derived from the number of 
+carbon atoms it contains. Table 14.6 gives the 
+list of the IUPAC names of first twenty straight 
+chain alkanes. It may be noted that the stem 
+names of first four members are accepted as 
+their IUPAC names.
+212
+Table  14.6 : IUPAC names of the first twenty alkanes
+Number of carbons
+Molecular formula
+Condensed formula
+IUPAC name
+1
+CH4
+CH4
+Methane
+2
+C2H6
+CH3 - CH3
+Ethane
+3
+C3H8
+CH3 - CH2- CH3
+Propane
+4
+C4H10
+CH3 - (CH2)2- CH3
+Butane
+5
+C5H12
+CH3 - (CH2)3- CH3
+Pentane
+6
+C6H14
+CH3 - (CH2)4- CH3
+Hexane
+7
+C7H16
+CH3 - (CH2)5- CH3
+Heptane
+8
+C8H18
+CH3 - (CH2)6- CH3
+Octane
+9
+C9H20
+CH3 - (CH2)7- CH3
+Nonane
+10
+C10H22
+CH3 - (CH2)8- CH3
+Decane
+11
+C11H24
+CH3 - (CH2)9- CH3
+Undecane
+12
+C12H26
+CH3 - (CH2)10- CH3
+Dodecane
+13
+C13H28
+CH3 - (CH2)11- CH3
+Tridecane
+14
+C14H30
+CH3 - (CH2)12- CH3
+Tetradecane
+15
+C15H32
+CH3 - (CH2)13- CH3
+Pentadecane
+16
+C16H34
+CH3 - (CH2)14- CH3
+Hexadecane
+17
+C17H36
+CH3 - (CH2)15- CH3
+Heptadecane
+18
+C18H38
+CH3 - (CH2)16- CH3
+Octadecane
+19
+C19H40
+CH3 - (CH2)17- CH3
+Nonadecane
+20
+C20H42
+CH3 - (CH2)18- CH3
+Icosane
+14.4.4 IUPAC names of branched saturated hydrocarbons 
+The branches or the side chains in saturated hydrocarbons are alkyl groups or alkyl 
+substituents. Before looking at the IUPAC nomenclature of the branched saturated hydrocarbons, 
+we look at the naming of alkyl groups.
+Alkyl groups : An alkyl group may be a straight or branched chain. A straight chain alkyl 
+group is generated by removing one hydrogen atom from the terminal carbon of an alkane 
+molecule and is named by replacing 'ane' of the alkane by 'yl'. Some straight chain alkyl groups 
+are listed in Table 14.7.
+Table 14.7 : Straight chain alkyl groups
+Alkane
+Alkyl group
+Molecular formula
+IUPAC name
+Condensed formula
+IUPAC name
+Abbridged name
+CH4
+methane
+ - CH3
+methyl
+Me
+C2H6
+ethane
+- CH2- CH3
+ethyl 
+Et
+C3H8
+propane
+- (CH2)2- CH3
+propyl
+Pr
+C4H10
+butane
+- (CH2)3- CH3
+butyl
+Bu
+C10H22
+decane
+- (CH2)9- CH3
+decyl
+-
+213
+Do you know ?
+The group C6H5- (
+ ) is named as 
+phenyl group and abbriviated as Ph.
+A branched chain alkyl group is obtained 
+by removing a hydrogen atom from any one of 
+the nonterminal carbons of an alkane or any 
+hydrogen atom from a branched alkane. Stem 
+names of branched alkyl groups containing 
+upto four carbons are used in IUPAC names 
+(see Table 14.8)
+Table 14.8 : Trivial names of small branched 
+alkyl groups 
+Structural formula
+Name
+CH3 - CH - CH3
+Isopropyl
+CH3 - CH - CH2− 
+CH3
+Isobutyl
+CH3 - CH - CH2 - CH3
+sec-Butyl
+CH3 - C −
+CH3
+CH3
+tert-Butyl
+Rules for IUPAC nomenclature of branched 
+saturated hydrocarbons :
+1. Select the longest continuous chain of 
+carbon atoms to be called the parent chain. All 
+other carbon atoms not included in this chain 
+constitute side chains or branches or alkyl 
+substitutents. For example :
+i.  CH3 - CH - CH2- CH2- CH3
+CH3
+Parent chain has five carbon atoms and 
+- CH3 group is the alkyl sustituent.
+ii. CH3 - CH- CH2- CH3
+CH2- CH2- CH3
+Parent chain has six 'C' atoms and methyl 
+group is the alkyl substituent.
+If two chains of equal length are located, 
+the one with maximum number of substituents 
+is selected as the parent chain. For example :
+i. CH3 - CH- CH - CH2- CH2- CH3
+CH3 CH2- CH3
+Parent chain hexane with two alkyl 
+substituents (correct parent chain)
+    CH3 - CH- CH - CH2- CH2- CH3
+CH3 CH2- CH3
+Parent chain hexane with one alkyl substituent 
+(incorrect chain)
+2. The parent chain is numbered from one 
+end to the other to locate the position, called 
+locant number of the alkyl substitutent. The 
+numbering is done in that direction which will 
+result in lowest possible locant numbers .
+   CH3 - CH- CH2- CH3
+CH3
+1
+2
+3
+4
+(locant number : 2 ~ proper numbering)
+   CH3 - CH- CH2- CH3
+CH3
+1
+2
+3
+4
+(locant number : 3 ~ improper numbering)
+3. Names of the alkyl substituents are added 
+as prefix to the name of the parent alkane. 
+Different alkyl substituents are listed in 
+alphabetical order with each substituent name 
+preceded by the appropriate locant number. 
+The name of the substituent is separated from 
+the locant number by a hyphen.
+CH3 -CH2- CH- CH- CH2-CH2- CH3
+CH3  C2H5
+The name is 4 - ethyl-3-methylheptane and not 
+3-methyl-4-ethylheptane.
+4. When both the numberings give the 
+same set of locants, that numbering is 
+chosen which gives smaller locant to the 
+substituent having alphabetical priority. 
+Thus the IUPAC name of the following 
+structure is 3-ethyl-4-methylhexane and not 
+3-methyl-4-ethylhexane.
+    CH3 -CH2- CH- CH- CH2- CH3
+CH3  CH2- CH3
+5. If two or more identical substituents are 
+present the prefix di (for 2), tri (for 3), tetra 
+(for 4) and  so on,  are used before the name of 
+the substituent to indicate how many identical 
+substituents are there. The  locants of identical 
+substituents are listed together, separated by 
+commas. 
+214
+There must be as many numbers in the 
+name as the substituents. A digit and an alphabet 
+is separated by hyphen. The prefixes di, tri, 
+tetra, sec and tert are ignored in alphabetizing 
+the substituent names. Substituent and parent 
+hydrocarbon names are joined into one word
+(note that isopropyl comes before methyl).
+6. Branched alkyl group having no accepted 
+trivial name is named with the longest 
+continuous chain begining at the point of 
+attachment as the base name. Carbon atom 
+of this group attached to parent chain is 
+numbered 1. Name of such substituent is 
+enclosed in bracket. For example :
+CH3 -CH - CH− 
+CH3  CH3
+	
+	
+	
+H3C -HC - CH2- C -
+CH3 
+CH3 
+CH3 
+1, 2 di-methylpropyl           1, 1, 3- trimethylbutyl
+CH3 -CH - CH- CH- CH2-CH2- CH3
+CH3  CH3
+H3C - CH -  CH2- CH3
+2, 3 - dimethyl - 4 - (1methylpropyl)heptane
+Problem 14.3 :
+Complete the following table
+Structural formula
+Numbering
+Prefix
+IUPAC Name
+CH3 -CH - CH2- CH3
+CH3 
+C - C - C - C
+C
+1
+2
+3
+4
+2 - methyl
+2 - methylbutane
+CH3 - C - CH3
+CH3 
+CH3 
+C - C - C
+C
+C  
+1
+2
+3
+2, 2 - dimethyl
+2, 2-dimethylpropane
+CH3 - CH - CH- CH2
+CH3 CH3 CH3 
+CH3 -CH - CH- CH2- CH2 - CH3
+CH3  CH2- CH3
+CH3 -CH - CH- CH2- CH2 - CH3
+C2H5  C2H5
+C2H5
+C2H5
+C
+C2H5
+C2H5
+14.4.5 IUPAC nomenclature of unsaturated 
+hydrocarbons (Alkenes and Alkynes)
+While writing IUPAC  names of alkenes and 
+alkynes following rules are to be followed in 
+addition to rules already discussed.
+1. The longest continuous chain must include 
+carbon-carbon multiple bond. Thus the 
+longest continuous chains in I and II contain 
+four and six carbons, respectively.
+CH3 -CH2 - C - CH2- CH3
+CH2
+(I)
+H3C -CH2 - CH2 - C - CH2- CH2 - CH3
+C
+CH
+H
+(II)
+2.   Numbering of this chain must be done such 
+that carbon-carbon multiple bond has the 
+lowest possible locant number.
+Proper numbering
+improper numbering
+CH3 - CH2 - CH = CH2
+1
+2
+3
+4
+CH3 - CH2 - CH = CH2
+1
+2
+3
+4
+HC ≡ C - CH2 - CH3
+1
+2
+3
+4
+HC ≡ C - CH2 - CH3
+1
+2
+3
+4
+215
+3. The ending 'ane' of alkane is replaced by 
+'ene' for an alkene and 'yne' for an alkyne.
+4. Position of carbon atom from which 
+multiple bond starts is indicated by smaller 
+locant number of two multiply bonded carbons 
+before the ending 'ene' or 'yne' For example :
+CH3 - CH2 - CH = CH2 
+but-1-ene	
+                  
+HC ≡ C - CH2 - CH3
+but-1-yne
+5. If the multiple bond is equidistant from both 
+the ends of a selected chain then carbon atoms 
+are numbered from that end which is nearer to 
+first branching. For example :
+CH3 -CH - CH = C - CH2 - CH3
+CH3 
+CH3 
+1
+2
+3
+4
+5
+6
+	
+1
+2
+3
+4
+5
+6
+CH3 -CH - C ≡ C - CH2 - CH3
+CH3 
+6. If the parent chain contains two double 
+bonds or two triple bonds, then it is named as 
+diene or diyne. In all these cases 'a' of 'ane' 
+(alkane) is retained .
+CH3 - CH = CH - CH = CH2
+penta-1, 3-diene
+CH3 - C ≡ C − CH2 − C ≡ C − H
+hexa - 1, 4 -diyne
+7. If the parent chain contains both double and 
+triple bond, then carbon atoms are numbered 
+from that end where multiple bond is nearer. 
+Such systems are named by putting 'en' ending 
+first followed by 'yne'. The number indicating 
+the location of multiple bond is placed before 
+the name.
+CH2= CH - C ≡ C − CH3
+pent-1-en-3-yne
+H - C ≡ C − CH2 − CH = CH2 − CH3
+hex-4-en-1-yne
+8. If there is a tie between a double bond and 
+a triple bond, the double bond gets the lower 
+number.
+H - C ≡ C − CH2 − CH = CH2 
+pent-1-en-4-yne
+14.4.6 IUPAC Names  of simple monocyclic 
+hydrocarbons : A saturated monocyclic 
+hydrocarbon is named by attaching prefix 
+'cyclo' to the name of the corresponding open 
+chain alkane. 
+For example :
+CH2
+H2C
+CH2
+	
+	
+	
+Cyclopropane	
+	
+	
+Cyclopentane
+An unsaturated monocyclic hydrocarbon 
+is named by substituting 'ene', 'yne' etc. for 'ane' 
+in the name of corresponding cycloalkane. 
+For example:
+  
+ 	
+	
+	
+  
+Cyclohexene	
+	
+	
+Cyclopentene
+If side chains are present then the above 
+discussed rules are applied. Numbering of the 
+ring carbon is started from a side chain. For 
+example :
+C2H5
+CH3
+1
+2
+3
+4
+5
+6
+	 	
+	
+1
+2
+3
+4
+5
+6
+ 1 - ethyl - 3 - 	
+	
+	
+3 - ethyl - 1, 1 -
+methylcyclohexane	
+          dimethylcyclohexane
+If alkyl groups contain greater number of 
+carbon atoms than the ring, the compound is 
+named as derivative of alkane. Ring is treated 
+as substituent. For example :
+CH3 -CH2 - CH - CH2 - CH2 - CH3
+       3 - cyclopropylhexane
+	
+    isopropylcyclohexane                     
+14.4.7 IUPAC nomenclature of compounds 
+containing one or more functional groups :
+The 
+IUPAC 
+names 
+of 
+compounds 
+containing one or more functional groups 
+include the names of the functional groups 
+as prefix and/ or suffix. Table 14.8 shows 
+how names of functional groups are modified 
+when included as prefix or suffix in the IUPAC 
+name. Some functional groups appear only 
+as prefixes and are shown in Table 14.9. 
+(a and b)
+216
+Table 14.9 : Modified names of functional groups as in IUPAC nomenclature
+a. Functional groups appearing prefix and suffix
+Functional group
+Prefix
+Suffix
+ − COOH
+carboxy
+− oic acid
+− COOR
+alkoxycarbonyl
+− oate
+− COCl
+chlorocarbonyl
+− oyl chloride
+− CONH2
+carbamoyl
+− amide
+− CN
+cyano
+− nitrile
+− CHO
+formyl
+− al
+− CO −
+oxo
+− one
+− OH 
+hydroxy
+− ol
+− NH2
+amino
+− amine
+b. Functional groups appearing only as prefix
+Functional group 
+Prefix
+− NO2
+nitro
+− X (− F, − Cl, − Br, − I.)
+halo (fluro, chloro, bromo, iodo)
+− OR (− OCH3, − OC2H5, etc)
+alkoxy (methoxy, ethoxy, etc.)
+Naming monofunctional compounds : When 
+a molecule contains only one functional 
+group, the longest carbon chain containing 
+that functional group is identified as the parent 
+chain and numbered so as to give the smallest 
+locant number to the carbon bearing the 
+functional group. The parent name is modified 
+by applying appropriate suffix. Location of the 
+functional group is indicated where necessary 
+and when it is NOT '1'. 
+For example :
+CH3  − CH2 − CH2 − COOH	
+butanoic acid   (No need to mention -1-)
+CH3  − CH2 − C≡ N 	
+propanenitrile (No need to mention -1-)
+CH3  − C − CH2 − CH2 − CH3
+O
+	
+pentan-2-one   (Necessary to mention -2-)
+CH3  − C − CH2 − CH3
+O
+
+butanone         (No need to mention -2-)
+When the functional group cannot be 
+used as suffix, and can be only the prefix, the 
+molecule is named as parent alkane carrying 
+the functional group as substituent at specified 
+carbon. For example :
+H3C  − CH2 − CH2 − NO2 
+1 - Nitropropane
+CH3 − CH − CH3
+OCH3
+       
+  2- Methoxypropane
+Polyfunctional compounds : The organic 
+compounds possessing two or more functional 
+groups (same or different) in their molecules 
+are called polyfunctional compounds. When 
+there are two or more different functional 
+groups, one of them is selected as the principal 
+functional group and the others are considered 
+as substituents. The principal functional group 
+is used as suffix of the IUPAC name while the 
+other substituents are written with appropriate 
+perfixes. The principal functional group is 
+decided on the basis of the following order of 
+priority.
+− COOH > − SO3H > − COOR > − COCl > 
+− CONH2 > − CN > − CHO > C = O > − OH 
+> − NH2 > C =  C > − C ≡ C −
+IUPAC Rules for naming mono or 
+polyfunctional compounds
+i. The longest carbon chain containing or 
+bearing the single or the principal functional 
+group is identified as parent chain. Ether is 
+named as alkoxyalkane. While naming it, the 
+larger alkyl group is chosen as parent chain. 
+217
+Numbering of parent chain is done so as to 
+give the lowest possible locant numbers to the 
+carbon atom of this functional group.
+ii. The name of the parent hydrocarbon 
+is modified adequately with appropriate 
+suffix in accordance with the single/principal 
+functional group.
+iii. Names of the other functional groups 
+(if any) are attached to this modified name 
+as prefixes. The locant numbers of all the 
+functional groups are indicated before the 
+corresponding suffix/prefix. The carbon atom 
+in - COOR, - COCl, -CONH2, - CN and - CHO 
+is C - 1 by rule and therefore, is not mentioned 
+in the IUPAC name.
+Problem 14.4 : Write IUPAC names for the 
+following structures :
+i. CH3 - CH - C - CH2 - CH3
+OH O
+ii. CH3 - CH - CH2 - COOH
+NH2
+iii. CH3 - CH - CH2 - OH
+OH
+iv. CH2 = CH - CH = CH2
+Solution :
+i. CH3 − CH − C − CH2 − CH3
+OH
+O
+Here the principal functional group, ketone 
+is located at the C-3 on the five carbon 
+chain. The -OH group, the hydroxyl 
+substituent is at C-2. Therefore the IUPAC 
+name is 2-hydroxypentan-3-one.
+ii. CH3 − CH − CH2 − COOH
+NH2
+Here the principal functional group is 
+carboxylic acid. The amino substituent 
+is located at C-3 on four  carbon chain. 
+Therefore the IUPAC name 3-aminobutanoic 
+acid.
+Cl
+Chlorobenzene
+N O
+O
+Nitrobenzene
+Br
+Bromobenzene
+I
+Iodobenzene
+CH3- C - CH3
+CH3
+tert- Butylbenzene
+Some monosubstituted benzenes have 
+trivial names which may show no resemblance 
+with the name of the attached substituent 
+group. For example, methylbenzene is 
+known as toluene, aminobenzene as aniline, 
+hydroxybenzene as phenol and so on. The 
+common names written in the bracket are also 
+used universally and accepted by IUPAC.
+CH3
+Methylbenzene
+(Toluene)
+NH2
+Aminobenzene
+(Aniline)
+OH
+Hydroxybenzene
+(Phenol)
+O - CH3
+Methoxybenzene
+(Anisole)
+C - H
+O
+Benzaldehyde
+C - OH
+O
+Benzoic acid
+If the alkyl substituent is larger than 
+benzene ring (7 or more carbon atoms) the 
+compound is named as phenyl-substituted 
+alkane.
+For example  :
+CH3 - CH - CH2 - CH2- CH2- CH2 - CH3
+2 - Phenylheptane
+1
+2
+Substituent
+CH2  - CH2 - CH2- CH2- CH2 - CH3
+Hexyl benzene
+Substituent
+14.4.8 IUPAC nomenclature of substitued 
+benzene
+I. Monosubstituted benzene :  The IUPAC 
+name of a monosubstituted benzene is obtained 
+by placing the name of substituent as prefix 
+to the parent skeleton which is benzene. For 
+example :
+⊕
+218
+Benzene ring can as well be considered 
+as substituent when it is attached to an alkane 
+with a functional group.
+CH2  - CH2 - CH2- Cl
+1 - Chloro - 3 - phenylpropane
+3
+2
+1
+Functional group
+Substituent
+CH2  - OH
+Phenylmethanol (Benzyl alcohol)
+Functional group
+Substituent
+C
+1 - Phenylethanone (Acetophenone)
+Functional group
+Substituent
+CH3
+O
+II. Disubstituted benzene derivatives :
+Common names of the three possible 
+isomers of disubstitued benzene derivatives 
+are given using one of the prefixes ortho   (o-), 
+meta (m-) or para (p-). 
+IUPAC system, however, uses numbering 
+instead of prefixes, o-, m-, or p-.
+Cl
+Cl
+1
+2
+3
+4
+5
+6
+1,2 - dichlorobenzene
+(o - Dichlorobenzene)
+Cl
+Cl
+1,3 - dichlorobenzene
+(m - Dichlorobenzene)
+Cl
+Cl
+1,4 - dichlorobenzene
+(p - Dichlorobenzene)
+If two substituents are different, then they enter 
+in alphabetical order.
+1
+2
+3
+4
+5
+6
+I
+Br
+1-bromo-4-iodobenzene
+(p - Bromoiodobenzene)
+1
+2
+3
+4
+5
+6
+NO2
+Cl
+1-chloro-3-nitrobenzene
+(m - Chloronitrobenzene)
+If one of the two groups gives special name to 
+the molecule then the compound is named as 
+derivative of that special compound.
+NH2Cl
+1
+2
+3
+4
+5
+6
+2 - chloroaniline
+(o - Chloroaniline)
+CH3
+NO2
+3 - nitrotoluene
+(m - Nitrotoluene)
+OH
+Br
+4 - Bromophenol
+(p - bromophenol)
+III. Trisubstituted benzene derivatives :If 
+more than two substituents are attached to 
+benzene ring, numbers are used to indicate their 
+relative positions following the alphabetical 
+order and lowest locant rule. In some cases, 
+common name of benzene derivatives is taken 
+as parent compound. For example :
+Br
+Br
+Br
+1
+2
+3
+4
+5
+6
+1, 2, 4 - Tribromobenzene
+NO2
+Cl 1 2
+3
+4
+5
+6
+1 - chloro - 2, 4 
+-dinitrobenzene
+NO2
+CH3
+Br
+1
+2
+3
+4
+5
+6
+4 - bromo - 1, 2 
+-dimethylbenzene
+CH3
+Cl
+CH3
+NO2
+ 2 - chloro - 1 - methyl 
+- 4 - nitrobenzene
+Cl
+NO2
+OH
+ 2 - chloro - 4 - 
+nitrophenol
+Br
+Br
+Br
+NH2
+ 2, 4, 6 - 
+tribromoaniline
+Cl
+CH3
+OCH3
+ 2 - chloro - 4 - 
+methylanisole
+219
+14.5 Isomerism
+The phenomenon of existence of two 
+or more compounds possessing the same 
+molecular formula is known as isomerism. 
+Such compounds are known as isomers of each 
+other. Two types of isomerism are observed in 
+the organic compounds, namely, structural 
+isomerism and stereoisomerism. When two 
+or more compounds have the same molecular 
+formula but different structural formulae, it 
+is called structural isomerism. On the other 
+hand, when different compounds have the 
+same structural formula but different relative 
+arrangement of groups / atoms in space, that 
+	
+	
+CH3
+C
+CH3
+O
+C
+O
+H
+C2H5
+	
+	
+i.	
+	
+ii.
+a. Observe the structural formulae (i) and 
+(ii)
+b. Find out their molecular formulae 
+c. What is the difference between them ?
+d. What is the relation between the 
+two compounds represented by these 
+structural formulae ?
+Activity :
+is,  different spatial arrangement of groups 
+/ atoms it is called stereoisomerism. In this 
+chapter we are going to look at some details of 
+only structural isomerism.
+14.5.1 Structural isomerism 
+We have seen in the begining of this 
+chapter that the structural formula describes 
+the sequence in which the constituent atoms 
+of a molecule are bonded and the nature of 
+the bonds between them. When two or more 
+compounds have same molecular formula 
+and different structural formula they are 
+said to be structural isomers of each other. 
+The phenomenon is known as structural 
+isomerism. Structural isomerism is further 
+classified as chain isomerism, position 
+isomerism, functional group isomerism, 
+metamerism and tautomerism. Figure 14.9 
+shows various types of isomerism. 
+a. Chain isomerism : When two or more 
+compounds have the same molecular formula 
+but different parent chain or different carbon 
+skeleton, it is refered to as chain isomerism 
+and such isomers are known as chain isomers. 
+For example : Butane (CH3 - CH2 - CH2 - CH3) 
+and 2-methylpropane [CH3 - CH(CH)3 -CH3] 
+are chain isomers of each other as they have 
+different carbon skeletons and the same 
+molecular formula C4H10.
+Isomerism 
+(Two or more compounds with same molecular formula)
+Structural isomerism 
+(Two or more compounds with 
+same molecular formula but 
+different structural formula)
+Chain isomerism
+(different carbon 
+skeletons)
+Position isomerism
+(different positions of 
+the same functional 
+group on the same 
+skeleton)
+Functional group 
+isomerism
+(Functional groups 
+are different)
+Metamerism
+(Unequal 
+distribution of 
+carbon atoms 
+on either side of 
+functional group)
+Tautomerism
+(rapidly 
+interconverting 
+structural 
+isomers)
+Stereoisomerism
+(Two or more compounds with same 
+structural formula but different 
+spatial arrangement of groups)
+Geometrical isomerism
+Optical isomerism
+Fig. 14.9 : Types of isomerism
+220
+b. Position isomerism : The phenomenon in 
+which different compounds having the same 
+functional groups at different positions on the 
+parent chain is known as position isomerism.
+For example : But-2-ene [CH3 - CH = CH - CH3] 
+and but-1-ene [CH2 = CH - CH2 - CH3] are 
+position isomers of each other as they have 
+the same molecular formula C4H8 and the 
+same carbon skeleton but the double bonds are 
+located at different positions.
+c. Functional group isomerism : The 
+phenomenon in which different compounds 
+with same molecular formula have different 
+functional groups is known as functional group 
+isomerism. For example : Dimethylether (CH3 
+− O − CH3) and ethyl alcohol (CH3 − CH2 − 
+OH) have same molecular formula C2H6O but 
+the former has ether (− O −) functional group 
+and the latter has alcohol (− OH) functional 
+group.
+d. Metamerism : Different compounds 
+with the same molecular formula and the 
+same functional group, but having unequal 
+distribution of carbon atoms on either side of the 
+functional group is refered to as metamerism 
+and the isomers are known as metamers. For 
+example : Ethoxyethane (CH3 − CH2 − O − 
+CH2 − CH3) and methoxypropane (CH3 − O − 
+CH2 − CH2 − CH3) have the same molecular 
+formula C4H10O and the same functional group 
+ether  but have different distribution of carbon 
+atoms attached to etheral oxygen. These are 
+metamers of each other.
+e. Tautomerism : Same compounds exists 
+as mixture of two or more stucturally distinct 
+molecules which are in rapid equilibrium with 
+each other. This phenomenon is referred to as 
+tautomerism. Such interconverting isomers are 
+called tautomers. In nearly all the cases, it is the 
+proton which shifts from one atom to another 
+atom in the molecule to form its tautomer.
+− C − C −
+H
+O
+− C = C −
+O − H
+α
+Keto form	
+	
+Enol form
+For example : Keto-enol tautomerism is very 
+common form of tautomerism. It is found in 
+carbonyl compounds. Here a hydrogen atom 
+shifts reversibly from the α - carbon of the keto 
+form to oxygen atom of the enol.
+14.6 Theoretical basis of organic reactions :
+All the organic molecules primarily 
+contain various types of covalent bonds 
+between the constituents atoms. During an 
+organic reaction, molecules of the reactant 
+undergo change in their structure. A covalent 
+bond at a carbon atom in the reactant is broken 
+and a new covalent bond is formed at it, giving 
+rise to  the product. Often this change is brought 
+about by means of another reactant. The 
+reactant that provides carbon to the new bond 
+is called substrate. The other reactant which 
+brings about this change is called reagent. In 
+case both the reactants provide carbon atoms 
+to a new bond, the reactant considered is called 
+substrate. Apart from the product of interest 
+some other products are formed in a reaction. 
+These are called byproducts. For example : 
+  CH4    + Cl2    hν
+ CH3Cl   +  HCl
+substrate   reagent             product        byproduct
+Covalent bonds are made of valence electrons 
+of the constituent atoms. Redistribution of 
+valence electrons of constituent atoms results in 
+the bond breaking or bond forming processes 
+along the organic reaction; and which are 
+usually not instantaneous. As a result, the 
+overall organic reaction is punctuated by 
+formation of one or more unstable species 
+called intermediates. Overall the organic 
+reaction is often a multi-step process.
+A sequential account of (i) the electron 
+movement taking place during each step (ii) 
+the bond cleavage and/or bond formation (iii) 
+accompanying changes in energy and shapes 
+of various species and (iv) rate of the overall 
+reaction. The individual steps, constitue 
+the reaction mechanism. The knowledge 
+of mechanism of a reaction is useful for 
+understanding the reactivity of the concerned 
+organic compounds and, in turn, helpful for 
+planning synthetic strategies.
+221
+In the following subsection we are going 
+to look at the types of bond cleavage, types 
+of reagents, the factors that influence stability 
+of various species involved and representation 
+of electron movement occuring during organic 
+reactions.
+14.6.1 Types of cleavage of covalent bond
+A covalent bond can undergo cleavage or 
+fission in two ways (i) Homolytic cleavage, 
+(ii) Heterolytic cleavage
+A covalent bond comprises two electrons 
+(bond pair of electrons) shared between the 
+two bonded atoms. In homolytic cleavage of a 
+covalent bond one of the two electrons goes to 
+one of the bonded atoms and the other is bound 
+to the other. Movement of a single electron is 
+represented by a half headed curved arrow or 
+fish hook (
+). The tail of the curved arrow 
+indicates the place from where the electron is 
+removed while the head of the curved arrow 
+indicates the place where the electron reaches 
+as the result of the movement. Such homolytic 
+cleavage of a covalent bond gives rise to 
+two neutral species carrying one unpaired 
+electron each. A species with single unpaired 
+electron is called ‘free radical’ or sometimes 
+just ‘radical’. A free radical is unstable and 
+thereby a reactive species, having a tendency 
+to seek an electron for pairing. A homolytic 
+cleavage, thus, is represented  as :
+A 
+ B	
+ 	 A + B
+•
+•
+	
+	
+	
+	
+For example,
+H3C 
+ Cl 	
+ hν	
+H3C  + Cl 
+•
+•
+methyl 
+free 
+radical
+Chlorine  
+radical or 
+chlorine atom
+Homolytic fission is favoured in the 
+presence of ultravoilet radiation or suitable 
+peroxides or at high temperatures. The 
+organic reactions which proceed by homolytic 
+fission are known as free radical or non-
+polar reactions. Free radicals have only 
+transitory existence. These are formed as 
+reaction intermediate which subsequently 
+react with another radical/molecule to restore 
+stable bonding pair. A carbon free radical is 
+sp2  hybridized and reveals planar trigonal 
+geometry.
+Shape of methyl free radical
+pz orbital
+Alkyl free radicals are classified  as 
+primary (10), secondary (20) and tertiary (30). 
+The observed stability  order of alkyl free 
+radicals is :
+CH3
+CH3
+CH3
+C •
+CH3  
+  CH  
+  CH3
+•
+tert-butyl free radical
+(3
+ο)
+isopropyl free radical
+(2
+ο)
+CH3  
+  CH3
+•
+CH3
+•
+ethyl free radical
+(1
+ο)
+methyl free radical
+In heterolytic cleavage of covalent bond 
+both shared electrons go to one of the two 
+bonded atoms. This turns out to be the more 
+electronegative atom of the two. Movement 
+of an electron pair is represented by a 
+curved arrow (
+). Heterolytic cleavage of 
+a covalent bond gives rise to two charged 
+species, one with negative charge and the other 
+with positive charge. The negatively charged 
+(anionic) species has the more electronegative 
+atom which has taken away the shared pair 
+of electron with it. A heterolytic cleavage is 
+represented as :
+A 
+ B	
+ 	 A⊕       + 	 B  
+	
+	
+cation	
+anion
+(B is more electronegative than A)
+H
+H
+H
+C
+222
+Can you tell?
+H3C 
+ Br 
+ 	H3C⊕   + 	 Br
+	
+methyl carbocation	    bromide
+(Br is more electronegative than C)
+Heterolysis 
+is 
+favoured 
+in 
+polar 
+solvents. In methyl bromide, bromine is 
+more electronegative. Thus heterolysis of 
+methyl bromide results in formation of methyl 
+carbocation and bromide anion. 
+A carbon atom having sextet of electrons 
+and a positive charge is known as carbocation 
+(earlier called carbonium ion). Carbocations 
+are highly unstable and reactive species formed 
+as intermediates in many organic reactions.
+Shape of methyl carbocation
+pz orbital
+The central carbon atom of a carbocation 
+is sp2 hybrid state and has trigonal planar 
+geometry. The pz atomic orbital is vacant and 
+is perpendicular to the plane containing the 
+three sigma bonds at the carbon.
+Carbocations are classified as primary 
+(10), secondary (20) and tertiary (30). The 
+observed stability of alkyl carbocations 
+follows the order :
+(CH3)3C > CH3 - CH - CH3 > CH3 - CH2 > CH3
+⊕
+⊕
+⊕
+⊕
+t-butyl
+carbocation
+iso-propyl
+carbocation
+ethyl
+carbocation
+methyl
+carbocation
+Heterolytic bond fission generates a 
+species called carbanion in which carbon gets 
+the shared pair of electrons. This happens when 
+a carbon atom is bonded to the electropositive 
+atom.
+H3C 
+ Z 
+ 	
+H3C  	 +  Z⊕ 
+Heterolysis
+(Z is more electropositive than C)
+The central carbon atom of a carbanion 
+has completed octet of electrons and a 
+negative charge. The carbanion is unstable 
+and reactive which is formed as the reaction 
+intermediate. Heterolytic fission is favoured 
+in the polar solvents. The organic reactions 
+proceed via heterolytic fission known as 
+heteropolar / polar / ionic reactions. Most 
+organic reactions taking place in solutions 
+follow ionic mechanism.
+Some bond fissions are described in the following table. For each of them, show 
+the movement of electron/s using curved arrow notation. Classify them as homolysis or 
+heterolysis and idetify the intermediate species produced as carbacation, carbonion or free 
+radical.
+Bond fission
+Types of cleavage
+Intermediate
+CH3 - Cu 
+ CH3
+  + Cu⊕
+heterolysis
+carbanion
+C6H5 - O - O - C6H5 
+ 2C6H5  
+CH3 - C - CH2 - H + OH 
+CH3 - C - CH2+ H2O
+O
+O
+CH3 - C - Br
+CH3
+CH3
+C⊕
+CH3
+CH3
+CH3
++ Br
+   
+CH3 - CN 
+ CH3 + CN
+⊕
+H
+H
+H
++
+C
+O
+223
+Can you recall?
+14.6.2 Types of reagent
+A polyatomic electrophile has an electron 
+deficient atom in it called the electrophilic 
+centre, while a polyatomic nucleophile has an 
+electron rich atom in it is called the nucleophilic 
+centre. For example : the electrophilic centre 
+of the electrophile AlCl3 is Al which has only 
+6 valence electrons. The nucleophilic centre of 
+the nucleophile H2O is ‘O’ which has two lone 
+pairs of electrons.
+A nucleophile attacks the electrophilic 
+centre in the substrate and brings about a 
+nucleophilic reaction. On the other  hand an 
+electrophile attacks a nucleophilic centre in 
+the substrate and brings about an electrophilic 
+reaction. This principle is illustrated in the 
+following simple reaction though, it is not an 
+organic reaction.
+N
+:
+H3 + BF3 
+ H3N -BF3
+⊕
+Here the nucleophilic centre N
+:
+ in the 
+nucleophile NH3 attacks the electrophilic 
+centre ‘B’ in the electrophile BF3 and gives the 
+product.
+14.6.3 Electronic effects in organic reaction
+We noted earlier that in polar organic 
+reactions the nucleophilic centre in a 
+nucleophile attacks the electrophilic centre in 
+the substrate whereas the electrophilic centre 
+in an electrophile attacks the nucleophilic 
+centre in the substrate. How electrophilic 
+or nucleophilic centre generated in a 
+neutral substrate ? This happens because 
+of displacement of valence electrons within 
+some organic molecules, which results in their 
+polarization. The displacement of valence 
+electrons resulting in polarization of an 
+organic molecule is called electronic effect. 
+The electronic effect that occurs in the ground 
+state is permanent effect. This takes place 
+due to influence of certain atom or substituent 
+or certain structural feature present in the 
+molecule. Inductive effect and resonance 
+effect are two examples of permanent 
+electronic effect.
+1. What is meant by ‘reagent’ ?
+2. 
+Identify 
+the 
+‘reagent’, 
+‘substrate’, 
+‘product’ and ‘byproduct’ in the following 
+reaction.
+CH3 COCl + NH3 
+ CH3 CONH2 + HCl
+Problem 14.5 : Identify the nucleophile 
+and electrophile from NH3 and CH3
+⊕. Also 
+indicate the nucleophilic and electrophilic 
+centres in them. Justify.
+Solution :	The structural formulae of two 
+reagents showing all the valence electrons 
+are :
+H - N - H
+H
+       and      H - C - H
+H
+⊕
+Thus NH3 contains N with a lone pair of 
+electrons which can be given away to another 
+species. Therefore NH3 is a nucleophile and 
+‘N’ in it is the nucleophilic centre. The CH3
+⊕ 
+is a positively charged electron deficient 
+species having a vacant orbital on the 
+carbon. It is an electrophile. The ‘C’ in it is 
+the electrophilic centre.
+The polar organic reactions are brought 
+about by two types of reagents. Depending 
+upon their ability to accept or donate electrons 
+from or to the substrate, reagents are classified 
+as (i) Electrophiles (E
+⊕) (ii) Nucleophiles (Nu:)
+Electrophiles 
+(meaning 
+electron 
+loving 
+spicies) accept electrons from the substrate. 
+Thus electrophiles are electron seeking 
+species. This is because they themselves are 
+electron deficient. For example ; a positively 
+charged ion such as Br,
+⊕CH3 or a neutral 
+species having a vacant orbitals such as AlCl3.
+Nucleophiles 
+(nucleus 
+seeking 
+species) 
+give away electrons to the substrate. This is 
+because nucleophiles are electron rich species. 
+For example : negatively charged species such 
+as OH  or neutral species such as H2O, having 
+lone pair of electrons.
+224
+Can you recall?
+•	
+How is covalent bond formed between 
+two atoms ?
+•	
+Consider two covalently bonded atoms 
+Q and R where R is more electronegative 
+than Q. Will these atoms share the 
+electron pair equally between them ?
+•	
+Represent the above polar covalent 
+bond between Q and R using fractional 
+charges δ
+⊕ and    δ -. 
+ On the other hand the electron 
+displacement effect occuring in a substrate 
+due to approach of the attacking reagent is a 
+temporary effect. This type of electronic effect 
+is called electromeric effect or polarisability 
+effect. We consider various types of electronic 
+effects in the following sections.
+14.6.4 Inductive effect
+more towards itself. As a result a part of partial 
+positive charge produced on C1 is transfered 
+to C2. This results in developing a still smaller 
+positive charge on C2. In other words, the 
+electron density gets displaced towards the 
+chlorine atom not only along the C1 - Cl bond, 
+but also along the C2 - C1 bond due to the 
+inductive effect of Cl. This is represented as : 
+CH3 
+ CH2 
+ Cl
+1
+2
+The arrow head put in the centre of the 
+bond is used to represent the inductive effect. 
+The direction of the arrow head indicates 
+the direction of the permanent electron 
+displacement taken place along the sigma 
+bond in the ground state.
+Inductive effect of an influencing group 
+is transfered to subsequent carbon atoms 
+along the chain of C - C bonds, as it decreases 
+rapidly as the number of intervening C - C 
+bonds increases and becomes negligibly small 
+beyond three bonds. This can be represented as 
+CH3 - CH2
+ CH2
+ CH2
+ Cl
+δ3⊕
+δ2⊕
+δ1⊕
+δ
+Where δ3⊕ < δ2⊕ < δ1⊕
+The direction of the inductive effect of a 
+bonded group depends upon whether electron 
+density of the bond is withdrawn from the 
+bonded carbon or donated by the bonded 
+carbon. According to this ability the groups 
+substituents are classified as either electron 
+withdrawing (accepting) or electron donating 
+(releasing) groups with respect to hydrogen. 
+In 
+the 
+above 
+example, 
+electron 
+displacement takes place towards chlorine. 
+This means that Cl withdraws electron 
+density from the carbon chain and is electron 
+withdrawing. Chlorine is said to exert an 
+electron withdrawing inductive effect or 
+negative inductive effect (-I effect) on the 
+carbon chain. Some other groups having - I 
+effect are - NO2 (nitro), - CN (cyano), - COOH 
+(carboxy), - COOR (ester), - OAr (aryloxy). 
+We learnt earlier that covalent bond 
+between 
+two 
+atoms 
+differing 
+in 
+their 
+electronegativity is polar covalent bond. For 
+example : the covalent bond between carbon 
+and more electronegative chlorine is a polar 
+covalent bond. When an organic molecule 
+has a polar covalent bond in its structure, 
+polarity is induced in adjacent carbon-
+carbon single bonds too. This is called 
+inductive effect. Consider, for example, the 
+chloroethane molecule :
+CH3 - CH2 - Cl
+1
+2
+In this molecule a positive polarity is 
+developed on C2 by inductive effect of the Cl 
+atom bonded to C1. Normally the C2 -  Cl bond 
+would not be expected to be polar as it is a 
+covalent bond between two atoms  of the same 
+element carbon. Yet this bond aquires some 
+polarity, because of the presence of chlorine 
+atom in the molecule. Chlorine being more 
+electronegative than carbon, the C1 -  Cl bond 
+is a polar covalent bond with partial negative 
+charge on Cl and equal amount of partial 
+positive charge on Cl. As the C1 is further 
+bonded to C2, the positive polarity of C1 pulls 
+the shared pair of electrons of the C2 - Cl bond 
+225
+Try this
+The 
+cyclic 
+structure 
+of 
+benzene 
+incorporating three alternating C-C single 
+bonds and C=C double bonds implies two 
+distinct bond length of 154 pm and 133 pm 
+respectively (refer to Table 5.2 and see Fig. 
+14.10). Experimental measurements show 
+that benezene has a regular hexagonal shape 
+and all the six carbon bonds, have the same 
+bond length of 138 pm which is intermediate 
+between C-C single bond and C=C double 
+bond. This means that all the six carbon carbon 
+bonds in benzene are equivalent, unlike what 
+appears from the single Lewis structure. 
+133 pm
+133 pm
+133 pm
+154 pm
+154 pm
+154 pm
+138 pm
+138 pm
+138 pm
+138 pm
+138 pm
+138 pm
+Expectation
+(two different 
+bondlengths)
+Observation
+(all bond lengths equal)
+Fig 14.10 Structure of Benzene
+Benzene
+Problem 14.6 : Consider the following 
+molecules and answer the questions, 
+CH3- CH2- CH2- Cl, CH3- CH2- CH2- Br, 
+CH3- CH2- CH2- I.
+(i) What type of inductive effect is expected 
+to operate in these molecules ?
+(ii) Identify the molecules from these 
+three, having the strongest and the weakest 
+inductive effect.
+Solution :	 (i)	 The groups responsible 
+for inductive effect in these molecules 
+are -Cl, -Br and -I, respectively. All 
+these are halogen atoms which are more 
+electronegative than carbon and therefore 
+all of them exert - I effect, that is, electron 
+withdrawing inductive effect.
+(ii) The - I effect of halogens is due to their 
+electronegativity. A decreasing order of 
+electronegativity in these halogens follows 
+Cl > Br > I. Therefore the strongest -I 
+effect is expected in CH3 - CH2 - CH2 - Cl, 
+while the weakest -I effect is expected for 
+CH3- CH2- CH2- I.
+Problem 14.7 :Which of the CH3 - CHCl2 
+and CH3CH2Cl is expected to have stronger 
+-I effect ?
+Solution :	 The group exerting -I effect in 
+CH3CH2Cl is one - Cl while in CH3 - CHCl2 
+there are two - Cl atoms. Therefore CH3 - 
+CHCl2 is expected to have strong -I effect.
+1. Draw a bond line structure of benzene 
+(C6H6)
+2. How many C - C and C = C bonds are 
+there in this structure ?
+3. Write down the expected values of the 
+bond lengths of the carbon carbon bonds 
+in benzene (refer to Table 5.7).
+On the other hand alkyl groups (-CH3, 
+-CH2-CH3) 
+are 
+considered 
+as 
+groups 
+exerting electron releasing inductive effect 
+(+I effect) on the carbon chain.
+14.6.5 Resonance structures
+When Lewis structure of a compound has 
+two or more multiple bonds alternating with 
+single bonds, it is called a conjugated system 
+of π bonds. In such a system or in species 
+having an atom carrying p orbital attached to a 
+multiple bond, resonance theory is applicable. 
+We understand the following points from 
+the resonance theory :
+(i)	
+The π electrons in conjugated system of π 
+bonds are not localized to a particular π 
+bond.
+Can you recall?
+•	
+Write down two Lewis structures for 
+ozone. (Refer to chapter 5)
+•	
+How are these two Lewis structures 
+related to each other ?
+•	
+What are these two Lewis strucutres 
+called ?
+226
+Problem 14.8 : Identify the species that 
+contains a conjugated system of π bonds. 
+Explain your answer.
+CH2 = CH - CH2 - CH = CH2	
+	
+	
+I	
+CH2 = CH - CH = CH - CH3
+	
+	
+II
+Solution :	I Does not contain conjugated 
+system of π bonds, as the two C = C double 
+bonds are separated by two  C - C single 
+bonds.
+II Contains a conjugated system of π 
+bonds, as the two C = C double bonds are 
+saparated by only one C - C single bond.
+(ii)	 For a compound having a conjugated 
+system of π bonds (or similar other 
+systems) two or more Lewis structures 
+are written by showing movement of 
+π electrons (that is delocalization of π 
+electrons) using curved arrows. 
+The Lewis structures so generated 
+are linked by double headed arrow 
+and are called resonance strucutres or 
+contributing structures or cononical 
+structures of the species. Thus, two 
+resonance structures can be drawn for 
+benzene by delocalizing or shifting the π 
+electrons :
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+I	
+	
+II
+(iii)	 The positions of the carbon atoms 
+in the conjugated system of π bonds 
+remain unchanged, but the positions 
+of π electrons are different in different 
+resonance structures. For example, in the 
+resonance structure I of benzene there is 
+a single bond between C1 and C2 while 
+in the resonance structure II there is a 
+double bond between C1 and C2.
+(iv)	 Any resonance structure is hypothetical 
+and does not by itself represent any 
+real molecule and can explain all the 
+properties of the compound. The real 
+molecule has, however, character of all 
+the resonance structures those can be 
+written. The real or actual molecule is 
+said to be the resonance hybrid of all 
+the resonance structures. For example 
+an actual benezene molecule is the 
+resonance hybrid of structures I and 
+II and exhibit character of both these 
+structures. Its approximate representation 
+can be shown as a dotted circle inscribed 
+in a regular hexagon. Thus each carbon 
+carbon bond in benzene has single as 
+well as double bond character and the 
+ring has a regular hexagonal shape.
+Resonance hybrid of 
+structures I and II
+(v)	 Hypothetical energy of an individual 
+resonance structure can be calculated 
+using bond energy values. The energy 
+of actual molecule is, however, lower 
+than that of any one of the resonance 
+structures. In other words, resonance 
+hybrid is more stable than any of the 
+resonance structures. The difference in the 
+actual energy and the lowest calculated 
+energy of a resonance structure is called 
+resonance stabilization energy or just 
+resonance energy. Thus, resonance leads 
+to stabilization of the actual molecule.
+Rules to be followed for writing resonance 
+structure :
+(i)	
+Resonance structures can be written only 
+when all the atoms involved in the π 
+conjugated system lie in the same place.
+(ii)	 All the resonance structures must have 
+the same number of unpaired electrons.
+(iii)	 Resonance 
+structures 
+contribute 
+to 
+the resonance hybrid in accordance to 
+their energy or stability. More stable 
+(having low energy) resonance structures 
+contribute to largely and thus are 
+important.
+227
+	Thus, between the compared resonance structures, that resonance structure is more stable 
+and therefore important which has (a) more number of covalent bonds, (b) more number of atoms 
+with complete octet or duplet, (c) less separation, if any, of opposite charges, (d) negative charge, 
+if any, on more electronegative atom and positive charge, if any, on more electropositive atom 
+and (e) more dispersal of charge.
+Problem 14.9 : Write resonance structures 
+of H - COO - and comment on their relative 
+stability.
+Solution :	First the detailed bond structure 
+of H - COO - showing all the valence electron 
+is drawn and then other resonance strucutres 
+are generated using curved arrow to show 
+movement of π-electrons. Two resonance 
+structures are written for H - COO -.
+H - C - O   
+  H - C = O
+O
+O
+I
+II
+	
+Both the resonance structures I and II are 
+equivalent to each other, and therefore, are 
+equally stable.
+Problem 14.10 : Identify the species which 
+has resonance stabilization. Justify your 
+answer.
+(i) CH3 - O - H (ii) CH3 - NO2 
+(iii) buta - 1, 3 - diene
+Solution :	
+(i) The bond structure shows that there is 
+no π bond. Therefore no resonance and no 
+resonance stabilization.
+(ii)  
+ CH3 - N
+O
+O
+⊕
+ 
+O
+O
+CH3 - N
+⊕
+N= O double bond is attached to ‘O’ which 
+carries lone pair of electrons in a p orbital. 
+Therefore resonance strucutres can be 
+written and species is resonance stabilized.
+(iii)  CH2 = CH - CH = CH2  
+                
+⊕
+   CH2 - CH = CH - CH2
+ The Lewis structure shows two C=C 
+double bonds alternating with a C-C single 
+bond. Therefore resonance structures can 
+be written as shown, and the species is 
+resonance stabilized.
+Problem 14.11 : Write three resonance 
+structures for CH3-CH = CH-CHO. Indicate 
+their relative stabilties and explain.
+ 
+CH3 - CH = CH - C -H
+O
+I
+ 
+	
+	
+	
+O
+CH3 - CH - CH = C- H
+II
+⊕
+                           
+                            
+  
+O
+CH3 - CH - CH = C- H
+⊕
+III
+Stabilty order : I > II > III
+I : Contains more number of covalent bonds, 
+each carbon atom and oxygen atom has 
+complete octet, and involves no separation 
+of opposite charges. Therefore the most 
+stable resonance structure.
+II : Contains one covalent bond less than 
+in I, one carbon (C
+⊕) has only 6 valence 
+electrons, involves separation of opposite 
+charges; the resonance structure II has -ve 
+charge on more electronegative ‘O’ and +ve 
+charge on more electroposoitve ‘C’. It has 
+intermediate stability.
+III : Contains one covalent bond less than 
+in I, oxygen  has only 6 valence electrons, 
+involves separation of opposite charge , has 
+-ve  charge on the more electropositive ‘C’ 
+and +ve charge on more electronegative 
+‘O’. All these factors are unfavourable for 
+stability. Therefore it is the least stable.
+Remember
+When all the resonance structures of 
+a species are equivalent to each other, the 
+species is  highly resonance stabilized. For 
+example, R - COO , CO3
+2
+228
+14.6.6 Resonance Effect : The existence of 
+resonance often results in developing polarity 
+in a molecule. The polarity produced in 
+the molecule by the interaction between 
+conjugated p bonds (or that  between π bond 
+and p orbital on attached atom) is called 
+the resonance effect or mesomeric effect. 
+The effect is transmitted through a chain 
+of conjugated π bonds. There are two types 
+of resonance effects (or mesomeric effect) 
+designated as positive resonance effect (+R or 
++M) and negative resonance effect (-R or -M).
+Positive 
+resonance 
+effect 
+or 
+electron 
+donating / releasing resonance effect (+ R 
+effect) : If the substituent group has a lone 
+pair of electrons to donate to the attached π 
+bond or cojugated system of π bonds, the 
+effect is called +R effect. Group such as - OH, 
+- OR, - O , - NHR, - halogen, etc. having lone 
+pair of electrons show +R effect. The +R effect 
+increases electron density at certain positions 
+in a molecule. Figure 14.11 shows how the +R 
+effect in aniline increases the electron density 
+at ortho and para positions. 
+NH2
+⊕
+NH2
+⊕
+NH2
+⊕
+NH2
+..
+o
+o
+m
+m
+p
+Fig. 14.11 : +R effect in aniline
+Negative 
+resonace 
+effect 
+or 
+electron 
+withdrawing resonance effect (-R effect) :
+If the substituent group has a tendency 
+to withdraw electrons from the attached π 
+bond or conjugated system of π bonds towards 
+itself, the effect is called -R effect. Group such 
+as -COOH, -CHO, -CO-, -CN, -NO2, - COOR, 
+etc. show -R effect. The -R effect results 
+in developing a positive polarity at certain 
+positions in a molecule. Figure 14.12 shows 
+how -R effect in nitrobenzene develops positive 
+polarity at the ortho and para positions.
+N O
+O
+⊕
+N O
+O
+⊕
+⊕
+Fig. 14.12 :   -R effect in aniline
+N O
+O
+⊕
+⊕
+N O
+O
+⊕
+⊕
+14.6.7 Electromeric effect : This is a 
+temporary electronic effect exhibited by 
+multiple-bonded groups in the excited state 
+in the presence of a reagent. When a reagent 
+approaches a multiple bond, the electron pair 
+gets completely shifted to one of the multiply 
+bonded atoms, giving a charged separated 
+structure. For example :
+C = O
+R
+R
+ + H⊕ 
+ 
+C – O H
+R
+R
+	
+	
+Reagent
+This effect is temporary and disappears 
+when the reagent is removed from the reacting 
+system.
+14.6.8 Hyperconjugation :
+ 
+Hyperconjugation 
+is 
+a 
+permanent 
+electronic effect explains stability  of  a 
+carbocation,  free radical or  alkene. It is 
+delocalization of σ (sigma) electrons of a 
+C - H bond of an alkyl group directly 
+attached to a carbon atom which is part 
+of an unsaturated system or has an empty 
+p- orbital or a p - orbital with an unpaired 
+electron (see Fig. 14.13).
+- C - C⊕ -
+H
+(I)
+- C - C = C
+H
+(II)
+- C - C -
+H
+(III)
+Fig. 14.13 Species stabilized by 
+hyperconjugation
+Let us consider ethyl cation (CH3CH2
+⊕
+). 
+Here the positively charged carbon atom with 
+an empty p -orbital has an adjacent methyl 
+group, that is an α - (alpha) methyl group. One 
+of the C-H bonds of this α methyl group is in 
+allignment with the empty p-orbital. The σ 
+electrons of this C-H bond or delocalized into 
+the empty p -orbital and thereby stabilize the 
+cation (see Fig. 14.14).
+229
+Fig. 14.14 Hyperconjugation in ethyl 
+carbocation
+empty p-orbital
+Hyperconjugation 
+is, 
+thus 
+a 
+σ-π 
+conjugation.
+H- C - C⊕
+H
+I
+H
+H
+H
+      
+      
+H⊕
+H- C = C - H
+H
+H
+II
+         
+ 
+     H  C = C - H
+H
+H
+III
+H
+⊕
+      
+   H- C = C - H
+H
+H
+IV
+H
+⊕
+The contributing structures II, III and IV 
+involving delocalization of σ electrons of C-H 
+bond shows no covalent bond between carbon 
+and one of the α-hydrogens. Hyperconjugation 
+is, therefore, called ‘no bond resonance’. 
+More the number of such α-hydrogens (that 
+is, hydrogen on the α- carbon), more are the 
+no bond resonance structures and more is the 
+stability. The relative stability of carbocations, 
+therefore decreases in the order :
+CH3 - C- CH3 > CH3 - CH- CH3 > CH3 - CH2 > CH3
+⊕
+⊕
+⊕
+⊕
+CH3
+Let us now look at propene which has a 
+methyl group attached to C = C. Delocalization 
+of electrons by hyperconjugation in propene 
+can be depicted as shown. 
+H - C - C = C - H
+H
+H
+H
+H
+I
+   H - C = C - C - H
+H H
+H
+II
+⊕H
+Fig. 14.15 : shows the orbital diagram of 
+hyperconjugation in propene
+H
+H
+H
+H
+ H⊕   C = C - C - H
+H
+H
+H
+H
+III
+ 
+ H - C = C- C -H
+H
+H
+IV
+H
+⊕
+H
+Figure 14.15 shows the orbital diagram of 
+hyperconjugation in propene.
+The effect of hyperconjugation is usually 
+stronger than inductive effect.
+Internet my friend
+1. 	 Basic principles of organic chemistry
+	
+https://authors.library.caltech.edu/25034
+2. 	 Collect information about Isomerism
+H
+H
+C
+C
+C
+H
+H
+H
+H
+H
+230
+1.	 Answer the following :
+A. Write condensed formulae and bond line 
+formulae for the following structures.
+	
+a. H - C - C - C - C - H
+H
+H
+H
+H
+H
+H
+H
+H
+	
+b. N ≡ C - C - C - C ≡ N
+H H
+H H
+	
+c. H - C - C - C - C 
+H
+H
+H
+H
+H
+H
+O
+OH
+B. Write dash formulae for the following 
+bond line formulae. 
+	
+a. 
+O
+  	
+b.  
+	
+c. 
+ 		
+d. 
+OH
+C. Write bond line formulae and condensed 
+formulae for the following compounds
+	
+a. 	 3-methyloctane	
+b. hept-2-ene
+	
+c.	 2, 2, 4, 4- tetramethylpentane
+	
+d.	 octa-1,4-diene	     e. methoxyethane
+D. 	Write the structural formulae for the 
+following names and also write correct 
+IUPAC names for them.
+	
+a. 5-ethyl-3-methylheptane
+	
+b. 2,4,5-trimethylthexane
+	
+c. 2,2,3-trimethylpentan-4-0l
+E. Identify more favourable resonance 
+structure from the following. Justify.
+a.  CH3 - C - OH
+CH3 - C = OH
+O
+O
+⊕
+b. 
+CH2 - CH = C - H
+CH2 - CH = C - H
+O
+O
+⊕
+⊕
+ 
+F. Find out all the functional groups present in 
+the following polyfunctional compounds. 
+a.  Dopamine a neurotransmitter that is 
+deficient in Parkinson's disease.
+HO
+HO
+CH2- CH2 - CH2
+b. Thyroxine the principal thyroid hormone.
+I
+HO
+CH2- CH - COOH
+I
+O
+NH2
+c. Penicillin G a naturally occuring antibiotic
+CH2 - C - NH
+COOH
+O
+O
+N
+S
+C
+CH3
+CH3
+G. Find out the most stable species from the 
+following. Justify.
+a. CH3,  CH3 - CH - CH3, 
+CH3
+CH3 - C - CH3
+b. CH3, CH2Br, CBr3
+c. CH3
+⊕
+,  CH2Cl
+⊕
+, CCl3
+⊕
+H.	 Identify the α - carbons in the following 
+species and give the total number of 
+α-hydrogen in each.
+a. CH3 - CH2 - CH - CH2 - CH3
+⊕
+b.   H3C - C - CH2 -CH3
+⊕
+c.  CH2 = CH - CH2 - CH3
+Exercises
+231
+I. Identify primary, secondary, tertiary and 
+quaternary carbon in the following 
+compounds.
+a.
+CH3 - C - CH - CH2 - CH2 - CH3
+CH3
+CH3
+CH3
+b.  
+2. Match the pairs
+	
+	
+Column 'A'	
+	
+Column 'B'
+	
+i. Inductive effect		
+a. delocalisation 
+                              of π electrons
+	
+ii. Hyperconjugation	
+b. displacement 
+                              of π electrons
+	
+iii. Resonance effect	
+c. delocalisation 
+                               of σ electrons
+	
+	
+	
+	
+       d. displacement 
+                               of σ electrons
+3. What is meant by homologous series 
+? Write the first four members of 
+homologous series that begins with
+	
+A. CH3CHO 	
+B. H-C≡C-H
+	
+Also write down their general molecular 
+formula.
+4. Write IUPAC names of the following
+A. 
+  	
+B. 
+NH2
+C.  
+	
+D. 
+O
+O
+E. 
+OH
+	F. 
+OH
+CH3
+5 Find out the type of isomerism exhibited 
+by the following pairs.
+A.  CH3-CH2-NH-CH2-CH3                                      	
+     and CH3- NH - CH2 - CH2 - CH3            
+B.   CH3-CH - CH2 -CH3
+OH
+     	
+and  
+	
+CH3- CH2- O - CH2 - CH3  
+C. CH3-CH2- N
+O
+O
+⊕
+ and  CH3-CH= N
+O
+OH
+⊕
+D. 
+ O
+ and 
+ OH
+6. 	Draw resonance srtuctures of the 
+following :
+	
+A. Phenol	 	
+      B. Benzaldehyde
+	
+C. Buta-1,3-diene	      D. Acetate ion
+7. Distinguish :
+	
+A. Inductive effect and resonance effect
+	
+B. Electrophile and nucleophile
+	
+C. Carbocation and carbanion
+	
+D. Homolysis and heterolysis
+8. Write true or false. Correct the false 
+stament
+A.	 Homolytic 
+fission 
+involves 
+unsymmetrical breaking of a covalent 
+bond.
+B. Heterolytic fission results in the 
+formation of free radicals.
+C. Free radicals are negatively charged 
+species
+D. Aniline is heterocyclic compound.
+9. Phytane is naturally occuring alkane 
+produced 
+by 
+the 
+alga 
+spirogyra 
+and is a constituent of petroleum. 
+The IUPAC name for phytane is 
+2,6,10,14-tetramethylhexadecane. Write 
+zig-zag formula for phytane. How 
+many primary, secondary, tertiary and 
+quaternary carbons are present in this 
+molecule.
+10. Observe the following structures and 
+answer the questions given below.
+     (i)  CH3 - CH2 - CH2 - CHO     
+     (ii)  
+CH3
+CH3 - CH - CHO  
+	
+	
+	
+a. What is the relation between (i) and 
+       (ii) ?
+	
+	
+b. Write IUPAC name of (ii).
+	
+	
+c. Draw the functional group isomer 
+       of (i).

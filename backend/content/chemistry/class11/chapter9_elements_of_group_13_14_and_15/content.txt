@@ -1,0 +1,1387 @@
+122
+1. 	 Explain the following 
+A.	 Hydrogen shows similarity with alkali 
+metals as well as halogens.
+B.	 Standard reduction potential of alkali 
+metals have high negative values.
+C.	 Alkaline earth metals have low values 
+of electronegativity; which decrease 
+down the group.
+D.	 Sodium dissolves in liquid ammonia to 
+form a solution which shows electrical 
+conductivity.
+E.	 BeCl2 is covalent while MgCl2 is ionic.
+F.	 Lithium floats an water while sodium 
+floats and catches fire when put in 
+water.
+2. 	 Write balanced chemical equations for 
+the following.
+A.	CO2 is passed into concentrated 
+solution of NaCl, which is saturated 
+with NH3.
+B.	 A 50% solution of sulphuric acid is 
+subjected to electrolyte oxidation and 
+the product is hydrolysed.
+C.	 Magnesium is heated in air.
+D.	Beryllium oxide is treated separately 
+with aqueous HCl and aqueous NaOH 
+solutions.
+3.	 Answer the following questions
+A.	 Describe the diagonal relationship 
+between Li and Mg with the help of 
+two illustrative properties. 
+B.	 Describe the industrial production of 
+dihydrogen from steam. Also write the 
+chemical reaction involved.
+C.	 A water sample, which did not give 
+lather with soap, was found to contain 
+Ca(HCO3)2 and Mg(HCO3)2. Which 
+chemical will make this water give 
+lather with soap? Explain with the help 
+of chemical reactions.
+D.	 Name the isotopes of hydrogen. 
+Write 
+their 
+atomic 
+composition 
+schematically and explain which of 
+these is radioactive ?
+4.	 Name the following
+A.	Alkali metal with smallest atom.
+B.	 The most abundant element in the 
+universe.
+C.	 Radioactive alkali metal.
+D.	Ions having high concentration in cell 
+sap.
+E.	 A 
+compound 
+having 
+hydrogen, 
+aluminium and lithium as its constituent 
+elements.
+5.	 Choose the correct option.
+A.	The unstable isotope of hydrogen is .....
+	
+a.  H-1		
+b. H-2
+	
+c.  H-3		
+d. H-4
+B.	Identify the odd one.
+	
+a.  Rb	 	
+b.  Ra
+	
+c.  Sr	 	
+d.  Be
+C.	Which of the following is Lewis acid ?
+	
+a. BaCl2	
+	
+b. KCl
+	
+c. BeCl2	
+	
+d. LiCl
+D.	What happens when crystalline Na2CO3 
+is heated ?
+	
+a. releases CO2
+	
+b. loses H2O
+	
+c. decomposes into NaHCO3
+	
+d. colour changes.
+Exercises
+Activity :
+1.	Collect the information of preparation of 
+dihydrogen and make a chart.
+2. Find out the s block elements compounds 
+importance/uses.
+123
+Problem 9.1 : Atomic numbers of the group 13 elements are in the order B < Al < Ga < In < 
+Tl. Arrange these elements in increasing order of ionic radii of M3⊕.
+Solution : The given elements are in an increasing order of atomic number. As we go down 
+the group 13, their general outer electronic configuration is ns2np1. M3⊕  is formed by removal 
+of three electrons from the outermost shell 'n'. In the M3⊕ the 'n-1' shell becomes the outermost. 
+Size of the added 'n-1' shell increases down the group. Therefore the ionic radii of M3⊕ also 
+increase down the group as follows : 
+B3⊕ < Al3⊕ < Ga3⊕ < In3⊕ < Tl3⊕
+9. Elements of Groups 13, 14 and 15
+9.1 Introduction : You have learnt in 
+Chapter 7 that in the p-block elements 
+the diffrentiating electron (the last filling 
+electron) enters the outermost p orbital. You 
+also know that maximum six electrons can 
+be accommodated in p-subshell (or three p 
+orbitals). This gives rise to six groups, group 
+13 to 18, in the p-block. The p-block elements 
+show greater variation in the properties than 
+'s' block, which you learnt in the previous 
+chapter. In this chapter you are going to study 
+the elements of the groups 13, 14 and 15 in 
+some details.
+The elements boron (5B), aluminium 
+(13Al), gallium (31Ga), indium (49In) and 
+thallium (81Tl) constitute the group 13, called 
+the boron family. The elements carbon (6C), 
+silicon (14Si), germanium (32Ge), tin (50Sn) 
+and lead (82Pb) form the group 14 called the 
+carbon family. The elements nitrogen (7N), 
+phosphorous (15P), arsenic (33As), antimony 
+(51Sb) and bismuth (83Bi) belong to group 15 of 
+the periodic table called the nitrogen family.
+9.2 Electronic configuration of elements of 
+groups 13, 14 and 15
+The general outer electronic configuration 
+of the group 13 elements is ns2 np1, those of the 
+group 14 elements is ns2np2 while the group 15 
+elements are shown as ns2np3. These electronic 
+configurations differ from their nearest inert 
+gas by 3 or 4 electrons. These elements do 
+not occur in free monoatomic state and found 
+as compounds with other elements or as 
+polyatomic molecules (such as N2, P4, C60) or 
+polyatomic covalent arrays (such as graphite, 
+diamond). Table 9.1 shows the condensed 
+electronic configuration of the elements of 
+group 13, group 14 and group 15.
+Table 9.1 : Condensed electronic configuration of elements of groups 13, 14 and 15
+Group 13 (Boron family)
+Group 14 (Carbon family)
+Group 15 (Nitrogen family)
+Element
+Condesed electronic 
+configuration
+Element
+Condesed electronic 
+configuration
+Element
+Condesed electronic 
+configuration
+5B
+[He]2s22p1
+6C
+[He]2s22p2
+7N
+[He]2s22p3
+13Al
+[Ne]3s23p1
+14Si
+[Ne]3s23p2
+15P
+[Ne]3s23p3
+31Ga
+[Ar]3d104s24p1
+32Ge
+[Ar]3d104s24p2
+33As
+[Ar]3d104s24p3
+49In
+[Kr]4d105s25p1
+50Sn
+[Kr]4d105s25p2
+51Sb
+[Kr]4d105s25p3
+81Tl
+[Xe]4f145d106s26p1
+82Pb
+[Xe]4f145d106s26p2
+83Bi
+[Xe]4f145d106s26p3
+Can you recall?
+If 
+the 
+valence 
+shell 
+electronic 
+configuration of an element is 3s2 3p1 in 
+which block of periodic table is it placed ?
+124
+Problems 9.2 Why the atomic radius of 
+Gallium is less than that of aluminium ?
+Solution : Atomic radius increases down 
+the group due to added new shell. 'Al' does 
+not have ‘d’ electrons. As we go from Al 
+down to 'Ga' the nuclear charge increase 
+by 18 units. Out of the 18 electrons added, 
+10 electrons are in the inner 3d subshell. 
+'d' Electrons offer poor shielding effect. 
+Therefore, the effects of attraction due to 
+increased nuclear charge is experienced 
+prominently by the outer electrons of 'Ga' 
+and thus its atomic radius becomes smaller 
+than that of 'Al'.
+Problem 9.3 : The values of the first ionization enthalpy of Al, Si and P are 577, 786 and 
+1012 kJmol-1 respectively. Explain the observed trend. 
+Solution : The trend shows increasing first ionization enthalpy from Al to Si to P. Al, Si and P 
+belong to 13 period in the periodic table. They have same valence shell. Due to the increased 
+nuclear charge electrons in the valence shell are more tightly held by the nucleus as we go 
+from Al to Si to P. Therefore more energy is required to remove an electron from its outermost 
+shell.
+9.3 Trends in atomic and physical properties 
+of elements of groups 13, 14 and 15.  : The 
+elements of group 13 show a wide variation in 
+properties. In group 13 boron is a metalloid.It 
+is glossy and hard solid like metal but a poor 
+electrical conductor (like nonmetals). The 
+other elements in this group are fairly reactive 
+metals. Aluminium is the third most abundant 
+element in the earth’s crust. Some physical 
+and atomic propeties of group 13 elements are 
+given in Table 9.2
+Table 9.2 : Physical properties of elements of group 13
+Element
+Atomic 
+number
+Atomic 
+mass
+Atomic 
+radius 
+(pm)
+Ionic radius 
+(pm) 
+M3⊕
+Ionization enthalpy 
+(kJ mol-1)
+Electronegativity
+Density 
+(g/cm3)
+Melting 
+point 
+(K)
+Boiling 
+point 
+(K)
+1st
+2nd
+3rd
+B
+5
+10.81
+88
+27
+801
+2427
+3659
+2.0
+2.35
+24.53
+3923
+Al
+13
+26.98
+143
+53.5
+577
+1816
+2744
+1.5
+2.70
+933
+2740
+Ga
+31
+69.72
+135
+62.0
+579
+1979
+2962
+1.6
+5.90
+303
+2676
+In
+49
+114.82
+167
+80.0
+558
+1820
+2704
+1.7
+7.31
+430
+2353
+Tl
+81
+204.38
+170
+88.5
+589
+1971
+2877
+1.8
+11.85
+576
+1730
+Table 9.3 enlists atomic and physical 
+properties of the elements of carbon family 
+(group 14). In this group all the three 
+traditional types of elements are present. 
+Carbon is a nonmetal, silicon is a metalloid 
+which is brittle like nonmetal, it is hard and 
+has metallic luster. Germanium is also brittle 
+but hard and lustrous metalloid. Tin or lead 
+down the group are corrosion resistant and 
+moderately reactive. 
+Table 9.3 : Some atomic and physical properties of group 14 elements 
+Element
+Atomic 
+number
+Atomic 
+mass
+Atomic 
+radius 
+(pm)
+Ionic radius 
+(pm) 
+M3⊕
+Ionization enthalpy 
+(kJ mol-1)
+Electro-
+negativity
+Density 
+(g/cm3)
+Melting 
+point 
+(K)
+Boiling 
+point 
+(K)
+1st
+2nd
+3rd
+4th
+C
+6
+12.01
+77
+1086
+2352
+4620
+6220
+2.5
+3.51
+4373
+Si
+14
+28.09
+118
+40
+786
+1577
+3228
+4354
+1.8
+2.34
+1693
+3550
+Ge
+32
+72.60
+122
+53
+761
+1537
+3300
+4400
+1.8
+5.32
+1218
+3123
+Sn
+50
+118.71
+140
+69
+708
+1411
+2942
+3929
+1.8
+7.26
+505
+2896
+Pb
+82
+207.2
+146
+78
+715
+1450
+3081
+4082
+1.9
+11.34
+600
+2024
+125
+Remember
+Problem 9.4 : Why Tl⊕1 ion  is more stable than Tl⊕3 ?
+Solution : Tl is a heavy element which belongs to group 13 of the p-block. The common 
+oxidation state for this group is 3. In p-block, the lower oxidation state is more stable for 
+heavier elements due to inert pair effect . Therefore, Tl⊕1 ion is more stable than Tl⊕3 ion. 
+Table 9.5 : Oxidation states of the elements of groups 13, 14 and 15 
+Group
+13
+14
+15
+Outer electronic 
+configuration
+ns2 np1
+ns2 np2
+ns2 np3
+Group oxidation state
++3
++4
++5
+Other oxidation 
+states
++1
++2, -4
++3, -3
+Examples of stable 
+compounds
+BF3, AlCl3, GaCl3,
+InCl3, TlBr
+CH4, CO2, CCl4, SiCl4,
+GeCl4, SnCl2, PbCl2
+N2O5, NH3, NF3, PH3, PCl5,
+AsH3, SbH3, SbCl3, BiCl3
+The increased stability of the oxidation state lowered by 2 units than the group oxidation 
+state in heavier p-block elements is due to inert pair effect. In these elements, the two s- 
+electrons are involved less readily in chemical reactions. This is because the s-electrons of 
+valence shell in p-block elements experience poor shielding than valence p- electron, due to ten 
+inner d-electrons.
+Table 9.4 : Some atomic and physical properties of group 15 elements
+Element
+Atomic 
+number
+Atomic 
+mass
+Atomic radius 
+(pm)
+Ionic 
+radius 
+(pm)
+Ionization enthalpy 
+(kJ mol-1)
+Electronegativity
+Density 
+(g/cm3)
+Melting 
+point 
+(K)
+Boiling 
+point 
+(K)
+1st
+2nd
+3rd
+N
+7
+14.01
+70
+171 (M3 )
+1402
+2856
+4577
+3.0
+0.879
+6.3
+77.2
+P
+15
+30.97
+110
+212 (M3 )
+1012
+1903
+2910
+2.1
+1.823
+317
+554
+As
+33
+74.92
+121
+222(M3 )
+947
+1798
+2736
+2.0
+5.778
+1089
+-
+Sb
+51
+121.75
+141
+76 (M3⊕)
+834
+1595
+2443
+1.9
+6.697
+904
+1860
+Bi
+83
+208.98
+148
+103(M3⊕)
+703
+1610
+2466
+1.9
+9.808
+544
+1837
+Group 15 is the nitrogen family. Table 
+9.4 shows atomic and physical properties 
+of the elements of group 15. This group also 
+include the three traditional types of elements: 
+The gaseous nitrogen and brittle phosphorous 
+are nonmetals. Arsenic and antimony are 
+metalloids while bismuth is moderately 
+reactive metal. 
+9.4 Chemical properties of the elements of 
+the  groups 13,14 and 15 
+9.4.1 Oxidation state : Oxidation state is the 
+primary chemical property of all elements. 
+The highest oxidation state exhibited by the 
+p-block elements is equal to total number of 
+valence electrons (sum of s- electrons and 
+p-electrons). This is sometimes called the 
+group oxidation state. In boron, carbon and 
+nitrogen families the group oxidation state is 
+the most stable oxidation state for the lighter 
+elements. Besides, the elements of groups 
+13, 14 and 15 exhibit other oxidation states 
+which are lower than the group oxidation 
+state by two units. The lower oxidation states 
+become increasingly stable as we move down 
+to heavier elements in the groups. Table 9.5 
+shows various oxidation states exhibited by 
+elements belonging to these groups.
+126
+Do you know ?
+Do you know ?
+9.4.2 Bonding in compounds of group 13, 
+14 and 15 elements : The lighter elements in 
+groups 13, 14 and 15 have small atomic radii 
+and high ionization enthalpy values. They 
+form covalent bonds with other atoms by 
+overlapping of valence shell orbitals. As we 
+move down the group, the ionization enthalpies 
+are lowered. The atomic radii increase since 
+the valence shell orbitals are more diffused. 
+The heavier elements in these group tend to 
+form ionic bonds. The first member of these 
+groups belongs to second period and do not 
+have d orbitals. B, C and N cannot expand 
+their octet. The subsequent elements in the 
+group possess vacant d orbital in their valence 
+shell, which can expand their octet forming a 
+variety of compounds.
+9.4.3 Reactivity towards air/oxygen
+a. Group 13 elements : Elements of group 13 
+on heating with air or oxygen produce oxide of 
+type E2O3 (where E = element)
+4 E (s) + 3O2(g) 
+∆
+ 2 E2O3 (s)
+2 E (s) + N2 (g) 
+∆
+ 2 EN (s)
+b. Group 14 elements : The elements of group 
+14 on heating in air or oxygen form oxide 
+of the type EO and EO2 in accordance with 
+the stable oxidation state and availability of 
+oxygen.  
+E (s) + 1/2 O2(g) 
+∆
+ EO
+E (s) + O2 (g) 
+∆
+ EO2
+c. Group 15 elements : The elements of group 
+15 on heating in air or oxygen forms two types 
+of oxide E2O3 and E2O5.
+P4 + 3 O2 
+ P4O6
+P4 + 5 O2 
+ P4O10
+As4 + 3 O2 
+ As4O6
+2Bi + 3 O2 
+ Bi2O3
+Increase in metallic character down all these 
+groups 13, 14 and 15 reflects their oxides 
+which gradually vary from acidic through 
+amphoteric to basic. (see Table 9.6)
+The nature of stable oxides from groups 13, 14 
+and 15 are given in Table 9.6.
+Boron nitride is also called inorganic 
+graphite.
+Table 9.6 : Nature of stable oxides of groups 13, 
+14 and 15 elements
+Group
+Element
+Oxide
+Nature
+13
+B
+B2O3
+Acidic
+Al
+Al2O3
+Amphoteric
+Ga
+Ga2O3
+Amphoteric
+In
+In2O3
+Basic
+Tl
+Tl2O3
+Basic
+14
+C
+CO2
+Acidic
+Si
+SiO2
+Acidic
+Ge
+GeO2
+Acidic
+Sn
+SnO2
+Amphoteric
+Pb
+PbO2
+Amphoteric
+15
+N
+N2O5
+Acidic
+P
+P2O5
+Acidic
+As
+As4O6
+Amphoteric
+Sb
+Sb2O3
+Amphoteric
+Bi
+Bi2O3
+Basic
+9.4.4 Reaction with water
+Most of the elements of groups 13,14 and 15 
+are unaffected by water. Aluminium reacts 
+with water on heating and forms hydroxide 
+while tin reacts with steam to form oxide.
+2 Al (s) + 6 H2O (l) ∆ 2 Al (OH)3 (s) + 3 H2 (g)
+Sn (s)  + 2 H2O (g) ∆  SnO2 (s) + 2 H2 (g)
+Lead is unaffected by water, due to formation 
+of a protective film of oxide.
+Phosphorous is stored under water 
+because it catches fire when exposed to air.
+9.4.4 Reaction with halogens
+All the elements of group 13 react 
+directly with halogens to form trihalides (EX3). 
+Thallium is an exception  which forms mono 
+halides (TlX)
+2 E (s) + 3 X2 (g)  
+ 2 EX3 (s)
+     All the elements of group 14 (except 
+carbon) react directly with halogens to form 
+127
+Can you recall?
+Problem 9.6 : Nitrogen does not form NCl5 
+or NF5 but phosphorous can. Explain.
+Solution : Phosphorous and other members 
+of the group can make use of d-orbitals in 
+their bonding and thus compounds MX3, as 
+well MX5 are formed Nitrogen can not form 
+NCl5 or NF5 since it is void of d-orbitals in 
+its second shell.
+tetrahalides (EX4). The heavy elements Ge 
+and Pb form dihalides as well. Stability of di 
+halides increases down the group. (Refer to 
+9.3.1, inert pair effect). The ionic character of 
+halides also increases steadily down the group.
+The order of catenation of group 14 
+elements is C >> Si > Ge = Sn. Lead does not 
+show catenation.This can be clearly seen from 
+the bond enthalpy values.
+Bond
+Bond enthalpy (kJmol-1)
+C -C
+348
+Si - Si
+297
+Ge - Ge
+260
+Sn - Sn
+240
+Problem 9.5  : GeCl4 is more stable than 
+GeCl2 while PbCl2 is more stable than 
+PbCl4. Explain.
+Solution : Ge and Pb are the 4th and 5th 
+period elements down the group 14. The 
+group oxidation state of group 14 is 4 and 
+the stability of other oxidation state, lower 
+by 2 units, increases down the group due 
+to inert pair effect. The stability of the 
+oxidation state 2 is more in Pb than in Ge.
+Elements of the group 15 reacts with 
+halogens to form two series of halides: EX3 and 
+EX5 . The pentahalides possess more covalent 
+character due to availability of vacant d orbitals 
+of the valence shell for bonding. (Nitrogen 
+being second period element, does not have d 
+orbitals in its valence shell, and therefore, does 
+not form pentahalides). Trihalides of the group 
+15 elements are predominantly covalent except 
+BiF3. The only stable halide of nitrogen is NF3.
+What is common between diamond 
+and graphite?
+9.6 Allotropy : When a solid element exists 
+in different crystalline forms with different 
+physical properties such as colour, density, 
+melting point, etc. the phenomenon is called 
+allotropy and individual crystalline forms are 
+called allotropes. Diamond and graphite are 
+well known allotropes of carbon. Fullerenes, 
+graphene and carbon nanotubes are other 
+allotropes of carbon. Elements such as boron, 
+bismuth, silicon, etc. of group 13, 14, and 15 
+exhibit allotropy. In this chapter we are going 
+to look at some aspects of allotropes of carbon 
+and phosphorous .
+9.6.1 Allotropes of Carbon : 
+a. Diamond : In diamond each carbon atom 
+is linked to four other carbon atoms (via. sp3 
+hybrid orbitals) in tetrahedral manner. 
+Fig 9.1 Structure of diamond
+9.5 Catenation : The property of self linking 
+of atoms of an element by covalent bonds to 
+form chains and rings is called catenation. The 
+catenation tendency of an element depends 
+upon the strength of the bond formed.
+Among 
+the 
+group 
+14 
+elements, 
+carbon shows the maximum tendency for 
+catenation because of the stronger C - C bond 
+(348 kJ mol-1)
+128
+Remember
+The C-C bond distance is 154 pm. 
+The tetrahedra are linked together forming 
+a 
+three 
+dimensional 
+network 
+structure 
+(Fig. 9.1) involving strong C-C single bonds. 
+Thus diamond is the hardest natural substance 
+with abnormally high melting point  (3930 0C). 
+Diamond is bad conductor of electricity.
+Uses : Diamond is used
+•	
+for cutting glass and in drilling tools.
+•	
+for making dies for drawing thin wire from 
+metal.
+•	
+for making jewellery.
+b. Graphite : Graphite is composed of layers 
+of two dimensional sheets of carbon atoms 
+(Fig. 9.2) each being made up of hexagonal 
+net of sp2 carbons bonded to three neighbours 
+forming three sigma bonds. The fourth electron 
+is in the unhybrid p-orbital of each carbon. 
+The p-orbitals on all the carbons are parallel 
+to each other. These overlap laterally to form π 
+bonds. The π electrons are delocalised over the 
+whole layer. The C- C bond length in graphite 
+is 141.5 pm.  The individual layers are held by 
+weak van der Waals forces and separated by 
+335 pm. This makes graphite soft and slippery.
+when an electric arc is struck between the 
+graphite electrodes in an inert atmosphere of 
+argon or helium. The soot formed contains 
+significant amount of C60 fullerene and smaller 
+amounts of other fullerenes C32, C50, C70 and 
+C84.
+C60 has a shape like soccer ball and called 
+Buckminsterfullerene or bucky ball. (Fig. 
+9.3) It contains twenty hexagonal and twelve 
+pentagonal fused rings of carbons. 
+c. Fullerene : Fullerenes are alltropes of 
+carbon in which carbon molecules are formed 
+by linking a definite numbers of carbon atoms. 
+For example : C60.  Fullerenes are produced, 
+Unlike diamond and graphite, the C60 
+fullerene structure exhibits two distinct 
+distances between the neighbouring carbons, 
+143.5 pm and 138.3 pm. Fullerenes are 
+covalent molecules and soluble in organic 
+solvents. Fullerene C60 reacts with group 1 
+metals forming solids such as K3C60. The 
+compound K3C60 behaves as a superconductor 
+below 18 K, which means that it conducts 
+electric current with zero resistance. 
+d. Cabon nanotubes : Carbon nanotubes are 
+cylindrical in shape, consisting of rolled-up 
+graphite sheet (Fig. 9.4). Nanotubes can be 
+single-walled (SWNTs) with a diameter of 
+less than 1 nm or multi-walled (MWNTs) with 
+335 pm
+141.5 pm
+Fig 9.2 Structure of graphite
+Fig. 9.3 Buckminsterfullerene
+Fig. 9.4 Carbon nanotubes
+Graphite 
+is 
+thermodynamically 
+most stable form (allotrope) of carbon.
+Carbon atom
+Covalent bond
+129
+Do you know ?
+Can you recall?
+Remember
+diameter reaching more than 100 nm. Their 
+lengths range from several micrometres to 
+millimetres.
+Carbon nanotubes are robust. They can be 
+bent, and when released, they will spring back 
+to the original shape.
+Carbon nanotubes have high electrical 
+and heat conductivities and highest strength 
+to weight ratio for any known material to 
+date. The researchers of NASA are working 
+on combining carbon nanotubes with other 
+matertials to obtain composites those can be 
+used to build light weight space craft.
+e. Graphene : Isolated layer of graphite is 
+called graphene (Fig. 9.5). Graphene sheet is 
+a two dimensional solid. Graphene has unique 
+electronic properties.
+P
+P
+P
+P
+600
+9.6.2 Allotropes of phosphorus : Phosphorus 
+is found in different allotropic forms, the 
+important ones being white and red phosphorus.
+a. White (yellow) phosphorus : White (yellow) 
+phosphorus consists of discrete tetrahedral P4 
+molecules. The P-P-P bond angle is 60
+ο.
+The 
+discovery 
+of 
+graphene 
+was 
+awarded with the Nobel prize to Geim and 
+Novoselov (2010).
+•	
+It is translucent white waxy solid.
+•	
+It glows in dark (chemiluminescence).
+•	
+It is insoluble in water but dissolves in 
+boiling NaOH solution.
+•	
+It is poisonous.
+b. Red phosphorus : Red phosphorus consists 
+of chains of P4 tetrahedra linked together by 
+covalent bonds. Thus it is polymeric in nature.
+•	
+It is stable and less reactive.
+•	
+It is odourless. It possesses iron grey lustre
+•	
+It does not glow in dark.
+•	
+It is insoluble in water.
+•	
+It is non poisonous.
+9.7 Molecular structures of some important 
+compounds of the group 13, 14 and 15 
+elements
+•	 Which element from the following 
+pairs has higher ionization enthalpy? 
+B and Tl, N and Bi
+•	 Does Boron form covalent compounds 
+or ionic ?
+Fig. 9.5 Graphene
+White phosphorus is less stable and hence 
+more reactive, because of angular strain in the 
+P4 molecule.
+You have seen in section 9.2 that lighter 
+elements of groups 13, 14 and 15 have higher 
+ionization enthalpy and because of smaller 
+atomic radius  do not form cation readily. These 
+elements form covalent compounds. Covalent 
+molecules have definite shape described with 
+the help of bond lengths and bond angles. 
+Inorganic molecules  are often represented by 
+molecular formulae indicating their elemental 
+composition. 
+Red phosphorus is prepared by 
+heating white phosphorus at 573 K in an 
+inert atmosphere.
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+130
+In the case of covalent inorganic 
+molecules, the reactivity is better understood 
+from their structures. In this section we will 
+consider molecular structures of common 
+compounds of elements of groups 13,14 and 
+15.
+9.7.1 Boron trichloride (BCl3) : Boron 
+trichloride (BCl3) is covalent. Here boron 
+atom is sp2 hybridised having one vacant 
+unhybridised p orbital. B in BCl3 has incomplete 
+octet. The BCl3 is nonpolar trigonal plannar 
+molecule as shown.
+9.7.4 Diborane (B2H6) : Boron has only three 
+valence electron. In diborane each boron atom 
+is sp3 hybridized. Three of such hybrid orbitals 
+are half filled, the fourth sp3 hybrid orbital is 
+vacant.
+The two half filled sp3 hybrid orbitals of 
+each B atom overlap with 1s orbitals of two 
+H atoms and form four B-H covalent bonds. 
+Hydrogen atoms are located at the terminal. 
+Besides, there are 2-centre - 2-electron bonds 
+where ‘1s’ orbital of each of the remaining two 
+H atoms simultaneouly overlap with half filled 
+hybrid orbital of one B atom and the vacant 
+hybrid orbital of the other B atom. This type 
+of overlap produces two three centred - two 
+electron bonds (3 c - 2e) or banana bonds. 
+Hydrogen atoms involved in (3 c - 2 e)   bonds 
+are the bridging H- atoms. In diborane two B 
+atoms and four terminal H atoms lie in one 
+plane, while the two bridging H atoms lie 
+symmetrically above and below this plane.
+1200
+9.7.2 Aluminium Chloride (AlCl3)  : 
+Aluminium atom in aluminium chloride 
+is sp2 hybridised, with one vacant unhybrid p 
+orbital. Aluminium Chloride (AlCl3) exists as 
+the dimer (Al2Cl6) formed by overlap of vacant 
+3d orbital of Al with a lone pair of electrons of 
+Cl.
+9.7.3 Orthoboric acid / boric acid (H3BO3) :
+The orthoboric acid has central boron 
+atom bound to three –OH groups. The solid 
+orthoboric acid has layered crystal structure in 
+which trigonal planar B(OH)3 units are joined 
+together by hydrogen bonds.
+9.7.5 Silicon dioxide (SiO2) : Silicon dioxide is 
+commonly known as silica. Quartz, cristobalite 
+and tridymite are different crystalline forms of 
+silica. They are inter-convertible at a suitable 
+temperature.
+Silicon dioxide (silica) is a covalent 
+three dimensional network solid, in which 
+each silicon atom is covalently bound in 
+tetrahedral manner to four oxygen atoms. The 
+crystal  contains eight membered rings  having 
+alternate silicon and oxygen atoms.
+Orthoboric acid
+Bonding and structure of diborane
+(3 centred - 2 electron bonds)
+131
+Remember
+Try this
+9.7.6 Nitric acid (HNO3) : Nitric acid is a 
+strong, oxidising mineral acid. The central 
+nitrogen atom is sp2 hybridised. HNO3 exhibits 
+resonance phenomenon. 
+O
+O
+N
+N
+H
+H
+O
+O
+O
+O
+⊕
+⊕
+N
+H
+O
+O
+O
+96pm
+1200
+1300
+140.6pm
+⊕
+δ
+δ
+	
+	
+	
+Resonance Hybrid of HNO3
+9.6.7 
+Orthophosphoric 
+acid/phosphoric 
+acid (H3PO4) : Phosphorus forms number of 
+oxyacids. Orthophosphoric acid is a strong non 
+toxic mineral acid. It contains three ionizable 
+acidic hydrogens. The central phosphorous 
+atom is tetrahedral.  
+Borax naturally occurs as tincal (which 
+contains about 90% borax) in certain inland 
+lakes in India, Tibet and California (U.S.A).
+Preparation :
+Borax is prepared from the mineral 
+colemanite by boiling it with a solution of 
+sodium carbonate.
+Ca2B6O11 + 2 Na2CO3 ∆
+ Na2B4O7 + 2 NaBO2 
+Colemanite	
+	
+         Borax
+	
+	
+	
+	
+      + 2 CaCO3 
+Properties
+i. 	
+Borax is white crystalline solid.
+ii. 	 Borax dissolves in water and gives 
+alkaline solution due to its hydrolysis.
+Na2B4O7 + 7 H2O 
+ 2NaOH + 4 H3BO3
+	
+	
+	
+	
+	
+Ortho boric acid
+iii. 	 On heating borax first loses water 
+molecules and swells. On further heating 
+it turns into a transparant liquid, which 
+solidifies into glass like material known 
+as borax bead.
+Na2B4O7.10H2O ∆
+-10H2O Na2B4O7 ∆
+ 
+	
+	
+	
+	
+2 NaBO2 + B2O3
+	
+	
+	
+	
+ 	
+  Borax bead
+	
+The borax bead consisting sodium 
+metaborate and boric anhydride is 
+used to detect coloured transition metal 
+ions, under the name borax bead test. 
+For example, when borax is heated in 
+a Bunsen burner flame with CoO on a 
+loop of platinum wire, a blue coloured 
+Co(BO2)2 bead is formed.
+iv. 	 Borax when heated with ethyl alcohol and 
+concentrated H2SO4 acid, give volatile 
+vapours of triethyl borate which burn 
+with green edged flame.
+Na2B4O7 + H2SO4 + 5 H2O 
+ Na2SO4 + 
+	
+	
+	
+	
+	
+ 4 H3BO3
+H3BO3 + 3C2H5OH  
+  B(OC2H5)3 + 3 H2O
+	
+	
+	
+	
+  	
+ Triethyl borate
+Find out the structural formulae of 
+various oxyacids of phosphorus.
+Structure of SiO2
+9.8 Chemistry of  notable compounds of 
+elements of groups 13, 14 and 15
+9.8.1 Borax (Na2B4O7) : It is one of the most 
+important boron compound. The crystalline 
+borax has formula Na2B4O7. 10H2O or 
+Na2[B4O5(OH)4].8H2O.
+The above reaction is used as a test 
+for detection and removal of borate in 
+qualitative analysis.
+132
+Uses : Borax is used 
+i. 	
+in the manufacture of optical and hard 
+borosilicate glass.
+ii. 	 as a flux for soldering and welding.
+iii. 	 as a mild antiseptic in the preparation of 
+medical soaps
+iv. 	 in quanlitative analysis for borax bead 
+test.
+v. 	 as a brightner in washing powder.
+9.8.2 Silicones : Silicones represent organo-
+silicon polymers where {R2SiO} is a 
+repeating unit. These are held together by 
+ Si  O  Si 
+ linkage. Silicones have 
+empirical formula R2SiO         (R = CH3 or 
+C6H5 group). This is similar to that of ketone 
+(R2CO) and hence the name silicones.
+Preparation : The starting materials for 
+manufacture of silicones are alkyl or aryl 
+substituted silicon chlorides, RnSiCl(4 - n) where 
+R is alkyl or aryl group.
+When methyl chloride reacts with 
+silicon in the presence of copper catalyst at a 
+temperature 573 K, various types of methyl 
+substituted chlorosilane of formulae MeSiCl3, 
+Me2SiCl2, Me3SiCl with small amounts of 
+Me4Si are formed.
+2CH3Cl + Si  
+Cu powder
+573 K
+ Cl − Si − Cl
+CH3
+CH3
+ 
+Cl − Si − Cl
+CH3
+CH3
+ 
+2H2O
+-2HCl
+ HO − Si − OH
+CH3
+CH3
+ 
+n HO − Si − OH
+CH3
+CH3
+  Polymerisation
+-H2O
+  − Si − O −
+CH3
+(
+(
+CH3
+n
+  
+Hydrolysis 
+of 
+dimethyl 
+dichlorosilane, 
+(CH3)2SiCl2 
+followed 
+by 
+condensation 
+polymerisation yields straight chain silicone 
+polymers.
+The chain length of polymer can be controlled 
+by adding (CH3)3 SiCl at the end as shown :
+Si − O − Si − O − Si − CH3
+CH3
+(
+(
+CH3
+CH3
+CH3
+CH3
+CH3
+CH3
+n
+Properties of silicones
+i.	 They are water repellant.
+ii.	 They have high thermal stability.
+iii. They are good electrical insulators.
+iv.	They are resistant to oxidation and 
+chemicals.
+Uses of silicones 
+They are used as
+i. insulating material for electrical appliences
+ii. water proofing of fabrics
+iii. sealant
+iv. high temperature lubricants 
+v. For mixing in paints and enamels to make 
+them resistant to high temperature, sunlight 
+and chemicals.
+9.8.3 Ammonia (NH3)
+Preparation 
+1. 	 Ammonia is present in small quantities 
+in air and soil where it is formed by the 
+decomposition of nitrogeneous organic 
+matter such as urea.
+NH2CONH2 + 2 H2O 
+ (NH4)2CO3 
+ 
+(urea)	
+	
+        2 NH3 + H2O + CO2
+2. 	 Ammonia is prepared on laboratory scale, 
+by decomposition of the ammonium salts 
+with calcium hydroxide or caustic soda. 
+2NH4Cl + Ca(OH)2 
+ 2NH3 + CaCl2 + 
+	
+	
+	
+	
+	
+     2H2O
+(NH4)2SO4 + 2NaOH 
+ 2NH3 + Na2SO4 + 
+	
+	
+	
+	
+	
+     2H2O
+3. 	  On the large scale ammonia is prepared 
+by direct combination of dinitrogen and 
+dihydrogen. (Haber’s process)
+N2(g) + 2H2(g) 
+ 2NH3(g);∆fH
+ο = -46.1 kJ mol-1
+133
+Remember
+Remember
+Remember
+High pressure favours the formation of 
+ammonia. The optimuim conditions for the 
+production of ammonia are high pressure 
+of 200 × 105 Pa (200 atm), temperature of 
+∼700 K and use of a catalyst such as iron oxide 
+with trace amounts of K2O and Al2O3. Under 
+these conditions equilibrium attains rapidly.
+Properties
+a. Physical properties
+i. Ammonia is colourless gas with pungent 
+odour.
+ii. It has freezing point of 198.4 K and boiling 
+point of 239.7 K. 
+iii. It is highly soluble in water. The 
+concentrated  aqueous solution of NH3 is 
+called liquor ammonia. 
+Cu2⊕(aq) + 4NH3(aq) 
+  [Cu(NH3)4]2⊕(aq)
+	
+	
+	
+          deep blue
+AgCl(s) + 2NH3(aq) 
+ [Ag(NH3)2]Cl(aq)
+	
+	
+	
+	
+colourless
+b. Chemical properties 
+i. Basic nature : The aqueous solution of 
+ammonia is basic in nature due to the formation 
+of OH− ions.
+NH3 (g) + H2O (l) 
+   NH⊕
+4 (aq) + OH  (aq)
+ii. Ammonia reacts with acids to form 
+ammonium salts.
+	
+NH3 + HCl 
+  NH4Cl
+	
+2NH3 + H2SO4 
+  (NH4)2SO4
+iii. Aqueous solution of ammonia precipitates 
+out as hydroxides (or hydrated oxides) of 
+metals from their salt solutions.
+ZnSO4(aq) + 2 NH4OH(aq) 
+  Zn(OH)2(s) + 
+                                                      White ppt	
+                                                 (NH4)2SO4(aq)	
+FeCl3(aq) + 2NH4OH(aq) 
+  Fe2O3.xH2O + 
+          	 	
+	
+	
+NH4Cl(aq)
+iv. Complex formation :
+The lone pair of electrons on nitrogen the atom 
+facilitates complexation of ammonia with 
+transition metal ions.
+Uses
+Ammonia is used in
+i. manufacture of fertilizers such as urea, 
+diammonium phosphate, ammonium nitrate, 
+ammonium sulphate etc. 
+ii. manufacture of some inorganic compounds 
+like nitric acid.
+iii. refrigerant (liq. ammonia).
+iv. laboratory reagent in qualitative and 
+quantitative analysis (aq. solution of ammonia)
+Ammonia gives brown ppt with 
+Nessler’s reagent (alkaline solution of 
+K2HgI4).
+2 KI + HgCl2 
+ HgI2 + 2 KCl
+2 KI + HgI2 
+ K2HgI4  (Nesseler’s reagent)
+2 K2HgI4 + NH3 + 3 KOH
+H2N-HgO- HgI  
+	
+	
+           Millon’s base (Brown ppt)	
+	
+	
+	
+	
++7 KI + 2 H2O
+Ammonia has higher melting point 
+and boiling point, because in the solid and 
+liquid state NH3 molecules get associated 
+together through hydrogen bonding. Thus 
+some more energy is required to break such 
+intermolecular hydrogen bonds.
+This reaction is used for the detection 
+of metal ions such as Cu2+, Ag+.

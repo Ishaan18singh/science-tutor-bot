@@ -1,0 +1,1405 @@
+80
+4.	
+Using data from the Table, answer the 
+following :
+Examoles
+C2H6
+Ethane
+C2H4 
+Ethene
+C2H2
+Ethyne
+Structure
+-C - C -
+C = C
+-C ≡ C -
+Type of bond 
+between carbons
+single 
+double 
+triple
+Bond length 
+(nm)
+0.154
+0.134
+0.120
+Bond Enthalpy
+kJ mol-1
+348
+612
+837
+a. 	 What happens to the bond length when 
+unsaturation increases?
+b. 	 Which is the most stable compound?
+c. 	 Indicate the relation between bond strength 
+and Bond enthalpy.
+d. 	 Comment on overall relation between 
+Bond length, Bond Enthalpy and Bond 
+strength and stability.
+5.	
+Complete the flow chart 
+Molecular 
+Formula
+BeCl2
+C2H2
+O=C=O -   Linear
+1800
+Structural
+Formula
+Shape/
+Geometry
+Bond 
+angle
+Activity :
+Practice the bonding structure with the 
+help of structure set of chemistry.
+7. Answer in one sentence:
+A.	 Indicate the factor on which stalility of 
+ionic compound is measured?
+B.	 Arrange the following compounds on the 
+basis of lattice energies in decreasing 
+(descending) order: BeF2, AlCl3, LiCl, 
+CaCl2, NaCl
+C.	 Give the total number of electrons 
+around sulphur (S) in SF6 compound.
+D.	 Covalant bond is directional in nature. 
+Justify.
+E.	 What are the interacting forces present 
+during formation of a molecule of a 
+compound ?
+F. 	Give the type of overlap by which pi 
+(π) bond is formed.
+G.	 Mention 
+the 
+steps 
+involved 
+in 
+Hybridization.
+H.	 Write the formula to calculate bond 
+order of molecule.
+I.	 Why is O2 molecule paramagnetic?
+J.	 What do you mean by formal charge ? 
+Explain its significance with the help of 
+suitable example.
+6. Complete the following Table
+Molecule
+Type of 
+Hybridisation
+Type of bonds
+Geometry
+Bond angle
+CH4
+-
+4C-H
+4σ  bonds
+Tetrahedral
+-
+NH3
+sp3
+3N-H
+3σbonds
+1 lone pair
+-
+-
+H2O
+-
+-
+angular
+104.50 
+BF3
+sp2
+-
+-
+1200
+C2H4
+-
+-
+-
+1200
+BeF2
+-
+2 Be-F
+Linear
+-
+C2H2
+sp
+(3σ+2π)
+1C-C σ
+2C-H σ
+2C-C π 
+-
+-
+81
+Can you tell?
+6.1 Introduction
+6. Redox Reactions
+Oxidants/ Oxidising agent : A reagent/ 
+substance which itself undergoes reduction and 
+causes oxidation of another species is called 
+oxidant /oxidising agent. Now consider some 
+more examples.
+Mg(s) + F2 (g) 
+ Mg F2(s)            
+ (6.5)
+Mg (s) + S(s)  
+ MgS (s)                
+ (6.6)
+The above reactions are also examples 
+of oxidation though no oxygen is involved 
+and thus scope of oxidation can be expanded. 
+Combination with electronegative element is 
+oxidation. Oxidation can also be looked upon 
+as the removal of electropositive element.
+For example
+Hg2Cl2 (s) 
+ HgCl2 (s) + Hg(s)  
+(6.7)
+Now let us consider some examples of reduction. 
+a. Removal of oxygen from mercuric oxide
+2 HgO (s) 
+ 2 Hg (l) + O2 (g)  
+ (6.8)
+b. Removal of electronegative element from 
+FeCl3 as in 
+2 FeCl3 + H2 (g) 
+ 2FeCl2 (aq) + 2 HCl	
+ 
+ (6.9)
+c. Addition of hydrogen
+CH2 = CH2 (g) + H2 (g) 
+ CH3 - CH3 (g) 	  
+ (6.10)
+d. Addition of an elctropositive element
+2 HgCl2(aq) + SnCl2 (aq) 
+ Hg2Cl2(s)  +         
+                                   SnCl4 (aq)  
+ (6.11)
+In eq. (6.8) there is removal of oxygen 
+from mercuric oxide  Eq (6.9) shows removal of 
+electronegative element from FeCl3 Eq (6.10) 
+involves addition of hydrogen. Equation (6.11) 
+involves addition of an electropositive element 
+Hg to HgCl2. All these reactions represent 
+reduction. 
+Reductant / reducing agent : A reagent /
+reducing agent is defined as a substance/
+reagent which itself undergoes oxidation 
+bringing about the reduction of another 
+species. Now consider again equation (6.11). 
+The equation (6.11) involves simultaneous 
+oxidation and reduction. In this reaction HgCl2 
+is reduced to Hg2Cl2 and SnCl2 is oxidized to 
+SnCl4. Hence it is redox reaction.
+1. What is combustion reaction?
+2. Write an equation for combustion of 
+methane.
+3. What is the driving force behind reactions 
+of elements?
+1. Why does cut apple turn brown when 
+exposed to air ?
+2. Why does old car bumper change colour?
+3. Why do new batteries become useless 
+after some days ?
+Redox is an abbreviation used for the 
+terms 'oxidation and reduction'. A large 
+number of phenomena such as respiration, 
+rusting,  combustion of fuel involve redox 
+reactions.
+6.1.1 Classical ideas of redox reactions  
+Classically oxidation refers to combination of 
+an element or a substance with oxygen.
+For example, Oxidation of carbon 
+          C (s) + O2 (g) 
+ CO2 (g)     
+ (6.1)
+Oxidation of magnesium	
+           
+              2 Mg + O2
+ 2 MgO(s)   
+  (6.2)
+In reaction (6.1) and (6.2) the carbon 
+and magnesium are oxidized on reacting with 
+oxygen. Now consider the reaction :
+2 Fe2O3 + 3 C (s) 
+ 4 Fe (s) + 3 CO2 (g)   	       	
+	
+	
+	
+                         
+(6.3)
+In this reaction there is removal of oxygen 
+from Fe2O3. Hence it is a reduction reaction. 
+Further
+2H2S (g) + O2 (g) 
+ 2 S (s) + 2 H2O (l) 	
+ 
+(6.4)
+In this reaction there is removal of 
+hydrogen and is also called oxidation. Here 
+the sulfur in H2S loses hydrogen and undergoes 
+oxidation while oxygen accepts hydrogen and 
+undergoes reduction.
+Can you recall?
+82
+Try this
+Key points
+Oxidation it is defined as:
+a. addition of oxygen.
+b. addition of electronegative element.
+c. removal of hydrogen.
+d. removal of electropositive element.
+e. loss of electrons by any species.
+Reduction it is defined as:
+a. removal of oxygen.
+b. removal of electronegative element.
+c. addition of hydrogen.
+d. addition of electropositive element.
+e. gain of electrons by any species.
+6.1.2 Redox reaction in terms of  electron 
+transfer : Redox reaction can be described as 
+electron transfer as shown below.
+Mg + 1
+2  O2 
+ Mg2⊕ + O2   
+ (6.12)
+Mg + F2 
+ Mg2⊕ + 2F   
+ (6.13)
+Development of charges on the species 
+produced suggest the reactions 6.12 and 6.13 
+can be written as :
+Mg(s) + O2(g) 
+ Mg2⊕ + O2
+Loss of 2e
+Gain of 2e
+ 
+Mg(s) + F2(g) 
+ Mg2⊕ + 2F
+Loss of 2e
+Gain of 2e
+When Mg is oxidised to MgO, the neutral 
+Mg atom loses electrons to form Mg2⊕  in 
+MgO. The elemental oxygen gains electrons 
+and forms O2  in MgO.
+Each of the above steps represents a half 
+reaction which involves electron transfer (loss 
+or gain). Sum of these two half reactions or the 
+overall reaction is a redox reaction. Now 
+consider the following half reactions.
+Fe(s) 
+ Fe 2⊕(aq) + 2e  
+Cu2⊕ (aq) + 2e  
+ Cu(s)
+	
+ 
+  (6.14)
+	
+ 
+  (6.15)
+Fe(s) + Cu2⊕ (aq) 
+ Fe 2⊕(aq) + Cu(s)
+                                                         
+  (6.16)
+In the half reaction (6.14) Fe acts as a reducing 
+agent whereas Cu 2⊕ acts as oxidising agent 
+which accepts electrons from Fe. The half 
+reaction involving loss of electrons is called 
+oxidation reaction and that involving gain of 
+electrons is called reduction. Thus eq. (6.14) is 
+oxidation, eq. (6.15) is reduction and eq. (6.16) 
+is a redox reaction. 
+Key points : Oxidant / oxidizing agent : A 
+reagent / substance which itself undergoes 
+reduction and causes oxidation of another 
+species is called oxidant or oxidizing agent. 
+This is an electron acceptor. 
+Reductant / Reducing agent : A reagent / 
+reducing agent is defined as a substance / 
+reagent which itself undergoes oxidation and 
+brings about reduction of another species. A 
+reductant is electron donor. 
+Displacement reactions can also be looked 
+upon as redox reactions. In such reactions an 
+ion (or atom) in a compound is replaced by an 
+ion (or on atom) of another element.
+	
+X + YZ 
+ XZ + Y
+The reaction (6.16) is displacement reaction. 
+Complete the following table of displacement 
+reactions. Identify oxidising and reducing 
+agents involved. 
+Reactants
+Products
+Zn (s) + 
+ (aq)	
+ (aq) + Cu (s)
+Cu (s) + 2 Ag+ (aq)	
+  + 
+ 
+  + 
+Co2+ (aq) + Ni (s)
+6.2 Oxidation number : Description of redox 
+reaction in terms of electron transfer suggest 
+involvement of only ionic species in it. But 
+many reactions involving only covalent bonds 
+also fulfil the classical definition of oxidation 
+and reduction. For example:
+2H2 (g)+ O2 (g) 
+ 2H2O (l)        
+ (6.17)
+H2 (g) + Cl2 (g) 
+2HCI(g)	         
+ (6.18)
+Eq (6.17) represents oxidation of H2 as it is 
+combination with oxygen. An electronegative 
+element Cl is added to H2, and therefore, 
+eq (6.18) also represents oxidation of H2. As 
+products of both these oxidations are polar 
+covalent molecules, there is an electron shift 
+rather than complete electron transfer from 
+one species to the other.
+83
+Remember
+	
+A practical method based on oxidation 
+number is developed to describe all the redox 
+reactions, which are either ionic involving 
+complete electron transfer or covalent which 
+refer to shift of electrons. In this method the 
+electron pair in a covalent band is assumed to 
+belong to more electronegative element, that 
+is, it shifts completely to more electronegative 
+element. 
+Oxidation number of an element in 
+a compound is defined as the number of 
+electrical charges it carries (assuming complete 
+electron transfer in the case of covalent bond). 
+The following rules have been formulated to 
+determine the oxidation number of an element 
+in a compound.
+6.2.1 Rules to assign oxidation number
+1. The oxidation number of each atom of an 
+element in free state is zero. For example : 
+each atom in H2, Cl2, O3, S8, P4, O2, Ca, etc. 
+has oxidation number of zero.
+2. The oxidation number of an atom in a 
+monoatomic ion is equal to its charge. Thus 
+alkali metals have oxidation number +1 in 
+all their compounds (NaCl, KCl, etc.). 
+Alkaline earth metals have oxidation 
+number +2 in all their compouds (CaCO3, 
+MgCl2, etc.). Al is considered to have +3 as 
+its oxidation number in all its compounds.
+3. The oxidation number of O is usually -2 in 
+all of its compounds except in peroxide or 
+peroxide ion where it has oxidation number 
+of -1 and in superoxide each oxygen has 
+oxidation number -1/2.
+Ca-O 	  H-O-O-H 	
+(O-O)	       KO2
++2  -2  	 +1 -1 -1 +1	
+ -1  -1	
+      +1 -1/2
+In OF2 oxidation number of oxygen is +2.
+4. The oxidation number of H atom is either 
++1 or -1. When the H atom is bonded to 
+nonmetals, its oxidation number is +1. When 
+it is bonded to metals, it possesses oxidation 
+number of -1.
+(O-H)−	    H-O-H	
+Li-H 	 H-Ca-H 
+-2  +1	
+    +1 -2 +1	
++1 -1	
+-1  +2  -1
+5. The oxidation number of F is -1 in all of its 
+compounds. The other halogens Cl, Br and I 
+usually exhibit oxidation number of -1 in 
+their halide compounds. However in 
+compounds in which halogens Cl, Br and I 
+are bonded to oxygen, oxidation number of 
+halogens  is +1 For example,
+    H-F	
+KBr	
+Cl-O-Cl	
+H-O-Cl
++1-1	
++1-1	
++1  -2 +1	
++1 -2 +1
+6. The algebraic sum of oxidation numbers of 
+all the atoms in a neutral molecule is zero.
+7. The algebraic sum of oxidation numbers of 
+all the atoms in a polyatomic ion is equal to 
+net charge of the ion.
+8. When two or more atoms of an element are 
+present in molecule or ion, oxidation number 
+of the atom of that element will be average 
+oxidation number of all the atoms of that 
+element in that molecules.
+By applying rules 1 to 5 it is possible to 
+determine oxidation number(s) of atoms of 
+various elements in molecules or ions. For 
+doing this the rules 6, 7 and 8 are useful.
+Oxidation number of an element can be 
+positive or negative and a whole number 
+or a fraction.
+Problem 6.1: Deduce the oxidation number 
+of S in the following species:
+i. SO2	 	
+ii. SO4
+2 	
+ 	
+Solution:
+i. SO2 is a neutral molecule : 
+∴Sum of oxidation number of all atom of 
+SO2 = 0 = (oxidation number of S) 
+                        + 2 x (oxidation number of O)
+∴ 0 = (oxidation number of S) + 2 x (-2)
+∴ Oxidation number of S in SO2 
+                 = 0 – (2x (-2)) = 0 – (-4) = + 4
+ii. SO4
+2  is an ionic species.
+∴ Sum of oxidation number of all atom of 
+SO4
+2   = -2
+ = Oxidation number of S + 4 x (Oxidation 
+                                                 number of O)
+∴ Oxidation number of S in SO4
+2   
+                    = -2 -4 x (-2)   = -2+8 = + 6
+84
+6.2.2 Stock notation : Oxidation number 
+represents the oxidation state of an atom and 
+is also denoted by Roman numeral in 
+parentheses after the chemical symbol of the 
+concerned element in the molecular formula. 
+This representation is called Stock notation 
+after the German Scientist Alfred Stock. For 
+example :
+1. 	 Au1⊕ Cl1  
+ Au(I)Cl
+2. 	 Au3⊕Cl3
+1  
+ Au(III)Cl3
+3. 	 Sn4⊕Cl4
+1  
+ Sn(IV)Cl4
+4.	 Sn2⊕Cl2
+1  
+ Sn(II)Cl2
+5. 	 Mn4⊕O2
+2
+ Mn(IV)O2
+The Stock notation is used to specify the 
+oxidation number of the metal. The idea of 
+oxidation number is very convenient to define 
+oxidation, reduction and the substances like 
+oxidizing agent (oxidant) and reducing agent 
+(reductant) of the redox reaction.
+6.2.3 Redox reaction in terms of oxidation 
+number :
+Oxidation : An increase in the oxidation 
+number of an element in a given substance.
+Reduction : A decrease in the oxidation 
+number of an element in a given substance.
+Oxidizing agent : A substance which increases 
+the oxidation number of an element in a given 
+substance, and itself undergoes decrease in 
+oxidation number of a constituent element.
+Reducing agent : A substance that lowers the 
+oxidation number of an element in a given 
+substance, and itself undergoes an increase in 
+the oxidation number of a constituent element 
+in it.
+Problem 6.2 : Assign oxidation number to 
+each element in the following compounds 
+or ions.
+a. KMnO4	
+b.K2Cr2O7	
+c. Ca3(PO4)2	
+Solution :
+a. KMnO4
+1. Oxidation number of K = +1
+2. Oxidation number of O = -2
+3. Sum of the oxidation numbers of all 
+atoms = 0
+\ Oxidation no. of K + oxidation of Mn 
+                 + 4 x oxidation number of O =  0
+Problem 6.3 : Assign oxidation number to 
+the atoms other than O and H in the 
+following species.
+i. SO3
+2  ii. BrO3  iii. ClO4  iv. NH4
+⊕ v. NO3  
+vi. NO2  vii. SO3 viii. N2O5
+Solution : The oxidation number of O atom 
+bonded to a more electropositive atom is -2 
+and that of H atom bonded to electronegative 
+atom is +1. Using these values the oxidation 
+numbers of atoms of the other elements in a 
+given polyatomic species are calculated.
+(+1) + oxidation number of Mn + 4 x (-2) = 0
+oxidation number of Mn + 1 - 8 = 0
+oxidation number of Mn - 7 = 0
+oxidation number of Mn = +7
+b. K2Cr2O7
+1. oxidation number of K =+1
+2. oxidation number of O = -2
+3. sum of oxidation number of all atoms = 0
+\ 2 x oxidation no. of K + 2x oxidation 
+number of Cr +7x oxidation number of O = 0
+\ 2 x (+1) + 2 x oxidation number of Cr + 7 
+x (−2) = 0
+\ +2 +2 x oxidation number of Cr - 14 = 0
+\ 2x oxidation number of Cr + 2 - 14 = 0
+\  2x oxidation number of Cr - 12 = 0
+\ 2x oxidation number of Cr = +12 
+\ oxidation number of Cr = +12 /2
+\ oxidation number of Cr = +6
+c. Ca3(PO4)2
+1. oxidation number of Ca = +2 
+(alkaline earth metal ion)
+2. oxidation number of O = -2
+3. sum of oxidation number of all atoms = 0
+\ 3 x O.N. of Ca + 2 x oxidation number of 
+P + 8 x oxidation number of O = 0
+\ 3 x(+2) + 2 x oxidation number of  P 
+                                                  + 8 x (-2) = 0
+\ (+6) + 2 x oxidation number of P -16 = 0
+\ 2 x oxidation number of P -16 + 6 = 0
+\ 2 x oxidation number of P -10 = 0
+\ 2 x oxidation number of P = +10
+\ oxidation number of P = +10/2
+\ oxidation number of P = + 5
+85
+Problem 6.4 : Identify whether the following 
+reactions are redox or not. State oxidants 
+and reductants therein.
+a. 3H3AsO3(aq) + BrO3 (aq)  
+ 
+                                   Br  (aq) + 3H3AsO4(aq) 
+1. Write oxidation number of all the atoms 
+of reactants and products by doing required 
+calculations. (a) stands for known O.N. and 
+(b) for calculated O.N.
+2. Identify the species that undergoes change 
+in oxidation number
+3H3AsO3(aq) + BrO3
+− (aq) 
+ Br−(aq) + 3H3AsO4(aq)
+Loss of 2e  
+Gain of 6e
+The oxidation number of As increases 
+from +3 to +5 and that of Br decreases from 
++5 to -1. Because oxidation number of one 
+species increases and that of other decreases, 
+the reaction is therefore redox reaction.
+The oxidation number of As increases 
+by loss of electron. Thus As is a reducing 
+agent and is itself oxidized. On the other 
+hand, the oxidation number of Br decreases. 
+Hence, it is reduced by the gain of electron 
+and act as an oxidizing agent.
+Result :
+1. The reaction is redox reaction.
+2. Oxidant/oxidizing agent - BrO3
+−
+3. Reductant/Reducing agent - H3AsO3
+6.3 Balancing of redox reactions : Two 
+methods are used to balance chemical equation 
+for redox processes : Oxidation number 
+method and Half reaction method or Ion 
+electron method.
+6.3.1 The Oxidation number method is 
+illustrated in the following steps : 
+Step I : Write the unbalanced equation for 
+redox reaction. Balance the equation for all 
+atoms in the reactions, except H and O. 
+Identify the atoms which undergo change in 
+oxidation number and by how much. Draw the 
+bracket to connect atoms of the elements that 
+changes the oxidation number.
+Step II : Show an increase in oxidation number 
+per atom of the oxidised species and hence the 
+net increase in oxidation number. Similarly 
+show a decrease in the oxidation number per 
+atom of the reduced species and the net 
+decrease in oxidation number. Determine the 
+factors which will make the total increase and 
+decrease equal. Insert the coefficients into the 
+equation.
+Step III : Balance oxygen atoms by adding 
+H2O to the side containing less O atoms, One 
+H2O is added for one O atom. Balance H 
+atoms by adding H⊕ ions to the side having 
+less H atoms.
+i. SO3
+2
+- 2  =  oxidation number of S 
+                     + 3 x (oxidation number of O)
+∴ Oxidation number of S = - 2 - 3 (-2)
+                                           = - 2 + 6 = 4
+ii. BrO3
+- 1 =  oxidation number of Br 
+                     + 3 x (oxidation number of O)
+∴ Oxidation number of Br = - 1 - 3 (-2)
+                                            = - 1 + 6 = 5
+Similarly the oxidation number in the 
+remaining species are found to be
+iii. Cl in ClO4  : +7	
+iv. N in NH4
+⊕ : -3
+v. N in NO3  	 : +5	
+vi. N in NO2 : +3
+vii. S in SO3	 : +6	
+viii. N in N2O5  : +5
+Do you know ?
+Some 
+elements 
+in 
+a 
+particular 
+compound may possess fractional oxidation 
+number.  For example : C3O2, Br3O8, 
+Na2S4O6, C8H18, etc. In these compounds 
+oxidation number of C, Br, S, C are 4/3, 
+16/3, 2.5, 9/4, respectively. These oxidation 
+numbers are actually the average oxidation 
+number of all the atoms of elements in that 
+compound. Different atoms of the element 
+in such species  exhibit different oxidation 
+states. For example : Tertra thionate ion has 
+two S atoms with oxidation number +5 and 
+two with zero (0). Therefore, the average 
+oxidation number of S in these species is 
+10/4 = 2.5
+-O - S - S* - S* - S - O-
++5 0       0
++5
+structure of S4O6
+2-
+(tetrathionate ion)
+O
+O
+O
+O
+3H3AsO3  +  BrO3   
+   Br   +  3H3AsO4 
+3 x(+1)   3 x(-2)    3 x (-2)	
+ -1     3 x (+1)  4x(-2)
+ +3
+(a)
+(b)
++5
++5
+86
+Step IV : If the reaction occurs in basic 
+medium, then add OH  ions, equal to the 
+number of H⊕ ions added in step III, on both 
+the sides of equation. The H⊕ and OH  on same 
+sides of reactions are combined to give H2O 
+molecules.
+Step V : Check the equation with respect to 
+both, the number of atoms of each element and 
+the charges. It is balanced.
+Note : For acidic medium step IV is omitted.
+Problem 6.5 : Using the oxidation number 
+method write the net ionic eqvation for the 
+reaction of potassium permanganate, KMnO4, 
+with ferrous sulphate, FeSO4. 
+MnO4 (aq) + Fe2⊕(aq) 
+ 	
+             
+                                       Mn2⊕(aq)+ Fe3⊕(aq)
+Solution : 
+Step 1 : The skeletal ionic equation is 
+MnO4 (aq) + Fe2⊕(aq) 
+  	
+             
+                                      Mn2⊕(aq)+ Fe3⊕(aq)
+Step 2 	 : Assign oxidation number to Mn and 
+Fe, and calculate the increase and decrease in 
+the oxidation number and make them equal. 
+(a) stands for known O.N. and (b) for 
+calculated O.N.
+MnO4      +   Fe2⊕ 
+  Mn2⊕  +     Fe3⊕ 
+4 x (-2) 	      +2	
+         +2	              +3
++7
+(a)
+(b)
+increase in oxidation number :
+Fe (+2)  
+ Fe (+3)
+increase per atom = 1
+decrease in oxidation number :
+Mn(+7) 
+ Mn(+2)
+decerase per atom = 5
+to make the net incerase and decrease equal we 
+must take 5 atoms of Fe2⊕
+MnO4 (aq) + 5Fe2⊕(aq) 
+  
+                                  Mn2⊕(aq) + 5Fe3⊕(aq)
+Step 3	
+: Balance the 'O' atoms by adding 
+4H2O to the right hand side.
+MnO4 (aq) + 5Fe2⊕(aq) 
+  
+                  Mn2⊕(aq) + 5Fe3⊕(aq) + 4H2O(l)
+Step 4:	 The medium is acidic. To make the 
+charges and hydrogen atoms on the two sides 
+equal, add 8H⊕ on the left hand side.
+MnO4 (aq) + 5 Fe2⊕(aq) + 8H⊕(aq) 
+ 
+                      Mn2⊕(aq) + 5Fe3⊕(aq) +  4H2O(l)
+Step 5:	 Check the two sides for balance of 
+charges and atoms. The net ionic equation 
+obtained in step 4 is the balanced equation.
+MnO4 (aq) + 5 Fe2⊕(aq) + 8H⊕(aq) 
+	
+          Mn2⊕(aq) + 5Fe3⊕(aq) + 4H2O
+6.3.2 Ion electron method (Half reaction 
+method) : In this method two half equations 
+are balanced separately and then added 
+together to give balanced equation. Following 
+steps are involved 
+Step I : Write unbalanced equation for the 
+redox reaction. Assign oxidation number to all 
+the atoms in the reactants and products. Divide 
+the equation into two half equations. One half 
+equation involves increase in oxidation number 
+and another involves decrease in oxidation 
+Problem 6.6 : Balance the following 
+reaction by oxidation number mathod.
+CuO+ NH3  
+ Cu + N2+ H2O
+Solution : 
+Step I : Write skeletal equation and balance 
+the elements other that O and H.
+ CuO + 2 NH3  
+ Cu + N2+ H2O
+Step II : Assign oxidation number to Cu 
+and N. Calculate the increase and decrease 
+in the oxidation number and make them 
+equal. (a) stands for known O.N. and (b) for 
+calculated O.N.
+CuO + 2NH3  
+  Cu+ N2 + H2O 
+-2        3x(+1) 	
+              0      0   
++2 
+-3
+(a)
+(b)
+increase in oxidation number :
+2NH3
+ N2
+-3                 0
+increase per atom = 3 
+decrease in oxidation number 
+  CuO 
+   Cu
++2                      0
+ decrease per atom = 2
+to make the net increase and decrease equal 
+we must take 3 atoms of Cu and 2 atoms 
+of N
+3CuO+2NH3 
+ 3Cu+N2+ H2O
+Step III : Balance 'O' atoms by addition 
+2H2O to the right hand side. 
+3CuO+2NH3 
+ 3Cu+N2+ 3H2O
+Step IV : Charges are already balanced
+Step V   : Check two sides for balanced of 
+atoms and charges. The equation obtain in 
+step IV is balanced.
+3CuO+2NH3 
+ 3Cu+N2+ 3H2O  
+87
+Problem 6.7 : Balance the following 
+unbalanced equation (in acidic medium) by 
+ion electron (half reaction method)
+Mn2⊕ (aq) + ClO3 (aq) 
+ MnO2 (s) 
+                                                  + ClO2 (aq)
+Solution :
+Step I : Write unbalanced equation for the 
+redox reaction. Assign oxidation number to 
+all the atoms in reactants and product then. 
+Divide the equation into two half equations.
+   Mn2⊕     +     ClO3      
+   MnO2  +   ClO2
++2	
+            3x(-2)	
+        2x(-2)       2x(-2)
+Loss of 2e
+(a)
+(b)
+Oxidation half reaction
+Mn2⊕ (aq) 
+ MnO2 (s)
+Reduction half reaction
+ClO3 (aq) 
+ ClO2 (aq)
+Step II : Balance half equations for O 
+atoms by adding H2O to the side with less O 
+atoms. Add 2H2O to left side of oxidation 
+and one H2O to the right side of reduction.
+Oxidation
+Mn2⊕ (aq) + 2H2O (l) 
+MnO2 (s)
+number (Write two half equation separately)
+Step II : Balance the atoms except O and H in 
+each half equation. Balance oxygen atom by 
+adding H2O to the side with less O atoms.
+Step III : Balance the H atom by adding H+ 
+ions to the side with less H  atoms.
+Step IV : Balance the charges by adding 
+appropriate number of electrons to the right 
+side of oxidation half equation and to the left 
+of reduction half equation.
+Step V : Multiply half equation by suitable 
+factors to equalize the number of electrons in 
+two half equations. Add two half equations 
+and cancel the number of electrons on both 
+sides of equation.
+Step VI : If the reaction occurs in basic 
+medium then add OH- ions, equal to number of 
+H⊕ ions on both sides of equation. The H⊕ and 
+OH- ions on same side of equation combine to 
+give H2O molecules.
+Step VII : Check that the equation is balanced 
+in both, the atoms and the charges.
+Reduction
+ClO3 (aq) 
+ ClO2 (aq) + H2O (l)
+Step III : Balance H- atoms by adding H⊕ 
+ions to the side with less H. Hence add 4H⊕ 
+ions to the right side of oxidation and 2H⊕ 
+ions to the left side of reduction.
+Oxidation
+Mn2⊕ (aq) + 2 H2O (l) 
+ MnO2 + 4H⊕ (aq) 
+Reduction
+ClO3
+ (aq) + 2 H⊕ (aq) 
+ ClO2 (aq) 
+                                                      + H2O (l)
+Step IV : Now add 2 electrons to the right 
+side of oxidation and 1 electron to the left 
+side of reduction to balance the charges.
+Oxidation
+Mn2⊕ (aq) + 2 H2O(l) 
+  MnO2 (s) + 
+	
+	
+	
+4 H⊕(aq) + 2 e  
+Reduction
+ClO3 (aq) + 2H⊕ (aq)+ e  
+ClO2 (aq) 
+                                                            + H2O(l)
+Step V : Multiply reduction half equation 
+by 2 to equalize number of electrons in two 
+half equations. Then add two half equation.
+Oxidation
+Mn2⊕ (aq) + 2 H2O(l)
+   
+ MnO2 (s) + 4H⊕(aq) + 2e  Reduction
+                                                           
+ (1)
+2 ClO3 (aq) + 4H⊕(aq) + 2e  
+               
+ 2ClO2(aq) + 2H2O (l)    
+ (2)
+eq. (1) +  eq. (2) gives the net reaction
+Mn2⊕ (aq) + 2 ClO3 (aq) 
+                          
+ MnO2(s) + 2ClO2 (aq)      
+The equation is balanced in terms of 
+number of atoms and the charges.
+Problem 6.8 : Balance the following 
+unbalanced equation by ion electron (half 
+reaction method)
+H2O2 (aq) + ClO4 (aq) 
+ ClO2
+ (aq)
+                                                       +  O2 (g)
+Solution : 
+Step I : Write unbalanced equation for the 
+redox reaction and assign oxidation number 
+to all the atoms in reactants and products. 
+(a) stands for known O.N. and (b) for 
+calculated O.N. 
++5
+Gain of 1e
+88
+Try this
+Classify the following unbalanced half 
+equations as oxidation and reduction 
+Example
+Type
+Cl (aq) 
+ Cl2 (g)
+oxidation
+OCl (aq) 
+ Cl  (g)
+Fe(OH)2 
+ Fe(OH)3
+VO2⊕ (aq) 
+ V3⊕ (aq)
+Divide the equation into two half equations.
+Oxidation
+H2O2 (aq) 
+ O2 (g)
+Reduction
+ClO4
+ (aq) 
+ ClO2  (aq)
+Step II : Balance the half equation for O 
+atoms by adding H2O to the side with less O 
+atoms. Hence add 2 H2O to the right side of 
+reduction half equation and none to the 
+oxidation half equation 
+Oxidation
+H2O2 (aq) 
+ O2(g)
+Reduction
+ClO4
+ (aq) 
+ ClO2  (aq) + 2 H2O(l)
+Step III : Balance H atoms by adding H+ 
+ions to the side with less H. Hence add 2H⊕ 
+ions to the right side of oxidation half 
+equation and 4H⊕ ions to the left side of 
+reduction half equation.
+Oxidation
+H2O2 (aq) 
+ O2(g) + 2H⊕ (aq)
+Reduction
+ClO4
+ (aq) + 4H⊕ (aq) 
+ ClO2  (aq) 
+                                                     + 2H2O (l)
+Step IV : Add 2 electrons to the right side of 
+oxidation half equation and 4 electrons to 
+the left side of reduction half equation to 
+balance the charges.
+Oxidation
+H2O2 (aq) 
+ O2(g) + 2H⊕(aq) + 2e
+Reduction
+ClO4
+ (aq) + 4H⊕(aq) + 4e  
+ ClO2  + 
+2H2O
+Step V : Multiply oxidation half equation 
+by 2 to equalize the number of electrons and 
+then add two half equations.
+Oxidation
+2 H2O2 (aq) 
+ 2O2(g) + 4H⊕(aq) + 4e
+Reduction
+ClO4
+ (aq) + 4H⊕(aq) + 4e  
+ ClO2  
+                                                   + 2 H2O(l)
+2 H2O2 (aq) + ClO4
+ (aq)+ 4H⊕(aq) + 4e  
+2 O2(g) + ClO2
+ (aq) + 4 H⊕(aq) + 4e  
+                                                 + 2 H2O(l)
+2 H2O2 (aq) + ClO4
+ (aq) 
+ 
+                    2 O2(g) + ClO2
+ (aq) + 2 H2O(l)
+This equation is balanced in terms of 
+atoms and charges.
+6.4 Redox reaction and electrode potential
+We noted in the section 6.1.1 that 
+displacement reaction can be looked upon 
+as redox reaction. Consider the following 
+displacement reaction.
+Zn (s) + Cu2⊕(aq) 
+ Zn2⊕(aq) + Cu (s)
+Loss of 2e
+Gain of 2e
+ (6.17)
+This reaction can be brought about in 
+two ways. The simpler method to observe this 
+reaction is to take copper sulfate solution in 
+a container and dip zinc rod in it. The redox 
+reaction (6.17) takes place in that container.
+Zinc gets oxidized to Zn2⊕ ion and Cu2⊕ ions 
+get reduced to metallic Cu. A direct transfer of 
+electrons from zinc atom to cupric ions takes 
+place in this case. 
+The electron transfer from Zn atom to 
+Cu2⊕ ions can be demonstrated by carrying out 
+two half reactions in two separate containers 
+as shown in Fig. 6.1.
+H2O2    +     ClO4
+     
+   ClO2    +  O2
+2x(+1)  	                4x(-2)	     	
+ 2x(-2)    0
+Loss of 2e
+Gain of 4e
+2 x (-1)
++7
++3
+(a)
+(b)
+89
+cell, in which electricity is generated by redox 
+reaction.
+In an electrochemical cell electrons flow 
+in  the external circuit from anode to cathode 
+while the conventional current flows from 
+cathode to anode. An electrical potential is 
+said to be established at the two electrodes of 
+an electrochemical cell. It is called electrode 
+potential. The magnitude and direction of the 
+electrode potential depends upon the nature of 
+the metal and ions, concentration of ions and 
+temperature. The reaction associated with an 
+electrode is called electrode reaction. The 
+two chemical species linked by transfer of 
+electrons form a redox couple.
+6.4.1 Standard electrode potential : When 
+concentration of each species taking part in the 
+electrode reaction is unity and the temperature 
+is 298 K, observed electrode potential is 
+called standard electrode potential (E0). By 
+convention the standard electrode potential 
+of hydrogen electrode is 0.00 Volt. Standard 
+hydrogen electrode is used as reference 
+electrode for determination of E0 values of 
+various redox couples.
+Significance of E0 value : The electrode 
+reaction considered for the electrode potential 
+is reduction reaction. Therefore, value and sign 
+of standard electrode potential is a measure of 
+the tendency of active species in the electrode 
+reaction to remain in the oxidized / reduced 
+form. A negative E0 means redox couple is a 
+stronger reducing agent than the H⊕/H2 couple. 
+Table 6.1 shows standard electrode potentials 
+of reduction process of some redox couples. 
+The set up in Fig. 6.1 is that of Daniel 
+cell. The zinc and copper plates are connected 
+by an electric wire through a switch and 
+voltmeter. The solution in two containers are 
+connected by salt bridge (U-shaped glass tube 
+containing a gel of KCl or NH4NO3 in agar-
+agar). When switch is on, electrical circuit 
+is complete as indicated by the deflection in 
+the voltmeter. The circuit has two parts, one 
+called external circuit, in the form of electrical 
+wire which allows the flow of electrons and 
+the other in the form of two solutions joined by 
+salt bridge. In solution part of the circuit, the 
+electric current is carried by movement of ions. 
+When a circuit is complete, the zinc atoms on 
+zinc plates spontaneously lose electrons which 
+are picked up in the external circuit. The 
+electrons flow from the zinc plate to copper 
+plate through the wire. Cu2⊕ ions in the second 
+container receive these electrons through the 
+copper plate and are reduced to copper atoms 
+which get deposited on the copper plate. Here, 
+zinc plate acts as anode (negative electrode) 
+and the copper plate acts as cathode (positive 
+electrode). Thus, when two half reactions, 
+namely, oxidation and reduction, are allowed 
+to take place in separate containers and  a 
+provision is made for completing the electrical 
+circuit, electron transfer takes place through 
+the external circuit. This results in flow of 
+electric current in the circuit as indicated by 
+deflection in voltmeter. At the same time 
+ions move within the solution resulting in 
+completion of the electrical circuit. This is 
+a simple electrochemical cell called Daniel 
+Fig. 6.1 : Daniel Cell
+Zn (s)  
+  Zn2⊕(aq) + 2e
+Oxidation (loss of electrons)
+Reduction (gain of electrons)
+Cu2⊕(aq) + 2e  
+  Cu(s)
+electron
+ flow
+electron
+ flow
+V
+Copper 
+electrode 
+(cathode)
+Zinc 
+electrode 
+(anode)
+Copper 
+salt 
+solution
+Zinc 
+salt 
+solution
+Electrode reactions
+Salt bridge
+Voltmeter 
+Ion 
+flow
+90
+Large negative value of E0 means that redox couple is strong reducing agent. On the other 
+hand, more positive value of E0 means the redox couple is strong oxidizing agent. From the Table 
+6.1 it is seen that alkali metals have high negative value of E0, which means that they are strong 
+reducing agents. The alkali metals have great tendency to give away electron and form cations. 
+On the other hand, fluorine has highly positive value of E0 and thus great tendency to gain electron 
+and is therefore, very strong oxidizing agents.
+Table 6.1 : Standand electrode protentianls of some  redox couples
+Oxidised form + ne   
+ reduced from 
+E0/V
+F2(g)+2e   
+ 2F  
+2.87
+H2O2+2H⊕+2e   
+ 2H2O
+1.78
+MnO4 +8H⊕+5e  
+ Mn2⊕+4H2O
+1.51
+Cl2(g)+2e  
+ 2Cl
+1.36
+Cr2O7
+2 +14H⊕+6e  
+ 2Cr3⊕+7H2O
+1.33
+O2(g)+4H⊕+4e  
+ 2H2O
+1.23
+Br2+2e  
+ 2Br
+1.09
+2Hg2⊕+2e  
+  Hg2
+2⊕
+0.92
+Fe3⊕+e  
+ Fe2⊕
+0.77
+I2(s)+2e  
+ 2I
+0.54
+2H⊕+2e  
+ H2(g)
+0.00
+Zn2⊕+2e  
+ Zn(s)
+-0.76
+Al3⊕ +3e  
+ Al(s)
+-1.66
+Mg2⊕ +2e  
+ Mg(s)
+-2.36
+Na⊕ +e  
+ Na(s)
+-2.71
+Ca2⊕ +2e  
+ Ca(s)
+-2.87
+K⊕+e
+ K(s)
+-2.93
+Li⊕ + e  
+ Li(s)
+-3.05
+We shall learn more about electrode potential and electrochemical cells in the 12th standard.
+Problem 6.9 : By using standard electrode potential table justify that the reaction between the 
+following is spontaneous. (a) Fe3⊕ (aq) and I   (aq), (b) Ag⊕ (aq) and Cu(s)
+Solution : Write oxidation half reaction for one species and reduction half reaction for the 
+other species. Change the sign of E0 of oxidation half reaction. Take the sum of two E0 values. 
+If the sum is positive the reaction between two species is spontaneous.
+(a) Fe3⊕ (aq) and I   (aq)
+Reduction : 2 Fe3⊕ (aq) + 2e   
+ 2 Fe2⊕ ,         	 	 	 	
+	
+E0 =  + 0.77 V
+Oxidation :   2I  (aq)                            
+ I2(s) + 2e  ,     	 	 	
+	
+E0 =   - 0.54 V
+	 	
+	 	
+  	 	
+               	 	   
+The sum of E0 values is positive, therefore the reaction is spontaneous.
+(b) Ag⊕ (aq) and Cu(s)
+Reduction : 2 Ag⊕ (aq) + 2e   
+ 2Ag(s), 	
+	 	 	
+	
+E0 = +0.80 V
+Oxidation : Cu (s)                 
+  Cu2⊕ (aq) + 2e   , 	
+	
+E0 =   - 0.34 V
+	 	
+	 	
+	
+                                  
+The sum of E0 values is positive, therefore reaction is spontaneous.
+2 Fe3⊕ (aq) + 2I  (aq)          2 Fe2⊕ (aq) + I2(s)
+Sum = + 0.23 V
+Sum = + 0.46 V
+2 Ag⊕ (aq) + Cu(s)            2 Ag(s) + Cu2⊕ (aq)
+91
+1. Choose the most correct option
+A. Oxidction numbers of Cl atoms marked 
+as Cla and Clb in CaOCl2 (bleaching 
+powder) are
+	
+	
+	
+	
+a. zero in each 
+	
+b. -1 in Cla and +1 in Clb
+	
+c. +1 in Cla and -1 in Clb
+	
+d. 1 in each
+B. Which of the following is not an example 
+of redox reacton ?
+	
+a.CuO+H2
+Cu+H2O
+	
+b.Fe2O3+3CO2
+2Fe+3CO2
+	
+c. 2K+F2
+2KF
+	
+d. BaCl2+H2SO4 
+ BaSO4+2HCl
+C. A compound contains atoms of three 
+elements A, B and C. If the oxidation 
+state of A is +2, B is +5 and that of C is 
+-2, the compound is possibly  represented 
+by
+	
+a. A2 (BC3)2
+	
+b. A3 (BC4)2
+	
+c. A3 (B4C)2
+	
+d. ABC2
+D.	The coefficients p, q, r, s in the reaction
+	
+p Cr2O7
+2 + q Fe2⊕
+ r Cr3⊕ + s Fe3⊕ 
+                                                            + H2O
+	
+respectively are :
+a.	 1, 2, 6, 6
+b.	 6, 1, 2, 4
+c.	 1, 6, 2, 6
+d.	 1, 2, 4, 6
+E.	 For the following redox reactions, find 
+the correct statement.
+	
+Sn2⊕ + 2Fe3⊕ 
+ Sn4⊕ + 2Fe2⊕
+	
+a. Sn2⊕ is undergoing oxidation
+	
+b. Fe3⊕ is undergoing oxidation
+	
+c. It is not a redox reaction
+	
+d. Both Sn2⊕ and Fe3⊕ are oxidised
+F.	 Oxidation number of carbon in H2CO3 is
+	
+a. +1	
+b. +2
+	
+c. +3	
+d. +4
+G.	Which is the correct stock notation for 
+magenese dioxide ?
+	
+a. Mn(I)O2  	
+b. Mn(II)O2
+	
+c. Mn(III)O2	
+d. Mn(IV)O2
+I.	 Oxidation 
+number 
+of 
+oxygen 
+in 
+superoxide is
+	
+a. -2	
+b. -1	
+c. - 1
+2  	  d. 0
+J.	 Which of the following halogens does 
+always show oxidation state -1 ?
+	
+a. F
+	
+b. Cl
+	
+c. Br
+	
+d. I
+K.	The process SO2 
+ S2Cl2 is 
+	
+a. Reduction 	
+	
+b. Oxidation
+	
+c. Neither oxidation nor reduction
+	
+d. Oxidation and reduction.
+2. Write the formula for the following 
+compounds :
+	
+A. Mercury(II) chloride
+	
+B. Thallium(I) sulphate
+	
+C. Tin(IV) oxide	
+	
+D. Chromium(III) oxide
+3. Answer the following questions 
+A.	In which chemical reaction does carbon 
+exibit variation of  oxidation state from 
+-4 to +4 ? Write balanced chemical 
+reaction.
+B.	 In 
+which 
+reaction 
+does 
+nitrogen 
+exhibit variation of oxidation state from 
+-3 to +5 ?
+Exercises
+ Ca
+Cla
+Clb
+O

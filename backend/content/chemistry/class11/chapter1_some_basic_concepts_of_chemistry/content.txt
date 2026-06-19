@@ -1,0 +1,1332 @@
+Physical 
+chemistry 
+•	
+Generate environmental awareness by compiling concepts of 
+adsorption phenomenon.
+•	
+Learn science behind the fact about colloids in day to day life.
+•	
+Interpret nature, difference and relation of equilibrium constant.
+•	
+Design the suitable conditions to get more yield of the desired product.
+•	
+Differentiate nuclear reactions with ordinary chemical reaction.
+•	
+Acquire knowledge of natural radioactivity and related terms like 
+nuclear transmutation, nuclear fission, nuclear fusion.
+•	
+Clarify the beneficial and harmful effects of radioactivity.
+•	
+State the applications of radioactive elements like carbon dating, 
+nuclear reactor, generation of electricity and medicinal uses.
+•	
+Develop mathematical skills in finding radioactive decay constant, 
+half life period and nuclear binding energy.
+Organic 
+chemistry
+•	
+Interpret the structure and functional group of organic compounds.
+•	
+IUPAC nomenclature of organic compounds.
+•	
+Understand the influence of electronic displacement and reactivity in 
+organic molecules.
+•	
+Draw the formulae of various isomers of organic compounds.
+•	
+Illustrate different methods of preparation and chemical properties of 
+hydrocarbons.
+•	
+Infer importance of hydrocarbon. 
+•	
+ Gain information of medicinal properties of some chemical 
+compounds and chemistry behind food quality and cleasing action.
+Sr. No
+Title
+Page No
+1
+Some Basic Concepts of Chemistry
+1 - 12 
+2
+Introduction to Analytical Chemistry
+13 - 26
+3
+Basic Analytical Techniques
+27 - 34
+4
+Structure of Atom
+35 - 54
+5
+Chemical Bonding
+55 - 80
+6
+Redox Reactions
+81- 92
+7
+Modern Periodic Table
+93 - 109
+8
+Elements of Group 1 and 2
+110 - 122
+9
+Elements of Group 13, 14 and 15
+123 - 134
+10
+States of Matter
+135 - 159
+11
+Adsorption and Colloids
+160 - 173
+12
+Chemical Equilibrium
+174 - 189
+13
+Nuclear Chemistry and Radioactivity
+190 - 203
+14
+Basic Principles of Organic Chemistry
+204 - 232
+15
+Hydrocarbons
+233 - 260
+16
+Chemistry in Everyday Life
+261 - 270
+CONTENTS
+1
+1. Some Basic Concepts of Chemistry
+ 1.1 Introduction : Chemistry is the study of 
+matter, its physical and chemical properties 
+and the physical and chemical changes it 
+undergoes under different conditions. 
+Can you tell?
+Which are mixtures and pure substances 
+from the following ?
+i. sea water ii. gasoline iii. skin iv. a rusty 
+nail v. a page of the textbook. vi. diamond
+Chemistry is a central science. Its 
+knowledge is required in the studies of physics, 
+biological sciences, applied sciences, and earth 
+and space sciences. The scope of chemistry is 
+in every aspect of life, for example, the air we 
+breathe, the food we eat, the fluids we drink, 
+our clothing, transportation and fuel supplies, 
+and so on.
+Though it is an ancient science, due to 
+development and advancement in science 
+and technology, chemistry has developed as 
+modern science. Technological development 
+in sophisticated instruments expanded our 
+knowledge of chemistry which, now, has been 
+used in applied sciences such as medicine, 
+dentistry, engineering, agriculture and in daily 
+home use products.
+1.2 Nature of Chemistry : Chemistry is 
+traditionally classified further into five 
+branches : organic, inorganic, physical, bio 
+and analytical. Organic chemistry is the study 
+of the properties and reactions of compounds 
+of carbon. Inorganic chemistry is the study of 
+all substances which are not organic. Physical 
+chemistry is the study of principles underlying 
+chemistry. It deals with the studies of properties 
+of matter. It is study of atoms, molecules, and 
+fundamental concepts related to electrons, 
+energies and dynamics therein.  It provides 
+basic framework for all the other branches of 
+chemistry.
+1.2.1. Matter : You have learnt earlier that 
+matter occupies space and has mass. Matter 
+can be further classified into pure substances 
+and mixtures on the basis of chemical 
+composition. 
+Let us understand first what are pure 
+substances and mixtures.
+1.2.2 Pure substances versus mixtures :
+Pure substances have a definite chemical 
+composition. They always have the same 
+properties regardless of their origin. Mixtures 
+have no definite chemical composition and 
+hence no definite properties.
+Examples of pure substances : Pure metal, 
+distilled water, etc.
+Examples of mixtures : Paint (mixture of oils, 
+pigment, additive), concrete (a mixture of 
+sand, cement, water)
+Pure substances are further divided into 
+elements and compounds. Elements are 
+pure substances which can not be broken 
+down into simpler substances by ordinary 
+chemical changes. Elements are further 
+classified as metals, nonmetals and metalloids. 
+Matter
+pure substances
+mixtures
+elements
+compounds
+homogeneous
+heterogeneous
+metals
+metalloids
+nonmetals
+2
+1. Metals : 
+i. have a lustre (a shiny appearance).
+ii. conduct heat and electricity.
+iii. can be drawn into wire (are ductile).
+iv. can be hammered into thin sheets (are 
+malleable). 
+Examples : gold, silver, copper, iron. Mercury 
+is a liquid metal at room temperature.
+2. Non-metals :
+i. have no lustre. (exception : diamond, iodine)
+ii.  are poor conductors of heat and electricity. 
+(exception : graphite)
+iii. can not be hammered into sheets or drawn 
+into wire, because they are brittle.
+Examples : Iodine, nitrogen, carbon, etc.
+3.Metalloids : Some elements have properties 
+intermediate between metals and non-metals 
+and are called metalloids or semi-metals. 
+Examples 
+include 
+arsenic, 
+silicon 
+and 
+germanium.
+Compounds are the pure substances 
+which can be broken down into simpler 
+substances by ordinary chemical changes. 
+In a compound, two or three elements are 
+combined in a fixed proportion.
+Mixture contains two or more substances 
+in no fixed proportions and may be separated 
+by physical methods. Mixtures are further 
+divided into homogeneous and heterogeneous. 
+Solutions are homogeneous mixtures, because 
+the molecules of constituent solute and solvent 
+are uniformly mixed throughout its bulk. 
+In heterogeneous mixtures the molecules 
+of the constituents are not uniformly mixed 
+throughout the bulk. For example : Suspension 
+of an insoluble solid in a liquid.
+1.2.3 States of matter :  You are also aware 
+that matter exists in three different states 
+namely gas, liquid and solid. You are going to 
+learn about these states in unit 3 (chapter 10).
+In solids, constituent atoms or molecules 
+(particles) are tightly held in perfect order and 
+therefore solids possess definite shape and 
+volume. Liquids contain particles close to 
+each other and they can move around within 
+the liquid. While in gases, the particles are far 
+Can you tell?
+Classify the following as element and 
+compound. 
+i. mercuric oxide ii. helium gas iii. water iv. 
+table salt v. iodine vi. mercury vii. oxygen 
+viii. nitrogen
+apart as compared to those in liquid and solid 
+state.
+Three states of matter are interconvertible 
+by changing the conditions of temperature and 
+pressure.
+Fig : 1.1 Burning of magnesium wire
+1.3 
+Properties 
+of 
+matter 
+and 
+their 
+measurement :
+Different 
+kinds 
+of 
+matter 
+have 
+characteristic properties, which can be 
+classified into two categories as physical 
+properties and chemical properties.
+Physical properties are those which can 
+be measured or observed without changing 
+the chemical composition of the substance. 
+Colour, odour, melting point, boiling point, 
+density, etc. are physical properties. Chemical 
+properties are the properties where substances 
+undergo a chemical change and thereby 
+exhibit change in chemical composition. For 
+example, coal burns in air to produce carbon 
+dioxide or  magnesium wire burns in air in  the 
+presence of oxygen to form magnesium oxide. 
+(Fig. 1.1)
+1.3.1 Measurement of properties : Many 
+properties of matter are quantitative in nature. 
+When you measure something, you are 
+comparing it with some standard. The standard 
+quantity is reproducible and unchanging. 
+3
+Many properties of matter such as mass, 
+length, area, pressure, volume, time, etc. 
+are quantitative in nature. Any quantitative 
+measurement is expressed by a number 
+followed by units in which it is measured. 
+For example, length of class room can be 
+represented as 10 m. Here 10 is the number and 
+'m' denotes metre-the unit in which the length 
+is measured. 
+The standards are chosen orbitrarily 
+with some universally acceped criteria. ''The 
+arbitrarily decided and universally accepted 
+standards are called units.''
+There are several systems in which units 
+are expressed such as CGS (centimetre for 
+length, gram for mass and second for time), 
+FPS (foot, pound, second) and MKS (metre, 
+kilogram, second) systems, etc.
+SI units : 
+In 1960, the general conference of weights 
+and measure, proposed revised metric system, 
+called International System of units, that is, 
+SI units.
+The metric system which originated in 
+France in late eighteenth century, was more 
+convenient as it was based on the decimal 
+system. Later, based on a common standard 
+system, the International System of Units (SI 
+units) was established.
+The SI system has seven base units as 
+listed in Table 1.1. These are fundamental 
+scientific quantities. Other units like speed, 
+volume, density, etc. can be derived from these 
+quantities.
+Table 1.1 SI Fundamental units
+Base Physical Quantity
+Symbol for Quantity
+Name of SI Unit
+Symbol for SI Unit
+Length
+l
+metre
+m
+Mass
+m
+kilogram
+kg
+Time
+t
+second
+s
+Electric current
+I
+ampere
+A
+Thermodynamic temperature
+T
+Kelvin
+K
+Amount of substance
+n
+mole
+mol
+Luminous intensity
+Iv
+candela
+cd
+1.3.2 Physical properties 
+i. Mass and weight : We know that matter 
+has mass. So mass is an inherent property of 
+matter. It is the measure of the quantity of 
+matter a body contains. The mass of  a body 
+does not vary as its position changes. On the 
+other hand, the weight of a body is result of the 
+mass and gravitational attraction. The weight 
+of a body varies because the gravitational 
+attraction of the earth for a body varies with 
+the distance from the centre of the earth. 
+Hence, the mass of a body is more 
+fundamental property than its weight. 
+The basic unit of mass in the SI system is 
+the kilogram as given in Table 1.1. However, 
+a fractional quantity 'gram' is used for 
+weighing small quantities of chemicals in the 
+laboratories. Therefore, in terms of grams it is 
+defined (1kg = 1000 g = 103 g ) 
+ii. Length : In chemistry we come across 
+'length' while expressing properties such as 
+the atomic radius, bond length, wavelenght of 
+electromagnetic radiation, and so on. These 
+quantities are very small therefore fractional 
+units of the SI unit of length are used for 
+example, nanometre (nm), picometre (pm). 
+Here 1nm = 10-9 m, 1 pm = 10-12 m.
+iii. Volume : It is the amount of space occupied 
+by a three dimensional object. It does not 
+depend on shape. For measurement of volume 
+of liquids and gases, a common unit, litre (L) 
+which is not an SI unit is used.
+1 L = 1 dm3 = 1000 mL = 1000 cm3
+1000 cm3 = 10 cm × 10 cm × 10 cm of volume
+SI unit of volume is expressed as (metre)3 
+or m3. 
+4
+Different kinds of glassware are used to 
+measure the volume of liquids and solutions. 
+For example, graduated cylinder, burette, 
+pipette, etc. A volumetric flask is used to 
+prepare a known volume of a solution. Figure 
+1.3 shows the types of apparatus used in 
+laboratory for measuring volume of liquids. 
+Fahrenheit) and K (Kelvin). Here K is the SI 
+unit. Figure 1.4 shows the thermometers based 
+on these scales. 
+Generally, the thermometer with celsius 
+scale are calibrated from 0 0C to 100 0C where 
+these two temperatures are respectively the 
+freezing point and the boiling point of  water 
+at atmospheric pressure. These are represented 
+on fahrenheit scale as 320 F to 2120 F.
+Fig 1.4 : Thermometers of different 
+temperature scale
+Fig. 1.3 : Volumetric glass apparatus
+Fig. 1.2 : Litre and SI unit of volume
+iv. Density : Density of a substance is its 
+mass per unit volume. It is determined in 
+the laboratory by measuring both the mass 
+and the volume of a sample. The density is 
+calculated by dividing mass by volume. It is 
+the characteristic property of a substance.
+So SI unit of density can be obtained as follows:
+SI unit of density =   SI unit of mass 
+SI unit of volume  
+	
+=	
+kg
+m3  or kg m-3
+CGS units it is  g
+mL  or g mL-1 or g cm-3
+v. Temperature : Temperature is a measure of 
+the hotness or coldness of an object. There are 
+three common scales to measure temperature, 
+namely 
+0C (degree Celsius), 
+0F (degree 
+The temperatures on two scales are related to 
+each other by the following relationship :
+0F = 9
+5 (0C) + 32
+The Kelvin scale is related to Celsius scale as 
+follows :
+K = 0C + 273.15
+1.4 Laws of Chemical Combination : The 
+elements combine with each other and form 
+compounds. This process is governed by five 
+basic laws discovered before the knowledge of 
+molecular formulae.
+1.4.1 Law of conservation of mass : Antoine 
+Lavoisier (1743-1794) a 
+French scientist is often 
+referred to as the father 
+of modern chemistry. 
+He carefully performed 
+many 
+combustion 
+experiments, 
+namely, 
+burning of phosphorus and mercury, both in 
+the presence of air. Both resulted in an increase 
+in weight. After several experiments he found 
+that the weight gained by the phosphorus was 
+Water boils 
+at sea level
+Volume : 1000 cm3 ;
+                 1000 mL;  
+                 1dm3 ;
+                 1L.
+Volume : 1 cm3 
+                 1 mL 
+ 1 cm  
+ 1 cm  
+ 10 cm = 1dm 
+Water freezes 
+at sea level
+Absolute Zero — all molecular 
+motion STOPS
+Kelvin 
+Celsius
+Fahernheit
+Body temperature
+98.6º F, 37º C
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+-10
+-20
+370
+360
+350
+340
+330
+320
+310
+300
+290
+280
+270
+260
+250
+– 210
+– 200
+– 190
+– 180
+– 200
+– 160
+– 150
+– 140
+– 130
+– 120
+– 100
+– 90
+– 80
+– 70
+– 60
+– 50
+– 40
+– 30
+– 20
+– 10
+– 0
+– 0 - 10
+212 – 
+32 – 
+-459.67 – 
+100 – 
+0 – 
+-273.15 – 
+373.15 – 
+273.15 – 
+0 – 
+Calibration 
+mark indicates 
+250-ml volume
+Calibration 
+mark indicates 
+25-ml volume
+100-mL
+graduated cylinder
+25-mL pipette
+50-mL burette
+250-mL
+volumetric flask
+Value 
+(stopcock) 
+controls the 
+liquid flow
+mL
+mL
+0
+1
+2
+3
+4
+44 
+45 
+46 
+47 
+48 
+49 
+50
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+5
+exactly the same as the weight lost by the air. 
+He observed that,
+Total mass of reactants 
+ 	
+	
+	
+= Total mass of products
+When hydrogen gas burns and combines 
+with oxygen to yield water, the mass of the 
+water formed is equal to the mass of the 
+hydrogen and oxygen consumed. Thus, the 
+law of conservation of  mass states that 'mass 
+can neither be created nor destroyed.' 
+1.4.2 Law of Definite Proportions :
+French chemist, Joseph Proust performed 
+experiments on two samples of cupric 
+carbonate. One of the samples was natural in 
+origin and the other was a synthetic one. He 
+found that the composition of elements present 
+in it was same for both the samples as shown 
+below :
+Cupric 
+Carbonate
+% of 
+copper
+% of 
+oxygen 
+% of carbon
+Natural 
+sample
+51.35
+38.91
+9.74
+Synthetic 
+sample
+51.35
+38.91
+9.74
+This led Joseph Proust to state the law of 
+definite proportion as follows :
+'A given compound always contains exactly 
+the same proportion of elements by weight.'
+Irrespective of the source, a given compound 
+always contains same elements in the same 
+proportion. The validity of this law has been 
+confirmed by various experiments. This law 
+is sometimes referred to as Law of definite 
+composition.
+1.4.3 Law of multiple proportions :
+This law was proposed by John Dalton in 
+1803. It has been observed that two or more 
+elements may form more than one compound. 
+Law of multiple proportions summarizes 
+many experiments on such compounds. When 
+two elements A and B form more than one 
+compounds, the masses of element B that 
+combine with a given mass of A are always 
+in the ratio of small whole numbers. For 
+example, i. Hydrogen combines with oxygen 
+to form two compounds, namely water and 
+hydrogen peroxide.
+Hydrogen + Oxygen 
+Water
+       2 g 	
+   16 g 	               18 g
+Hydrogen+ Oxygen 
+Hydrogen Peroxide
+       2 g 	
+  32 g 	               34 g
+Here, it is found that, the two masses of 
+oxygen i.e. 16 g and 32 g which combine with 
+a fixed mass of hydrogen (2g) are in the ratio 
+of small whole numbers, i. e. 16:32 or 1:2.
+ii. Nitrogen and oxygen combine to form two 
+compounds, nitric oxide and nitrogen dioxide.
+Nitrogen + Oxygen 
+Nitric Oxide
+14 g 	
+16 g 	
+                30 g
+Nitrogen + Oxygen 
+Nitrogen Dioxide
+14 g 	
+32 g 	
+                  46 g
+Here, you find that the two masses of oxygen 
+i.e. 16 g and 32 g when combine with a fixed 
+mass of Nitrogen (14 g) are in the ratio of 
+small whole numbers i.e. 16:32 or 1:2.
+(Similar examples such as CO and CO2 
+(1:2 ratio), SO2 and SO3 (2:3 ratio), can be 
+found.)
+1.4.4 Gay Lussac Law of Gaseous Volume 
+: This law was put forth by Gay Lussac 
+in 1808. The law states that when gases 
+combine or are produced in a chemical 
+reaction they do so in a 
+simple ratio  by volume, 
+provided all gases are at 
+same temperature and 
+pressure. 
+Illustration : i. Under 
+the same conditions of 
+temperature and pressure, 
+100 mL of hydrogen 
+combines with 50 mL of oxygen to give 100 
+mL of water vapour.
+Hydrogen (g) + Oxygen (g) 
+ 	
+Water(g)
+100 mL	
+        50 mL                   	 100 mL
+(2 vol)	
+        (1 vol)	
+	
+(2 vol)
+Thus, the volumes of hydrogen gas and oxygen 
+gas which combine together i.e. 100 mL and 
+50 mL producing two volumes of water vapour 
+which amounts to 100 mL bear a simple ratio 
+of 2:1:2
+ii. Under the same condition of temperature 
+and pressure,
+6
+ What is an atom and a moleule ? 
+What is the order of magnitude of mass of 
+one atom ? What are isotopes?
+Can you recall?
+1 L of nitrogen gas combines with 3 L of 
+hydrogen gas to produce 2 L of ammonia gas.
+Nitrogen (g) + Hydrogen (g)
+Ammonia(g)
+    1 L	
+         3 L               	
+2 L
+(1 vol)	
+      (3 vol)	
+         (2 vol)
+Thus, the volume of nitrogen gas and hydrogen 
+gas which combine together i.e. 1 L and 3 L 
+and volume of ammonia gas produced i. e. 2 L 
+bear a simple ratio of 1:3:2.
+If 10 volumes of dihydrogen gas react 
+with 5 volumes of dioxygen gas, how 
+many volumes of water vapour would be 
+produced?
+Can you tell?
+Therefore, 2 molecules of hydrogen 
+gas combine with 1 molecule of oxygen to 
+give 2 molecules of water vapour. Avogadro 
+could explain the above result by considering 
+the molecules to be polyatomic. If hydrogen 
+and oxygen were considered as diatomic, as 
+recognized now, then the above results are 
+easily understandable. 
+Fig. 1.5 : two volume of hydrogen react with 
+one volume of oxygen to give two volumes of 
+water vapour
+1.5  Avogadro Law : In 
+1811, Avogadro proposed 
+that equal volumes of 
+all gases at the same 
+temperature and pressure 
+contain equal number of 
+molecules. 
+If we consider the 
+reaction of hydrogen and oxygen to produce 
+water vapour.
+Hydrogen (g) + Oxygen (g) 	
+  Water (g)
+100 mL	
+        50 mL 	
+         100 mL
+(2 vol)	
+       (1 vol)	
+         (2 vol)
+(Gay Lussac Law)
+2n molecules    n molecules	        2n molecules
+(Avogadro law)
+2 molecules      1 molecule 	      2 molecules
+We see that 2 volumes of hydrogen 
+combine with 1 volume of oxygen to give 2 
+volumes of water vapour, without leaving any 
+unreacted oxygen. According to Avogadro 
+law, if 1 volume contains n molecules, then 
+2n molecules of hydrogen combine with n 
+molecules of oxygen to give 2n molecules of 
+water.
+1.6 Dalton's Atomic Theory : In 1808, 
+Dalton published ''A New System of chemical 
+philosophy''  in which he proposed the 
+following features, which later became famous 
+as Dalton's atomic theory.
+1. Matter consists of tiny, indivisible particles 
+called atoms.
+2. All the atoms of a given elements have 
+identical properties including mass. Atoms 
+of different elements differ in mass.
+3. Compounds are formed when atoms of 
+different elements combine in a fixed ratio.
+4. Chemical reactions involve only the 
+reorganization of atoms. Atoms are neither 
+created nor destroyed in a chemical reaction.
+Dalton's theory could explain all the laws of 
+chemical combination.
+Gay Lussac's discovery of integer ratio in 
+volume relationship is actually the law of 
+definite proportion by gaseous volumes.
+Remember
+Avogadro made a distinction between atoms 
+and molecules, which is quite understandable 
+in the present time.
+Remember
+1 volume of 
+hydrogen
+1 volume of 
+hydrogen
+1 volume of 
+oxygen
+2 volume of 
+water vapour
+7
+1.7 Atomic and molecular masses : You 
+know about the terms atoms and molecules. 
+Thus it is appropriate here to understand what 
+we mean by atomic and molecular masses.
+1.7.1 Atomic Mass : Every element has a 
+characteristic atomic mass. Atomic mass is the 
+mass of an atom. It is actually very very small. 
+For example, the mass of one hydrogen atom 
+is  1.6736 × 10-24 g. This is very small quantity 
+and not easy to measure.
+In the present system, mass of an atom 
+is determined relative to the mass of a carbon 
+- 12 atom as the standard and this has been 
+agreed upon in 1961 by IU PAC. In this system, 
+an atom of carbon-12 is assigned a mass of 
+exactly 12.00000 atomic mass unit (amu) and 
+all other atoms of other elements are given a 
+relative atomic mass, to that of carbon - 12. 
+The atomic masses are expressed in amu. 
+One amu is defined as a mass exactly equal 
+to one twelth of the mass of one carbon-12 
+atom. Later on the exact value of atomic mass 
+unit in grams was experimentally established.
+1 amu = 
+1
+12 × mass of one C-12
+          = 1
+12  × 1.992648 × 10-23  g
+          = 1.66056 × 10-24 g
+Recently, amu has been replaced by 
+unified mass unit called dalton (symbol 'u' or 
+'Da'), 'u' means unified mass.
+Problem 1.1 : Mass of an atom of oxygen in 
+gram is 26.56896 × 10-24 g. What is the atomic 
+mass of oxygen in u ?
+Solution : Mass of an atom of oxygen in gram 
+is 26.56896 × 10-24 g, and
+1.66056 × 10-24 g = 1 u
+∴ 26.56896 × 10-24 g = ?
+= 
+26.56896 × 10-24 g 
+1.66056 × 10-24 g/u
+ = 16.0 u 
+Similarly mass of an atom of hydrogen 
+= 1.0080 u
+1.7.2 Average Atomic Mass : Many naturally 
+occuring elements exist as mixture of more 
+than one isotope. Isotopes have different 
+atomic masses. The atomic mass of such an 
+element is the weighted average of atomic 
+masses of its isotopes (taking into account the 
+atomic masses of isotopes and their relative 
+abundance i.e. percent occurrance). This is 
+called average atomic mass of an element. 
+For example, carbon has the following three 
+isotopes with relative abundances and atomic 
+masses as shown against each of them.
+Isotope
+Atomic 
+mass (u)
+Relative 
+Abundance (%)
+12C
+12.00000
+98.892
+13C
+13.00335
+1.108
+14C
+14.00317
+2 × 10-10
+From the above data, the average atomic 
+mass of carbon
+= (12 u) (98.892/100) + (13.00335 u) 
+(1.108/100) + (14.00317) (2 × 10-10/100) 
+= 12.011 u
+Similary, average atomic masses for other 
+elements can be calculated. 
+•	
+In the periodic table of elements, the 
+atomic masses mentioned for different 
+elements are actually their average 
+atomic masses.
+•	
+For practical purpose, the average 
+atomic mass is rounded off to the nearest 
+whole number when it differs from it by 
+a very small fraction.
+Element
+Isotopes
+Average 
+atomic 
+mass
+Rounded 
+off 
+atomic 
+mass
+Carbon
+12C, 13C, 14C
+12.011 u
+12.0 u
+Nitrogen
+14N, 15N
+14.007 u
+14.0 u
+Oxygen
+16O, 17O, 18O
+15.999 u
+16.0 u
+Chlorine
+35Cl, 37Cl
+35.453 u
+35.5 u
+Bromine
+79Br, 81Br
+79.904 u
+79.9 u
+Remember
+8
+Problem 1.3 : Find the mass of 1 molecule 
+of oxygen (O2) in amu (u) and in grams.
+Solution : Molecular mass of O2 = 2 × 16 u
+∴mass of 1 molecule =  32 u
+∴mass of 1 molecule of O2
+	
+	 	
+= 32.0 × 1.66056 × 10-24 g
+	
+	 	
+= 53.1379 × 10-24 g
+Problem 1.4 : Find the formula mass of 
+i. NaCl 	
+ii. Cu (NO3)2
+i. Formula mass of NaCl 
+= average atomic mass of Na 
+                             + average atomic mass of Cl
+= 23.0 u  + 35.5u = 58.5 u
+ii. Formula mass of Cu(NO3)2 
+= average atomic mass of Cu + 2 × (average 
+atomic mass of nitrogen + average atomic 
+mass of  three oxygen)
+= (63.5) + 2(14 + 3 x 16) = 187.5 u
+Find the formula mass of CaSO4
+If atomic mass of Ca = 40.1 u,
+S =32.1 u and O = 16.0 u
+Try this
+1. One dozen means how many items ?
+2. One gross means how many items ?
+Can you recall?
+Problem 1.2 : Calculate the average atomic mass of neon using the following data :
+Isotope
+Atomic mass
+Natural Abundance
+20Ne
+19.9924 u
+90.92%
+21Ne
+20.9940 u
+0.26 %
+22Ne
+21.9914 u
+8.82 %
+Solution :  Average atomic mass of Neon (Ne) 
+= Atomic mass of 20Ne  × % + Atomic mass of 21Ne × % + Atomic mass of 22Ne × %
+100
+= (19.9924u)(90.92) + (20.9940u)(0.26) + (21.9914u)(8.82)
+100
+  = 20.1707 u
+1.7.3 Molecular Mass : Molecular mass of a 
+substance is the sum of average atomic masses 
+of all the atoms of elements which constitute 
+the molecule. Molecular mass of a substance 
+is the mass of one molecule of that substance 
+relative to the mass of one carbon-12 atom. 
+It is obtained by multiplying average atomic 
+mass of each element by the number of its 
+atoms and adding them together.
+For example, the molecular mass of carbon 
+dioxide (CO2) is 
+= 1(average atomic mass of C) 
+                          + 2 (average atomic mass of O)
+=  1 (12.0 u) + 2 (16.0 u)  =  44.0 u
+Some more examples of calculations of 
+molecular mass.
+i. H2O = 2 × 1 u + 16 u = 18 u
+ii. C6H5Cl = (6 × 12 u) + (5 × 1 u) + (35.5 u)     
+	
+	      = 112.5 u
+iii. H2SO4 =(2 × 1 u) + (32 u) +(4 × 16 u) = 98 u
+In sodium chloride crystal, one Na⊕ ion 
+is surrounded by six Cl  ions, all at the same 
+distance from it and vice versa. Therefore, 
+NaCl is the formula used to represent 
+sodium chloride, though it is not a molecule. 
+Similarly, a term 'formula mass' is used for 
+such ionic compounds, instead of molecular 
+mass. The formula mass of a substance is 
+the sum of atomic masses of the atoms 
+present in the formula.
+1.8 Mole concept and molar mass
+1.7.4 Formula Mass
+Some substances such as sodium chloride 
+do not contain discrete molecules as the 
+constituent units. In such compounds, cationic 
+(sodium) and anionic (chloride) entities are 
+arranged in a three dimensional structure.
+9
+Remember
+Mole : Expressing large count of objects is 
+made easy by using quantitative adjectives 
+such as dozen, gross. You know that even 
+a small amount of any substance contains 
+very large number of atoms or molecules. We 
+use a quantitative adjective 'mole' to express 
+the large number of submicroscopic entities 
+like atoms, ions,  electrons, etc. present in a 
+substance. 
+Definiton : One mole is the amount of a 
+substance that contains as many entities or 
+particles as there are atoms in exactly 12 g 
+(or 0.012 kg) of the carbon -12 isotope.
+Let us calculate the number of atoms in 
+12.0000 g of Carbon-12 isotopes. Mass of 
+one carbon-12 atom (determined by mass 
+spectrometer) = 1.992648 × 10-23 g, 
+Mass of one mole carbon atom = 12 g
+∴Number of atoms in 12 g of carbon -12
+	
+= 
+12g/mol 
+1.992648 × 10-23 g/atom
+	
+= 6.0221367 × 1023 atom/mol
+Thus one mole is the amount of a substance 
+that contains 6.0221367 × 1023 particles/
+entities (such as atoms, molecules or ions).
+Note that the name of the unit is mole and 
+the symbol for the unit is mol.
+Problem 1.5 : Calculate the number of moles 
+and molecules of urea present in 5.6 g of urea.
+Solution : Mass of urea = 5.6 g
+Molecular mass of urea, NH2CONH2
+= 2 (average atomic mass of N) + 4 (average 
+atomic mass of H) + 1(average atomic mass of C) 
+	
+	 + 1(average atomic mass of O)
+= 2 × 14 u +1 × 12 u +4 ×1 u + 1 × 16 u
+	
+	 	
+	
+= 60 u
+∴molar mass of urea = 60 g mol-1 
+ Number of moles 	
+=  
+mass of urea in g 
+molar mass of urea in g mol-1
+	
+= 
+5.6 g
+60 g mol-1    = 0.0933 mol
+Number of molecules = Number of moles × 
+Avogadro's constant
+Number of molecules of urea 
+= 0.0933 ×  6.022 × 1023 molecules/mol
+	
+	 	
+= 0.5618 × 1023 molecules
+	
+	 	
+= 5.618 × 1022 molecules
+Ans : Number of moles = 0.0933 mol
+Number of molecules of urea 
+= 5.618 × 1022 molecules
+Molar Mass : The mass of one mole of a 
+substance (element/compound) in grams is 
+called its molar mass. The molar mass of 
+any element in grams is numerically equal to 
+atomic mass of that element in u.
+Element
+Atomic 
+mass (u)
+Molar mass 
+(g mol-1)
+H
+1.0 u
+1.0 g mol-1
+C
+12.0 u
+12.0 g mol-1
+O
+16.0 u
+16.0 g mol-1
+Simillary molar mass of any substance, 
+existing as polyatomic molecule, in grams is 
+numerically equal to its molecular mass or 
+formula mass in u.
+Polyatomic 
+substance
+Molecular/
+formula mass (u)
+Molar mass 
+(g mol-1)
+O2
+32.0 u
+32.0 g mol-1
+H2O
+18.0 u
+18.0 g mol-1 
+NaCl
+58.5 u
+58.5 g mol-1
+Molar mass of O atoms 
+= 6.022 × 1023atom/mol × 16 u/atom 
+                     × 1.66056 × 10-24 g/u   = 16.0 g/mol
+Example :
+1 mole of oxygen atoms = 6.0221367 × 1023 
+atoms of oxygen
+1 mole of water molecules = 6.0221367 × 1023 
+molecules of water
+1 mole of sodium chloride = 6.0221367 × 1023 
+formula units of NaCl
+The number 6.0221367 × 1023 is known as 
+Avogadro's Constant 'NA' in the honour 
+of Amedo Avogadro.
+In SI system, mole (Symbol mol) was 
+introduced as seventh base quantity for the 
+amount of a substance.
+10
+Try this
+Problem 1.7 : Calculate the number of 
+moles and molecules of ammonia (NH3) 
+gas in a volume 67.2 dm3 of it measured 
+at STP.
+Solution : 
+Volume of NH3 at STP = 67.2 dm3
+molar volume of a gas = 22.4 dm3 mol-1
+Number of moles (n) 
+= Volume of the gas at STP
+Molar volume of gas
+Number of moles of NH3 = 
+67.2 dm3
+22.4 dm3 mol-1
+	
+= 3.0 mol
+Number of molecules = Number of moles × 
+6.022 × 1023 molecules mol-1
+Number of molecules of NH3 = 3.0 mol × 
+6.022 × 1023 molecules mol-1
+	
+= 18.066 × 1023 molecules
+Problem 1.6 : Calculate the number of 
+atoms in each of the following
+i. 52 moles of Argon (Ar)
+ii. 52 u of Helium (He)
+iii. 52 g of Helium (He)
+Solution :
+i. 52 moles of Argon
+1 mole Argon atoms = 6.022 ×  1023 atoms 
+of Ar
+∴52 moles of Ar
+= 52 moles ×  6.022 × 1023 
+1mol
+atoms  
+= 313.144 × 1023 atoms of Argon
+ii. 52 u of Helium
+Atomic mass of He = mass of 1 atom of 
+He = 4.0u
+∴4.0 u = 1 He ∴52 u = ?  
+	
+	 	
+= 52 u × 
+1atom
+4.0 u  = 13 
+atoms of He
+iii. 52 g of He
+Mass of 1 mole of He = 4.0 g
+Number of moles of He 
+= 
+mass of He
+mass of 1mole of He  	
+= 
+52 g
+4.0 g mol-1  = 13 mol
+Number of atoms of He 
+= Number of  moles × 6.022 × 1023
+= 13 mol × 6.022 × 1023 atoms/mol  
+= 78.286 × 1023 atoms of He.
+1.9 Moles and gases : Many substances exist 
+as gases. If we want to find the number of moles 
+of gas, we can do this more conveniently by 
+measuring the volume rather than mass of the 
+gas. Chemists have deduced from Avogardro 
+law that ''One mole of any gas occupies a 
+volume of 22.4 dm3 at standard temperature 
+(00C) and pressure (1 atm) (STP). The 
+volume of 22.4 dm3 at STP is known as molar 
+volume of a gas.
+Number of moles of a gas (n) = 
+	
+	 	
+Volume of the gas at STP
+Molar volume of gas
+Thus
+Number of moles of a gas (n) = 
+	
+	 	
+Volume of the gas at STP
+22.4 dm3mol-1
+Number of molecules = number of moles × 
+6.022 × 1023 molecules mol-1
+(Note : IUPAC has recently changed the 
+standard pressure to 1 bar. Under these new 
+STP conditions the molar volume of a gas is 
+22.71 L mol-1)
+Calculate the volume in dm3 occupied 
+by 60.0 g of ethane at STP.
+11
+1.	 Choose the most correct option.
+A. A sample of pure water, whatever the 
+source always contains 
+ by 
+mass of oxygen and 11.1 % by mass of 
+hydrogen.
+	
+a. 88.9 	 b. 18 	
+c. 80 	
+d. 16
+B. Which of the following compounds can 
+NOT demonstrate the law of multiple 
+proportions ?
+	
+a. NO, NO2	
+b. CO, CO2
+ 	 c. H2O, H2O2	
+d. Na2S, NaF
+C. Which of the following temperature 
+will read the same value on celsius and 
+Fahrenheit scales.
+	
+a. - 400 	 	
+b. + 400
+ 	 c. -800 	 	
+d. -200
+D. SI unit of the quantity electric current is 
+ 
+	
+a. Volt	 	
+b. Ampere
+ 	 c. Candela 	
+d. Newton
+E. In the reaction N2 + 3H2 
+ 2NH3, 
+the ratio by volume of N2, H2 and NH3 
+is 1 : 3 : 2 This illustrates the law of
+	
+a. definite proportion
+	
+b. reciprocal proportion 
+	
+c. multiple proportion 	
+	
+d. gaseous volumes
+F. Which of the following has maximum 
+number of molecules ?
+	
+a. 7 g N2	 	
+b. 2 g H2
+	
+c. 8 g O2		
+d. 20 g NO2
+G. How many g of H2O are present in 0.25 
+mol of it ?  
+	
+a. 4.5	
+	
+b. 18
+	
+c. 0.25	
+	
+d. 5.4
+	
+H. 	The number of molecules in 22.4 cm3 of 
+	
+nitrogen gas at STP is
+	
+a. 6.022 x 1020
+	
+b. 6.022 x 1023
+	
+c. 22.4 x 1020
+	
+d. 22.4 x 1023
+	
+I. Which of the following has the largest 
+	
+number of atoms ?
+	
+a. 1g Au (s) 	
+b. 1g Na (s)
+	
+c. 1g Li (s)	
+d. 1g Cl2 (g)
+2.	 Answer the following questions.
+A.	State and explain Avogadro's law.
+B. Point out the difference between 12 g of 
+carbon and 12 u of carbon 
+C	 How many grams does an atom of 
+hydrogen weigh ?
+D.	Calculate the molecular mass of the 
+following in u.  
+	
+a. NH3 	b. CH3COOH  c. C2H5OH
+E.	How many particles are present in 1 
+mole of a substance ?
+F.	 What is the SI unit of amount of a 
+substance ?
+G.	What is meant by molar volume of a 
+gas ?
+H. State and explain the law of conservation 
+of mass.
+I.  State the law of multiple proportions.
+3.	 Give one example of each 
+A. homogeneous mixture
+B. heterogeneous mixture
+C. element 		
+D. compound
+4.	 Solve problems :
+A.	What is the ratio of molecules in 1 mole 
+of NH3 and 1 mole of HNO3.
+(Ans. : 1:1)
+B.	Calculate number of moles of hydrogen 
+in 0.448 litre of hydrogen gas at STP 
+	
+(Ans. : 0.02 mol)
+C.	The mass of an atom of hydrogen is 
+1.008 u. What is the mass of 18 atoms 
+of hydrogen. (18.144 u)
+D.	Calculate the number of atom in each 
+of the following (Given : Atomic mass 
+of        I = 127 u).
+	
+a. 254 u of iodine (I)
+	
+b. 254 g of iodine (I)
+(Ans. : 2 atoms,  1.2044 x 1024 atoms)
+E.	A student used a carbon pencil to write 
+his homework. The mass of this was 
+found to be 5 mg. With the help of this 
+calculate.
+	
+a.  The number of moles of carbon in his 
+     homework writing. 
+(Ans : 4.16 x 10-4)
+Exercises

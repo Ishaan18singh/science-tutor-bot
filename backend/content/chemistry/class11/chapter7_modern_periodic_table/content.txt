@@ -1,0 +1,1604 @@
+92
+C.	 Calculate the oxidation number of 
+underlined atoms.
+a. H2SO4	         b. HN−O3           c. H3P−O3	
+d. K2C−2O4       e. H2S−4O6                 f. Cr−2O7
+2-	
+g. NaH2P−O4
+D. Justify that the following reactions are 
+redox reaction; identify the species 
+oxidized/reduced, which acts as an 
+oxidant and which act as a reductant.
+a. 2Cu2O (s) + Cu2S (s) 
+ 6Cu (s) + SO2 (g)
+b. HF (aq) + OH (aq)  
+ H2O(l) + F (aq)
+c. I2 (aq) + 2 S2O3
+2 (aq) 
+ S4O6
+2 (aq) + 2I (aq)
+E. What is oxidation?  Which one of the 
+following pairs of species is in its 
+oxidized state ?
+	
+a. Mg / Mg2⊕  	
+b. Cu / Cu2⊕
+	
+c. O2 / O2  	
+d. Cl2 / Cl
+F. Justify the following reaction as redox 
+reaction.
+	
+2 Na(s) + S(s) 
+ Na2 S(s)
+	
+Find out the oxidizing and reducing 
+agents.
+G. Provide the stock notation for the 
+following compounds : HAuCl4, Tl2O, 
+FeO, Fe2O3, MnO and CuO.
+H. Assign oxidation number to each atom 
+in the following species.
+	
+a. Cr(OH)4
+	
+ b. Na2S2O3 	
+	
+c. H3BO3
+I. Which of the following redox couple is 
+stronger oxidizing agent ?
+	
+a. Cl2 (E0 = 1.36 V) and Br2 (E0 = 1.09 V)
+b. MnO4
+ (E0 = 1.51 V) and 
+	
+Cr2O7
+2
+ (E0 = 1.33 V)
+J. Which of the following redox couple is 
+stronger reducing agent ?
+	
+a. Li (E0 = - 3.05 V) and 
+	
+	   Mg (E0 = - 2.36 V)
+	
+b. Zn (E0 = - 0.76 V) and 
+	
+	  Fe (E0 = - 0.44 V)
+4. Balance the reactions/equations :
+A. Balance the following reactions by 
+oxidation number method
+a. Cr2O7
+2 (aq) + SO3
+2  (aq) 
+ Cr3⊕  (aq) 
+                                       + SO4
+2  (aq) (acidic)
+b.  MnO4 (aq) + Br (aq) 
+ MnO2 (s) 
+                              + BrO3 (aq) (basic)
+c. H2SO4 (aq) + C (s) 
+ CO2 (g) + 
+                         SO2 (g) + H2O (l) (acidic)
+d. Bi (OH)3 (g) + Sn(OH)3
+ (aq) 
+ Bi (s) 
+                                + Sn (OH)6
+2  (aq) (basic)
+B. Balance the following redox equation by 
+half reaction method 
+a. H2C2O4 (aq) + MnO4
+ (aq) 
+ 
+                    CO2(g) + Mn2⊕ (aq) (acidic)
+b. Bi (OH)3 (s) +SnO2
+2  (aq) 
+ SnO3
+2  (aq) 
+                                           + Bi (s) (basic)
+5. Complete the following table :
+Assign oxidation number to the underlined 
+species and write Stock notation of compound
+Compound
+Oxidation 
+number
+Stock 
+notation
+AuCl3
+SnCl2
+V2O7
+4
+PtCl6
+2
+H3AsO3
+Activity :
+Perform redox reaction experiment 
+with the help of Daniel cell under teacher 
+guidance.
+93
+Just think
+7. Modern Periodic Table
+7.1 Introduction
+	
+In the early nineteenth century about 
+30 elements were known and were classified 
+into three types on the basis of their physical 
+properties 
+as: 
+metals, 
+nonmetals 
+and 
+metalloids. Subsequent noteworthy attempts 
+For classification of the increasing number 
+of elements based on atomic mass were 
+Dobereiner’s triads and Newlands’ octaves. 
+•	 How many days pass between two 
+successive full moon nights?
+•	 What type of motion does a pendulum 
+exhibit?
+•	 Give some other examples of periodic 
+events.
+	
+Mendeleev arranged the elements 
+known at that time in an increasing order of 
+their atomic masses. The serial or ordinal 
+number of an element in the increasing order 
+of atomic mass was referred to as its atomic 
+number. He folded this list in accordance 
+with recurrence of properties of elements and 
+formed his periodic table consisting of vertical 
+groups and horizontal series (now called 
+periods).
+	
+In Mendeleev’s periodic table, elements 
+belonging to the same group showed similar 
+properties. Properties of elements in a series/
+period showed gradual variation from left to 
+right. Mendeleev left some gaps corresponding 
+to certain atomic numbers in the periodic 
+table so as to maintain the periodicity of  the 
+properties. Mendeleev’s periodic table was 
+accepted by the scientific community since 
+the newly discovered elements fitted well into 
+the gaps with their properties as predicted by 
+Mendeleev’s periodic law. Inert gases, not 
+predicted by Mendeleev and discovered in 
+later years also could be accommodated in this 
+periodic table by creating an additional group.
+	
+After the discovery of atomic structure, 
+the atomic number, which was an ordinal 
+number assigned to element in Mendeleev’s 
+periodic table, was recognized as the proton 
+number, Z, of that element. This was the 
+outcome of Henry Moseley’s work (1913) on 
+x-ray spectroscopic study of a large number of 
+elements. Moseley showed that the frequency 
+of x-ray emitted by an element is  related to 
+atomic number, Z, rather than the atomic mass. 
+The atomic number, Z, was considered as more 
+fundamental property of the atom than the 
+atomic mass. As a result, Mendeleev’s periodic 
+law was modified. It is called the modern 
+periodic law and is stated as: “The physical 
+and chemical properties of elements are a 
+periodic function of their atomic numbers”.
+Can you recall?
+• 	 What was the basis of classification 
+of elements before the knowledge  of 
+electronic structure of atom? 
+•	 Name the scientists who made the 
+classification of elements in the 
+nineteenth century.
+•	 What is Mendeleev’s periodic law?
+•	 How many elements are discovered 
+uptil now?
+•	 How many horizontal rows and vertical 
+columns are present in modern periodic 
+table?
+	
+In 1869, Russian chemist Dmitri 
+Mendeleev put forth periodic table of the 63 
+elements known at that time using the atomic 
+mass and properties of elements. Mendeleev’s 
+periodic table was based on the as Mendeleev’s 
+periodic law which is stated as “The physical 
+and chemical properties of elements are 
+periodic function of their atomic masses”.
+94
+	
+Mendeleev’s periodic table was revised 
+in accordance with the modern  periodic law. 
+We will look into the final revised version 
+known as the modern periodic table also 
+called the long form of periodic table in the 
+following sections.
+7.2 Structure of the Modern Periodic Table
+	
+Over a long period of time many 
+scientists have come up with different forms 
+of periodic table. However, the so called ‘long 
+form of periodic table’ or ‘the modern 
+periodic table’, which is a revised version 
+of Mendeleev’s periodic table, is the most 
+convenient and widely used form of the 
+periodic table of elements today. 
+	
+The 
+modern 
+periodic 
+table 
+has 
+horizontal rows intersecting the vertical 
+columns giving rise to a number of boxes. 
+The horizontal rows are called periods (which 
+Mendeleev called series) and the vertical 
+columns are called groups. There are seven 
+periods (numbered 1 to 7) and eighteen 
+groups (numbered 1 to 18) in the modern 
+periodic table. 
+This numbering of the periods and groups 
+is recommended by the International Union 
+of Pure and Applied Chemistry, IUPAC. The 
+boxes formed at the intersection of the periods 
+and groups are the places for  individual 
+elements. Below the main table are placed two 
+series  containing  fourteen  elements each. 
+There are in all 118 boxes to accommodate 
+118 elements in the modern periodic table. As 
+on today all the 118 boxes are filled as a result 
+of discovery of manmade elements. IUPAC 
+has approved names and symbols of all the 
+118 elements. (Refer to Fig. 7.1)
+	
+The overall shape of the modern 
+periodic table shows that it is divided into four 
+blocks. Two groups on left form the s-block, 
+six groups on the right constitute the p-block, 
+ten groups in the center form the d-block and 
+the two series at the bottom constitute the 
+f-block (Fig. 7.2). 
+Fig. 7.1 : Modern  Periodic Table
+1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+6
+7
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Groups
+Periods
+Series
+(Refer page 271)
+95
+7.3	Periodic 
+Table 
+and 
+Electronic 
+configuration
+Along a period the atomic number 
+increases by one and one electron is added 
+to outermost shell which forms neutral atom 
+of the next element. Every period ends with 
+complete octet configuration (or duplet in the 
+case of the first period) of the valence shell and 
+the next period begins with addition of electron 
+to the next shell of higher energy compared to 
+the previous period. The first shell, thus, gets 
+filled along the first period. As the first shell 
+can accommodate only two electrons, there 
+are two elements in the first period, namely, H 
+(Z=1) : 1s1 and He (Z=2) : 1s2. The first period 
+ends at ‘He’ because ‘He’ has complete duplet.
+	
+Electrons are filled in the second shell 
+along the second period. The second period, 
+thus, begins with Li (Z=3) : 1s2 2s1 and ends 
+up with Ne (Z=10): 1s22s22p6. ‘Ne’ with 8 
+electrons in its outermost second shell has 
+complete octet. The second shell has electron 
+capacity of 8. It gets filled along the second 
+period, as the atomic number increases. Thus 
+there are eight elements in the second period. 
+Similarly there are eight elements Na 
+(Z=11) to Ar (Z=18) having the condensed 
+electronic configurations described together as 
+[Ne]3s1-23p1-6 in the third period, as a result of 
+completion of the third shell.
+The fourth period begins with filling 
+of 4s subshell. The first two elements of the 
+fourth period are K (Z=19) : [Ar] 4s1 and Ca 
+(Z=20): [Ar]4s2. According to the aufbau 
+principle the next higher energy subshell is 3d, 
+which can accommodate upto 10 electrons. 
+Filling of the 3d-subshell results in the next 10 
+elements of the fourth period, from Sc (Z=21) : 
+[Ar] 4s23d1 to Zn (Z=30) : [Ar] 4s23d10. After 
+this the electrons enter the subshell 4p for 
+the next six elements : Ga (Z = 31) : [Ar] 
+4s23d104p1 to Kr (Z=36) : [Ar] 4s23d104p6. The 
+fourth period, thus, contains in all 18 elements 
+(2+10+6=18).
+	
+The fifth period accomodates 18 
+elements as a result of successive filling of 
+electrons in the 5s, 4d and 5p subshells.
+	
+When 
+Mendeleev 
+put 
+forth 
+his 
+periodic table in 1869, the atomic structure 
+was not known. He observed periodicity in 
+the properties of elements on arranging them 
+in an increasing order of atomic mass. Later, 
+with the advent of quantum mechanical model 
+of atom, the properties of elements were 
+correlated to electronic configuration.
+	
+You have learnt in the Chapter 4 
+that the electrons in atom are distributed in 
+shells and subshells in accordance with the 
+aufbau principle which includes increasing 
+order of energy, Pauli exclusion principle 
+and Hund’s rule of maximum multiplicity. 
+When elements are arranged in an increasing 
+order of atomic number (Z), periodicity is 
+observed in their electronic configuration and 
+which reflects in the characteristic structure 
+of the modern periodic table.  The location 
+of elements in the modern periodic table is 
+correlated to quantum numbers of the last 
+filled orbital. Let us have a deeper look into 
+the electronic configuration of the elements 
+and the structure of the modern periodic table. 
+7.3.1	 Electronic configuration in periods
+	
+We noted earlier that periods in the 
+modern periodic table are numbered 1 to 7. 
+On inspection of the electronic configurations 
+(see Fig. 7.3) of elements in various periods 
+we understand that the period number is same 
+as the principal quantum number ‘n’ of the 
+outermost or valence shell of the elements.
+Can you recall?
+•	What do the principal quantum number 
+‘n’ and azimuthal quantum 	n u m b e r ‘ l ’ 
+of an electron belonging to an atom 
+represent?
+•	Which principle is followed in the 
+distribution of electrons in an atom?
+96
+Lanthanoid
+4f n 5d0-1 6s2
+Representative elements
+p - Block
+d - Block
+f - Block
+Actinoids
+5f n 6d0-1 7s2
+s - Block
+1
+Representative elements
+Fig. 7.2 : Outer electronic configuration of elements in the four blocks of the periodic table
+97
+Problem 7.1 : What is the subshell 
+in which the last electron of the first 
+element in the 6th period enters ?
+Solution :
+The 6th period begins by filling the 
+last electron in the shell with n=6. The 
+lowest energy subshell of any shell is 
+‘s’. Therefore the last electron of the 
+first element in the 6th period enters the 
+subshell ‘6s’. 
+Problem 7.2 : How many elements are 
+present in the 6th period? Explain.
+Solution :
+The 6th period begins by filling the last 
+electron in the subshell ‘6s’ and ends by 
+completing the subshell ‘6p’. Therefore, 
+the sixth period has the subshells filled 
+in increasing order of energy as 6s < 4f < 
+5d < 6p. The electron capacities of these 
+subshells are 2, 14, 10 and 6, respectively. 
+Therefore, the total number of elements in 
+the 6th period are 2+14+10+6 = 32.
+	
+In short, a period begins by filling of one 
+electron to the ‘s’ subshell of a new shell and 
+ends with an element having complete octet 
+(or duplet) corresponding to the same shell. 
+Between these two ends corresponding to ‘s’ 
+and  ‘p’ subshell of the valence shell, the inner 
+subshells ‘d’ and ‘f’ are filled successively 
+following the aufbau principle.
+7.3.2 Electronic configuration in groups
+	
+A new shell is added down a group. 
+The general outer electronic configuration, 
+therefore, is expected to be the same down any 
+particular group. Indeed it is found to be so for 
+the groups 1, 2 and 3. (See Fig. 7.2 and Table 
+7.1) In the groups 13 to 18 the appropriate 
+inner ‘d’ and ‘f’ subshells are completely filled 
+and the general outer electronic configuration 
+is the same down the groups 13 to 18. (see Fig. 
+7.2 and Table 7.1). 
+In the groups 4 to 12, however, the  ‘d’ 
+and ‘f’ subshells are introduced at a later stage 
+(4th period for ‘d’ and 6th period for ‘f’) down 
+the group. As a result variation in the general 
+outer configuration is introduced only at  the 
+later stage down the groups 4 to 12. 
+Table 7.1 : General outer electronic configuration in groups 1 to 3 and 13 to 18
+Group number
+General outer  configuration
+Examples
+Group 1
+ns1
+3Li:2s1, 11Na:3s1
+Group 2
+ns2 
+4Be:2s2, 12Mg:3s2
+Group 3
+ns2 (n-1)d1
+21Sc:4s23d1, 39Y:5s24d1
+Group 13
+ns2 np1
+5B:2s22p1, 13A1:3s23p1
+Group 14
+ns2 np2
+6C:2s22p2, 14Si:3s23p2
+Group 15
+ns2 np3
+7N:2s22p3, 15P:3s23p3 
+Group 16
+ns2 np4
+8O:2s22p4, 16S:3s23p4 
+Group 17
+ns2 np5
+9F:2s22p5, 17C1:3s23p5
+Group 18
+ns2 np6
+10Ne:2s22p6, 18Ar:3s23p6
+98
+Problem 7.3 : Outer electronic configu-
+rations of a few elements are given be-
+low. Explain them and identify the period, 
+group and block in the periodic table to 
+which they belong.
+2He : 1s2, 54Xe : 5s25p6, 16S : 3s23p4, 79Au : 
+6s15d10 
+Solution :
+	
+2He : 1s2
+Here n = 1. Therefore, 2He belongs to the 
+1st period. The shell n =1 has only one 
+subshell, namely 1s. The outer electronic 
+configuration 1s2 of ‘He’ corresponds to 
+the maximum capacity of 1s, the complete 
+duplet. Therefore, He is placed at the end 
+of the 1st period in the group 18 of inert 
+7.3.3 Electronic configuration in the four 
+blocks: We noted in section 7.2 that structure 
+of the modern periodic table shows four blocks. 
+These blocks are formed in accordance with 
+the subshell in which the last electron enters. 
+Accordingly the four blocks are named as 
+s-block, p-block, d-block and f-block. 
+s-Block : The last electron in the s-block 
+elements is filled in a s-subshell. There being 
+only one orbital in a s-subshell, the general 
+outer electronic configuration of s-block 
+elements is ns1-2. Thus elements of the group-1 
+and group-2 belong to the s-block. The s-block 
+is present on the left extreme of the modern 
+periodic table. 
+p-Block: The last electron in the p-block 
+elements is filled in p-subshell. There being 
+three degenerate p-orbitals in a p-subshell, 
+upto 6 electrons can be filled. Therefore, the 
+elements belonging to six groups, namely, 
+group 13, 14, 15, 16, 17 and 18 constitute the 
+p-block. The p-block appears on the right in 
+the modern periodic table. The p-block ends 
+with the group 18 which represent the family 
+of inert gases. Remarkably, the first element of 
+the group 18, helium (He) does not have the p 
+subshell as its valence shell has n =1 and its 
+configuration is shown as 1s2. Yet ‘He’ is placed 
+in the 18th group of the p –block because its 
+valence shell is completely filled (which is a 
+complete duplet), similar to complete valence 
+shell of the other elements belonging to group 
+18 (which have complete octets). The general 
+electronic configuration for the p-block (from 
+the second to the seventh period) is ns2 np1-6.
+d-Block : The d-block in the modern periodic 
+table is formed as a result of filling the last 
+electron in d-orbital. A d-subshell is present in 
+the shells with n ≥ 3 and according to the (n+l) 
+rule (refer to Chapter 4) the energy of ns orbital 
+is less than that of the (n-1)d orbital. As a result, 
+the last electron enters a (n-1)d-subshell only 
+after the ns subshell is completely filled. There 
+being five orbitals in a d-subshell, 10 electrons 
+can successively be accommodated. There are 
+ten groups, namely,  groups 3, 4, 5, 6, 7, 8, 9, 
+10, 11 and 12 in the d-block which appears 
+in the centre of the modern periodic table. 
+The general outer electronic configuration of 
+the d-block elements is ns0-2 (n-1)d1-10. Some 
+variations in the configuration, consequent 
+to the extra stability associated with half-
+filled and a fully filled subshell, are readilly 
+observed. For example, the outer electronic 
+configuration of Cr (Z = 24) is 4s13d5 instead 
+of 4s23d4. This is because both 4s and 3d 
+subshells are half-filled.
+f-Block : In the f-block elements the last 
+electron is filled in f-orbital. As there are 
+seven orbitals in a f-subshell, the general outer 
+electronic configuration of the f-block        is ns2 
+(n-1)d0-1 (n-2)f1-14. The variations as a result 
+of the extra stability of half-filled and fully 
+filled subshell need to be accounted for.  For 
+example, the outer electronic configuration 
+of 63Eu is 6s24f75d0 because the 4f subshell is 
+half-filled. The f-block constitutes two series 
+of 14 elements called the lanthanoid and the 
+actinoid series, put one below the other. The 
+f-block is placed separately at the bottom of 
+the periodic table.
+99
+7.4 Blockwise characteristics of elements
+We have seen in the previous section 
+that the 118 elements in the modern periodic 
+table are distributed in four blocks having 
+general electronic configuration according 
+to their block. The elemental properties are 
+characteristic of the block they belong.
+7.4.1 Characteristics of s-block elements
+The s-block contains the elements of 
+group 1 (alkali metals) and  group 2 (alkaline 
+earth metals). All these elements are reactive 
+metals, and occur in nature only in combined 
+state. Their compounds, with exception of 
+Li and Be, are predominantly ionic. This is 
+because they have only one or two valence 
+electrons which they can lose readily forming 
+M⊕ or M2⊕ ions. They have low ionization 
+enthalpies, which decrease down the group 
+resulting in increased reactivity. 
+gases, so ‘He’ belongs to p-block.
+54Xe : 5s25p6
+Here n = 5. Therefore, 54Xe belongs to the 5th 
+period. The outer electronic configuration 
+5s25p6 corresponds to complete octet. 
+Therefore 54Xe is placed in group 18 and 
+belongs to p-block.
+	
+16S : 3s23p4	
+Here n = 3. Therefore,  16S belongs to the 3rd 
+period. The 3p subshell in ‘S’ is partially 
+filled and short of completion of octet by 
+two electrons. Therefore ‘S’ belongs to (18-
+2) = 16th group and  p – block. 
+	
+79Au : 6s15d10	
+Here n = 6. Therefore, ‘Au’ belongs to the 
+6th period. The sixth period begins with 
+filling of electron into 6s and then into 5d 
+orbital. The outer configuration of ‘Au’ : 
+6s1 5d10 implies that (1+10) = 11 electrons 
+are filled in the outer orbitals to give ‘Au’. 
+Therefore ‘Au’ belongs to the group 11. As 
+the last electron has entered ‘d’  orbital ‘Au’ 
+belongs to the d-block.
+7.4.2 Characteristics of p-block elements :
+The p-block contains elements of groups 
+13 to 18. The p-block elements together 
+with s-block elements are called main group 
+elements or representative elements. The last 
+group of the p-block, namely, the 18th group, 
+is the family of noble/inert gases. These have 
+closed valence shells (complete duplet in the 
+case of ‘He’ and complete octet in the case of 
+the other noble gases) and therefore very low 
+chemical reactivity. Elements of group 17 
+(halogen family) and group 16 (chalcogens) 
+include reactive nonmetals. The electron 
+gain enthalpies being highly negative,  they 
+gain one or two electrons readily and form 
+anions  (X  or X2 ) which have complete 
+octet. The p-block contains all the three 
+traditional types of elements. The metals 
+on the left, the nonmetals on the right and the 
+metalloids along a zig-zag line (see Fig. 7.1) 
+which separates metals from nonmetals. The 
+nonmetallic character increases as we move 
+from the left to the right, whereas it decreases 
+as we go down a group. 
+7.4.3 Characteristics of d-block elements
+	
+The d-block contains elements of 
+the groups 3 to 12. They are all metals. The 
+d-block elements are known as transition 
+elements or transition metals. They form a 
+bridge between chemically reactive s-block 
+elements and less reactive elements of groups 
+13 and 14. Most of d-block elements possess 
+Partially filled inner d-orbitals. As a result 
+the d-block elements have properties such as 
+variable oxidation state, paramagnetism, 
+ability to form coloured ions. They can 
+be used as catalysts. Zn, Cd, and Hg with 
+configuration ns2 (n-1) d10, (completely filled s 
+- and d - subshells) do not show the properties 
+typical of transition metals. 
+7.4.4 Characteristics of f-block elements
+The f-block contains elements all of which 
+are metals and are placed in the two rows called 
+lanthanoid series (58Ce to 71Lu) and actinoid 
+100
+series (90Th to 103Lr). These series are named 
+after their preceding elements lanthanum 
+(57La) and actinium (89Ac) in the third group of 
+the d-block of the 6th and 7th period respectively. 
+The lanthanides are also known as rare earth 
+elements. The last electron of the elements of 
+these series is filled in the (n-2)f subshell, and 
+therefore, these are called inner-transition 
+elements.  These elements have very similar 
+properties within each series. The actinide 
+Problem 7.4 : Chlorides of two metals are 
+common laboratory  chemicals and both 
+are colourless. One of the metals reacts 
+vigorously with water while the other re­
+acts slowly. Place the two metals in the 
+appropriate block in the periodic table. 
+justify your answer. 
+Solution
+Metals are present in all the four blocks of 
+the periodic table. Salts of Metals in the 
+f-block and  p-block (except AlCl3) are not 
+common laboratory chemicals. Therefore, 
+the choice is between s- and d-block. From 
+the given properties their placement is 
+done as shown below:
+s-block: Metal that reacts vigorously with 
+water 
+d-block: Metal that reacts slowly with 
+water.
+	
+The colourless nature of the less 
+reactive metal in the d-block implies that 
+the inner d-subshell is completely filled.
+properties. We will now discuss in this section 
+the periodic trends in some physical and 
+chemical properties of elements, correlating 
+them with electronic configuration and the 
+nuclear charge. These trends are explained 
+in terms of two fundamental factors, namely, 
+attraction of extranuclear electrons towards 
+the nucleus and repulsion between electrons 
+belonging to the same atom. These attractive 
+and repulsive forces operate simultaneously 
+in an atom. This results in two interrelated 
+phenomena called effective nuclear charge 
+and screening effect. 
+7.5.1 Effective nuclear charge and screening 
+effect : In a multi-electron atom the positively 
+charged nucleus attracts the negatively 
+charged electrons around it, and there is mutual 
+repulsion amongst the negatively charged 
+extranuclear electrons. The repulsion by inner-
+shell electrons is particularly important. This 
+results in pushing the outer-shell electrons 
+further away from the nucleus. The outer-
+shell electrons are, thus, held less tightly by 
+the nucleus. In other words, the attraction of 
+the nucleus for an outer electron is partially 
+cancelled. It means that an outer-shell electron 
+does not experience the actual positive charge 
+present on the nucleus. The net nuclear charge 
+actually experience by an electron is called the 
+effective nuclear charge, Zeff. The effective 
+nuclear charge is lower than the actual nuclear 
+charge, Z. In other words, the inner electrons 
+shield the outer electrons from the nucleus to a 
+certain extent. This effect of the inner electrons 
+on the outer electrons is called screening effect 
+or shielding effect of the inner/core electrons. 
+Effective nuclear charge  =  Zeff 
+	
+ = Z - electron	
+
+                                                  shielding 
+ 	
+ = Z -  s 
+Here s (sigma) is called shielding 
+constant or screening constant and the value 
+of s  depends upon type of the orbital that the 
+electron occupies. 
+elements beyond 92U are called transuranium 
+elements. All the transuranium elements are 
+manmade and radioactive. 
+7.5 Periodic trends in elemental properties 
+The original structure of the periodic table 
+was based on empirically observed periodicity 
+in the elemental properties. Thus, elemental 
+properties show similarity in a group and 
+show gradual variation across a period. The 
+quantum mechanical model of atom explains 
+the observed periodic trends of elemental 
+101
+	
+As we move across a period actual 
+nuclear charge increases by +1 at a time, the 
+valence shell remains the same and the newly 
+added electron gets accommodated in the 
+same shell. There is no addition of electrons 
+to the core. Thus, shielding due to core 
+electrons remains the same though the actual 
+nuclear charge, Z, increases. The net result is 
+that the effective nuclear charge, Zeff, goes 
+on increasing across a period. On the other 
+hand, the Zeff decreases down a group. This 
+is because, as we move down a group, a new 
+larger valence shell is added. As a result, there 
+is an additional shell in the core. The shielding 
+effect of the increased number of core electrons 
+outweighs the effect of the increased nuclear 
+charge; and thereby the effective nuclear 
+charge felt by the outer electrons decreases 
+largely down a group.
+7.5.2 Periodic trends in physical properties
+Many physical properties of elements 
+such as melting point, boiling point and density 
+show periodicity. In this section we are going 
+to consider the periodic trends in physical 
+properties with reference to atomic radius, 
+ionic radius, ionization enthalpy, electron gain 
+enthalpy and electronegativity.
+a. Atomic radius : You have learnt in chapter 
+4 that the quantum mechanical model of atom 
+describes the extranuclear part of atom as 
+the electron cloud. As a direct implication of 
+this, the atom has no definite boundary. The 
+atomic size or atomic radius, therefore, can 
+be estimated from the internuclear distance 
+under different circumstances. In the case of 
+nonmetals (except noble gases), the atoms 
+of an element are bonded to each other by 
+covalent bonds. (Refer to Chapter 5). Bond 
+length of a single bond is taken as sum of radii 
+of the two single bonded atoms. This is called 
+covalent radius of the atom. For example 
+: (i) Bond length of C-C bond in diamond is 
+154 pm. Therefore, atomic radius of carbon 
+Fig 6.3 : Estimation of atomic radii of metals 
+and nonmetals
+Atomic radius of Be  = 224 pm 
+2
+ = 112 pm
+Be
+Be
+Be
+Be
+Be
+Be
+Be
+Be
+Be
+224 pm
+Atomic radius of Cl  = 198 pm 
+2
+ = 99 pm
+Cl
+Cl
+198 pm
+Cl2
+is estimated to be 77 pm. (ii)  Bond length 
+of Cl-Cl bond in Cl2 is measured as 198 pm. 
+Therefore, the atomic radius of Cl is estimated 
+to be 99 pm. (see Fig. 6.3)
+In the case of metals, distance between 
+the adjacent atoms in metallic sample is 
+measured. One half of this distance is taken 
+as the metallic radius. Thus, atomic radius is 
+one half of the internuclear distance between 
+two adjacent atoms of a metal or two single 
+bonded atoms of a nonmetal.  
+Do you know ?
+Atomic radius is estimated in terms of 
+the electron density surface which encloses 
+typically 95 % (or more, which is orbitary 
+of the electron density.
+102
+Problem 7.5 : Identify the species having 
+larger radius from the following pairs :  (i) 
+Na and Na⊕, (ii) Na⊕ and Mg2⊕ 
+Solution :
+(i) The nuclear charge is the same in Na 
+and Na⊕. But Na⊕ has less number of elec­
+trons and less number of occupied shells 
+(two shells in Na⊕ while three shells in Na). 
+Therefore, radius of Na is larger.  (ii) Na⊕ 
+and Mg2⊕ are isoelectronic species. Mg2⊕ 
+has larger nuclear charge than Na⊕. There­
+fore, Na⊕ has larger radius.
+Table 7.2 : Atomic radii of some elements 
+Element symbol (atomic radius / pm)
+  Group
+Period
+1
+2
+13
+14
+15
+16
+17
+2
+Li   (152)
+Be  (111)
+B  (88)
+C  (77)
+N (74)
+O (66)
+F   (64)
+3
+Na  (186)
+Mg (160)
+Al (143)
+Si (117)
+P (110)
+S (104)
+Cl  (99)
+4
+K    (231)
+Br (114)
+5
+Rb  (244)
+I   (133)
+6
+Cs  (262)
+At (140)
+	 	 	
+It can be seen from Table 7.2 that atomic 
+radius decreases across a period (upto group 
+17) and increases down a group. Greater the 
+effective nuclear charge stronger is attraction 
+of the nucleus for the outer electrons and 
+smaller is the atomic radius. As we move across 
+a period, screening effect caused by the core 
+electrons remains the same, on the other hand 
+the effective nuclear charge goes on increasing 
+(see section 6.5.1). The valence electrons are, 
+therefore, more tightly bound and in turn the 
+atomic radius goes on decreasing along a 
+period. The effective nuclear charge decreases 
+and shielding effect increases down a group 
+(see section 7.5.1). The valence electrons are, 
+thus, held by weaker attractive force and the 
+atomic radius increases down a group. 
+b.	 Ionic radius: An atom forms a positively 
+charged ion, cation, on the removal of one or 
+more electrons whereas a negatively charged 
+ion, anion, is formed with gain of one or 
+more electrons. Measurements of distances 
+between neighbouring cations and anions in 
+ionic crystals have been useful for estimation 
+of ionic radii. The ionic radii show the same 
+trends as of atomic radii.
+A cation is smaller than the atom from 
+which it is formed, because it contains fewer 
+electrons than atom, though the nuclear charge 
+is the same. As a result the shielding effect 
+is less and effective nuclear charge is larger 
+within a cation. 
+An anion has a larger radius than the 
+corresponding atom, as it has more number 
+of electrons than the atom. These additional 
+electrons result in increased electron repulsion, 
+decreased effective nuclear charge and in turn, 
+the increased size.
+Some atoms and ions contain the same 
+number of electrons and are called isoelectronic 
+species. (See chapter 4) The actual nuclear 
+charge of the isoelectronic species is, however, 
+different. The radii of isoelectronic species 
+vary according to actual nuclear charge. Larger 
+nuclear charge exerts greater attraction for the 
+electrons and the radius of that isoelectronic 
+species becomes smaller. For example, F  and 
+Na⊕ both have 10 electrons, their radii are 133 
+pm and 98 pm respectively, as the nuclear 
+charge of F  is + 9 which is smaller than that of 
+Na⊕ which is, + 11. 
+	c. Ionization enthalpy : Removal of an 
+electron from the neutral atom X results 
+103
+in formation of cation X⊕. The energy 
+required to remove an electron from 
+the isolated gaseous atom in its ground 
+state is called ionization enthalpy (∆iH). 
+Ionization 
+enthalpy 
+is 
+the 
+quantitative 
+measure of tendency of an element to lose 
+electron and expressed in kJ mol-1. Since 
+electrons are lost one at a time, we have 
+first ionization enthalpy, second ionization 
+enthalpy, and so on, for a given element.
+	
+	
+	
+X (g) 
+       X⊕ (g) + e   ;  ∆iH1  
+ 	
+X⊕  (g) 
+      X2⊕(g) + e  ;  ∆iH2
+	 	 	
+Ionization enthalpy is always positive 
+since the energy always need to be supplied to 
+knock out electron from atom. 
+The second ionization enthalpy, ∆iH2, is 
+larger than the first ionization enthalpy, ∆iH1, 
+as it involves removal of electron from the 
+positively charged species. Tables 7.3 and 7.4 
+show the values of first ionization enthalpy 
+down the group 1 and across the period 2 
+respectively. 
+	
+It is seen from Table 7.3 that on 
+moving down the group the first ionization 
+enthalpy decreases. This is because electron 
+is to be removed from the larger valence 
+shell. Screening due to core electrons goes on 
+increasing and the effective nuclear charge 
+decreases down the group. (See section 7.5.1) 
+The removal of the outer electron, therefore, 
+becomes easier.
+Table 7.3 : First ionization enthalpy values of 
+elements of group 1
+Elements 
+of Group 
+1
+Atomic 
+Number 
+Z
+Outer 
+electronic 
+configuration
+∆iH1 
+/kJ 
+mol-1
+Li
+3
+2s1
+520
+Na
+11
+3s1
+496
+K
+19
+4s1
+419
+Rb
+37
+5s1
+403
+Cs
+55
+6s1
+374
+An overall increase of the first ionization 
+enthalpy across the period 2 (see table 7.4) 
+can be notice. This is because the screening 
+is the same and the effective nuclear charge 
+increases across a period. (See section 7.5.1) 
+As a result the outer electron is held more 
+tightly. The first ionization enthalpy, therefore, 
+increases across a period. The alkali metal 
+displays the lowest first ionization enthalpy. 
+The inert gas shows the highest first ionization 
+enthalpy across a period. 
+Some irregularities are noticed for the 
+first ionization enthalpies as we move across 
+a period. For example, the first ionization 
+enthalpy of ‘B’ is smaller than that of ‘Be’. 
+This is because ‘Be’ loses the electron from 
+2s orbital while ‘B’ loses the electron from 
+2p orbital which has less penetration (see 
+shapes of orbitals in chapter 4) than the 2s 
+orbital and therefore it is easier to remove a 
+2p electron than a 2s electron. Similarly, first 
+ionization enthalpy of ‘O’ is smaller than that 
+of ‘N’. This is because ‘O’ loses the electron 
+from a doubly occupied ‘2p’ orbital. Due to 
+Table 7.4 : First ionization enthalpy values of elements of period 2
+Element of  
+period 2
+Li
+Be
+B
+C
+N
+O
+F
+Ne
+Atomic 
+number
+Z
+3
+4
+5
+6
+7
+8
+9
+10
+Outer 
+electronic 
+Configuration
+2s1
+2s2
+2s2 2p1 2s2 2p2
+2s2 2p3
+2s2 2p4
+2s2 2p5
+2s2 2p6
+∆iH1 /
+kJ mol-1
+520
+899
+801
+1086
+1402
+1314
+1681
+2080
+104
+Problem 7.7 :
+Identify the element with more negative 
+value of electron gain enthalpy from the 
+following pairs. Justify.
+(i)	
+C1 and Br	
+	
+(ii) F and O
+Solution :
+(i) CI and Br belong to the same group of 
+halogens with Br having higher atomic 
+number than Cl. As the atomic number 
+increases down the group the effective 
+nuclear charge decreases. The increased 
+shielding effect of core electrons can be 
+noticed. The electron has to be added to 
+a farther shell, which releases less energy 
+and thus electron gain enthalpy becomes 
+less negative down the group. Therefore, Cl 
+has more negative electron gain enthalpy 
+than Br.               ....CONTD on next page
+Problem 7.6 :
+The first ionization enthalpy values of 
+Si, P and C1 are 780, 1060 and 1255 kJ 
+mo1-1 respectively. Predict whether the first 
+ionization enthalpy of S will be closer to 
+1000 or 1200 kJ mol-1.
+Solution :
+As we move across the period 3 from left 
+to right the elements Si, P, S, C1 come 
+in a sequence. Their outer electronic 
+configurations are 3s23p2, 3s23p3, 3s23p4 and 
+3s23p5 respectively and ‘P’ loses an electron 
+from a singly occupied 3p orbital whereas 
+‘S’ loses an electron from a doubly occupied 
+3p orbital. Therefore, the first ionization 
+enthalpy value of ‘S’ has to be lower than 
+that of ‘P’. Thus, first ionization enthalpy 
+of ‘S’ would be less than 1060 kJ mol-1, and 
+therefore, should be close to 1000 kJ mol-1 
+and not 1200 kJ mo1-1.
+electron-electron repulsion it is easier to lose 
+this electron than an electron from the singly 
+occupied 2p orbital in nitrogen atom. (This is 
+a consequence of Hund’s rule of maximum 
+multiplicity, described in Chapter 4.)
+d. Electron gain enthalpy: Addition of 
+an electron to a neutral atom (X) results in 
+formation of an anion (X ). The enthalpy 
+change that takes place when an electron 
+is added to an isolated gaseous atom in its 
+ground state is called the electron gain 
+enthalpy, ∆egH. Electron gain enthalpy is a 
+quantitative measure of the ease with which an 
+atom adds an electron forming the anion and is 
+expressed in units of kJ mol-1. 
+X(g) + e  
+ X  (g); ∆egH.
+	
+∆egH may be positive or negative 
+depending upon whether the process of 
+adding electron is endothermic or exothermic. 
+Elements of group 17 have very high negative 
+values of electron gain enthalpy. This is because 
+of they attain stable noble gas electronic 
+configuration on the addition of one electron. 
+Elements of group 18, noble gases have, on 
+the other the hand, exhibit high positive values 
+for electron gain enthalpy. Since, the added 
+electron has to enters the next higher shell 
+with larger principal quantum number, this is 
+very unstable electronic configuration due to 
+very low effective nuclear charge and high 
+shielding from the core electrons. The alkali 
+metals have very low negative electron gain 
+enthalpy values. In general, electron gain 
+enthalpies are large negative for elements of 
+the upper right of the periodic table, excluding 
+the group 18 of noble gases.	
+	 	The trends for electron gain enthalpy values 
+of the elements in the periodic table are less 
+regular than the ionization enthalpies. An 
+overall trend reveals that electron gain 
+enthalpy becomes more negative with increase 
+of atomic number along the period upto the 
+second last element, because the effective 
+nuclear charge increases across the period and 
+it is easier to add an electron to a smaller atom. 
+Down the group, the electron has to be add to 
+farther shell and the electron gain enthalpy, 
+thus, becomes less negative.
+105
+(ii) F and O belong to the same second 
+period, with F having higher atomic 
+number than O. As the atomic number 
+increases across a period, atomic radius 
+decreases, 
+effective 
+nuclear 
+charge 
+increases and electron can be added more 
+easily. Therefore more energy is released 
+with gain of an electron as we move to 
+right in a period. Therefore, F has more 
+negative electron gain enthalpy.
+e. Electronegativity: When two atoms of 
+different elements form a covalent bond, 
+the electron pair is shared unequally. The 
+ability of a covalently bonded atom to 
+attract the shared electrons toward itself 
+is called electronegatively (EN). It is not an 
+experimentally measurable quantity. A number 
+of numerical scales of electronegativity were 
+developed by many scientists. Pauling scale of 
+electronegativity is the one used most widely. 
+Linus Pauling assigned (1922) arbitrarily a 
+value of 4.0 for fluorine which is expected to 
+have the highest value of electronegativity. 
+Table 7.5 shows the values of electronegativity 
+assigned to some other elements.
+Electronegativity represents attractive 
+force exerted by the nucleus on shared 
+electrons. Electron sharing between covalently 
+bonded atoms takes place using the valence 
+electron. The electronegativity depends upon 
+the effective nuclear charge experienced by 
+electron involved in formation of the covalent 
+bond. Electronegativity increases as we move 
+across the period. This is because the effective 
+nuclear charge increases steadily across the 
+period. The EN decreases down the group. The 
+size of the valence shell goes on increasing, 
+the shielding effect of the core electron goes 
+on increasing and in term the effective nuclear 
+charge decreases down the group.
+Electronegativity predicts the nature of the 
+bond, or, how strong is the force of attraction 
+that holds two atoms together. (Refer Chapter 
+5).
+7.5.3 Periodic trends in chemical properties:
+The most fundamental chemical property 
+of an element is its combining  power. This 
+property is numerically expressed in terms of 
+valency or valence. Valency of an element 
+indicates the number of chemical bonds that 
+the atom can form giving a molecule.  Another 
+frequently used term related to valence is  the 
+oxidation state or oxidation number. Valence 
+does not have any sign associated with it, but 
+oxidation number does, and can be either + or 
+–, which is decided by electronegativities of 
+atoms that are bonded. 
+The second aspect of chemical property 
+is the chemical reactivity. The  chemical 
+reactivity is related to the ease with which an 
+element loses or gains the electrons.
+The chemical properties of elements are 
+relate to electronic configuration.  
+Table 7.5 : Electronegativity (EN) values of some elements (Pauling scale)
+Element symbol (EN)
+Group
+Period
+1
+2
+13
+14
+15
+16
+17
+1
+H   (2.1)
+2
+Li  (1.0)
+Be  (1.5)
+B (2.0)
+C  (2.5)
+N (3.0)
+O (3.5)
+F   (4.0)
+3
+Na (0.9)
+Mg (1.2)
+Al(1.5)
+Si (1.8)
+P  (2.1)
+S  (2.5)
+Cl (3.0)
+4
+K   (0.8)
+Br (2.8)
+5
+Rb (0.8)
+I    (2.5)
+6
+Cs  (0.7)
+At (2.2)
+106
+Table 7.6 : Periodic trends in valency of main group elements
+Group
+1
+2
+13
+14
+15
+16
+17
+18
+General outer electronic 
+configuration
+ns1
+ns2
+ns2np1
+ns2np2
+ns2np3
+ns2np4
+ns2np5
+ns2np6
+Number of valence 
+electrons 
+1
+2
+3
+4
+5
+6
+7
+8
+Valency 
+1
+2
+3
+4
+3,5
+2,6
+1,7
+0
+Formula of hydride 
+LiH
+BeH2
+B2H6
+CH4
+NH3
+H2O
+HF
+NaH
+MgH2
+AlH3
+SiH4
+PH3
+H2S
+HCI
+KH
+CaH2
+GaH3
+GeH4
+AsH3
+H2Se
+HBr
+Formula of oxide 
+Li2O
+BeO
+B2O3
+CO2
+N2O3 
+N2O5
+OF2
+Na2O
+MgO
+Al2O3
+SiO2
+P4O6, 
+P2O5,
+SO2, SO3
+CI2O7
+K2O
+CaO
+Ga2O2
+GeO2
+As2O3, 
+As2O5
+SeO2, SO3
+Br2O
+a.	 Periodic trends in valency: Valency of the 
+main group elements is usually equal to the 
+number of valence electrons (outer electrons) 
+and/or equal to difference between 8 and the 
+number of valence electrons. Table 7.6 shows 
+the periodic trends in the valency of main group 
+elements by taking examples of hydrides and 
+some oxides. 
+	 	 	
+As may be notice form Table 7.6 that 
+the valency remains the same down the group 
+and shows a gradual variation across the 
+period as atomic number increases from left to 
+right.
+b. 	Periodic trends in metallic–nonmetallic 
+character : The metals, nonmetals and 
+metalloids appear in separate regions of modern 
+periodic table: metals on the left,  nonmetals 
+on the right and metalloids along a zig-zag line 
+separating the two. Metals are characterized 
+by good electrical conductivity and ability to 
+form compounds by loss of valence electrons. 
+Nonmetals are characterized by  their poor 
+electrical conductivities and ability to form 
+compounds by gain of  valence electrons in 
+valence shell. This can be explained in terms of 
+ionization enthalpy and electron gain enthalpy. 
+The ionization enthalpy decreases down the 
+group. The tendency to lose valence electrons, 
+thus, increases down the group and the 
+metallic character increases down a group. 
+The ionization enthalpy increases across the 
+period and consequent metallic character 
+decreases across a period. Electron gain 
+enthalpy becomes more and more negative 
+across the period, it tends to be less negative 
+down the group. Thus, nonmetallic character 
+increases across the period and decreases 
+down the group.
+c. 	Periodic trends in chemical reactivity: 
+Chemical reactivity of elements is decided by 
+how easily it attains electronic configuration 
+of the nearest inert gas by gaining or loosing 
+electrons. 
+The elements preceding an inert gas 
+react by gaining electrons in the outermost 
+shell, whereas the elements which follow an 
+inert gas in the periodic table react by loss of 
+valence electrons. Thus the chemical reactivity 
+is decided by the electron gain enthalpy and 
+ionization enthalpy values, which in turn, are 
+decided by effective nuclear charge and finally 
+by the atomic size. The ionization enthalpy is 
+smallest for the element on the extreme left in 
+107
+Problem 7.8 :
+Ge, S and Br belong to the groups 14, 16 
+and 17, respectively. Predict the empirical 
+formulae of the compounds those can be 
+formed by (i) Ge and S, (i) Ge and Br. 
+Solution :
+From the group number we understand that 
+the general outer electronic configuration 
+and number of valence electrons and 
+valencies of the three elements are :
+Element
+Group
+Outer 
+electronic 
+configuration 
+Number 
+of 
+Valence 
+electron
+Valency
+Ge
+14
+ns2np2
+4
+4
+S
+16
+ns2np4
+6
+8 - 6 
+= 2
+Br
+17
+ns2np5
+7
+8 - 7 
+= 1
+(i)	 S is more electronegative than Ge. 
+Therefore, the empirical formula of the 
+compound formed by these two elements 
+is predicted by the method of cross 
+multiplication of the valencies :
+Element: Ge	 	
+S
+Valency: 4	
+	
+2
+Formula: Ge2S4
+Empirical formula:  GeS2
+(ii)	 Br is more electronegative than Ge. The 
+empirical formula of the compound formed 
+by these two elements in predicted by the 
+method of cross multiplication of valencies :
+Element: Ge	 	
+Br
+Valency: 4	
+	
+1
+Formula: GeBr4
+Empirical formula:  GeBr4
+a period, whereas the electron gain enthalpy is 
+most negative for the second last element on 
+the extreme right, (preceding to the inert gas 
+which is the last element of a period). Thus, 
+the most reactive elements lie on the extreme 
+left and the extreme right (excluding inert 
+gases) of the periodic table. 
+Apart from the metallic-nonmetallic 
+character the chemical reactivity can be 
+illustrated by comparing their reaction with 
+oxygen to form oxides and the nature of the 
+oxides. The reactive elements on the extreme 
+left (that is, alkali metals) react vigorously 
+with oxygen to form oxides (for example 
+Na2O) which reacts with water to form strong 
+bases (like NaOH). The reactive elements on 
+the right (that is, halogens) react with oxygen 
+to form oxides (for examples Cl2O7) which on 
+reaction with water form strong acids (like 
+HCIO4). The oxides of the elements in the 
+center of the main group elements are either 
+amphoteric (for example Al2O3), neutral 
+(for example CO, NO) or weakly acidic (for 
+example CO2)
+The change in atomic radii of transition 
+metals and inner transition elements is rather 
+small. Therefore, the transition metals and 
+inner transition elements belonging to the 
+individual series have similar chemical 
+properties. Their ionization enthalpies are 
+intermediate between those of s-block and 
+p - block. 
+108
+Problem 7.9
+Write the chemical equations for reaction, if any, of (i) Na2O and (ii) Al2O3 with HCl and NaOH 
+both. Correlate this with the position of Na and Al in the periodic table, and infer whether the 
+oxides are basic, acidic or amphoteric. 
+Solution
+(i)	
+Na2O + 2HCl 
+   2NaC1 + H2O
+	
+Na2O + NaOH 
+ No reaction
+	
+As Na2O reacts with an acid to form salt and water it is a basic oxide. This is because 
+Na is a reactive metal lying on the extreme left of the periodic table.
+(ii)	
+Al2O3 + 6HCI 
+ 2AlCl3 + 3H2O
+	
+Al2O3⊕ 2NaOH 
+ 2Na AlO2 + H2 O
+	
+As Al2O3 reacts with an acid as well as base to form a salt and water. It is an amphoter­
+ic oxide. Al is a moderately reactive element lying in the centre of main group elements in the 
+periodic table.
+1. Explain the following 
+A.	 The elements Li, B, C, Be and N have 
+the electronegativities 1.0, 2.0, 1.5 and 
+3.0, respectively on the Pauling scale.
+B.	 The atomic radii of Cl, I and Br are 99, 
+133 and 114 pm, respectively.
+C.	 The ionic radii of F  and Na⊕ are 133 
+and 98 pm, respectively.
+D.	 13Al is a metal, 14Si is a metalloid and 
+15P is a nonmetal.
+E.	 Cu forms coloured salts while Zn forms 
+colourless salts.
+2. Write the outer electronic configuration 
+of the following using orbital notation 
+method. Justify. 
+A.	 Ge (belongs to period 4 and group 14)
+B.	 Po (belongs to period 6 and group 16)
+C.	 Cu (belongs to period 4 and group 11)
+3. Answer the following
+A.	 La belongs to group 3 while Hg belongs 
+to group 12 and both belong to period 6 
+of the periodic table. Write down the 
+general outer electronic configuration of 
+the ten elements from La to Hg together 
+using orbital notation method.
+B.	 Ionization enthalpy of Li is 520 kJ mol-1 
+while that of F is 1681 kJ mol-1. Explain.
+C.	 Explain the screening effect with a 
+suitable example.
+D.	 Why the second ionization enthalpy is 
+greater than the first ionization enthalpy 
+?
+E.	 Why the elements belonging to the same 
+group 
+do 
+have 
+similar 
+chemical 
+properties ?
+F.		 Explain : electronegativity and electron 
+gain enthalpy. Which of the two can be 
+measured experimentally?
+4. Choose the correct option 
+A.	Consider the elements B, Al, Mg and K 
+predict the correct order of metallic 
+character :
+	
+	 a. B > Al > Mg > K
+	
+	 b. Al > Mg > B > K
+	
+	 c. Mg > Al > K > B
+	
+	 d. K > Mg > Al > B
+B.	 In modern periodic table, the period 
+number indicates the :
+	
+	 a. atomic number 
+	
+	 b. atomic mass
+	
+	 c. principal quantum number
+	
+	 d. azimuthal quantum number
+Exercises
