@@ -9,11 +9,13 @@ GEMINI_API_KEY      = os.getenv("GEMINI_API_KEY", "")
 ANTHROPIC_API_KEY   = os.getenv("ANTHROPIC_API_KEY", "")
 GROQ_API_KEY        = os.getenv("GROQ_API_KEY", "")
 
-# Paths
-VECTOR_STORE_PATH   = "vector_store"
-CONTENT_PATH        = "content"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Model settings
-EMBEDDING_MODEL     = "all-MiniLM-L6-v2"
-CONFIDENCE_THRESHOLD = 0.75
-TOP_K               = 5
+VECTOR_STORE_PATH   = os.path.join(BASE_DIR, "vector_store")
+CONTENT_PATH        = os.path.join(BASE_DIR, "content")
+
+EMBEDDING_MODEL      = "all-MiniLM-L6-v2"
+CONFIDENCE_THRESHOLD = 0.52
+TOP_K                = 5
+
+GROQ_MODEL = "llama-3.3-70b-versatile"
