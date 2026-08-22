@@ -1,11 +1,17 @@
 import os
 import sys
-from groq import Groq
+from langchain_groq import ChatGroq
+from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from config import GROQ_API_KEY, GROQ_MODEL
 
-client = Groq(api_key=GROQ_API_KEY)
+llm = ChatGroq(
+    api_key=GROQ_API_KEY,
+    model=GROQ_MODEL,
+    temperature=0.2,   # low temperature = more precise, less creative/random
+    max_tokens=1500,
+)
 
 
 SYSTEM_PROMPT = """You are an autonomous AI Science Tutor for Class 11 and 12 students. You completely replace a human teacher — no human reviews your answers. You must be precise, complete, and never guess.
@@ -88,21 +94,20 @@ def ask_llm(question: str, chunks: list, chat_history: list = None):
 STUDENT'S QUESTION:
 {question}"""
 
-    messages = [{"role": "system", "content": SYSTEM_PROMPT}]
+    messages = [SystemMessage(content=SYSTEM_PROMPT)]
 
     if chat_history:
-        messages.extend(chat_history)
+        for turn in chat_history:
+            if turn["role"] == "assistant":
+                messages.append(AIMessage(content=turn["content"]))
+            else:
+                messages.append(HumanMessage(content=turn["content"]))
 
-    messages.append({"role": "user", "content": user_message})
+    messages.append(HumanMessage(content=user_message))
 
-    response = client.chat.completions.create(
-        model=GROQ_MODEL,
-        messages=messages,
-        temperature=0.2,   # low temperature = more precise, less creative/random
-        max_tokens=1500,
-    )
+    response = llm.invoke(messages)
 
-    return response.choices[0].message.content
+    return response.content
 
 def get_tutor_response(question: str, chat_history: list = None):
     """

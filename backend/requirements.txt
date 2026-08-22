@@ -4,6 +4,7 @@ python-dotenv
 pymupdf
 langchain
 langchain-community
+langchain-groq
 faiss-cpu
 sentence-transformers
 openai

@@ -18,4 +18,4 @@ EMBEDDING_MODEL      = "all-MiniLM-L6-v2"
 CONFIDENCE_THRESHOLD = 0.52
 TOP_K                = 5
 
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
