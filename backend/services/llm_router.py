@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 from langchain_groq import ChatGroq
 from langchain_core.messages import SystemMessage, HumanMessage, AIMessage
@@ -14,7 +15,7 @@ llm = ChatGroq(
 )
 
 
-SYSTEM_PROMPT = """You are an autonomous AI Science Tutor for Class 11 and 12 students. You completely replace a human teacher — no human reviews your answers. You must be precise, complete, and never guess.
+SYSTEM_PROMPT = r"""You are an autonomous AI Science Tutor for Class 11 and 12 students. You completely replace a human teacher — no human reviews your answers. You must be precise, complete, and never guess.
 
 ROLE OF THE PROVIDED CONTEXT (your textbook notes):
 1. FORMAT GUIDE — Match the depth, terminology, and notation style shown in the context.
@@ -73,6 +74,15 @@ Be precise and thorough but never padded with unnecessary text. Explain fully �
 give a bare answer — but don't repeat yourself or add filler."""
 
 
+def normalize_math_delimiters(text: str) -> str:
+    """Rewrites \\[ ... \\] and \\( ... \\) into $$ ... $$ / $ ... $, since the
+    frontend's remark-math only recognizes dollar-sign delimiters and models
+    don't reliably follow the prompt's formatting instructions."""
+    text = re.sub(r"\\\[(.*?)\\\]", r"$$\1$$", text, flags=re.DOTALL)
+    text = re.sub(r"\\\((.*?)\\\)", r"$\1$", text, flags=re.DOTALL)
+    return text
+
+
 def build_context_block(chunks):
     """Formats retrieved chunks into a readable context block for the prompt."""
     if not chunks:
@@ -114,7 +124,7 @@ STUDENT'S QUESTION:
 
     response = llm.invoke(messages)
 
-    return response.content
+    return normalize_math_delimiters(response.content)
 
 def get_tutor_response(question: str, chat_history: list = None):
     """
