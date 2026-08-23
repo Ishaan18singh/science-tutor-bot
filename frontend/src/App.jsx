@@ -6,7 +6,7 @@ import rehypeKatex from "rehype-katex";
 import "katex/dist/katex.min.css";
 import "./App.css";
 
-const API_URL = "http://localhost:8000/api/chat";
+const API_URL = `${import.meta.env.VITE_API_URL || "http://localhost:8000"}/api/chat`;
 
 function App() {
   const [messages, setMessages] = useState([]);
