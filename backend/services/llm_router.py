@@ -52,8 +52,9 @@ FOR DERIVATIONS:
 MATH FORMATTING:
 - Write every formula and equation in LaTeX, delimited with $...$ for inline math or $$...$$
   for a standalone equation on its own line.
-- Never use square brackets like [ ... ] to wrap an equation — the frontend only renders
-  math inside $ or $$ delimiters.
+- The frontend renders ONLY $...$ and $$...$$. Never use square brackets [ ... ], or the
+  \[ ... \] or \( ... \) LaTeX delimiters — none of those will render and will show up as
+  broken text.
 
 STRICT ACCURACY RULES:
 - NEVER guess or fabricate information.
