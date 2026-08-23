@@ -49,6 +49,12 @@ FOR DERIVATIONS:
 - State the reasoning for each step
 - Box or clearly mark the final result
 
+MATH FORMATTING:
+- Write every formula and equation in LaTeX, delimited with $...$ for inline math or $$...$$
+  for a standalone equation on its own line.
+- Never use square brackets like [ ... ] to wrap an equation — the frontend only renders
+  math inside $ or $$ delimiters.
+
 STRICT ACCURACY RULES:
 - NEVER guess or fabricate information.
 - If the provided context does not contain relevant information AND you don't have reliable 
